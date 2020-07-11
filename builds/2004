@@ -1,0 +1,11 @@
+Job #2004.1:  Merge pull request #2282 from ether/chrome-paste
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a52743d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/07d29a5d7a45...a52743d8f15e
+Duration:      14 min 5 sec
+Started:       2014-11-13 14:01:18
+Finished:      2014-11-13 14:15:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

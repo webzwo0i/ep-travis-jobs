@@ -1,0 +1,11 @@
+Job #1200.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into update-connect
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1739)
+Commit:        42403a1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1739
+Duration:      11 min 13 sec
+Started:       2013-04-15 20:11:14
+Finished:      2013-04-15 20:22:27
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

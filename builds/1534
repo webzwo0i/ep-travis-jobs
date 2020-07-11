@@ -1,0 +1,11 @@
+Job #1534.1:  Merge pull request #2010 from ether/sticky-chat-resize
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        b527ef2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/81cf3a6ab325...b527ef2bc5fb
+Duration:      11 min 45 sec
+Started:       2013-11-25 19:00:44
+Finished:      2013-11-25 19:12:29
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1225.1:  Just a missing character
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1754)
+Commit:        4bfff9c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1754
+Duration:      15 min 3 sec
+Started:       2013-04-18 11:57:29
+Finished:      2013-04-18 12:12:32
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

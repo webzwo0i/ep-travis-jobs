@@ -1,0 +1,11 @@
+Job #2103.1:  just some cruft for reference
+State:         passed
+Type:          push
+Branch:        cheerio
+Commit:        b8c405e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b8c405e82ed7
+Duration:      14 min 15 sec
+Started:       2014-11-24 16:31:19
+Finished:      2014-11-24 16:45:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

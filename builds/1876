@@ -1,0 +1,11 @@
+Job #1876.1:  Merge pull request #2210 from Gared/pad-repair-script
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        14f9c91
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d1eca42b385...14f9c91976d5
+Duration:      16 min 49 sec
+Started:       2014-07-29 19:48:48
+Finished:      2014-07-29 20:05:37
+Allow Failure: false
+Config:        node_js: 0.10

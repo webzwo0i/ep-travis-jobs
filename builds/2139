@@ -1,0 +1,11 @@
+Job #2139.1:  tidy up and re-organize
+State:         failed
+Type:          push
+Branch:        backend-tests
+Commit:        5434d21
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c0679980bf38...5434d2118d9b
+Duration:      22 min 44 sec
+Started:       2014-11-26 20:30:11
+Finished:      2014-11-26 20:52:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

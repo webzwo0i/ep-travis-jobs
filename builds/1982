@@ -1,0 +1,11 @@
+Job #1982.1:  working on resize
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2298)
+Commit:        88ee848
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2298
+Duration:      13 min 20 sec
+Started:       2014-11-06 16:44:43
+Finished:      2014-11-06 16:58:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

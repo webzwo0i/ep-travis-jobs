@@ -1,0 +1,11 @@
+Job #1563.1:  Merge pull request #2019 from ether/lighter-colors
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        60017e9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/03ff5563f4ed...60017e91904d
+Duration:      15 min 58 sec
+Started:       2013-12-05 14:43:14
+Finished:      2013-12-05 14:59:12
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

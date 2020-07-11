@@ -1,0 +1,11 @@
+Job #256.1:  Add support for three-letter lang codes
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        89fab88
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      12 min 57 sec
+Started:       2012-12-20 12:07:58
+Finished:      2012-12-20 12:20:55
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #268.1:  Expand plugin system docs with l10n info
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        1171b5a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 16 sec
+Started:       2012-12-24 10:55:17
+Finished:      2012-12-24 11:08:33
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

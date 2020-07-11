@@ -1,0 +1,11 @@
+Job #1245.1:  better test but still fragile
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1764)
+Commit:        f238d4f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1764
+Duration:      11 min 16 sec
+Started:       2013-04-29 17:21:16
+Finished:      2013-04-29 17:32:32
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

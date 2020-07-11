@@ -1,0 +1,11 @@
+Job #1413.1:  Merge pull request #1926 from ether/fix/no-connect-to-corrupt-pad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        22e9e5f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c5890adf6fab...22e9e5fdcdc1
+Duration:      20 min 31 sec
+Started:       2013-10-10 20:10:15
+Finished:      2013-10-10 20:30:46
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

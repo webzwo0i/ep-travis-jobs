@@ -1,0 +1,11 @@
+Job #1288.1:  Merge pull request #1815 from bit/patches
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        53529cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ba1a5da76dea...53529cd0310f
+Duration:      7 min 24 sec
+Started:       2013-06-25 16:15:23
+Finished:      2013-06-25 16:22:47
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

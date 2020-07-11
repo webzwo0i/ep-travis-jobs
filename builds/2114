@@ -1,0 +1,11 @@
+Job #2114.1:  fix #2320
+State:         passed
+Type:          push
+Branch:        fix-2320-crash
+Commit:        5d8c474
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5d8c4745591c
+Duration:      22 min 45 sec
+Started:       2014-11-25 22:12:29
+Finished:      2014-11-25 22:35:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

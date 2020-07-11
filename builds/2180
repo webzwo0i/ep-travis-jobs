@@ -1,0 +1,11 @@
+Job #2180.1:  use path instead of resource
+State:         failed
+Type:          push
+Branch:        blocks-for-custom-script-and-styles
+Commit:        3f27bdf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/acbcff07b6c4...3f27bdff0baf
+Duration:      22 min 3 sec
+Started:       2014-11-28 01:25:38
+Finished:      2014-11-28 01:47:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1737.1:  Refactor toolbar.js to use consistent naming
+State:         errored
+Type:          push
+Branch:        modularize-toolbar
+Commit:        da5970d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/51900cbf67d2...da5970dda3aa
+Duration:      23 min 59 sec
+Started:       2014-03-16 15:14:57
+Finished:      2014-03-16 15:38:56
+Allow Failure: false
+Config:        node_js: 0.10

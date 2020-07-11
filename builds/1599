@@ -1,0 +1,11 @@
+Job #1599.1:  working import and copy/paste
+State:         failed
+Type:          push
+Branch:        support-images
+Commit:        8705eef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3c04a4c1b153...8705eef90676
+Duration:      16 min 22 sec
+Started:       2013-12-12 17:04:12
+Finished:      2013-12-12 17:20:34
+Allow Failure: false
+Config:        node_js: 0.10

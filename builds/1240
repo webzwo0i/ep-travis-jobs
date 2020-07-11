@@ -1,0 +1,11 @@
+Job #1240.1:  clear up language
+State:         errored
+Type:          push
+Branch:        slow-chrome
+Commit:        01dd261
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9fc79aac99c7...01dd261282c1
+Duration:      11 min 37 sec
+Started:       2013-04-29 04:25:38
+Finished:      2013-04-29 04:37:15
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

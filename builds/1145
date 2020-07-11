@@ -1,0 +1,11 @@
+Job #1145.1:  pluginfw/installer: Only restart the server when all tasks have finished
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1718)
+Commit:        0fa2a3f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1718
+Duration:      10 min 58 sec
+Started:       2013-04-08 16:19:27
+Finished:      2013-04-08 16:30:25
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

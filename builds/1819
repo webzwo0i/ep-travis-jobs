@@ -1,0 +1,11 @@
+Job #1819.1:  use full string not first char
+State:         failed
+Type:          push
+Branch:        export-file-name-hook
+Commit:        a82823e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d09e66e271cd...a82823ede267
+Duration:      25 min 56 sec
+Started:       2014-05-12 16:17:53
+Finished:      2014-05-12 16:43:49
+Allow Failure: false
+Config:        node_js: 0.10

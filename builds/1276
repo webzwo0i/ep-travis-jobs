@@ -1,0 +1,11 @@
+Job #1276.1:  Merge pull request #1811 from clkao/author-style-hook
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ae78c67
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f086cd1f9a32...ae78c6731d8d
+Duration:      10 min 41 sec
+Started:       2013-06-15 09:17:38
+Finished:      2013-06-15 09:28:19
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

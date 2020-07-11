@@ -1,0 +1,11 @@
+Job #1914.1:  Merge pull request #2265 from prtksxna/keyboard-shortcut
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        000648f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6ec55309a7ef...000648fac8f8
+Duration:      8 min 26 sec
+Started:       2014-10-12 00:54:04
+Finished:      2014-10-12 01:02:30
+Allow Failure: false
+Config:        node_js: 0.10

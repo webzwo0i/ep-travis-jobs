@@ -1,0 +1,11 @@
+Job #168.1:  stop password being clearly visible
+State:         failed
+Type:          push
+Branch:        focus-on-password
+Commit:        b3e55f6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b92fdfc6286...b3e55f64a869
+Duration:      6 min 10 sec
+Started:       2012-12-03 14:16:16
+Finished:      2012-12-03 14:22:26
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

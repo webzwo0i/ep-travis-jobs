@@ -1,0 +1,11 @@
+Job #2607.1:  Bumped ueberDB to 0.2.14 so Cassandra suport is included
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2561)
+Commit:        36aef89
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2561
+Duration:      10 min 39 sec
+Started:       2015-03-22 13:29:30
+Finished:      2015-03-22 13:40:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1644.1:  added logging to assist in debugging
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2040)
+Commit:        9a73d5c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2040
+Duration:      10 min 58 sec
+Started:       2013-12-31 17:42:34
+Finished:      2013-12-31 17:53:32
+Allow Failure: false
+Config:        node_js: 0.10

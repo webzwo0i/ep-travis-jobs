@@ -1,0 +1,11 @@
+Job #2337.1:  remove error logging
+State:         passed
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        b8648b4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e0de620be85...b8648b4a49a5
+Duration:      8 min 38 sec
+Started:       2014-12-29 23:10:39
+Finished:      2014-12-29 23:19:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

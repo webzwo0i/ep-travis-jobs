@@ -1,0 +1,11 @@
+Job #118.1:  Update src/static/css/pad.css
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1221)
+Commit:        5277906
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1221
+Duration:      13 min 2 sec
+Started:       2012-11-27 16:13:09
+Finished:      2012-11-27 16:26:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2257.1:  slightly better attribute selection logic but still pretty b0rked
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2397)
+Commit:        26b02a0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2397
+Duration:      15 min 9 sec
+Started:       2014-12-27 13:19:01
+Finished:      2014-12-27 13:34:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #141.1:  add socketTransportProtocols parameter
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1244)
+Commit:        a6dc148
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1244
+Duration:      15 min 20 sec
+Started:       2012-12-02 18:42:58
+Finished:      2012-12-02 18:58:18
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

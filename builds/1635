@@ -1,0 +1,11 @@
+Job #1635.1:  Try to find related languages as a fallback
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2052)
+Commit:        c82d248
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2052
+Duration:      19 min 9 sec
+Started:       2013-12-30 13:06:50
+Finished:      2013-12-30 13:25:59
+Allow Failure: false
+Config:        node_js: 0.10

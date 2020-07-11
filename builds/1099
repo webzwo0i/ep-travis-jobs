@@ -1,0 +1,11 @@
+Job #1099.1:  weird styling
+State:         errored
+Type:          push
+Branch:        fix-custom
+Commit:        5855e3d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/57a9ccbb881a...5855e3d5bfff
+Duration:      12 min 3 sec
+Started:       2013-04-03 00:25:27
+Finished:      2013-04-03 00:37:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

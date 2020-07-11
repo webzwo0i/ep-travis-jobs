@@ -1,0 +1,11 @@
+Job #1107.1:  line breaks
+State:         passed
+Type:          push
+Branch:        readme
+Commit:        c6c290a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4f07f829db0a...c6c290a6ca8c
+Duration:      2 min 18 sec
+Started:       2013-04-04 02:25:32
+Finished:      2013-04-04 02:27:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

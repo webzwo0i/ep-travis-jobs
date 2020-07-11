@@ -1,0 +1,11 @@
+Job #1845.1:  Enable HSTS for TLS connections
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1619)
+Commit:        07ca787
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1619
+Duration:      11 min 53 sec
+Started:       2014-06-17 13:22:28
+Finished:      2014-06-17 13:34:21
+Allow Failure: false
+Config:        node_js: 0.10

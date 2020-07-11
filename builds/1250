@@ -1,0 +1,11 @@
+Job #1250.1:  Add SysV compatible init script
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1771)
+Commit:        cd2eb64
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1771
+Duration:      11 min 13 sec
+Started:       2013-05-08 17:31:12
+Finished:      2013-05-08 17:42:25
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

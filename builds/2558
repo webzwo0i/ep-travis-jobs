@@ -1,0 +1,11 @@
+Job #2558.1:  Merge pull request #2515 from ether/rewrite-pad-path
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7e7eb54
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0ad09c17db0e...7e7eb542be4f
+Duration:      12 min 1 sec
+Started:       2015-02-11 03:08:55
+Finished:      2015-02-11 03:20:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

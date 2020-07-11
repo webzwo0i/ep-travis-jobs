@@ -1,0 +1,11 @@
+Job #2260.1:  support for export
+State:         failed
+Type:          push
+Branch:        indentLevels
+Commit:        6ac99ab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d66a446dc8c...6ac99ab03fc7
+Duration:      22 min 48 sec
+Started:       2014-12-27 13:27:46
+Finished:      2014-12-27 13:50:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

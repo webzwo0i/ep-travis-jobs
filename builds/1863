@@ -1,0 +1,11 @@
+Job #1863.1:  Checking if the author for the sessions match instead of comparing the entire session.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2180)
+Commit:        429d18c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2180
+Duration:      10 min 57 sec
+Started:       2014-07-12 22:41:56
+Finished:      2014-07-12 22:52:53
+Allow Failure: false
+Config:        node_js: 0.10

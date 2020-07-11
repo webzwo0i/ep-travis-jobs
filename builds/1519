@@ -1,0 +1,11 @@
+Job #1519.1:  clean
+State:         passed
+Type:          push
+Branch:        packaging
+Commit:        d6f1aa3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/678c80d1dcae...d6f1aa323621
+Duration:      18 min 1 sec
+Started:       2013-11-24 13:45:19
+Finished:      2013-11-24 14:03:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

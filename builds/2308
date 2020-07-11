@@ -1,0 +1,11 @@
+Job #2308.1:  unbind before rebind, partial fix towards #2413 issue
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        23570e8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/248d7655d728...23570e80a704
+Duration:      8 min 16 sec
+Started:       2014-12-29 01:18:09
+Finished:      2014-12-29 01:26:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

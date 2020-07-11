@@ -1,0 +1,11 @@
+Job #2130.1:  make internal note of which endpoints need testing
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2344)
+Commit:        92e6c49
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2344
+Duration:      22 min 17 sec
+Started:       2014-11-26 02:14:22
+Finished:      2014-11-26 02:36:39
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

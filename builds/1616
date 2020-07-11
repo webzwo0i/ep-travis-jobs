@@ -1,0 +1,11 @@
+Job #1616.1:  dont error when pressing del on rep 0 0
+State:         failed
+Type:          push
+Branch:        ff-del-firstchar
+Commit:        1a13843
+Compare URL:   https://github.com/ether/etherpad-lite/commit/1a138438ebff
+Duration:      12 min 7 sec
+Started:       2013-12-18 19:41:10
+Finished:      2013-12-18 19:53:17
+Allow Failure: false
+Config:        node_js: 0.10

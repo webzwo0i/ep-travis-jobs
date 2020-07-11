@@ -1,0 +1,11 @@
+Job #1591.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into support-images
+State:         passed
+Type:          push
+Branch:        support-images
+Commit:        99e58e8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/887c242b6c59...99e58e843bd0
+Duration:      16 min 36 sec
+Started:       2013-12-12 01:23:49
+Finished:      2013-12-12 01:40:25
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

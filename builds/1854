@@ -1,0 +1,11 @@
+Job #1854.1:  gah can only do 1/2 a fix
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2186)
+Commit:        7e3c4a4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2186
+Duration:      16 min 43 sec
+Started:       2014-06-24 20:14:26
+Finished:      2014-06-24 20:31:09
+Allow Failure: false
+Config:        node_js: 0.10

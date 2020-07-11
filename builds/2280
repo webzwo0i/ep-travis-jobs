@@ -1,0 +1,11 @@
+Job #2280.1:  working test spec
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2403)
+Commit:        d877edb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2403
+Duration:      11 min 34 sec
+Started:       2014-12-27 18:10:42
+Finished:      2014-12-27 18:22:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1994.1:  Add keyboard shortcut for "Clear Authorshop Colors" in en locale
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2303)
+Commit:        c43e2d0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2303
+Duration:      10 min 32 sec
+Started:       2014-11-09 04:52:43
+Finished:      2014-11-09 05:03:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

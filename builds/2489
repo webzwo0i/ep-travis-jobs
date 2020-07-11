@@ -1,0 +1,11 @@
+Job #2489.1:  realization how aCallAll works
+State:         passed
+Type:          push
+Branch:        html-e-hook
+Commit:        9abb857
+Compare URL:   https://github.com/ether/etherpad-lite/compare/372063295f54...9abb85799c70
+Duration:      20 min 12 sec
+Started:       2015-01-24 05:32:36
+Finished:      2015-01-24 05:52:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

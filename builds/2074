@@ -1,0 +1,11 @@
+Job #2074.1:  Merge pull request #2321 from ether/new-icons
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        da824de
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7b9fd81284a6...da824de5f177
+Duration:      9 min 30 sec
+Started:       2014-11-19 19:16:26
+Finished:      2014-11-19 19:25:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

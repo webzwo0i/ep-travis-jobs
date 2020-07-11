@@ -1,0 +1,11 @@
+Job #1387.1:  allow author manager to use custom error module
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1920)
+Commit:        55bc077
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1920
+Duration:      22 min 25 sec
+Started:       2013-10-03 15:47:11
+Finished:      2013-10-03 16:09:36
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

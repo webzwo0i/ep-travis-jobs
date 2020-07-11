@@ -1,0 +1,11 @@
+Job #1412.1:  Merge pull request #1928 from ether/fix/easysync-error-messages
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        c5890ad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d86d99bc16a8...c5890adf6fab
+Duration:      11 min 56 sec
+Started:       2013-10-10 20:09:56
+Finished:      2013-10-10 20:21:52
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

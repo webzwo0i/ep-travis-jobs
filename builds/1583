@@ -1,0 +1,11 @@
+Job #1583.1:  Merge pull request #2028 from webzwo0i/remove-deadcode
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        24e96c4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/438f3fc717e1...24e96c4f8bc2
+Duration:      15 min 34 sec
+Started:       2013-12-09 19:50:41
+Finished:      2013-12-09 20:06:15
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

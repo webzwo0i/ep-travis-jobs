@@ -1,0 +1,11 @@
+Job #262.1:  Fix html attr translation
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        fc661dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 20 sec
+Started:       2012-12-23 16:32:05
+Finished:      2012-12-23 16:45:25
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

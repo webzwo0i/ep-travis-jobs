@@ -1,0 +1,11 @@
+Job #1426.1:  Merge pull request #1938 from ether/fix/unknown-connection-message
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        6439254
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a5b34a2ce35e...64392542f9c5
+Duration:      11 min 57 sec
+Started:       2013-10-12 20:25:38
+Finished:      2013-10-12 20:37:35
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

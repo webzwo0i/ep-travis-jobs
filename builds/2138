@@ -1,0 +1,11 @@
+Job #2138.1:  all pad tests with content
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2344)
+Commit:        29b33bc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2344
+Duration:      14 min 26 sec
+Started:       2014-11-26 20:26:17
+Finished:      2014-11-26 20:40:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

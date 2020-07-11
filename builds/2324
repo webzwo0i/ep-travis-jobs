@@ -1,0 +1,11 @@
+Job #2324.1:  semi working requires browser refresh
+State:         passed
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        3773b63
+Compare URL:   https://github.com/ether/etherpad-lite/commit/3773b6346b91
+Duration:      9 min 2 sec
+Started:       2014-12-29 20:59:03
+Finished:      2014-12-29 21:08:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

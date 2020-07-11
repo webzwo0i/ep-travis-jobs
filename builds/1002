@@ -1,0 +1,11 @@
+Job #1002.1:  Merge pull request #1656 from ether/cookies
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5ede02f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/73afc595e55a...5ede02ffb768
+Duration:      2 min 11 sec
+Started:       2013-03-23 12:09:01
+Finished:      2013-03-23 12:11:12
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2104.1:  remove jshint
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5e843a5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/945d6c83c1e1...5e843a5877d7
+Duration:      14 min 4 sec
+Started:       2014-11-25 02:22:48
+Finished:      2014-11-25 02:36:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

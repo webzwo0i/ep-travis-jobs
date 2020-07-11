@@ -1,0 +1,11 @@
+Job #1343.1:  Merge pull request #1893 from ether/fix/api/cginef-endpoint
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c095c60
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1bbe0293ac47...c095c6028480
+Duration:      16 min 16 sec
+Started:       2013-09-19 15:17:11
+Finished:      2013-09-19 15:33:27
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

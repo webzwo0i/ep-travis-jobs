@@ -1,0 +1,11 @@
+Job #1034.1:  Install and uninstall plugins with style
+State:         passed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        638cea5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/981a33f01ef1...638cea5fd65c
+Duration:      2 min 9 sec
+Started:       2013-03-26 15:12:28
+Finished:      2013-03-26 15:14:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2350.1:  more styling
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        90e83ed
+Compare URL:   https://github.com/ether/etherpad-lite/compare/716b1c6113dd...90e83ed6b5a1
+Duration:      19 min 26 sec
+Started:       2014-12-30 14:54:28
+Finished:      2014-12-30 15:13:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

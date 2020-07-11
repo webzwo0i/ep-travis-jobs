@@ -1,0 +1,11 @@
+Job #1461.1:  Added a better way of detecting when a url does not have a protocol specified
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1963)
+Commit:        5be3e23
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1963
+Duration:      11 min 7 sec
+Started:       2013-10-21 22:35:14
+Finished:      2013-10-21 22:46:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

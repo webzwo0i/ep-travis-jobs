@@ -1,0 +1,327 @@
+Using worker: worker-linux-6-2.bb.travis-ci.org:travis-linux-15
+
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+travis_fold:start:git.1$ git clone --depth=50 --branch=clear-cache git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 2996, done.ote: Compressing objects:   0% (1/1455)   ote: Compressing objects:   1% (15/1455)   ote: Compressing objects:   2% (30/1455)   ote: Compressing objects:   3% (44/1455)   ote: Compressing objects:   4% (59/1455)   ote: Compressing objects:   5% (73/1455)   ote: Compressing objects:   6% (88/1455)   ote: Compressing objects:   7% (102/1455)   ote: Compressing objects:   8% (117/1455)   ote: Compressing objects:   9% (131/1455)   ote: Compressing objects:  10% (146/1455)   ote: Compressing objects:  11% (161/1455)   ote: Compressing objects:  12% (175/1455)   ote: Compressing objects:  13% (190/1455)   ote: Compressing objects:  14% (204/1455)   ote: Compressing objects:  15% (219/1455)   ote: Compressing objects:  16% (233/1455)   ote: Compressing objects:  17% (248/1455)   ote: Compressing objects:  18% (262/1455)   ote: Compressing objects:  19% (277/1455)   ote: Compressing objects:  20% (291/1455)   ote: Compressing objects:  21% (306/1455)   ote: Compressing objects:  22% (321/1455)   ote: Compressing objects:  23% (335/1455)   ote: Compressing objects:  24% (350/1455)   ote: Compressing objects:  25% (364/1455)   ote: Compressing objects:  26% (379/1455)   ote: Compressing objects:  27% (393/1455)   ote: Compressing objects:  28% (408/1455)   ote: Compressing objects:  29% (422/1455)   ote: Compressing objects:  30% (437/1455)   ote: Compressing objects:  31% (452/1455)   ote: Compressing objects:  32% (466/1455)   ote: Compressing objects:  33% (481/1455)   ote: Compressing objects:  34% (495/1455)   ote: Compressing objects:  35% (510/1455)   ote: Compressing objects:  36% (524/1455)   ote: Compressing objects:  37% (539/1455)   ote: Compressing objects:  38% (553/1455)   ote: Compressing objects:  39% (568/1455)   ote: Compressing objects:  40% (582/1455)   ote: Compressing objects:  41% (597/1455)   ote: Compressing objects:  42% (612/1455)   ote: Compressing objects:  43% (626/1455)   ote: Compressing objects:  44% (641/1455)   ote: Compressing objects:  45% (655/1455)   ote: Compressing objects:  46% (670/1455)   ote: Compressing objects:  47% (684/1455)   ote: Compressing objects:  48% (699/1455)   ote: Compressing objects:  49% (713/1455)   ote: Compressing objects:  50% (728/1455)   ote: Compressing objects:  51% (743/1455)   ote: Compressing objects:  52% (757/1455)   ote: Compressing objects:  53% (772/1455)   ote: Compressing objects:  54% (786/1455)   ote: Compressing objects:  55% (801/1455)   ote: Compressing objects:  56% (815/1455)   ote: Compressing objects:  57% (830/1455)   ote: Compressing objects:  58% (844/1455)   ote: Compressing objects:  59% (859/1455)   ote: Compressing objects:  60% (873/1455)   ote: Compressing objects:  61% (888/1455)   ote: Compressing objects:  62% (903/1455)   ote: Compressing objects:  63% (917/1455)   ote: Compressing objects:  64% (932/1455)   ote: Compressing objects:  65% (946/1455)   ote: Compressing objects:  66% (961/1455)   ote: Compressing objects:  67% (975/1455)   ote: Compressing objects:  68% (990/1455)   ote: Compressing objects:  69% (1004/1455)   ote: Compressing objects:  70% (1019/1455)   ote: Compressing objects:  71% (1034/1455)   ote: Compressing objects:  72% (1048/1455)   ote: Compressing objects:  73% (1063/1455)   ote: Compressing objects:  74% (1077/1455)   ote: Compressing objects:  75% (1092/1455)   ote: Compressing objects:  76% (1106/1455)   ote: Compressing objects:  77% (1121/1455)   ote: Compressing objects:  78% (1135/1455)   ote: Compressing objects:  79% (1150/1455)   ote: Compressing objects:  80% (1164/1455)   ote: Compressing objects:  81% (1179/1455)   ote: Compressing objects:  82% (1194/1455)   ote: Compressing objects:  83% (1208/1455)   ote: Compressing objects:  84% (1223/1455)   ote: Compressing objects:  85% (1237/1455)   ote: Compressing objects:  86% (1252/1455)   ote: Compressing objects:  87% (1266/1455)   ote: Compressing objects:  88% (1281/1455)   ote: Compressing objects:  89% (1295/1455)   ote: Compressing objects:  90% (1310/1455)   ote: Compressing objects:  91% (1325/1455)   ote: Compressing objects:  92% (1339/1455)   ote: Compressing objects:  93% (1354/1455)   ote: Compressing objects:  94% (1368/1455)   ote: Compressing objects:  95% (1383/1455)   ote: Compressing objects:  96% (1397/1455)   ote: Compressing objects:  97% (1412/1455)   ote: Compressing objects:  98% (1426/1455)   ote: Compressing objects:  99% (1441/1455)   ote: Compressing objects: 100% (1455/1455)   ote: Compressing objects: 100% (1455/1455), done.ote: Total 2996 (delta 2010), reused 2285 (delta 1492) use 0.10
+Now using node v0.10.12
+$ node --version
+v0.10.12
+$ npm --version
+1.2.32
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json ueberDB@0.2.0 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json channels@0.0.2 No repository field.
+npm WARN package.json methods@0.0.1 No repository field.
+npm WARN package.json methods@0.0.1 No readme data.
+npm WARN package.json fresh@0.1.0 No repository field.
+npm WARN package.json range-parser@0.0.4 No repository field.
+npm WARN package.json cookie-signature@0.0.1 No repository field.
+npm WARN package.json send@0.1.0 No repository field.
+npm WARN package.json dirty@0.9.7 No repository field.
+npm WARN package.json policyfile@0.0.4 No repository field.
+npm WARN package.json policyfile@0.0.4 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json vargs@0.1.0 No repository field.
+npm WARN package.json pause@0.0.1 No repository field.
+npm WARN package.json cookie-signature@1.0.1 No repository field.
+npm WARN package.json bytes@0.2.0 No repository field.
+npm WARN package.json docco@0.4.0 No repository field.
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.12","npm":"1.2.32"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+npm WARN package.json addressparser@0.1.3 No repository field.
+npm WARN package.json bytes@0.1.0 No repository field.
+npm WARN package.json formidable@1.0.11 No repository field.
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+npm WARN package.json assert-plus@0.1.2 No repository field.
+npm WARN package.json ctype@0.5.2 No repository field.
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+log4js@0.6.6 node_modules/log4js
+├── dequeue@1.0.3
+├── semver@1.1.4
+├── async@0.1.15
+└── readable-stream@1.0.17
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@2.0.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.6.0 (wordwrap@0.0.2, minimist@0.0.5)
+├── simplesmtp@0.3.10 (xoauth2@0.1.8, rai@0.1.7)
+└── mailcomposer@0.2.1 (mime@1.2.9, mimelib@0.2.12)
+
+npm@1.2.32 node_modules/npm
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+ueberDB@0.2.0 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.7
+├── async@0.1.15
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.4)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.31, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0 29.0M    0  4344    0     0   1608      0  5:16:13  0:00:02  5:16:11  2632  0 29.0M    0 27968    0     0   7909      0  1:04:17  0:00:03  1:04:14 11250  0 29.0M    0 45344    0     0  10471      0  0:48:33  0:00:04  0:48:29 13824  0 29.0M    0 78192    0     0  15249      0  0:33:20  0:00:05  0:33:15 19178  0 29.0M    0  181k    0     0  27337      0  0:18:36  0:00:06  0:18:30 32346  0 29.0M    0  262k    0     0  35121      0  0:14:28  0:00:07  0:14:21 53428  1 29.0M    1  340k    0     0  41153      0  0:12:21  0:00:08  0:12:13 64927  1 29.0M    1  462k    0     0  51074      0  0:09:57  0:00:09  0:09:48 86652  2 29.0M    2  689k    0     0  69863      0  0:07:16  0:00:10  0:07:06  123k  3 29.0M    3 1028k    0     0  95605      0  0:05:19  0:00:11  0:05:08  200k  5 29.0M    5 1677k    0     0   139k      0  0:03:33  0:00:11  0:03:22  324k  8 29.0M    8 2506k    0     0   192k      0  0:02:34  0:00:13  0:02:21  476k 10 29.0M   10 3256k    0     0   231k      0  0:02:08  0:00:14  0:01:54  585k 13 29.0M   13 3969k    0     0   264k      0  0:01:52  0:00:15  0:01:37  668k 17 29.0M   17 5162k    0     0   320k      0  0:01:32  0:00:16  0:01:16  811k 22 29.0M   22 6715k    0     0   387k      0  0:01:16  0:00:17  0:00:59  944k 24 29.0M   24 7367k    0     0   405k      0  0:01:13  0:00:18  0:00:55  945k 27 29.0M   27 8092k    0     0   425k      0  0:01:09  0:00:19  0:00:50  974k 31 29.0M   31 9341k    0     0   466k      0  0:01:03  0:00:20  0:00:43 1074k 34 29.0M   34  9.9M    0     0   476k      0  0:01:02  0:00:21  0:00:41  942k 37 29.0M   37 10.7M    0     0   492k      0  0:01:00  0:00:22  0:00:38  853k 39 29.0M   39 11.5M    0     0   507k      0  0:00:58  0:00:23  0:00:35  869k 42 29.0M   42 12.3M    0     0   522k      0  0:00:57  0:00:24  0:00:33  875k 45 29.0M   45 13.1M    0     0   534k      0  0:00:55  0:00:25  0:00:30  801k 47 29.0M   47 13.8M    0     0   546k      0  0:00:54  0:00:26  0:00:28  881k 51 29.0M   51 14.9M    0     0   565k      0  0:00:52  0:00:27  0:00:25  921k 54 29.0M   54 15.9M    0     0   584k      0  0:00:50  0:00:28  0:00:22  965k 57 29.0M   57 16.8M    0     0   594k      0  0:00:50  0:00:29  0:00:21  958k 60 29.0M   60 17.6M    0     0   603k      0  0:00:49  0:00:30  0:00:19  951k 63 29.0M   63 18.4M    0     0   608k      0  0:00:48  0:00:31  0:00:17  928k 66 29.0M   66 19.2M    0     0   616k      0  0:00:48  0:00:32  0:00:16  887k 69 29.0M   69 20.1M    0     0   622k      0  0:00:47  0:00:33  0:00:14  831k 71 29.0M   71 20.8M    0     0   628k      0  0:00:47  0:00:34  0:00:13  824k 74 29.0M   74 21.6M    0     0   634k      0  0:00:46  0:00:35  0:00:11  823k 77 29.0M   77 22.4M    0     0   636k      0  0:00:46  0:00:36  0:00:10  804k 79 29.0M   79 23.2M    0     0   642k      0  0:00:46  0:00:37  0:00:09  806k 82 29.0M   82 24.0M    0     0   646k      0  0:00:46  0:00:38  0:00:08  807k 85 29.0M   85 24.8M    0     0   652k      0  0:00:45  0:00:39  0:00:06  814k 88 29.0M   88 25.7M    0     0   658k      0  0:00:45  0:00:40  0:00:05  827k 91 29.0M   91 26.6M    0     0   662k      0  0:00:44  0:00:41  0:00:03  854k 94 29.0M   94 27.5M    0     0   671k      0  0:00:44  0:00:42  0:00:02  889k 96 29.0M   96 28.1M    0     0   668k      0  0:00:44  0:00:43  0:00:01  828k100 29.0M  100 29.0M    0     0   676k      0  0:00:44  0:00:44 --:--:--  867k100 29.0M  100 29.0M    0     0   676k      0  0:00:44  0:00:44 --:--:--  858k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-09-25 21:22:58.373:INFO::jetty-7.x.y-SNAPSHOT
+2013-09-25 21:22:58.433:INFO::Started SelectChannelConnector@0.0.0.0:47535
+2013-09-25 21:23:40.384:INFO::jetty-7.x.y-SNAPSHOT
+2013-09-25 21:23:40.388:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_fold:end:before_script$ tests/frontend/travis/runner.sh
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json tinycon@0.0.1 No repository field.
+npm WARN package.json ueberDB@0.2.0 No repository field.
+npm WARN package.json bytes@0.2.0 No repository field.
+npm WARN package.json cookie-signature@1.0.1 No repository field.
+npm WARN package.json fresh@0.1.0 No repository field.
+npm WARN package.json cookie-signature@0.0.1 No repository field.
+npm WARN package.json methods@0.0.1 No repository field.
+npm WARN package.json range-parser@0.0.4 No repository field.
+npm WARN package.json pause@0.0.1 No repository field.
+npm WARN package.json send@0.1.0 No repository field.
+npm WARN package.json policyfile@0.0.4 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json docco@0.4.0 No repository field.
+npm WARN package.json channels@0.0.2 No repository field.
+npm WARN package.json dirty@0.9.7 No repository field.
+npm WARN package.json vargs@0.1.0 No repository field.
+npm WARN package.json bytes@0.1.0 No repository field.
+npm WARN package.json formidable@1.0.11 No repository field.
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+npm WARN package.json addressparser@0.1.3 No repository field.
+npm WARN package.json assert-plus@0.1.2 No repository field.
+npm WARN package.json ctype@0.5.2 No repository field.
+Remote sauce test 'ed04842 - googlechrome , Linux' started! https://saucelabs.com/jobs/c0ff2b94b2cf4b8fb36350e0df29fb21
+Remote sauce test 'ed04842 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/d48b400a54bc433e9efd086a0b3bc021
+Remote sauce test 'ed04842 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/2b86440b4e634ea5b1e33e985c60651f
+2013-09-25 21:24:32.936:WARN::4 threads could not be stopped
+[iexplore 9] alphabet.js
+[iexplore 9]   All the alphabet works n stuff
+[iexplore 9]     -> PASSED : when you enter any char it appears right
+[iexplore 9] 
+[iexplore 9] bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> PASSED : makes text bold on click
+[iexplore 9]     -> PASSED : makes text bold on keypress
+[iexplore 9] 
+[iexplore 9] caret.js
+[iexplore 9]   As the caret is moved is the UI properly updated?
+[iexplore 9]     -> FAILED : creates a pad Error: the string "Pad never loaded" was thrown, throw an Erro
+[iexplore 9]     r :)
+[iexplore 9]     -> FAILED : down arrow TypeError: Object expected
+[iexplore 9] 
+[iexplore 9] change_user_name.js
+[iexplore 9]   change username value
+[iexplore 9]     -> FAILED : "before each" hook Error: the string "Unable to get value of the property 'c
+[iexplore 9]     ontentWindow': object is null or undefined" was thrown, throw an Error :)
+[iexplore 9]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test 'ed04842 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/d48b400a54bc433e9efd086a0b3bc021
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] caret.js
+[googlechrome]   As the caret is moved is the UI properly updated?
+[googlechrome]     -> FAILED : creates a pad Error: the string "Uncaught Error: Pad never loaded" was throw
+[googlechrome]     n, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     -> FAILED : down arrow TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:27:32)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> FAILED : "before each" hook Error: the string "Uncaught TypeError: Property 'eval' of
+[googlechrome]      object [object global] is not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test 'ed04842 - googlechrome , Linux' finished! https://saucelabs.com/jobs/c0ff2b94b2cf4b8fb36350e0df29fb21
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold on click
+[iexplore 10]     -> PASSED : makes text bold on keypress
+[iexplore 10] 
+[iexplore 10] caret.js
+[iexplore 10]   As the caret is moved is the UI properly updated?
+[iexplore 10]     -> FAILED : creates a pad Error: timeout of 60000ms exceeded
+[iexplore 10]     -> FAILED : down arrow TypeError: Object expected
+[iexplore 10]        at Anonymous function (Unknown script code:27:5)
+[iexplore 10]        at run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:7)
+[iexplore 10]        at runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:5)
+[iexplore 10]        at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:3986:7)
+[iexplore 10]        at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:7)
+[iexplore 10]        at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:3877:7)
+[iexplore 10]        at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:16)
+[iexplore 10]        at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:3845:5)
+[iexplore 10]        at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:4779:26)
+[iexplore 10]        at hook (http://localhost:9001/tests/frontend/lib/mocha.js:3844:3)
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Object doesn't support property or met
+[iexplore 10]     hod 'TAG'" was thrown, throw an Error :)
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test 'ed04842 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/2b86440b4e634ea5b1e33e985c60651f
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 13, "sessionId": "7d66325f20e044d18f52edbc8c15fc51", "value": {"message": "Sauce could not start your job. For more information on what happened, please visit https://saucelabs.com/jobs/7d66325f20e044d18f52edbc8c15fc51"}}' }
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 13, "sessionId": "39ddeeb8fdc74d9684217b30e3fae467", "value": {"message": "Sauce could not start your job. For more information on what happened, please visit https://saucelabs.com/jobs/39ddeeb8fdc74d9684217b30e3fae467"}}' }
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 0.
+
+Done. Your build exited with 0.

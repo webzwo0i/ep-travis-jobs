@@ -1,0 +1,11 @@
+Job #107.1:  proper fix for focus and some styling of the form and allows for pressing enter on form so generally a better fix
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1221)
+Commit:        8ca359f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1221
+Duration:      13 min 38 sec
+Started:       2012-11-26 21:57:23
+Finished:      2012-11-26 22:11:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

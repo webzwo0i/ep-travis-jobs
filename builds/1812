@@ -1,0 +1,11 @@
+Job #1812.1:  make async, please check
+State:         passed
+Type:          push
+Branch:        export-file-name-hook
+Commit:        ec6dc4f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a8d9a3868d9e...ec6dc4fa0ee7
+Duration:      13 min 35 sec
+Started:       2014-05-07 17:34:30
+Finished:      2014-05-07 17:48:05
+Allow Failure: false
+Config:        node_js: 0.10

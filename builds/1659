@@ -1,0 +1,11 @@
+Job #1659.1:  Merge pull request #2061 from Gared/url_square_brackets
+State:         passed
+Type:          pull request
+Branch:        master (PR #2069)
+Commit:        b940606
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2069
+Duration:      20 min 8 sec
+Started:       2014-01-24 15:55:19
+Finished:      2014-01-24 16:15:27
+Allow Failure: false
+Config:        node_js: 0.10

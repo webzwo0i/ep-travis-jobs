@@ -1,0 +1,11 @@
+Job #1020.1:  adds missing semicolons in src/node/eejs folder
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1666)
+Commit:        c5053cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1666
+Duration:      11 min 3 sec
+Started:       2013-03-24 03:01:16
+Finished:      2013-03-24 03:12:19
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

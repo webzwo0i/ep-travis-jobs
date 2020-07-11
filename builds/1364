@@ -1,0 +1,11 @@
+Job #1364.1:  sanity also control home support
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1906)
+Commit:        502ecf0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1906
+Duration:      18 min 11 sec
+Started:       2013-09-25 17:10:08
+Finished:      2013-09-25 17:28:19
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

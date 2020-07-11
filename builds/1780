@@ -1,0 +1,11 @@
+Job #1780.1:  Update README.md
+State:         passed
+Type:          push
+Branch:        master
+Commit:        c3a6a23
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c6d13a965c51...c3a6a2374c37
+Duration:      8 min 27 sec
+Started:       2014-03-31 02:06:30
+Finished:      2014-03-31 02:14:57
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1488.1:  Merge pull request #1985 from ldidry/fix/uncomplete-api-doc
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3c4c0de
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7e6e2501d5c6...3c4c0de38a01
+Duration:      15 min 36 sec
+Started:       2013-11-07 23:33:29
+Finished:      2013-11-07 23:49:05
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

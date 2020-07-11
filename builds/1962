@@ -1,0 +1,11 @@
+Job #1962.1:  use request and a remote ep plugin only endpoint
+State:         passed
+Type:          push
+Branch:        go-away-npm
+Commit:        c7061e4
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c7061e47db8a
+Duration:      14 min 29 sec
+Started:       2014-11-04 18:15:43
+Finished:      2014-11-04 18:30:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

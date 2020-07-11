@@ -1,0 +1,11 @@
+Job #1853.1:  gah can only do 1/2 a fix
+State:         errored
+Type:          push
+Branch:        font-on-innerdoc-body
+Commit:        b657676
+Compare URL:   https://github.com/ether/etherpad-lite/compare/25ace65374cd...b657676bdd8a
+Duration:      22 min 12 sec
+Started:       2014-06-24 20:08:34
+Finished:      2014-06-24 20:30:46
+Allow Failure: false
+Config:        node_js: 0.10

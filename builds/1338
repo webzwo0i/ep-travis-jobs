@@ -1,0 +1,11 @@
+Job #1338.1:  update pt.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1892)
+Commit:        a8efbb1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1892
+Duration:      11 min 25 sec
+Started:       2013-09-17 20:12:59
+Finished:      2013-09-17 20:24:24
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

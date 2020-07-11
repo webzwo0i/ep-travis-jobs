@@ -1,0 +1,11 @@
+Job #2270.1:  Fix AttributeManager#removeAttributeOnLine: Only remove a single attrib
+State:         failed
+Type:          push
+Branch:        fix-attribmanager-removeLineAttrib
+Commit:        a63880d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a63880dcb135
+Duration:      15 min 2 sec
+Started:       2014-12-27 16:16:45
+Finished:      2014-12-27 16:31:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

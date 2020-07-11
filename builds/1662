@@ -1,0 +1,11 @@
+Job #1662.1:  Merge branch 'develop' into fix-timeslider
+State:         failed
+Type:          push
+Branch:        fix-timeslider
+Commit:        8dd701b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/966fc2514557...8dd701b6b6e6
+Duration:      21 min 34 sec
+Started:       2014-01-24 17:12:38
+Finished:      2014-01-24 17:34:12
+Allow Failure: false
+Config:        node_js: 0.10

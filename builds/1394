@@ -1,0 +1,11 @@
+Job #1394.1:  Filter author attribs in client_vars.historicalAuthorData
+State:         passed
+Type:          push
+Branch:        fix/filter-historicalAuthorData
+Commit:        de73de3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9fac5158853e^...de73de38b177
+Duration:      10 min 21 sec
+Started:       2013-10-07 18:59:31
+Finished:      2013-10-07 19:09:52
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

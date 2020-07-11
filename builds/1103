@@ -1,0 +1,11 @@
+Job #1103.1:  Kick the user if has already successfully authenticated but his session became invalid later
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1703)
+Commit:        c321d30
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1703
+Duration:      10 min 54 sec
+Started:       2013-04-03 11:46:19
+Finished:      2013-04-03 11:57:13
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1768.1:  Fix redo toolbar command, again.
+State:         passed
+Type:          push
+Branch:        fix/timeslider-editbar
+Commit:        80e45e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6054cda47394...80e45e1192e4
+Duration:      6 min 20 sec
+Started:       2014-03-30 13:06:41
+Finished:      2014-03-30 13:13:01
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1634.1:  Try to find related languages as a fallback
+State:         errored
+Type:          push
+Branch:        fix/l10n-fallbacks-related-langs
+Commit:        9c64b6e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5a5eb1320f8e...9c64b6e268f8
+Duration:      11 min 17 sec
+Started:       2013-12-30 13:06:52
+Finished:      2013-12-30 13:18:09
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1743.1:  Fix REQ_CS rev boundary check
+State:         passed
+Type:          push
+Branch:        quickfix/req_cs-bounds-check
+Commit:        f6f3199
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f6f319960d05
+Duration:      7 min 55 sec
+Started:       2014-03-20 21:39:26
+Finished:      2014-03-20 21:47:21
+Allow Failure: false
+Config:        node_js: 0.10

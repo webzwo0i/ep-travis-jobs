@@ -1,0 +1,11 @@
+Job #1168.1:  no need to declare var twice
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1723)
+Commit:        442a3eb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1723
+Duration:      11 min 22 sec
+Started:       2013-04-09 16:59:43
+Finished:      2013-04-09 17:11:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

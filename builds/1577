@@ -1,0 +1,11 @@
+Job #1577.1:  Added default Chinese translation
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2029)
+Commit:        45c721c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2029
+Duration:      11 min 5 sec
+Started:       2013-12-09 14:48:00
+Finished:      2013-12-09 14:59:05
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

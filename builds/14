@@ -1,0 +1,11 @@
+Job #14.1:  fixed label languague
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1167)
+Commit:        476f43a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1167
+Duration:      12 min 57 sec
+Started:       2012-11-15 13:45:13
+Finished:      2012-11-15 13:58:10
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

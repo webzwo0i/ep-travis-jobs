@@ -1,0 +1,11 @@
+Job #1919.1:  Add a subset of FontAwesome icons using Fontello
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2269)
+Commit:        8161c61
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2269
+Duration:      10 min 38 sec
+Started:       2014-10-14 05:55:08
+Finished:      2014-10-14 06:05:46
+Allow Failure: false
+Config:        node_js: 0.10

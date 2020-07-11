@@ -1,0 +1,11 @@
+Job #2128.1:  mocha version
+State:         passed
+Type:          push
+Branch:        backend-tests
+Commit:        a4be5b4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3ac833d455dc...a4be5b4fd7be
+Duration:      14 min 19 sec
+Started:       2014-11-26 02:05:14
+Finished:      2014-11-26 02:19:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

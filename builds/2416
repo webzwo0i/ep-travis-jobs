@@ -1,0 +1,11 @@
+Job #2416.1:  reset all numbers on first item
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bd9ff77
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ce41bcea2fc2...bd9ff770fe9f
+Duration:      18 min 50 sec
+Started:       2015-01-19 00:23:25
+Finished:      2015-01-19 00:42:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

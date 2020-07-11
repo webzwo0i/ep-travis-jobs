@@ -1,0 +1,11 @@
+Job #1547.1:  ends of line shouldn't show incorrect formatted status
+State:         errored
+Type:          push
+Branch:        getAttributeOnSelection
+Commit:        3791ad4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b4877f002dfd...3791ad41860d
+Duration:      17 min 19 sec
+Started:       2013-12-01 19:55:32
+Finished:      2013-12-01 20:12:51
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1332.1:  Merge pull request #1882 from fviard/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8073c62
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c2e60a391985...8073c62de3eb
+Duration:      14 min 17 sec
+Started:       2013-09-12 14:51:47
+Finished:      2013-09-12 15:06:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

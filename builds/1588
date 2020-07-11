@@ -1,0 +1,11 @@
+Job #1588.1:  probably really bad but core support in for images defo needs strong review
+State:         passed
+Type:          push
+Branch:        support-images
+Commit:        63ab85a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/58cd71dcce91^...63ab85aeb24b
+Duration:      14 min 5 sec
+Started:       2013-12-12 00:37:18
+Finished:      2013-12-12 00:51:23
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

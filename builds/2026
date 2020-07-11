@@ -1,0 +1,11 @@
+Job #2026.1:  comment out console logs
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        096acec
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      21 min 58 sec
+Started:       2014-11-15 18:14:16
+Finished:      2014-11-15 18:36:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

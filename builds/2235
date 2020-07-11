@@ -1,0 +1,11 @@
+Job #2235.1:  remove unused long paths from windows build
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ffdce76
+Compare URL:   https://github.com/ether/etherpad-lite/compare/70dc5e7ed9c0...ffdce760d5a1
+Duration:      14 min 36 sec
+Started:       2014-12-21 23:06:00
+Finished:      2014-12-21 23:20:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2225.1:  allow plugins to add multiple styles
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2368)
+Commit:        26612d9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2368
+Duration:      10 min 15 sec
+Started:       2014-12-09 18:54:36
+Finished:      2014-12-09 19:04:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

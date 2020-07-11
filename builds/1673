@@ -1,0 +1,11 @@
+Job #1673.1:  Fix timesliders calcPath() to adhere to what's actually possible
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        f294314
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      14 min 42 sec
+Started:       2014-01-26 14:27:36
+Finished:      2014-01-26 14:42:18
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1066.1:  Make the Saverevision button glow on ctrl+S and increase the duration
+State:         passed
+Type:          push
+Branch:        pr/1677
+Commit:        b44a2a3
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b44a2a37e2a8
+Duration:      2 min 20 sec
+Started:       2013-03-28 16:35:30
+Finished:      2013-03-28 16:37:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

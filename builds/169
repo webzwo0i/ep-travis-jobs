@@ -1,0 +1,11 @@
+Job #169.1:  stop password being clearly visible
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1221)
+Commit:        eb8310a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1221
+Duration:      14 min 22 sec
+Started:       2012-12-03 14:13:39
+Finished:      2012-12-03 14:28:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1781.1:  Update README.md
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2123)
+Commit:        1734266
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2123
+Duration:      20 min 42 sec
+Started:       2014-03-31 02:09:24
+Finished:      2014-03-31 02:30:06
+Allow Failure: false
+Config:        node_js: 0.10

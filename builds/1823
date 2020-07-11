@@ -1,0 +1,11 @@
+Job #1823.1:  Fix race condition
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2150)
+Commit:        e2d94d4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2150
+Duration:      22 min 52 sec
+Started:       2014-05-15 14:48:13
+Finished:      2014-05-15 15:11:05
+Allow Failure: false
+Config:        node_js: 0.10

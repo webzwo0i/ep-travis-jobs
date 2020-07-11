@@ -1,0 +1,11 @@
+Job #1330.1:  Fix to check if searchTerm is not "undefined" before trying to use it to filter search results.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1882)
+Commit:        41e6893
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1882
+Duration:      11 min 2 sec
+Started:       2013-09-11 11:46:32
+Finished:      2013-09-11 11:57:34
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

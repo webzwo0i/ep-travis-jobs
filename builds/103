@@ -1,0 +1,11 @@
+Job #103.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into remove-alert-on-wrap
+State:         passed
+Type:          push
+Branch:        remove-alert-on-wrap
+Commit:        b66c913
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6239c66e3639^...b66c9135f799
+Duration:      4 min 55 sec
+Started:       2012-11-26 21:23:27
+Finished:      2012-11-26 21:28:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

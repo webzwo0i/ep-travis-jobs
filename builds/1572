@@ -1,0 +1,11 @@
+Job #1572.1:  resolve issue where first char showed all formatting
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        3fe6094
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      15 min 58 sec
+Started:       2013-12-07 18:38:45
+Finished:      2013-12-07 18:54:43
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

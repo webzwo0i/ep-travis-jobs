@@ -1,0 +1,11 @@
+Job #1579.1:  Merge pull request #2013 from ether/getAttributeOnSelection
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        505dc70
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bae77666a40b...505dc70df561
+Duration:      16 min 4 sec
+Started:       2013-12-09 18:47:54
+Finished:      2013-12-09 19:03:58
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

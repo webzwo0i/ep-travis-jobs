@@ -1,0 +1,11 @@
+Job #1122.1:  begin by adding some template css
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1709)
+Commit:        95171c4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1709
+Duration:      10 min 53 sec
+Started:       2013-04-05 03:24:33
+Finished:      2013-04-05 03:35:26
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

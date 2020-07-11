@@ -1,0 +1,11 @@
+Job #2299.1:  bump 2
+State:         passed
+Type:          push
+Branch:        ios82
+Commit:        8c9d934
+Compare URL:   https://github.com/ether/etherpad-lite/compare/52d5bd26193b...8c9d93467ac5
+Duration:      11 min 3 sec
+Started:       2014-12-28 22:21:44
+Finished:      2014-12-28 22:32:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

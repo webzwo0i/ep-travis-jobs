@@ -1,0 +1,11 @@
+Job #1085.1:  Decode the sessionID before sending it to the server since our separator ',' gets encoded
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1691)
+Commit:        73c6a2d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1691
+Duration:      11 min 12 sec
+Started:       2013-03-31 12:43:58
+Finished:      2013-03-31 12:55:10
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

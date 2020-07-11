@@ -1,0 +1,11 @@
+Job #2391.1:  fix for uls without class
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2449)
+Commit:        87c8f62
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2449
+Duration:      11 min 22 sec
+Started:       2015-01-09 02:14:46
+Finished:      2015-01-09 02:26:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

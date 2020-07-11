@@ -1,0 +1,11 @@
+Job #119.1:  back to globalize... don't work :S
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1223)
+Commit:        00bca98
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1223
+Duration:      13 min 26 sec
+Started:       2012-11-28 04:03:33
+Finished:      2012-11-28 04:16:59
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

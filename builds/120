@@ -1,0 +1,11 @@
+Job #120.1:  catch control S and send an event to save a revision
+State:         passed
+Type:          push
+Branch:        control-s
+Commit:        8c7939e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/182ea62de90a...8c7939ec9f18
+Duration:      6 min 20 sec
+Started:       2012-11-28 18:18:21
+Finished:      2012-11-28 18:24:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

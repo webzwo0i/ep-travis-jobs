@@ -1,0 +1,11 @@
+Job #1415.1:  Add explanations for more disconnect scenarios
+State:         errored
+Type:          push
+Branch:        feature/add-more-disconnect-scenarios
+Commit:        7f10b9a
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7f10b9a42f8b
+Duration:      12 min
+Started:       2013-10-10 21:15:47
+Finished:      2013-10-10 21:27:47
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

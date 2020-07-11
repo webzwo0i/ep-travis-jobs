@@ -1,0 +1,11 @@
+Job #1815.1:  Update ImportHandler.js
+State:         failed
+Type:          push
+Branch:        dont-use-abiword-for-html
+Commit:        b74c438
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6d38b056230f...b74c43889e2d
+Duration:      21 min 39 sec
+Started:       2014-05-09 14:51:22
+Finished:      2014-05-09 15:13:01
+Allow Failure: false
+Config:        node_js: 0.10

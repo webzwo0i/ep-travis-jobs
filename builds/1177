@@ -1,0 +1,11 @@
+Job #1177.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into caret-refactor
+State:         passed
+Type:          push
+Branch:        caret-refactor
+Commit:        2252f4c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/11341eb0954d...2252f4c5ea4e
+Duration:      2 min 19 sec
+Started:       2013-04-11 17:42:04
+Finished:      2013-04-11 17:44:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

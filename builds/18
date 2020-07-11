@@ -1,0 +1,11 @@
+Job #18.1:  Merge branch 'develop' of git://github.com/ether/etherpad-lite
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1161)
+Commit:        7f42600
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1161
+Duration:      13 min 21 sec
+Started:       2012-11-15 21:00:20
+Finished:      2012-11-15 21:13:41
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

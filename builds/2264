@@ -1,0 +1,11 @@
+Job #2264.1:  remove trailing enter from apikey
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        444bbf4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/88ab74b1e967...444bbf4cbc50
+Duration:      18 min 51 sec
+Started:       2014-12-27 14:20:09
+Finished:      2014-12-27 14:39:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

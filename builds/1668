@@ -1,0 +1,11 @@
+Job #1668.1:  Merge pull request #2052 from ether/fix/l10n-fallbacks-related-langs
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b6f354a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/728958e131e5...b6f354a2de7e
+Duration:      14 min 40 sec
+Started:       2014-01-25 14:34:49
+Finished:      2014-01-25 14:49:29
+Allow Failure: false
+Config:        node_js: 0.10

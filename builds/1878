@@ -1,0 +1,11 @@
+Job #1878.1:  Added a `userLeave` hook that gets called when a user leaves a pad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2218)
+Commit:        562823d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2218
+Duration:      10 min 51 sec
+Started:       2014-08-08 16:56:02
+Finished:      2014-08-08 17:06:53
+Allow Failure: false
+Config:        node_js: 0.10

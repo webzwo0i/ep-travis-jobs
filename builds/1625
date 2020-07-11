@@ -1,0 +1,11 @@
+Job #1625.1:  Handle clicking slider when playing
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2040)
+Commit:        7a29251
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2040
+Duration:      11 min 4 sec
+Started:       2013-12-22 17:28:16
+Finished:      2013-12-22 17:39:20
+Allow Failure: false
+Config:        node_js: 0.10

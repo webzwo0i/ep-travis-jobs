@@ -1,0 +1,11 @@
+Job #1963.1:  use request and a remote ep plugin only endpoint
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2294)
+Commit:        cb57a3d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2294
+Duration:      22 min 33 sec
+Started:       2014-11-04 18:16:31
+Finished:      2014-11-04 18:39:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1549.1:  remove post ace event
+State:         errored
+Type:          push
+Branch:        getAttributeOnSelection
+Commit:        39f81fd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3791ad41860d...39f81fdb9ed2
+Duration:      12 min 15 sec
+Started:       2013-12-01 19:56:38
+Finished:      2013-12-01 20:08:53
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

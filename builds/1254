@@ -1,0 +1,11 @@
+Job #1254.1:  Add script that more efficiently imports large files.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1781)
+Commit:        2a534b4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1781
+Duration:      11 min 15 sec
+Started:       2013-05-15 06:49:26
+Finished:      2013-05-15 07:00:41
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

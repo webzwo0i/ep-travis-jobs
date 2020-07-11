@@ -1,0 +1,11 @@
+Job #1251.1:  Move etherpad-sysv.sh
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1771)
+Commit:        2b11222
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1771
+Duration:      11 min 1 sec
+Started:       2013-05-08 17:37:59
+Finished:      2013-05-08 17:49:00
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

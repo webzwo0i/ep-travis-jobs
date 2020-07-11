@@ -1,0 +1,11 @@
+Job #1249.1:  Merge pull request #1751 from goldquest/dev_IE8-fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        90d1598
+Compare URL:   https://github.com/ether/etherpad-lite/compare/42e164c1b6ef...90d159868864
+Duration:      12 min 44 sec
+Started:       2013-05-08 16:20:11
+Finished:      2013-05-08 16:32:55
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

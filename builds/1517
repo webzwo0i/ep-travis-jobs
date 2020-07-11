@@ -1,0 +1,11 @@
+Job #1517.1:  Merge branch 'packaging' of github.com:ether/etherpad-lite into packaging
+State:         passed
+Type:          push
+Branch:        packaging
+Commit:        9d2f5e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bb406448568c...9d2f5e5cca98
+Duration:      10 min 20 sec
+Started:       2013-11-24 03:54:00
+Finished:      2013-11-24 04:04:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

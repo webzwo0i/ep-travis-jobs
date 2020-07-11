@@ -1,0 +1,11 @@
+Job #1184.1:  We need to replace all new author attribs with thisSession.author, in case someone copy/pasted or otherwise inserted other peoples changes
+State:         passed
+Type:          push
+Branch:        authorID-2
+Commit:        49013b1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ffc8f61a2ffd...49013b18c739
+Duration:      2 min 17 sec
+Started:       2013-04-11 21:14:16
+Finished:      2013-04-11 21:16:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

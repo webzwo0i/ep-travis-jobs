@@ -1,0 +1,11 @@
+Job #2062.1:  slight ui fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f5dcc37
+Compare URL:   https://github.com/ether/etherpad-lite/compare/17f6a225c1ed...f5dcc374bae9
+Duration:      10 min 4 sec
+Started:       2014-11-19 00:22:53
+Finished:      2014-11-19 00:32:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

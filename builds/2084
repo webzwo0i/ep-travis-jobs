@@ -1,0 +1,11 @@
+Job #2084.1:  Simplify the rebuild process
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2329)
+Commit:        c11fbc2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2329
+Duration:      10 min 38 sec
+Started:       2014-11-21 05:10:27
+Finished:      2014-11-21 05:21:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

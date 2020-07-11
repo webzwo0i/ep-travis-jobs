@@ -1,0 +1,11 @@
+Job #152.1:  improve search to use description too, bit more cpu heavy for thats okay
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1248)
+Commit:        7ae8049
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1248
+Duration:      14 min 7 sec
+Started:       2012-12-03 02:43:14
+Finished:      2012-12-03 02:57:21
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

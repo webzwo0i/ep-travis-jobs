@@ -1,0 +1,11 @@
+Job #2068.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into new-icons
+State:         errored
+Type:          push
+Branch:        new-icons
+Commit:        16d8068
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9aea689438d3...16d8068d7d79
+Duration:      11 min 14 sec
+Started:       2014-11-19 01:18:16
+Finished:      2014-11-19 01:29:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

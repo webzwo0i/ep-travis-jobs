@@ -1,0 +1,11 @@
+Job #1722.1:  cleaner logic
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2101)
+Commit:        63301d1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2101
+Duration:      25 min 5 sec
+Started:       2014-03-05 22:47:00
+Finished:      2014-03-05 23:12:05
+Allow Failure: false
+Config:        node_js: 0.10

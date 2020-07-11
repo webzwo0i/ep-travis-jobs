@@ -1,0 +1,11 @@
+Job #2348.1:  Merge pull request #2417 from webzwo0i/fix-export
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4687d22
+Compare URL:   https://github.com/ether/etherpad-lite/compare/19c78212e8c6...4687d226c62a
+Duration:      8 min 8 sec
+Started:       2014-12-30 13:48:08
+Finished:      2014-12-30 13:56:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

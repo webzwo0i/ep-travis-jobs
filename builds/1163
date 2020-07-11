@@ -1,0 +1,11 @@
+Job #1163.1:  working but then create a second list, it will be stupid, SIGH
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1709)
+Commit:        8d61893
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1709
+Duration:      11 min 5 sec
+Started:       2013-04-09 02:24:17
+Finished:      2013-04-09 02:35:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

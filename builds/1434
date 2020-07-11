@@ -1,0 +1,11 @@
+Job #1434.1:  You don't need the padList if you want to alter it
+State:         errored
+Type:          push
+Branch:        fix/padList-cache-performance-hole
+Commit:        200f250
+Compare URL:   https://github.com/ether/etherpad-lite/commit/200f2507172d
+Duration:      11 min 55 sec
+Started:       2013-10-13 21:21:49
+Finished:      2013-10-13 21:33:44
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1842.1:  Merge pull request #2175 from ether/fix-handleMessage
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        71c7dee
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cd294c608b6e...71c7deecd98a
+Duration:      11 min 38 sec
+Started:       2014-06-12 15:00:34
+Finished:      2014-06-12 15:12:12
+Allow Failure: false
+Config:        node_js: 0.10

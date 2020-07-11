@@ -1,0 +1,11 @@
+Job #1452.1:  clean up
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1952)
+Commit:        a6fcdac
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1952
+Duration:      25 min 4 sec
+Started:       2013-10-21 00:45:49
+Finished:      2013-10-21 01:10:53
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

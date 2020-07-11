@@ -1,0 +1,11 @@
+Job #2205.1:  dont remove more lines than exist in the whole text
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2364)
+Commit:        42fbb11
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2364
+Duration:      11 min 39 sec
+Started:       2014-12-04 16:03:52
+Finished:      2014-12-04 16:15:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

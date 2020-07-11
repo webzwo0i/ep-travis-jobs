@@ -1,0 +1,11 @@
+Job #1151.1:  temp patch for 1652
+State:         passed
+Type:          push
+Branch:        dont-send-same-cs-spam
+Commit:        946289c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/946289c221b2
+Duration:      2 min 29 sec
+Started:       2013-04-08 20:48:32
+Finished:      2013-04-08 20:51:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

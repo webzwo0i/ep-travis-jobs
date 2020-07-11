@@ -1,0 +1,11 @@
+Job #1358.1:  Don't stop processing changesets if there is an error
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1902)
+Commit:        8a193c6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1902
+Duration:      15 min 5 sec
+Started:       2013-09-23 16:51:42
+Finished:      2013-09-23 17:06:47
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

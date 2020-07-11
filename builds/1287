@@ -1,0 +1,11 @@
+Job #1287.1:  Merge branch 'release/1.2.11'
+State:         passed
+Type:          push
+Branch:        master
+Commit:        b1b6289
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c8e2278afcb4...b1b6289eb316
+Duration:      21 min 39 sec
+Started:       2013-06-24 16:22:38
+Finished:      2013-06-24 16:44:17
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

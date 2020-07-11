@@ -1,0 +1,11 @@
+Job #1576.1:  [pad_modals] remove unused variables. for the hide/show functions jquery's default variables are used everywhere
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2028)
+Commit:        955149f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2028
+Duration:      11 min 1 sec
+Started:       2013-12-08 17:39:59
+Finished:      2013-12-08 17:51:00
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

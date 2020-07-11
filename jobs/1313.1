@@ -1,0 +1,198 @@
+Using worker: worker-linux-4-2.bb.travis-ci.org:travis-linux-4
+
+travis_fold:start:git.1$ git clone --depth=50 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 4890, done.ote: Compressing objects:   0% (1/1997)   ote: Compressing objects:   1% (20/1997)   ote: Compressing objects:   2% (40/1997)   ote: Compressing objects:   3% (60/1997)   ote: Compressing objects:   4% (80/1997)   ote: Compressing objects:   5% (100/1997)   ote: Compressing objects:   6% (120/1997)   ote: Compressing objects:   7% (140/1997)   ote: Compressing objects:   8% (160/1997)   ote: Compressing objects:   9% (180/1997)   ote: Compressing objects:  10% (200/1997)   ote: Compressing objects:  11% (220/1997)   ote: Compressing objects:  12% (240/1997)   ote: Compressing objects:  13% (260/1997)   ote: Compressing objects:  14% (280/1997)   ote: Compressing objects:  15% (300/1997)   ote: Compressing objects:  16% (320/1997)   ote: Compressing objects:  17% (340/1997)   ote: Compressing objects:  18% (360/1997)   ote: Compressing objects:  19% (380/1997)   ote: Compressing objects:  20% (400/1997)   ote: Compressing objects:  21% (420/1997)   ote: Compressing objects:  22% (440/1997)   ote: Compressing objects:  23% (460/1997)   ote: Compressing objects:  24% (480/1997)   ote: Compressing objects:  25% (500/1997)   ote: Compressing objects:  26% (520/1997)   ote: Compressing objects:  27% (540/1997)   ote: Compressing objects:  28% (560/1997)   ote: Compressing objects:  29% (580/1997)   ote: Compressing objects:  30% (600/1997)   ote: Compressing objects:  31% (620/1997)   ote: Compressing objects:  32% (640/1997)   ote: Compressing objects:  33% (660/1997)   ote: Compressing objects:  34% (679/1997)   ote: Compressing objects:  35% (699/1997)   ote: Compressing objects:  36% (719/1997)   ote: Compressing objects:  37% (739/1997)   ote: Compressing objects:  38% (759/1997)   ote: Compressing objects:  39% (779/1997)   ote: Compressing objects:  40% (799/1997)   ote: Compressing objects:  41% (819/1997)   ote: Compressing objects:  42% (839/1997)   ote: Compressing objects:  43% (859/1997)   ote: Compressing objects:  44% (879/1997)   ote: Compressing objects:  45% (899/1997)   ote: Compressing objects:  46% (919/1997)   ote: Compressing objects:  47% (939/1997)   ote: Compressing objects:  48% (959/1997)   ote: Compressing objects:  49% (979/1997)   ote: Compressing objects:  50% (999/1997)   ote: Compressing objects:  51% (1019/1997)   ote: Compressing objects:  52% (1039/1997)   ote: Compressing objects:  53% (1059/1997)   ote: Compressing objects:  54% (1079/1997)   ote: Compressing objects:  55% (1099/1997)   ote: Compressing objects:  56% (1119/1997)   ote: Compressing objects:  57% (1139/1997)   ote: Compressing objects:  58% (1159/1997)   ote: Compressing objects:  59% (1179/1997)   ote: Compressing objects:  60% (1199/1997)   ote: Compressing objects:  61% (1219/1997)   ote: Compressing objects:  62% (1239/1997)   ote: Compressing objects:  63% (1259/1997)   ote: Compressing objects:  64% (1279/1997)   ote: Compressing objects:  65% (1299/1997)   ote: Compressing objects:  66% (1319/1997)   ote: Compressing objects:  67% (1338/1997)   ote: Compressing objects:  68% (1358/1997)   ote: Compressing objects:  69% (1378/1997)   ote: Compressing objects:  70% (1398/1997)   ote: Compressing objects:  71% (1418/1997)   ote: Compressing objects:  72% (1438/1997)   ote: Compressing objects:  73% (1458/1997)   ote: Compressing objects:  74% (1478/1997)   ote: Compressing objects:  75% (1498/1997)   ote: Compressing objects:  76% (1518/1997)   ote: Compressing objects:  77% (1538/1997)   ote: Compressing objects:  78% (1558/1997)   ote: Compressing objects:  79% (1578/1997)   ote: Compressing objects:  80% (1598/1997)   ote: Compressing objects:  81% (1618/1997)   ote: Compressing objects:  82% (1638/1997)   ote: Compressing objects:  83% (1658/1997)   ote: Compressing objects:  84% (1678/1997)   ote: Compressing objects:  85% (1698/1997)   ote: Compressing objects:  86% (1718/1997)   ote: Compressing objects:  87% (1738/1997)   ote: Compressing objects:  88% (1758/1997)   ote: Compressing objects:  89% (1778/1997)   ote: Compressing objects:  90% (1798/1997)   ote: Compressing objects:  91% (1818/1997)   ote: Compressing objects:  92% (1838/1997)   ote: Compressing objects:  93% (1858/1997)   ote: Compressing objects:  94% (1878/1997)   ote: Compressing objects:  95% (1898/1997)   ote: Compressing objects:  96% (1918/1997)   ote: Compressing objects:  97% (1938/1997)   ote: Compressing objects:  98% (1958/1997)   ote: Compressing objects:  99% (1978/1997)   ote: Compressing objects: 100% (1997/1997)   ote: Compressing objects: 100% (1997/1997), done.ote: Total 4890 (delta 3442), reused 4108 (delta 2824)erge: 
+remote: Counting objects: 72, done.ote: Compressing objects:   6% (1/16)   ote: Compressing objects:  12% (2/16)   ote: Compressing objects:  18% (3/16)   ote: Compressing objects:  25% (4/16)   ote: Compressing objects:  31% (5/16)   ote: Compressing objects:  37% (6/16)   ote: Compressing objects:  43% (7/16)   ote: Compressing objects:  50% (8/16)   ote: Compressing objects:  56% (9/16)   ote: Compressing objects:  62% (10/16)   ote: Compressing objects:  68% (11/16)   ote: Compressing objects:  75% (12/16)   ote: Compressing objects:  81% (13/16)   ote: Compressing objects:  87% (14/16)   ote: Compressing objects:  93% (15/16)   ote: Compressing objects: 100% (16/16)   ote: Compressing objects: 100% (16/16), done.ote: Total 37 (delta 32), reused 25 (delta 20) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1862/merge -> FETCH_HEAD
+travis_fold:end:git.2travis_fold:start:git.3$ git checkout -qf FETCH_HEAD
+travis_fold:end:git.3$ nvm use 0.10
+Now using node v0.10.12
+$ node --version
+v0.10.12
+$ npm --version
+1.2.32
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json ueberDB@0.2.0 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json dirty@0.9.7 No repository field.
+npm WARN package.json range-parser@0.0.4 No repository field.
+npm WARN package.json methods@0.0.1 No repository field.
+npm WARN package.json methods@0.0.1 No readme data.
+npm WARN package.json fresh@0.1.0 No repository field.
+npm WARN package.json cookie-signature@0.0.1 No repository field.
+npm WARN package.json send@0.1.0 No repository field.
+npm WARN package.json vargs@0.1.0 No repository field.
+npm WARN package.json cookie-signature@1.0.1 No repository field.
+npm WARN package.json bytes@0.2.0 No repository field.
+npm WARN package.json pause@0.0.1 No repository field.
+npm WARN package.json policyfile@0.0.4 No repository field.
+npm WARN package.json policyfile@0.0.4 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json docco@0.4.0 No repository field.
+npm WARN package.json channels@0.0.2 No repository field.
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.12","npm":"1.2.32"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+npm WARN package.json addressparser@0.1.3 No repository field.
+npm WARN package.json bytes@0.1.0 No repository field.
+npm WARN package.json formidable@1.0.11 No repository field.
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+
+> ws@0.4.28 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+npm WARN package.json assert-plus@0.1.2 No repository field.
+npm WARN package.json ctype@0.5.2 No repository field.
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+log4js@0.6.6 node_modules/log4js
+├── dequeue@1.0.3
+├── semver@1.1.4
+├── async@0.1.15
+└── readable-stream@1.0.15
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@2.0.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.6.0 (minimist@0.0.1, wordwrap@0.0.2)
+├── simplesmtp@0.3.8 (xoauth2@0.1.8, rai@0.1.7)
+└── mailcomposer@0.2.1 (mime@1.2.9, mimelib@0.2.12)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+npm@1.2.32 node_modules/npm
+
+ueberDB@0.2.0 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.7
+├── async@0.1.15
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.4)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.28, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.0M    0 21720    0     0  29028      0  0:17:31 --:--:--  0:17:31 78695  1 29.0M    1  428k    0     0   251k      0  0:01:58  0:00:01  0:01:57  347k  3 29.0M    3 1091k    0     0   406k      0  0:01:13  0:00:02  0:01:11  493k  6 29.0M    6 1811k    0     0   490k      0  0:01:00  0:00:03  0:00:57  562k  6 29.0M    6 2002k    0     0   407k      0  0:01:13  0:00:04  0:01:09  450k  6 29.0M    6 2022k    0     0   340k      0  0:01:27  0:00:05  0:01:22  385k  6 29.0M    6 2070k    0     0   298k      0  0:01:39  0:00:06  0:01:33  313k  7 29.0M    7 2104k    0     0   264k      0  0:01:52  0:00:07  0:01:45  192k  7 29.0M    7 2143k    0     0   239k      0  0:02:04  0:00:08  0:01:56 64569  7 29.0M    7 2184k    0     0   218k      0  0:02:16  0:00:09  0:02:07 36893  7 29.0M    7 2231k    0     0   208k      0  0:02:23  0:00:10  0:02:13 44833  7 29.0M    7 2279k    0     0   185k      0  0:02:40  0:00:12  0:02:28 40179  7 29.0M    7 2309k    0     0   180k      0  0:02:45  0:00:12  0:02:33 43068  7 29.0M    7 2333k    0     0   170k      0  0:02:55  0:00:13  0:02:42 40797  8 29.0M    8 2429k    0     0   165k      0  0:03:00  0:00:14  0:02:46 52983  8 29.0M    8 2535k    0     0   161k      0  0:03:04  0:00:15  0:02:49 62539  9 29.0M    9 2741k    0     0   164k      0  0:03:01  0:00:16  0:02:45  104k 10 29.0M   10 3021k    0     0   170k      0  0:02:54  0:00:17  0:02:37  145k 11 29.0M   11 3308k    0     0   177k      0  0:02:48  0:00:18  0:02:30  196k 11 29.0M   11 3547k    0     0   180k      0  0:02:45  0:00:19  0:02:26  223k 12 29.0M   12 3808k    0     0   183k      0  0:02:42  0:00:20  0:02:22  251k 13 29.0M   13 3969k    0     0   182k      0  0:02:42  0:00:21  0:02:21  246k 13 29.0M   13 4157k    0     0   183k      0  0:02:42  0:00:22  0:02:20  226k 14 29.0M   14 4396k    0     0   185k      0  0:02:40  0:00:23  0:02:17  217k 15 29.0M   15 4636k    0     0   187k      0  0:02:38  0:00:24  0:02:14  215k 16 29.0M   16 4853k    0     0   188k      0  0:02:37  0:00:25  0:02:12  210k 17 29.0M   17 5113k    0     0   191k      0  0:02:35  0:00:26  0:02:09  227k 17 29.0M   17 5237k    0     0   189k      0  0:02:37  0:00:27  0:02:10  216k 18 29.0M   18 5438k    0     0   189k      0  0:02:37  0:00:28  0:02:09  207k 19 29.0M   19 5714k    0     0   192k      0  0:02:35  0:00:29  0:02:06  214k 19 29.0M   19 5882k    0     0   191k      0  0:02:35  0:00:30  0:02:05  205k 20 29.0M   20 6039k    0     0   190k      0  0:02:36  0:00:31  0:02:05  185k 20 29.0M   20 6178k    0     0   188k      0  0:02:37  0:00:32  0:02:05  188k 20 29.0M   20 6209k    0     0   184k      0  0:02:41  0:00:33  0:02:08  154k 21 29.0M   21 6316k    0     0   181k      0  0:02:43  0:00:34  0:02:09  121k 21 29.0M   21 6493k    0     0   181k      0  0:02:43  0:00:35  0:02:08  121k 22 29.0M   22 6705k    0     0   181k      0  0:02:44  0:00:36  0:02:08  128k 23 29.0M   23 7043k    0     0   186k      0  0:02:39  0:00:37  0:02:02  172k 25 29.0M   25 7531k    0     0   194k      0  0:02:33  0:00:38  0:01:55  263k 26 29.0M   26 7954k    0     0   200k      0  0:02:28  0:00:39  0:01:49  326k 28 29.0M   28 8436k    0     0   207k      0  0:02:23  0:00:40  0:01:43  390k 30 29.0M   30 8939k    0     0   214k      0  0:02:19  0:00:41  0:01:38  460k 31 29.0M   31 9257k    0     0   216k      0  0:02:17  0:00:42  0:01:35  442k 32 29.0M   32 9703k    0     0   221k      0  0:02:14  0:00:43  0:01:31  435k 34 29.0M   34  9.9M    0     0   228k      0  0:02:10  0:00:44  0:01:26  456k 35 29.0M   35 10.2M    0     0   228k      0  0:02:10  0:00:45  0:01:25  401k 36 29.0M   36 10.5M    0     0   230k      0  0:02:09  0:00:46  0:01:23  374k 37 29.0M   37 10.9M    0     0   234k      0  0:02:07  0:00:47  0:01:20  383k 39 29.0M   39 11.3M    0     0   239k      0  0:02:04  0:00:48  0:01:16  393k 40 29.0M   40 11.8M    0     0   244k      0  0:02:01  0:00:49  0:01:12  386k 42 29.0M   42 12.4M    0     0   251k      0  0:01:58  0:00:50  0:01:08  467k 45 29.0M   45 13.2M    0     0   262k      0  0:01:53  0:00:51  0:01:02  553k 46 29.0M   46 13.6M    0     0   264k      0  0:01:52  0:00:52  0:01:00  555k 48 29.0M   48 14.0M    0     0   268k      0  0:01:51  0:00:53  0:00:58  549k 50 29.0M   50 14.5M    0     0   272k      0  0:01:49  0:00:54  0:00:55  553k 51 29.0M   51 15.0M    0     0   275k      0  0:01:48  0:00:55  0:00:53  516k 52 29.0M   52 15.3M    0     0   276k      0  0:01:47  0:00:56  0:00:51  423k 53 29.0M   53 15.6M    0     0   278k      0  0:01:47  0:00:57  0:00:50  418k 54 29.0M   54 15.9M    0     0   277k      0  0:01:47  0:00:58  0:00:49  376k 55 29.0M   55 16.1M    0     0   276k      0  0:01:47  0:00:59  0:00:48  316k 56 29.0M   56 16.3M    0     0   275k      0  0:01:47  0:01:00  0:00:47  278k 57 29.0M   57 16.6M    0     0   276k      0  0:01:47  0:01:01  0:00:46  276k 57 29.0M   57 16.7M    0     0   273k      0  0:01:48  0:01:02  0:00:46  218k 57 29.0M   57 16.8M    0     0   270k      0  0:01:50  0:01:03  0:00:47  182k 58 29.0M   58 16.9M    0     0   267k      0  0:01:51  0:01:04  0:00:47  162k 58 29.0M   58 17.0M    0     0   265k      0  0:01:52  0:01:05  0:00:47  134k 58 29.0M   58 17.1M    0     0   263k      0  0:01:53  0:01:06  0:00:47   98k 59 29.0M   59 17.3M    0     0   262k      0  0:01:53  0:01:07  0:00:46  123k 60 29.0M   60 17.6M    0     0   262k      0  0:01:53  0:01:08  0:00:45  166k 60 29.0M   60 17.7M    0     0   260k      0  0:01:54  0:01:09  0:00:45  169k 61 29.0M   61 17.8M    0     0   257k      0  0:01:55  0:01:10  0:00:45  162k 61 29.0M   61 17.9M    0     0   256k      0  0:01:56  0:01:11  0:00:45  168k 62 29.0M   62 18.1M    0     0   255k      0  0:01:56  0:01:12  0:00:44  163k 63 29.0M   63 18.4M    0     0   255k      0  0:01:56  0:01:13  0:00:43  162k 64 29.0M   64 18.7M    0     0   256k      0  0:01:55  0:01:14  0:00:41  204k 65 29.0M   65 19.1M    0     0   258k      0  0:01:55  0:01:15  0:00:40  275k 67 29.0M   67 19.5M    0     0   261k      0  0:01:53  0:01:16  0:00:37  329k 68 29.0M   68 19.9M    0     0   263k      0  0:01:53  0:01:17  0:00:36  375k 69 29.0M   69 20.1M    0     0   261k      0  0:01:53  0:01:18  0:00:35  348k 69 29.0M   69 20.3M    0     0   260k      0  0:01:54  0:01:19  0:00:35  322k 70 29.0M   70 20.5M    0     0   260k      0  0:01:54  0:01:20  0:00:34  290k 71 29.0M   71 20.8M    0     0   260k      0  0:01:54  0:01:21  0:00:33  253k 72 29.0M   72 21.1M    0     0   262k      0  0:01:53  0:01:22  0:00:31  242k 74 29.0M   74 21.5M    0     0   263k      0  0:01:53  0:01:23  0:00:30  290k 75 29.0M   75 22.0M    0     0   266k      0  0:01:51  0:01:24  0:00:27  355k 77 29.0M   77 22.6M    0     0   270k      0  0:01:50  0:01:25  0:00:25  418k 79 29.0M   79 23.1M    0     0   273k      0  0:01:49  0:01:26  0:00:23  473k 80 29.0M   80 23.4M    0     0   274k      0  0:01:48  0:01:27  0:00:21  474k 82 29.0M   82 23.9M    0     0   275k      0  0:01:47  0:01:28  0:00:19  485k 83 29.0M   83 24.2M    0     0   276k      0  0:01:47  0:01:29  0:00:18  454k 84 29.0M   84 24.5M    0     0   277k      0  0:01:47  0:01:30  0:00:17  405k 85 29.0M   85 24.9M    0     0   278k      0  0:01:47  0:01:31  0:00:16  367k 87 29.0M   87 25.3M    0     0   279k      0  0:01:46  0:01:32  0:00:14  377k 88 29.0M   88 25.8M    0     0   282k      0  0:01:45  0:01:33  0:00:12  397k 90 29.0M   90 26.1M    0     0   283k      0  0:01:45  0:01:34  0:00:11  390k 90 29.0M   90 26.4M    0     0   282k      0  0:01:45  0:01:35  0:00:10  382k 91 29.0M   91 26.7M    0     0   283k      0  0:01:45  0:01:36  0:00:09  371k 93 29.0M   93 27.0M    0     0   283k      0  0:01:44  0:01:37  0:00:07  361k 94 29.0M   94 27.3M    0     0   283k      0  0:01:44  0:01:38  0:00:06  309k 95 29.0M   95 27.6M    0     0   284k      0  0:01:44  0:01:39  0:00:05  303k 95 29.0M   95 27.8M    0     0   282k      0  0:01:45  0:01:40  0:00:05  282k 96 29.0M   96 28.0M    0     0   282k      0  0:01:45  0:01:41  0:00:04  264k 97 29.0M   97 28.3M    0     0   282k      0  0:01:45  0:01:42  0:00:03  256k 98 29.0M   98 28.7M    0     0   283k      0  0:01:45  0:01:43  0:00:02  274k100 29.0M  100 29.0M    0     0   284k      0  0:01:44  0:01:44 --:--:--  304k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+Missing required arguments USERNAME, API_KEY
+
+
+
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+
+The build has been terminated
+

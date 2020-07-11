@@ -1,0 +1,11 @@
+Job #1409.1:  Polish logging of client-side errors on the server
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1927)
+Commit:        f8c99eb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1927
+Duration:      22 min 15 sec
+Started:       2013-10-10 18:49:31
+Finished:      2013-10-10 19:11:46
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

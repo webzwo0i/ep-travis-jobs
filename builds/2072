@@ -1,0 +1,11 @@
+Job #2072.1:  correct file links
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2321)
+Commit:        f18542f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2321
+Duration:      11 min 42 sec
+Started:       2014-11-19 01:29:54
+Finished:      2014-11-19 01:41:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

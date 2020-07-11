@@ -1,0 +1,11 @@
+Job #1146.1:  Merge pull request #1718 from ether/fix/plugins-multi-install
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d8eb0ba
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3cdb8131ced5...d8eb0ba7ea5c
+Duration:      2 min 5 sec
+Started:       2013-04-08 17:06:18
+Finished:      2013-04-08 17:08:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1554.1:  dont assume formatting is on the start of any line
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        640d406
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      12 min 31 sec
+Started:       2013-12-01 21:02:09
+Finished:      2013-12-01 21:14:40
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1685.1:  Timeslider: Fix calcPath() again
+State:         errored
+Type:          push
+Branch:        refactor-timeslider
+Commit:        5d7ef56
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d809959f667d...5d7ef56eb881
+Duration:      11 min 26 sec
+Started:       2014-01-28 16:07:46
+Finished:      2014-01-28 16:19:12
+Allow Failure: false
+Config:        node_js: 0.10

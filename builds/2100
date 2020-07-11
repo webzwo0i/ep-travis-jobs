@@ -1,0 +1,11 @@
+Job #2100.1:  more fixes
+State:         passed
+Type:          push
+Branch:        more-socket-io-fixes
+Commit:        a3f6b2e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a3f6b2edb766
+Duration:      14 min 55 sec
+Started:       2014-11-23 23:34:54
+Finished:      2014-11-23 23:49:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

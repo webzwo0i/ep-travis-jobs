@@ -1,0 +1,11 @@
+Job #1829.1:  Renamed the variable to prevent possible problems.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2165)
+Commit:        8014fe2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2165
+Duration:      10 min 52 sec
+Started:       2014-06-01 21:20:21
+Finished:      2014-06-01 21:31:13
+Allow Failure: false
+Config:        node_js: 0.10

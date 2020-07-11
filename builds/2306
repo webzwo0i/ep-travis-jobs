@@ -1,0 +1,11 @@
+Job #2306.1:  Merge pull request #2413 from ether/switch-to-pad-derosm2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        60a05cc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cec9065df8bb...60a05cc74802
+Duration:      11 min 31 sec
+Started:       2014-12-29 00:50:43
+Finished:      2014-12-29 01:02:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2018.1:  Merge pull request #1912 from ether/hide-chat-when-caret-behind
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        fc79c8a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/77c805a2bf1c...fc79c8a29812
+Duration:      11 min 14 sec
+Started:       2014-11-15 17:18:33
+Finished:      2014-11-15 17:29:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

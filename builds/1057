@@ -1,0 +1,11 @@
+Job #1057.1:  /admin/plugins: Display a tooltip when hovering the plugin details link
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1672)
+Commit:        8ba4c7e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1672
+Duration:      11 min 28 sec
+Started:       2013-03-27 12:29:50
+Finished:      2013-03-27 12:41:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

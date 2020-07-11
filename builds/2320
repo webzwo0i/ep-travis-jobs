@@ -1,0 +1,11 @@
+Job #2320.1:  Merge pull request #2415 from ether/write-delay
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        565097e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3fe802077c28...565097efb466
+Duration:      16 min 18 sec
+Started:       2014-12-29 15:11:44
+Finished:      2014-12-29 15:28:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1959.1:  no errors but no connections
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        2c801cc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a67e805da0f3...2c801cc558bd
+Duration:      7 min 50 sec
+Started:       2014-11-01 23:37:09
+Finished:      2014-11-01 23:44:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

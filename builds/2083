@@ -1,0 +1,11 @@
+Job #2083.1:  stupidly output the socket.io resource path to console
+State:         failed
+Type:          push
+Branch:        tmp-socketio-debug-resource
+Commit:        fce4644
+Compare URL:   https://github.com/ether/etherpad-lite/commit/fce46448f012
+Duration:      19 min 2 sec
+Started:       2014-11-21 01:25:31
+Finished:      2014-11-21 01:44:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

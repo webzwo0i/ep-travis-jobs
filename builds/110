@@ -1,0 +1,11 @@
+Job #110.1:  partial rerevert
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1222)
+Commit:        c937558
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1222
+Duration:      13 min 4 sec
+Started:       2012-11-26 22:49:44
+Finished:      2012-11-26 23:02:48
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

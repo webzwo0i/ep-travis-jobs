@@ -1,0 +1,11 @@
+Job #2241.1:  move clean css back to fix minification on TS
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ee3f3b8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4573796166b6...ee3f3b80603f
+Duration:      20 min 57 sec
+Started:       2014-12-22 00:43:40
+Finished:      2014-12-22 01:04:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

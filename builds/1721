@@ -1,0 +1,11 @@
+Job #1721.1:  fix dintenation
+State:         passed
+Type:          push
+Branch:        preProcessDomLine
+Commit:        432438a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c3d62c5fa444...432438a40d29
+Duration:      8 min 46 sec
+Started:       2014-03-05 00:37:05
+Finished:      2014-03-05 00:45:51
+Allow Failure: false
+Config:        node_js: 0.10

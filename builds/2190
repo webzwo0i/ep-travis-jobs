@@ -1,0 +1,11 @@
+Job #2190.1:  mobile ui polish
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        53887db
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c6d7ed114ea3...53887db872bb
+Duration:      9 min 2 sec
+Started:       2014-11-29 01:27:17
+Finished:      2014-11-29 01:36:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

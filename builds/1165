@@ -1,0 +1,11 @@
+Job #1165.1:  keep integrity on paste and better styling but new lists dont reset counter
+State:         errored
+Type:          push
+Branch:        keep-list-order-on-paste
+Commit:        90c5b26
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2e76bd4e5070...90c5b26e892a
+Duration:      10 min 5 sec
+Started:       2013-04-09 15:31:49
+Finished:      2013-04-09 15:41:54
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

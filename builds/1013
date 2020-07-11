@@ -1,0 +1,11 @@
+Job #1013.1:  Use a node domain per message to stabilize the server
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1661)
+Commit:        19bc73e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1661
+Duration:      10 min 55 sec
+Started:       2013-03-23 22:27:25
+Finished:      2013-03-23 22:38:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1231.1:  Issue #1625: Fix to client-side-induced changeset spamming.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1760)
+Commit:        7e71a99
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1760
+Duration:      11 min 2 sec
+Started:       2013-04-25 00:44:59
+Finished:      2013-04-25 00:56:01
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

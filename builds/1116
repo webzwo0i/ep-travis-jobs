@@ -1,0 +1,11 @@
+Job #1116.1:  Linux clarity
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1704)
+Commit:        19b9e3e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1704
+Duration:      11 min 1 sec
+Started:       2013-04-04 19:34:16
+Finished:      2013-04-04 19:45:17
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

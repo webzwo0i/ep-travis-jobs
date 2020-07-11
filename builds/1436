@@ -1,0 +1,11 @@
+Job #1436.1:  Merge pull request #1939 from ether/fix/padList-cache-performance-hole
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ef4e0d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/680d9a281151...ef4e0d0eb0ba
+Duration:      17 min 43 sec
+Started:       2013-10-13 21:23:03
+Finished:      2013-10-13 21:40:46
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

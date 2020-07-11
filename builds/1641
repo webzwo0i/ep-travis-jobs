@@ -1,0 +1,11 @@
+Job #1641.1:  latest version
+State:         failed
+Type:          push
+Branch:        test/add-assertions-cs_req
+Commit:        d19e117
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e55ef0fe95a5^...d19e11772ca4
+Duration:      14 min 27 sec
+Started:       2013-12-31 15:53:43
+Finished:      2013-12-31 16:08:10
+Allow Failure: false
+Config:        node_js: 0.10

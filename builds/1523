@@ -1,0 +1,11 @@
+Job #1523.1:  growwlll
+State:         passed
+Type:          push
+Branch:        packaging
+Commit:        1eef527
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6ee57746c942...1eef5278bdd7
+Duration:      10 min 55 sec
+Started:       2013-11-24 13:55:30
+Finished:      2013-11-24 14:06:25
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

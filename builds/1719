@@ -1,0 +1,11 @@
+Job #1719.1:  cross platform but REALLY MESSY, do not use this as reference its just to show it existing
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2033)
+Commit:        2b54913
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2033
+Duration:      14 min 53 sec
+Started:       2014-03-04 01:41:39
+Finished:      2014-03-04 01:56:32
+Allow Failure: false
+Config:        node_js: 0.10

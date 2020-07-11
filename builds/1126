@@ -1,0 +1,11 @@
+Job #1126.1:  html10n.js: Finally fix two-part locale specs
+State:         passed
+Type:          push
+Branch:        fix/two-part-locales
+Commit:        402a4b7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/402a4b7b3ec5
+Duration:      2 min 11 sec
+Started:       2013-04-05 14:19:46
+Finished:      2013-04-05 14:21:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #111.1:  added languages for translatewiki
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1223)
+Commit:        5f0862f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1223
+Duration:      13 min 8 sec
+Started:       2012-11-26 23:56:55
+Finished:      2012-11-27 00:10:03
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2156.1:  rebase
+State:         passed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        0b46abb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1364adaf28e8...0b46abb09532
+Duration:      22 min 17 sec
+Started:       2014-11-27 00:49:10
+Finished:      2014-11-27 01:11:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

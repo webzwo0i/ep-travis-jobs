@@ -1,0 +1,11 @@
+Job #2626.1:  working f9 logic
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2566)
+Commit:        de3d2b3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2566
+Duration:      28 min 8 sec
+Started:       2015-03-25 17:09:52
+Finished:      2015-03-25 17:38:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1888.1:  Merge branch 'release/1.4.1'
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2232)
+Commit:        ce67aa9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2232
+Duration:      17 min 15 sec
+Started:       2014-09-06 18:41:42
+Finished:      2014-09-06 18:58:57
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1647.1:  mozilla bug 844796 - use node crypto module for randomString
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2059)
+Commit:        e732694
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2059
+Duration:      7 sec
+Started:       2014-01-15 20:19:05
+Finished:      2014-01-15 20:19:12
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1894.1:  Add support for npm 2
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2249)
+Commit:        70500df
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2249
+Duration:      5 sec
+Started:       2014-09-27 12:35:55
+Finished:      2014-09-27 12:36:00
+Allow Failure: false
+Config:        node_js: 0.10

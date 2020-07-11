@@ -1,0 +1,11 @@
+Job #1672.1:  Fix server-side revision numbering
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        0010d03
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      15 min 59 sec
+Started:       2014-01-26 01:54:38
+Finished:      2014-01-26 02:10:37
+Allow Failure: false
+Config:        node_js: 0.10

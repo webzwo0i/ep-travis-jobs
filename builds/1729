@@ -1,0 +1,11 @@
+Job #1729.1:  Sometimes, the author2session / group2session don't exist anymore, but the session does.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2108)
+Commit:        a292594
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2108
+Duration:      11 min 24 sec
+Started:       2014-03-14 17:54:08
+Finished:      2014-03-14 18:05:32
+Allow Failure: false
+Config:        node_js: 0.10

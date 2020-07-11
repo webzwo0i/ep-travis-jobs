@@ -1,0 +1,11 @@
+Job #1623.1:  Handle new author info and revisions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2040)
+Commit:        f1b322c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2040
+Duration:      11 min 2 sec
+Started:       2013-12-21 18:26:25
+Finished:      2013-12-21 18:37:27
+Allow Failure: false
+Config:        node_js: 0.10

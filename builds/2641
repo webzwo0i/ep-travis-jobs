@@ -1,0 +1,11 @@
+Job #2641.1:  more working logic and also pretty nice screen reader experience
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        7b726cb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/959aa9265636...7b726cbc02e2
+Duration:      17 min 17 sec
+Started:       2015-03-26 15:03:37
+Finished:      2015-03-26 15:20:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

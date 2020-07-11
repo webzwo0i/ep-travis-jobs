@@ -1,0 +1,11 @@
+Job #1277.1:  Merge pull request #1810 from clkao/travis-fixes
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        71c62af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ae78c6731d8d...71c62af8df07
+Duration:      10 min 20 sec
+Started:       2013-06-15 09:17:54
+Finished:      2013-06-15 09:28:14
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1932.1:  bump resolve
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2273)
+Commit:        73fd7dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2273
+Duration:      11 min 1 sec
+Started:       2014-10-14 15:42:16
+Finished:      2014-10-14 15:53:17
+Allow Failure: false
+Config:        node_js: 0.10

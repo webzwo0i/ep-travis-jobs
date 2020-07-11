@@ -1,0 +1,11 @@
+Job #2495.1:  Use https to download plugins.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2490)
+Commit:        2a740a4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2490
+Duration:      10 min 41 sec
+Started:       2015-01-24 12:56:51
+Finished:      2015-01-24 13:07:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2234.1:  Merge pull request #2380 from webzwo0i/fix-add-saved-revision-typo
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        70dc5e7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a2d22a576407...70dc5e7ed9c0
+Duration:      8 min 16 sec
+Started:       2014-12-18 20:23:13
+Finished:      2014-12-18 20:31:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

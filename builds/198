@@ -1,0 +1,11 @@
+Job #198.1:  Merge pull request #1267 from goldquest/fix-import-hanging
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7933db4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0908caaf0d2c...7933db4bc680
+Duration:      5 min 54 sec
+Started:       2012-12-06 18:00:55
+Finished:      2012-12-06 18:06:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

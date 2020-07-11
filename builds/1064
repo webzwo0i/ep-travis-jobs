@@ -1,0 +1,11 @@
+Job #1064.1:  more settimeout to top window
+State:         passed
+Type:          push
+Branch:        ctrl-s-fade
+Commit:        59a9ff4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c48917720699...59a9ff404d1b
+Duration:      2 min 3 sec
+Started:       2013-03-28 14:22:31
+Finished:      2013-03-28 14:24:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

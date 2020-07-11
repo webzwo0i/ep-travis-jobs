@@ -1,0 +1,11 @@
+Job #2643.1:  fix firefox button styling
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        6b88c03
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7b726cbc02e2...6b88c037b82a
+Duration:      10 min 46 sec
+Started:       2015-03-26 15:15:28
+Finished:      2015-03-26 15:26:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

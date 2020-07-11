@@ -1,0 +1,11 @@
+Job #1271.1:  Only kept URL schemes which have an RFC standard
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1805)
+Commit:        e8137a4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1805
+Duration:      11 min
+Started:       2013-06-12 19:35:58
+Finished:      2013-06-12 19:46:58
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

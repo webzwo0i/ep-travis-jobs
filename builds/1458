@@ -1,0 +1,11 @@
+Job #1458.1:  Update changelog and bump version
+State:         passed
+Type:          pull request
+Branch:        master (PR #1956)
+Commit:        5eede65
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1956
+Duration:      16 min 39 sec
+Started:       2013-10-21 20:20:47
+Finished:      2013-10-21 20:37:26
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

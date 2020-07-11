@@ -1,0 +1,11 @@
+Job #2246.1:  Merge pull request #2358 from BjarniRunar/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        1ab7dfd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b71fb3ad20a6...1ab7dfdb7b9a
+Duration:      16 min 7 sec
+Started:       2014-12-23 16:52:15
+Finished:      2014-12-23 17:08:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

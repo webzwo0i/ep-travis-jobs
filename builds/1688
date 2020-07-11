@@ -1,0 +1,11 @@
+Job #1688.1:  Timeslider UI: Slow down handle movement if we're fetching changesets
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        b572105
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      18 min 17 sec
+Started:       2014-01-28 16:33:22
+Finished:      2014-01-28 16:51:39
+Allow Failure: false
+Config:        node_js: 0.10

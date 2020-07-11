@@ -1,0 +1,11 @@
+Job #1278.1:  Merge pull request #1807 from dummys/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3d65f3d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/71c62af8df07...3d65f3d052d8
+Duration:      19 min 42 sec
+Started:       2013-06-15 09:22:24
+Finished:      2013-06-15 09:42:06
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

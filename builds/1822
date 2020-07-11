@@ -1,0 +1,11 @@
+Job #1822.1:  Update ExportHandler.js
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2150)
+Commit:        f14ebb8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2150
+Duration:      24 min 18 sec
+Started:       2014-05-15 11:54:41
+Finished:      2014-05-15 12:18:59
+Allow Failure: false
+Config:        node_js: 0.10

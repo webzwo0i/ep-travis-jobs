@@ -1,0 +1,11 @@
+Job #1285.1:  Fix broken git guide link
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        306c404
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ee8af3454c21...306c4047eab6
+Duration:      7 min 20 sec
+Started:       2013-06-23 16:09:47
+Finished:      2013-06-23 16:17:07
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

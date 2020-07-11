@@ -1,0 +1,11 @@
+Job #1462.1:  Add possibility to add an apple touch icon and replaced eplite favicon
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1964)
+Commit:        561f971
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1964
+Duration:      11 min 13 sec
+Started:       2013-10-22 00:05:47
+Finished:      2013-10-22 00:17:00
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

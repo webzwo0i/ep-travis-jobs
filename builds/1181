@@ -1,0 +1,11 @@
+Job #1181.1:  Merge pull request #1709 from ether/keep-list-order-on-paste
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f9d2376
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a81a40d75bce...f9d23767f833
+Duration:      2 min 14 sec
+Started:       2013-04-11 18:08:21
+Finished:      2013-04-11 18:10:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

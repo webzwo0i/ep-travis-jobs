@@ -1,0 +1,11 @@
+Job #1630.1:  Run npm in a separate worker process
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2049)
+Commit:        61b2d0a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2049
+Duration:      19 min 2 sec
+Started:       2013-12-27 16:09:01
+Finished:      2013-12-27 16:28:03
+Allow Failure: false
+Config:        node_js: 0.10

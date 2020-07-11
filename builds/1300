@@ -1,0 +1,11 @@
+Job #1300.1:  Grammar fix
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1837)
+Commit:        0ee3c5b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1837
+Duration:      11 min 5 sec
+Started:       2013-07-18 20:45:30
+Finished:      2013-07-18 20:56:35
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

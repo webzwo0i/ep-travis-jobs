@@ -1,0 +1,497 @@
+Using worker: bluebox-linux-7.worker.travis-ci.org:travis-linux-3
+
+$ export SAUCE_USER=pita
+travis_fold:start:git.1$ git clone --depth=50 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 5392, done.ote: Compressing objects:   0% (1/2054)   ote: Compressing objects:   1% (21/2054)   ote: Compressing objects:   2% (42/2054)   ote: Compressing objects:   3% (62/2054)   ote: Compressing objects:   4% (83/2054)   ote: Compressing objects:   5% (103/2054)   ote: Compressing objects:   6% (124/2054)   ote: Compressing objects:   7% (144/2054)   ote: Compressing objects:   8% (165/2054)   ote: Compressing objects:   9% (185/2054)   ote: Compressing objects:  10% (206/2054)   ote: Compressing objects:  11% (226/2054)   ote: Compressing objects:  12% (247/2054)   ote: Compressing objects:  13% (268/2054)   ote: Compressing objects:  14% (288/2054)   ote: Compressing objects:  15% (309/2054)   ote: Compressing objects:  16% (329/2054)   ote: Compressing objects:  17% (350/2054)   ote: Compressing objects:  18% (370/2054)   ote: Compressing objects:  19% (391/2054)   ote: Compressing objects:  20% (411/2054)   ote: Compressing objects:  21% (432/2054)   ote: Compressing objects:  22% (452/2054)   ote: Compressing objects:  23% (473/2054)   ote: Compressing objects:  24% (493/2054)   ote: Compressing objects:  25% (514/2054)   ote: Compressing objects:  26% (535/2054)   ote: Compressing objects:  27% (555/2054)   ote: Compressing objects:  28% (576/2054)   ote: Compressing objects:  29% (596/2054)   ote: Compressing objects:  30% (617/2054)   ote: Compressing objects:  31% (637/2054)   ote: Compressing objects:  32% (658/2054)   ote: Compressing objects:  33% (678/2054)   ote: Compressing objects:  34% (699/2054)   ote: Compressing objects:  35% (719/2054)   ote: Compressing objects:  36% (740/2054)   ote: Compressing objects:  37% (760/2054)   ote: Compressing objects:  38% (781/2054)   ote: Compressing objects:  39% (802/2054)   ote: Compressing objects:  40% (822/2054)   ote: Compressing objects:  41% (843/2054)   ote: Compressing objects:  42% (863/2054)   ote: Compressing objects:  43% (884/2054)   ote: Compressing objects:  44% (904/2054)   ote: Compressing objects:  45% (925/2054)   ote: Compressing objects:  46% (945/2054)   ote: Compressing objects:  47% (966/2054)   ote: Compressing objects:  48% (986/2054)   ote: Compressing objects:  49% (1007/2054)   ote: Compressing objects:  50% (1027/2054)   ote: Compressing objects:  51% (1048/2054)   ote: Compressing objects:  52% (1069/2054)   ote: Compressing objects:  53% (1089/2054)   ote: Compressing objects:  54% (1110/2054)   ote: Compressing objects:  55% (1130/2054)   ote: Compressing objects:  56% (1151/2054)   ote: Compressing objects:  57% (1171/2054)   ote: Compressing objects:  58% (1192/2054)   ote: Compressing objects:  59% (1212/2054)   ote: Compressing objects:  60% (1233/2054)   ote: Compressing objects:  61% (1253/2054)   ote: Compressing objects:  62% (1274/2054)   ote: Compressing objects:  63% (1295/2054)   ote: Compressing objects:  64% (1315/2054)   ote: Compressing objects:  65% (1336/2054)   ote: Compressing objects:  66% (1356/2054)   ote: Compressing objects:  67% (1377/2054)   ote: Compressing objects:  68% (1397/2054)   ote: Compressing objects:  69% (1418/2054)   ote: Compressing objects:  70% (1438/2054)   ote: Compressing objects:  71% (1459/2054)   ote: Compressing objects:  72% (1479/2054)   ote: Compressing objects:  73% (1500/2054)   ote: Compressing objects:  74% (1520/2054)   ote: Compressing objects:  75% (1541/2054)   ote: Compressing objects:  76% (1562/2054)   ote: Compressing objects:  77% (1582/2054)   ote: Compressing objects:  78% (1603/2054)   ote: Compressing objects:  79% (1623/2054)   ote: Compressing objects:  80% (1644/2054)   ote: Compressing objects:  81% (1664/2054)   ote: Compressing objects:  82% (1685/2054)   ote: Compressing objects:  83% (1705/2054)   ote: Compressing objects:  84% (1726/2054)   ote: Compressing objects:  85% (1746/2054)   ote: Compressing objects:  86% (1767/2054)   ote: Compressing objects:  87% (1787/2054)   ote: Compressing objects:  88% (1808/2054)   ote: Compressing objects:  89% (1829/2054)   ote: Compressing objects:  90% (1849/2054)   ote: Compressing objects:  91% (1870/2054)   ote: Compressing objects:  92% (1890/2054)   ote: Compressing objects:  93% (1911/2054)   ote: Compressing objects:  94% (1931/2054)   ote: Compressing objects:  95% (1952/2054)   ote: Compressing objects:  96% (1972/2054)   ote: Compressing objects:  97% (1993/2054)   ote: Compressing objects:  98% (2013/2054)   ote: Compressing objects:  99% (2034/2054)   ote: Compressing objects: 100% (2054/2054)   ote: Compressing objects: 100% (2054/2054), done.ote: Total 5392 (delta 3782), reused 4724 (delta 3255)erge: 
+remote: Counting objects: 54, done.ote: Compressing objects:  50% (1/2)   ote: Compressing objects: 100% (2/2)   ote: Compressing objects: 100% (2/2), done.ote: Total 28 (delta 26), reused 28 (delta 26) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1668/merge -> FETCH_HEAD
+travis_fold:end:git.2travis_fold:start:git.3$ git checkout -qf FETCH_HEAD
+travis_fold:end:git.3$ nvm use 0.8
+Now using node v0.8.21
+$ node --version
+v0.8.21
+$ npm --version
+1.2.11
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN prefer global npm@1.1.71 should be installed with -g
+npm WARN package.json methods@0.0.1 No README.md file found!
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+In file included from /home/travis/.node-gyp/0.8.21/src/node.h:270:0,
+                 from ../src/binding.cc:2:
+/home/travis/.node-gyp/0.8.21/src/ev-emul.h:23:0: error: unterminated #ifndef
+In file included from ../src/binding.cc:3:0:
+/home/travis/.node-gyp/0.8.21/src/node_buffer.h: In function ‘void __ev_io_stop(__ev_io*)’:
+/home/travis/.node-gyp/0.8.21/src/node_buffer.h:30:1: error: expected ‘)’ before ‘namespace’
+../src/binding.cc:17:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:18:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:19:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:20:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:21:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:22:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:23:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:24:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:25:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:26:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:27:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:28:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:29:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:30:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:31:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:32:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:33:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:34:8: error: ‘Persistent’ does not name a type
+../src/binding.cc:42:9: error: ‘Handle’ has not been declared
+../src/binding.cc:42:15: error: expected ‘,’ or ‘...’ before ‘<’ token
+../src/binding.cc:99:10: error: ‘Handle’ does not name a type
+../src/binding.cc:119:10: error: ‘Handle’ does not name a type
+../src/binding.cc:135:10: error: ‘Handle’ does not name a type
+../src/binding.cc:158:10: error: ‘Handle’ does not name a type
+../src/binding.cc:167:10: error: ‘Handle’ does not name a type
+../src/binding.cc:182:10: error: ‘Handle’ does not name a type
+../src/binding.cc:190:10: error: ‘Handle’ does not name a type
+../src/binding.cc:234:10: error: ‘Handle’ does not name a type
+../src/binding.cc:272:10: error: ‘Handle’ does not name a type
+../src/binding.cc:283:10: error: ‘Handle’ does not name a type
+../src/binding.cc:299:10: error: ‘Handle’ does not name a type
+../src/binding.cc:631:55: error: ‘Local’ does not name a type
+../src/binding.cc:631:55: error: ISO C++ forbids declaration of ‘parameter’ with no type [-fpermissive]
+../src/binding.cc:631:60: error: expected ‘,’ or ‘...’ before ‘<’ token
+../src/binding.cc:654:34: error: ‘Handle’ has not been declared
+../src/binding.cc:654:40: error: expected ‘,’ or ‘...’ before ‘<’ token
+../src/binding.cc:660:25: error: ‘Handle’ has not been declared
+../src/binding.cc:660:31: error: expected ‘,’ or ‘...’ before ‘<’ token
+../src/binding.cc:761:35: error: local class ‘class __ev_io_stop(__ev_io*)::Connection’ shall not have static data member ‘char** __ev_io_stop(__ev_io*)::Connection::ArgToCStringArray’ [-fpermissive]
+../src/binding.cc:761:17: error: expected ‘;’ at end of member declaration
+../src/binding.cc:761:40: error: expected ‘)’ before ‘<’ token
+../src/binding.cc:824:1: error: expected ‘}’ at end of input
+../src/binding.cc: In static member function ‘static void __ev_io_stop(__ev_io*)::Connection::Init(int)’:
+../src/binding.cc:44:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:44:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:44:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:45:5: error: ‘Local’ was not declared in this scope
+../src/binding.cc:45:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:45:11: error: ‘FunctionTemplate’ was not declared in this scope
+../src/binding.cc:45:11: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:2222:16: note:   ‘v8::FunctionTemplate’
+../src/binding.cc:45:29: error: ‘t’ was not declared in this scope
+../src/binding.cc:45:33: error: ‘FunctionTemplate’ is not a class or namespace
+../src/binding.cc:45:55: error: ‘New’ was not declared in this scope
+../src/binding.cc:48:21: error: ‘String’ has not been declared
+../src/binding.cc:50:5: error: ‘emit_symbol’ was not declared in this scope
+../src/binding.cc:51:5: error: ‘severity_symbol’ was not declared in this scope
+../src/binding.cc:52:5: error: ‘code_symbol’ was not declared in this scope
+../src/binding.cc:53:5: error: ‘detail_symbol’ was not declared in this scope
+../src/binding.cc:54:5: error: ‘hint_symbol’ was not declared in this scope
+../src/binding.cc:55:5: error: ‘position_symbol’ was not declared in this scope
+../src/binding.cc:56:5: error: ‘internalPosition_symbol’ was not declared in this scope
+../src/binding.cc:57:5: error: ‘internalQuery_symbol’ was not declared in this scope
+../src/binding.cc:58:5: error: ‘where_symbol’ was not declared in this scope
+../src/binding.cc:59:5: error: ‘file_symbol’ was not declared in this scope
+../src/binding.cc:60:5: error: ‘line_symbol’ was not declared in this scope
+../src/binding.cc:61:5: error: ‘routine_symbol’ was not declared in this scope
+../src/binding.cc:62:5: error: ‘name_symbol’ was not declared in this scope
+../src/binding.cc:63:5: error: ‘value_symbol’ was not declared in this scope
+../src/binding.cc:64:5: error: ‘type_symbol’ was not declared in this scope
+../src/binding.cc:65:5: error: ‘channel_symbol’ was not declared in this scope
+../src/binding.cc:66:5: error: ‘payload_symbol’ was not declared in this scope
+../src/binding.cc:67:5: error: ‘command_symbol’ was not declared in this scope
+../src/binding.cc:70:48: error: ‘SendQuery’ was not declared in this scope
+../src/binding.cc:71:58: error: ‘SendQueryWithParams’ was not declared in this scope
+../src/binding.cc:73:56: error: ‘SendQueryPrepared’ was not declared in this scope
+../src/binding.cc:76:56: error: ‘SendCopyFromChunk’ was not declared in this scope
+../src/binding.cc:77:50: error: ‘EndCopyFrom’ was not declared in this scope
+../src/binding.cc:78:5: error: ‘target’ was not declared in this scope
+../src/binding.cc:78:17: error: ‘String’ has not been declared
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::HandleNotice(const char*)’:
+../src/binding.cc:420:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:420:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:420:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:421:5: error: ‘Handle’ was not declared in this scope
+../src/binding.cc:421:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:104:26: note:   ‘v8::Handle’
+../src/binding.cc:421:12: error: ‘Value’ was not declared in this scope
+../src/binding.cc:421:12: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:421:19: error: ‘notice’ was not declared in this scope
+../src/binding.cc:421:28: error: ‘String’ has not been declared
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::HandleIOEvent(int)’:
+../src/binding.cc:446:7: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:446:7: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:446:19: error: expected ‘;’ before ‘scope’
+../src/binding.cc:473:9: error: ‘Local’ was not declared in this scope
+../src/binding.cc:473:9: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:473:15: error: ‘Object’ was not declared in this scope
+../src/binding.cc:473:15: note: suggested alternatives:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:1457:7: note:   ‘v8::Object’
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:118:7: note:   ‘v8::internal::Object’
+../src/binding.cc:473:23: error: ‘result’ was not declared in this scope
+../src/binding.cc:473:32: error: ‘Object’ is not a class or namespace
+../src/binding.cc:474:21: error: ‘channel_symbol’ was not declared in this scope
+../src/binding.cc:474:37: error: ‘String’ has not been declared
+../src/binding.cc:475:21: error: ‘payload_symbol’ was not declared in this scope
+../src/binding.cc:475:37: error: ‘String’ has not been declared
+../src/binding.cc:476:9: error: ‘Handle’ was not declared in this scope
+../src/binding.cc:476:9: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:104:26: note:   ‘v8::Handle’
+../src/binding.cc:476:16: error: ‘Value’ was not declared in this scope
+../src/binding.cc:476:16: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:476:23: error: ‘res’ was not declared in this scope
+../src/binding.cc:476:43: error: expected primary-expression before ‘)’ token
+../src/binding.cc:476:44: error: expected ‘;’ before ‘result’
+../src/binding.cc: In member function ‘bool __ev_io_stop(__ev_io*)::Connection::HandleCopyOut()’:
+../src/binding.cc:494:5: error: ‘Buffer’ was not declared in this scope
+../src/binding.cc:494:14: error: ‘chunk’ was not declared in this scope
+../src/binding.cc:497:15: error: ‘Buffer’ is not a class or namespace
+../src/binding.cc:498:7: error: ‘Local’ was not declared in this scope
+../src/binding.cc:498:7: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:498:13: error: ‘Value’ was not declared in this scope
+../src/binding.cc:498:13: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:498:20: error: ‘node_chunk’ was not declared in this scope
+../src/binding.cc:498:45: error: ‘::New’ has not been declared
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::EmitCommandMetaData(PGresult*)’:
+../src/binding.cc:563:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:563:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:563:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:564:5: error: ‘Local’ was not declared in this scope
+../src/binding.cc:564:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:564:11: error: ‘Object’ was not declared in this scope
+../src/binding.cc:564:11: note: suggested alternatives:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:1457:7: note:   ‘v8::Object’
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:118:7: note:   ‘v8::internal::Object’
+../src/binding.cc:564:19: error: ‘info’ was not declared in this scope
+../src/binding.cc:564:26: error: ‘Object’ is not a class or namespace
+../src/binding.cc:565:15: error: ‘command_symbol’ was not declared in this scope
+../src/binding.cc:565:31: error: ‘String’ has not been declared
+../src/binding.cc:566:15: error: ‘value_symbol’ was not declared in this scope
+../src/binding.cc:566:29: error: ‘String’ has not been declared
+../src/binding.cc:567:5: error: ‘Handle’ was not declared in this scope
+../src/binding.cc:567:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:104:26: note:   ‘v8::Handle’
+../src/binding.cc:567:12: error: ‘Value’ was not declared in this scope
+../src/binding.cc:567:12: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:567:19: error: ‘e’ was not declared in this scope
+../src/binding.cc:567:37: error: expected primary-expression before ‘)’ token
+../src/binding.cc:567:38: error: expected ‘;’ before ‘info’
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::HandleTuplesResult(const PGresult*)’:
+../src/binding.cc:577:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:577:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:577:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:581:7: error: ‘Local’ was not declared in this scope
+../src/binding.cc:581:7: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:581:13: error: ‘Array’ was not declared in this scope
+../src/binding.cc:581:13: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:1714:7: note:   ‘v8::Array’
+../src/binding.cc:581:20: error: ‘row’ was not declared in this scope
+../src/binding.cc:581:26: error: ‘Array’ is not a class or namespace
+../src/binding.cc:584:15: error: ‘Object’ was not declared in this scope
+../src/binding.cc:584:15: note: suggested alternatives:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:1457:7: note:   ‘v8::Object’
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:118:7: note:   ‘v8::internal::Object’
+../src/binding.cc:584:23: error: ‘field’ was not declared in this scope
+../src/binding.cc:584:31: error: ‘Object’ is not a class or namespace
+../src/binding.cc:587:20: error: ‘name_symbol’ was not declared in this scope
+../src/binding.cc:587:33: error: ‘String’ has not been declared
+../src/binding.cc:591:20: error: ‘type_symbol’ was not declared in this scope
+../src/binding.cc:591:33: error: ‘Integer’ has not been declared
+../src/binding.cc:595:22: error: ‘value_symbol’ was not declared in this scope
+../src/binding.cc:595:41: error: ‘Null’ was not declared in this scope
+../src/binding.cc:595:41: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:4447:19: note:   ‘v8::Null’
+../src/binding.cc:598:22: error: ‘value_symbol’ was not declared in this scope
+../src/binding.cc:598:36: error: ‘String’ has not been declared
+../src/binding.cc:601:18: error: ‘Integer’ has not been declared
+../src/binding.cc:604:7: error: ‘Handle’ was not declared in this scope
+../src/binding.cc:604:7: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:104:26: note:   ‘v8::Handle’
+../src/binding.cc:604:14: error: ‘Value’ was not declared in this scope
+../src/binding.cc:604:14: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:604:21: error: ‘e’ was not declared in this scope
+../src/binding.cc:604:39: error: expected primary-expression before ‘)’ token
+../src/binding.cc:604:40: error: expected ‘;’ before ‘row’
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::HandleErrorResult(const PGresult*)’:
+../src/binding.cc:611:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:611:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:611:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:613:5: error: ‘Local’ was not declared in this scope
+../src/binding.cc:613:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:613:11: error: ‘Object’ was not declared in this scope
+../src/binding.cc:613:11: note: suggested alternatives:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:1457:7: note:   ‘v8::Object’
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:118:7: note:   ‘v8::internal::Object’
+../src/binding.cc:613:19: error: ‘msg’ was not declared in this scope
+../src/binding.cc:613:38: error: ‘::Cast’ has not been declared
+../src/binding.cc:613:45: error: ‘Exception’ has not been declared
+../src/binding.cc:613:62: error: ‘String’ has not been declared
+../src/binding.cc:616:35: error: ‘severity_symbol’ was not declared in this scope
+../src/binding.cc:617:35: error: ‘code_symbol’ was not declared in this scope
+../src/binding.cc:618:35: error: ‘detail_symbol’ was not declared in this scope
+../src/binding.cc:619:35: error: ‘hint_symbol’ was not declared in this scope
+../src/binding.cc:620:35: error: ‘position_symbol’ was not declared in this scope
+../src/binding.cc:621:35: error: ‘internalPosition_symbol’ was not declared in this scope
+../src/binding.cc:622:35: error: ‘internalQuery_symbol’ was not declared in this scope
+../src/binding.cc:623:35: error: ‘where_symbol’ was not declared in this scope
+../src/binding.cc:624:35: error: ‘file_symbol’ was not declared in this scope
+../src/binding.cc:625:35: error: ‘line_symbol’ was not declared in this scope
+../src/binding.cc:626:35: error: ‘routine_symbol’ was not declared in this scope
+../src/binding.cc:627:5: error: ‘Handle’ was not declared in this scope
+../src/binding.cc:627:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:104:26: note:   ‘v8::Handle’
+../src/binding.cc:627:12: error: ‘Value’ was not declared in this scope
+../src/binding.cc:627:12: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:627:19: error: ‘m’ was not declared in this scope
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::AttachErrorField(const PGresult*, int)’:
+../src/binding.cc:633:44: error: ‘fieldcode’ was not declared in this scope
+../src/binding.cc:635:7: error: ‘msg’ was not declared in this scope
+../src/binding.cc:635:16: error: ‘symbol’ was not declared in this scope
+../src/binding.cc:635:24: error: ‘String’ has not been declared
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::Emit(const char*)’:
+../src/binding.cc:649:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:649:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:649:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:650:5: error: ‘Handle’ was not declared in this scope
+../src/binding.cc:650:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:104:26: note:   ‘v8::Handle’
+../src/binding.cc:650:12: error: ‘Value’ was not declared in this scope
+../src/binding.cc:650:12: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:650:19: error: ‘args’ was not declared in this scope
+../src/binding.cc:650:31: error: ‘String’ has not been declared
+../src/binding.cc:650:52: warning: extended initializer lists only available with -std=c++0x or -std=gnu++0x [enabled by default]
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::Emit(const char*, int)’:
+../src/binding.cc:655:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:655:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:655:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:656:5: error: ‘Handle’ was not declared in this scope
+../src/binding.cc:656:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:104:26: note:   ‘v8::Handle’
+../src/binding.cc:656:12: error: ‘Value’ was not declared in this scope
+../src/binding.cc:656:12: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:656:19: error: ‘args’ was not declared in this scope
+../src/binding.cc:656:31: error: ‘String’ has not been declared
+../src/binding.cc:656:54: error: ‘arg’ was not declared in this scope
+../src/binding.cc:656:58: warning: extended initializer lists only available with -std=c++0x or -std=gnu++0x [enabled by default]
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::Emit(int, int)’:
+../src/binding.cc:661:5: error: ‘HandleScope’ was not declared in this scope
+../src/binding.cc:661:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:440:16: note:   ‘v8::HandleScope’
+../src/binding.cc:661:17: error: expected ‘;’ before ‘scope’
+../src/binding.cc:663:5: error: ‘Local’ was not declared in this scope
+../src/binding.cc:663:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:663:11: error: ‘Value’ was not declared in this scope
+../src/binding.cc:663:11: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:663:18: error: ‘emit_v’ was not declared in this scope
+../src/binding.cc:663:46: error: ‘emit_symbol’ was not declared in this scope
+../src/binding.cc:665:11: error: ‘Function’ was not declared in this scope
+../src/binding.cc:665:11: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:1740:7: note:   ‘v8::Function’
+../src/binding.cc:665:21: error: ‘emit_f’ was not declared in this scope
+../src/binding.cc:665:50: error: expected primary-expression before ‘)’ token
+../src/binding.cc:667:5: error: ‘TryCatch’ was not declared in this scope
+../src/binding.cc:667:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:3354:16: note:   ‘v8::TryCatch’
+../src/binding.cc:667:14: error: expected ‘;’ before ‘tc’
+../src/binding.cc:668:41: error: ‘args’ was not declared in this scope
+../src/binding.cc:669:8: error: ‘tc’ was not declared in this scope
+../src/binding.cc: In member function ‘void __ev_io_stop(__ev_io*)::Connection::EmitError(const char*)’:
+../src/binding.cc:705:5: error: ‘Local’ was not declared in this scope
+../src/binding.cc:705:5: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:105:26: note:   ‘v8::Local’
+../src/binding.cc:705:11: error: ‘Value’ was not declared in this scope
+../src/binding.cc:705:11: note: suggested alternative:
+/home/travis/.node-gyp/0.8.21/deps/v8/include/v8.h:863:7: note:   ‘v8::Value’
+../src/binding.cc:705:18: error: ‘exception’ was not declared in this scope
+../src/binding.cc:705:30: error: ‘Exception’ has not been declared
+../src/binding.cc:705:47: error: ‘String’ has not been declared
+../src/binding.cc: In function ‘void __ev_io_stop(__ev_io*)’:
+../src/binding.cc:757:3: error: expected unqualified-id at end of input
+../src/binding.cc:757:3: error: expected ‘}’ at end of input
+../src/binding.cc: At global scope:
+../src/binding.cc:757:3: error: expected ‘}’ at end of input
+make: *** [Release/obj.target/binding/src/binding.o] Error 1
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+gyp ERR! build error 
+gyp ERR! stack Error: `make` failed with exit code: 2
+gyp ERR! stack     at ChildProcess.onExit (/home/travis/.nvm/v0.8.21/lib/node_modules/npm/node_modules/node-gyp/lib/build.js:255:23)
+gyp ERR! stack     at ChildProcess.EventEmitter.emit (events.js:99:17)
+gyp ERR! stack     at Process._handle.onexit (child_process.js:678:10)
+gyp ERR! System Linux 2.6.32-042stab061.2
+gyp ERR! command "node" "/home/travis/.nvm/v0.8.21/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js" "rebuild"
+gyp ERR! cwd /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+gyp ERR! node -v v0.8.21
+gyp ERR! node-gyp -v v0.8.4
+gyp ERR! not ok 
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+semver@1.0.13 node_modules/semver
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+npm@1.1.71 node_modules/npm
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.7 node_modules/log4js
+├── dequeue@1.0.3
+└── async@0.1.15
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── retry@0.6.0
+├── mkdirp@0.3.5
+├── couch-login@0.1.15
+├── semver@1.1.4
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── fresh@0.1.0
+├── debug@0.7.2
+├── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@1.1.1)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.3.5 (wordwrap@0.0.2)
+├── simplesmtp@0.2.4 (xoauth2@0.1.7, rai@0.1.7)
+└── mailcomposer@0.1.31 (mime@1.2.9, mimelib@0.2.12)
+
+ueberDB@0.1.96 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.3)
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 29.0M    3  940k    0     0  1282k      0  0:00:23 --:--:--  0:00:23 2045k 15 29.0M   15 4469k    0     0  2593k      0  0:00:11  0:00:01  0:00:10 3082k 27 29.0M   27 8053k    0     0  2967k      0  0:00:10  0:00:02  0:00:08 3300k 34 29.0M   34 10.1M    0     0  2736k      0  0:00:10  0:00:03  0:00:07 2948k 47 29.0M   47 13.7M    0     0  2985k      0  0:00:09  0:00:04  0:00:05 3169k 59 29.0M   59 17.2M    0     0  3087k      0  0:00:09  0:00:05  0:00:04 3353k 71 29.0M   71 20.7M    0     0  3152k      0  0:00:09  0:00:06  0:00:03 3345k 83 29.0M   83 24.2M    0     0  3205k      0  0:00:09  0:00:07  0:00:02 3334k 95 29.0M   95 27.6M    0     0  3243k      0  0:00:09  0:00:08  0:00:01 3633k100 29.0M  100 29.0M    0     0  3261k      0  0:00:09  0:00:09 --:--:-- 3557k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+Missing required argument API_KEY
+
+
+
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+
+The build has been terminated
+

@@ -1,0 +1,11 @@
+Job #1728.1:  Merge pull request #2089 from dmitryuv/changesetslib-fixes
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cc03f53
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e12093eb196a...cc03f5374cb1
+Duration:      8 min 19 sec
+Started:       2014-03-13 15:40:13
+Finished:      2014-03-13 15:48:32
+Allow Failure: false
+Config:        node_js: 0.10

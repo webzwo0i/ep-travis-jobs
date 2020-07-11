@@ -1,0 +1,11 @@
+Job #2340.1:  remove console log
+State:         failed
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        99a239f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0676d2fe24b5...99a239fa9abf
+Duration:      22 min 20 sec
+Started:       2014-12-30 00:10:43
+Finished:      2014-12-30 00:33:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

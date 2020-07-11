@@ -1,0 +1,11 @@
+Job #1950.1:  only fire change events once
+State:         passed
+Type:          push
+Branch:        only-fire-change-events-once
+Commit:        6abe730
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6abe7304581c
+Duration:      16 min 21 sec
+Started:       2014-11-01 19:17:36
+Finished:      2014-11-01 19:33:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

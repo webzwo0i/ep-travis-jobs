@@ -1,0 +1,11 @@
+Job #1598.1:  DAMNIT
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2033)
+Commit:        f8fa2ae
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2033
+Duration:      16 min 56 sec
+Started:       2013-12-12 01:40:58
+Finished:      2013-12-12 01:57:54
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

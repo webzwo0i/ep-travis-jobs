@@ -1,0 +1,11 @@
+Job #1328.1:  Add check if uploaded file only contains ascii chars when abiword disabled
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1879)
+Commit:        e6df1d1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1879
+Duration:      11 min 16 sec
+Started:       2013-09-10 22:13:54
+Finished:      2013-09-10 22:25:10
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

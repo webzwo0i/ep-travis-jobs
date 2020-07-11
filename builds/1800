@@ -1,0 +1,11 @@
+Job #1800.1:  hmm... why this was commented out? fixed tests & compared to upstream
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2114)
+Commit:        ac64277
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2114
+Duration:      59 sec
+Started:       2014-04-28 18:18:20
+Finished:      2014-04-28 18:19:19
+Allow Failure: false
+Config:        node_js: 0.10

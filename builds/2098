@@ -1,0 +1,11 @@
+Job #2098.1:  Merge pull request #2319 from ether/fix-socket-admin-etc
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b0872cc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/764b8af5e387...b0872cc447b5
+Duration:      22 min 16 sec
+Started:       2014-11-23 15:27:44
+Finished:      2014-11-23 15:50:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

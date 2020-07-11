@@ -1,0 +1,11 @@
+Job #2362.1:  patch for e1c683be3f47a350e6bac3146507bd2d7d7478f6
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8eb723b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/036b7d28902f...8eb723b90618
+Duration:      7 min 37 sec
+Started:       2014-12-31 15:17:17
+Finished:      2014-12-31 15:24:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1875.1:  Add a script to reinsert all db values of a pad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2210)
+Commit:        f964fa4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2210
+Duration:      6 sec
+Started:       2014-07-29 19:47:32
+Finished:      2014-07-29 19:47:38
+Allow Failure: false
+Config:        node_js: 0.10

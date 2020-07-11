@@ -1,0 +1,11 @@
+Job #2559.1:  working, need to test though
+State:         failed
+Type:          push
+Branch:        version-on-admin-page
+Commit:        ddc6983
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ddc69831b219
+Duration:      21 min 29 sec
+Started:       2015-02-11 18:59:45
+Finished:      2015-02-11 19:21:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

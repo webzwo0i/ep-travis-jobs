@@ -1,0 +1,11 @@
+Job #154.1:  revert 53d6d08 socket.io also for IE8
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1243)
+Commit:        5b82b6b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1243
+Duration:      12 min 56 sec
+Started:       2012-12-03 11:53:58
+Finished:      2012-12-03 12:06:54
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1474.1:  Merge branch 'metrics' into develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7b84e73
+Compare URL:   https://github.com/ether/etherpad-lite/compare/84b19a56d53d...7b84e7308bab
+Duration:      15 min 3 sec
+Started:       2013-10-28 12:12:41
+Finished:      2013-10-28 12:27:44
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

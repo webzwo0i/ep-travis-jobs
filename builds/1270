@@ -1,0 +1,11 @@
+Job #1270.1:  Merge pull request #1804 from rgbkrk/proto_cleanup
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5b9c5a1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4c264aec4d71...5b9c5a18ab35
+Duration:      7 min 35 sec
+Started:       2013-06-12 18:25:20
+Finished:      2013-06-12 18:32:55
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1785.1:  Merge pull request #2126 from ether/fix/toolbar-timeslider-button
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        31c45bc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/991f0f8c26e9...31c45bc9b82b
+Duration:      20 min 31 sec
+Started:       2014-03-31 20:55:06
+Finished:      2014-03-31 21:15:37
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1893.1:  Merge pull request #2243 from mrshu/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d3b45ef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/35a1e1ea23eb...d3b45ef2c96a
+Duration:      8 min 22 sec
+Started:       2014-09-23 16:11:42
+Finished:      2014-09-23 16:20:04
+Allow Failure: false
+Config:        node_js: 0.10

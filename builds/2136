@@ -1,0 +1,11 @@
+Job #2136.1:  basic pad tests without test logic yet
+State:         passed
+Type:          push
+Branch:        backend-tests
+Commit:        1347a81
+Compare URL:   https://github.com/ether/etherpad-lite/compare/16f3ebb3ba40...1347a814f04d
+Duration:      14 min 30 sec
+Started:       2014-11-26 18:57:15
+Finished:      2014-11-26 19:11:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

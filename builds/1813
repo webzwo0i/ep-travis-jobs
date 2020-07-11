@@ -1,0 +1,11 @@
+Job #1813.1:  make async, please check
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2150)
+Commit:        a190883
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2150
+Duration:      18 min 41 sec
+Started:       2014-05-07 17:35:10
+Finished:      2014-05-07 17:53:51
+Allow Failure: false
+Config:        node_js: 0.10

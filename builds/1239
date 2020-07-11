@@ -1,0 +1,11 @@
+Job #1239.1:  working test
+State:         errored
+Type:          push
+Branch:        slow-chrome
+Commit:        9fc79aa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0450bd64d33a...9fc79aac99c7
+Duration:      11 min 29 sec
+Started:       2013-04-29 04:22:45
+Finished:      2013-04-29 04:34:14
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1036.1:  /admin/plugins: Show some text if nothing is display otherwise
+State:         passed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        7edfff7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/638cea5fd65c...7edfff75743a
+Duration:      2 min 31 sec
+Started:       2013-03-26 16:25:16
+Finished:      2013-03-26 16:27:47
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

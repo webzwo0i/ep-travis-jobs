@@ -1,0 +1,11 @@
+Job #1043.1:  /admin/plugins: Fix infinite scroll for larger screens
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1672)
+Commit:        2ffde88
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1672
+Duration:      11 min 7 sec
+Started:       2013-03-26 19:33:47
+Finished:      2013-03-26 19:44:54
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

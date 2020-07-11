@@ -1,0 +1,11 @@
+Job #1274.1:  Update sauce key
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1810)
+Commit:        e60aed5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1810
+Duration:      10 min 51 sec
+Started:       2013-06-15 05:19:15
+Finished:      2013-06-15 05:30:06
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

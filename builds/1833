@@ -1,0 +1,11 @@
+Job #1833.1:  Merge pull request #2165 from stephan48/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        1f40e05
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0bc98a6b60a2...1f40e052709f
+Duration:      12 min 4 sec
+Started:       2014-06-02 18:56:16
+Finished:      2014-06-02 19:08:20
+Allow Failure: false
+Config:        node_js: 0.10

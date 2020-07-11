@@ -1,0 +1,11 @@
+Job #1319.1:  Merge pull request #1861 from codingisacopingstrategy/correct-path-in-readme-doc-generator
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e6dd23c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ed77bffbabc1...e6dd23c282a1
+Duration:      22 min 7 sec
+Started:       2013-09-01 11:30:06
+Finished:      2013-09-01 11:52:13
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

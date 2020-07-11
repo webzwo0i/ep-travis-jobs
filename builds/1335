@@ -1,0 +1,11 @@
+Job #1335.1:  Merge pull request #1883 from ether/fix/adminplugins/loading-and-scroll
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ea8ee08
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8073c62de3eb...ea8ee08470fc
+Duration:      21 min 29 sec
+Started:       2013-09-12 16:44:40
+Finished:      2013-09-12 17:06:09
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

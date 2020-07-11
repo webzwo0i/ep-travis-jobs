@@ -1,0 +1,11 @@
+Job #1608.1:  Merge pull request #2038 from s1341/fix/server_not_checking_changeset_req_bounds
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d1cad04
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6f6a86faa687...d1cad0464788
+Duration:      9 min 1 sec
+Started:       2013-12-17 15:48:26
+Finished:      2013-12-17 15:57:27
+Allow Failure: false
+Config:        node_js: 0.10

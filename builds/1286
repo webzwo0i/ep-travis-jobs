@@ -1,0 +1,11 @@
+Job #1286.1:  bump and changelog
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ba1a5da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/306c4047eab6...ba1a5da76dea
+Duration:      11 min 15 sec
+Started:       2013-06-24 16:22:30
+Finished:      2013-06-24 16:33:45
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

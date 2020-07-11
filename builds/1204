@@ -1,0 +1,11 @@
+Job #1204.1:  catch error on export
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1743)
+Commit:        f57934c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1743
+Duration:      11 min 19 sec
+Started:       2013-04-16 00:05:44
+Finished:      2013-04-16 00:17:03
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

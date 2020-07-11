@@ -1,0 +1,11 @@
+Job #1544.1:  some nice css to that reflect when a button is active
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        4f0117c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      23 min 13 sec
+Started:       2013-11-28 18:45:39
+Finished:      2013-11-28 19:08:52
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

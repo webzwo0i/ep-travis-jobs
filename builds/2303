@@ -1,0 +1,11 @@
+Job #2303.1:  test for #2395 #2402
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cec9065
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9715e039cdc1...cec9065df8bb
+Duration:      7 min 31 sec
+Started:       2014-12-29 00:30:57
+Finished:      2014-12-29 00:38:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

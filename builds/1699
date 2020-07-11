@@ -1,0 +1,11 @@
+Job #1699.1:  don't call ace_getInInternationalComposition if editor is not fully loaded
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2074)
+Commit:        6006f67
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2074
+Duration:      11 min 25 sec
+Started:       2014-01-28 21:00:46
+Finished:      2014-01-28 21:12:11
+Allow Failure: false
+Config:        node_js: 0.10

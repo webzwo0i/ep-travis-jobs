@@ -1,0 +1,11 @@
+Job #2010.1:  Merge pull request #2294 from ether/go-away-npm
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        12914e6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8d2fa35b3f3d...12914e68ffac
+Duration:      22 min 16 sec
+Started:       2014-11-15 16:49:46
+Finished:      2014-11-15 17:12:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

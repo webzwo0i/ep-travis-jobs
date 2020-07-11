@@ -1,0 +1,11 @@
+Job #1843.1:  Added function to switch to a different pad without having to reload the whole page.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2180)
+Commit:        2cd9019
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2180
+Duration:      10 min 55 sec
+Started:       2014-06-14 20:31:16
+Finished:      2014-06-14 20:42:11
+Allow Failure: false
+Config:        node_js: 0.10

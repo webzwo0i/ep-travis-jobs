@@ -1,0 +1,11 @@
+Job #2492.1:  working, might need polish its pretty late
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2487)
+Commit:        f5466ad
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2487
+Duration:      22 min 11 sec
+Started:       2015-01-24 06:15:31
+Finished:      2015-01-24 06:37:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

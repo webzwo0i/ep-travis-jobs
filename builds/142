@@ -1,0 +1,11 @@
+Job #142.1:  removed wrong comment in Settings.js
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1244)
+Commit:        8c3fa1f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1244
+Duration:      14 min 57 sec
+Started:       2012-12-02 18:47:33
+Finished:      2012-12-02 19:02:30
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

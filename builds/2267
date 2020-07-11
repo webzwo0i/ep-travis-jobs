@@ -1,0 +1,11 @@
+Job #2267.1:  set prefs and get prefs
+State:         passed
+Type:          push
+Branch:        save-prefs
+Commit:        a151c20
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a151c207c2d1
+Duration:      13 min 52 sec
+Started:       2014-12-27 15:09:35
+Finished:      2014-12-27 15:23:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

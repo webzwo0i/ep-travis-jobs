@@ -1,0 +1,11 @@
+Job #1611.1:  Merge pull request #2039 from ether/fix/dont-crash-on-failed-changeset_req
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        af5b8d3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d1cad0464788...af5b8d3e24d2
+Duration:      15 min 21 sec
+Started:       2013-12-17 16:46:01
+Finished:      2013-12-17 17:01:22
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1334.1:  Beautify infinite scroll
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1883)
+Commit:        0b96f1d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1883
+Duration:      29 min 59 sec
+Started:       2013-09-12 16:40:51
+Finished:      2013-09-12 17:10:50
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

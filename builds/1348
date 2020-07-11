@@ -1,0 +1,11 @@
+Job #1348.1:  padding on import now button
+State:         passed
+Type:          push
+Branch:        import-button-styling
+Commit:        05a8ae7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/05a8ae7accc4
+Duration:      17 min 59 sec
+Started:       2013-09-21 17:17:38
+Finished:      2013-09-21 17:35:37
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

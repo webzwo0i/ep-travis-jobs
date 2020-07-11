@@ -1,0 +1,11 @@
+Job #2159.1:  utf8 check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2347)
+Commit:        15aee1c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2347
+Duration:      11 min 29 sec
+Started:       2014-11-27 01:30:59
+Finished:      2014-11-27 01:42:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

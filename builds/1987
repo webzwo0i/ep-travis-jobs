@@ -1,0 +1,11 @@
+Job #1987.1:  remove logging
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2294)
+Commit:        f4fd28c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2294
+Duration:      22 min 2 sec
+Started:       2014-11-06 18:43:45
+Finished:      2014-11-06 19:05:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

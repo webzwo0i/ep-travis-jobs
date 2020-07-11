@@ -1,0 +1,11 @@
+Job #1075.1:  Fix #1519: don't error in listSessionsOfGroup when there are non-existing sessions (by eldiddio)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1682)
+Commit:        b3f21f0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1682
+Duration:      10 min 53 sec
+Started:       2013-03-29 10:13:43
+Finished:      2013-03-29 10:24:36
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

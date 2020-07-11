@@ -1,0 +1,11 @@
+Job #1923.1:  Merge pull request #2270 from prtksxna/tooltip
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        68c8050
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aee652dafc4c...68c805070ab5
+Duration:      12 min 5 sec
+Started:       2014-10-14 14:48:28
+Finished:      2014-10-14 15:00:33
+Allow Failure: false
+Config:        node_js: 0.10

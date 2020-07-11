@@ -1,0 +1,11 @@
+Job #1827.1:  Enhanced the Example for the API Method getPadID and make the return value consistent to other functions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2165)
+Commit:        a25d776
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2165
+Duration:      10 min 47 sec
+Started:       2014-05-31 11:54:44
+Finished:      2014-05-31 12:05:31
+Allow Failure: false
+Config:        node_js: 0.10

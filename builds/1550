@@ -1,0 +1,11 @@
+Job #1550.1:  remove post ace event
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        c7eac83
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      30 min 1 sec
+Started:       2013-12-01 19:56:20
+Finished:      2013-12-01 20:26:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

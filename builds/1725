@@ -1,0 +1,11 @@
+Job #1725.1:  Merge pull request #2101 from ether/preProcessDomLine
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        26869d2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6940106829e0...26869d29b386
+Duration:      17 min 44 sec
+Started:       2014-03-11 18:49:17
+Finished:      2014-03-11 19:07:01
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2146.1:  4 more to go
+State:         passed
+Type:          push
+Branch:        backend-tests
+Commit:        198e211
+Compare URL:   https://github.com/ether/etherpad-lite/compare/253d6da2ac4b...198e21167197
+Duration:      22 min 25 sec
+Started:       2014-11-26 22:37:48
+Finished:      2014-11-26 23:00:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

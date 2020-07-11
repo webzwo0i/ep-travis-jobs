@@ -1,0 +1,11 @@
+Job #1654.1:  fix timeslider not working because last changeset is not fetched
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2065)
+Commit:        4b6ac01
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2065
+Duration:      11 min 16 sec
+Started:       2014-01-22 03:37:27
+Finished:      2014-01-22 03:48:43
+Allow Failure: false
+Config:        node_js: 0.10

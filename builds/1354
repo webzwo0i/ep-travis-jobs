@@ -1,0 +1,11 @@
+Job #1354.1:  strip title out of html during import, pesky abiword behavior
+State:         passed
+Type:          push
+Branch:        dont-include-file-name-on-import
+Commit:        4bea3a3
+Compare URL:   https://github.com/ether/etherpad-lite/commit/4bea3a348ea8
+Duration:      17 min 34 sec
+Started:       2013-09-22 00:30:36
+Finished:      2013-09-22 00:48:10
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

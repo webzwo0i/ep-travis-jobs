@@ -1,0 +1,11 @@
+Job #1074.1:  Merge pull request #1677 from ether/ctrl-s-fade
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f1b60e9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/406ff8e6f830...f1b60e9867f6
+Duration:      2 min 20 sec
+Started:       2013-03-29 04:12:18
+Finished:      2013-03-29 04:14:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

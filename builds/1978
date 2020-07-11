@@ -1,0 +1,11 @@
+Job #1978.1:  working redraw and draw on startup
+State:         passed
+Type:          push
+Branch:        reflow-toolbar-properly
+Commit:        9170eff
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7d04d7309f87...9170effb27de
+Duration:      8 min 12 sec
+Started:       2014-11-06 16:11:13
+Finished:      2014-11-06 16:19:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

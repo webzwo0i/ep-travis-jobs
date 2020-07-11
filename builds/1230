@@ -1,0 +1,11 @@
+Job #1230.1:  updated to use settings
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1756)
+Commit:        d8befa6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1756
+Duration:      11 min 14 sec
+Started:       2013-04-24 12:21:22
+Finished:      2013-04-24 12:32:36
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

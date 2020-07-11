@@ -1,0 +1,11 @@
+Job #1653.1:  Fix #1835 Enable import buttons after failed import (timeout)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2062)
+Commit:        a0d0dfd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2062
+Duration:      10 min 58 sec
+Started:       2014-01-19 20:07:47
+Finished:      2014-01-19 20:18:45
+Allow Failure: false
+Config:        node_js: 0.10

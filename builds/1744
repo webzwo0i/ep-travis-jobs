@@ -1,0 +1,11 @@
+Job #1744.1:  Fix REQ_CS rev boundary check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2111)
+Commit:        2ed0e16
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2111
+Duration:      6 sec
+Started:       2014-03-20 21:39:25
+Finished:      2014-03-20 21:39:31
+Allow Failure: false
+Config:        node_js: 0.10

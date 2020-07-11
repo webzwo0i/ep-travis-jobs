@@ -1,0 +1,11 @@
+Job #1529.1:  move copy/move pad into a new api version
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2008)
+Commit:        bd8dba7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2008
+Duration:      11 min 4 sec
+Started:       2013-11-24 21:36:35
+Finished:      2013-11-24 21:47:39
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1590.1:  more sensible naming
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2033)
+Commit:        8ecd0b7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2033
+Duration:      7 min 42 sec
+Started:       2013-12-12 01:22:30
+Finished:      2013-12-12 01:30:12
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

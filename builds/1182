@@ -1,0 +1,11 @@
+Job #1182.1:  Use the correct version number
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e8d953a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f9d23767f833...e8d953a15c10
+Duration:      2 min 14 sec
+Started:       2013-04-11 18:09:01
+Finished:      2013-04-11 18:11:15
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2157.1:  test for utf8
+State:         passed
+Type:          push
+Branch:        utf8-check
+Commit:        a5b9268
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a5b9268d3487
+Duration:      14 min 36 sec
+Started:       2014-11-27 01:29:14
+Finished:      2014-11-27 01:43:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

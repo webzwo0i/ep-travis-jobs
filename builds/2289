@@ -1,0 +1,11 @@
+Job #2289.1:  AttribManager#removeAttribOnLine: Remove Linemarker entirely if there's nothing else left
+State:         passed
+Type:          push
+Branch:        fix-removeAttribOnLine
+Commit:        362315c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/362315c638d2
+Duration:      18 min 20 sec
+Started:       2014-12-28 12:37:49
+Finished:      2014-12-28 12:56:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

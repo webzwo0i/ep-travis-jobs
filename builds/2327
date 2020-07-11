@@ -1,0 +1,11 @@
+Job #2327.1:  whoopsi, required files
+State:         passed
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        1081156
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3773b6346b91...1081156f134a
+Duration:      14 min 31 sec
+Started:       2014-12-29 21:14:39
+Finished:      2014-12-29 21:29:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

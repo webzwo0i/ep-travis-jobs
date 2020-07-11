@@ -1,0 +1,11 @@
+Job #1586.1:  fix loop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2032)
+Commit:        ef63e7a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2032
+Duration:      11 min 35 sec
+Started:       2013-12-10 17:50:45
+Finished:      2013-12-10 18:02:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

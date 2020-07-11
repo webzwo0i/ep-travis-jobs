@@ -1,0 +1,11 @@
+Job #1492.1:  Merge pull request #1990 from ether/run-path-available-in-ps-aux
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5c1daa3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8e5af48f7990...5c1daa33be20
+Duration:      16 min 8 sec
+Started:       2013-11-10 19:32:03
+Finished:      2013-11-10 19:48:11
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

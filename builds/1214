@@ -1,0 +1,11 @@
+Job #1214.1:  Don't block changeset queue with delivering changeset
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1740)
+Commit:        8e846fd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1740
+Duration:      11 min 9 sec
+Started:       2013-04-17 14:27:27
+Finished:      2013-04-17 14:38:36
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

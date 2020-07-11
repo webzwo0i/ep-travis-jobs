@@ -1,0 +1,13 @@
+Job #22.1:  Merge pull request #1170 from tux-tn/patch-4
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b1b1fa0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c765b563e461...b1b1fa018a20
+Duration:      13 min 12 sec
+Started:       2012-11-16 14:48:33
+Finished:      2012-11-16 15:01:45
+Allow Failure: false
+Config:        env: SECURE oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

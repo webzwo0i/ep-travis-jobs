@@ -1,0 +1,11 @@
+Job #2191.1:  a little more polish
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        34f7625
+Compare URL:   https://github.com/ether/etherpad-lite/compare/53887db872bb...34f762573966
+Duration:      22 min 30 sec
+Started:       2014-11-29 01:31:06
+Finished:      2014-11-29 01:53:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

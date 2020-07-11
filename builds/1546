@@ -1,0 +1,11 @@
+Job #1546.1:  handle logic for line lengths with 0
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        2541446
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      13 min 26 sec
+Started:       2013-12-01 19:07:56
+Finished:      2013-12-01 19:21:22
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1472.1:  stats: Add http500, memoryUsage, pendingEdits gauges
+State:         errored
+Type:          push
+Branch:        metrics
+Commit:        3ad4b1b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/387091c5c9f1...3ad4b1b83772
+Duration:      45 sec
+Started:       2013-10-27 21:44:43
+Finished:      2013-10-27 21:45:28
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

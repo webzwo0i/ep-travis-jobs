@@ -1,0 +1,11 @@
+Job #1222.1:  dont crash on no auth, ust a bandaid
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1753)
+Commit:        d157493
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1753
+Duration:      11 min
+Started:       2013-04-17 21:03:08
+Finished:      2013-04-17 21:14:08
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

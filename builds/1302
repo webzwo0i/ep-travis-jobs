@@ -1,0 +1,11 @@
+Job #1302.1:  Update en.sjon translation
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5e3abb7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d4e67cdc9a56...5e3abb705402
+Duration:      13 min 12 sec
+Started:       2013-07-22 15:54:27
+Finished:      2013-07-22 16:07:39
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

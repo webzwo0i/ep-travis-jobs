@@ -1,0 +1,11 @@
+Job #1324.1:  Merge pull request #1874 from tonoman3g/fix-padUsers-http-api-call
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        527b7ad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7ecf5f8c5217...527b7ad7f884
+Duration:      12 min 59 sec
+Started:       2013-09-09 17:01:19
+Finished:      2013-09-09 17:14:18
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

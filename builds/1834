@@ -1,0 +1,11 @@
+Job #1834.1:  Added documentation for the newly added API method getPadID
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2169)
+Commit:        0789a67
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2169
+Duration:      11 min 32 sec
+Started:       2014-06-02 20:28:31
+Finished:      2014-06-02 20:40:03
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1078.1:  Merge pull request #1640 from ether/caret-refactor
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6a5e5cb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1b60e9867f6...6a5e5cb6fdff
+Duration:      2 min 18 sec
+Started:       2013-03-30 17:22:24
+Finished:      2013-03-30 17:24:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

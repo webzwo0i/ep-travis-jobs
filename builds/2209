@@ -1,0 +1,11 @@
+Job #2209.1:  translating homepage
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2366)
+Commit:        394c4b5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2366
+Duration:      11 min 14 sec
+Started:       2014-12-06 19:10:08
+Finished:      2014-12-06 19:21:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

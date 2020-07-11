@@ -1,0 +1,11 @@
+Job #1506.1:  Don't link to windows build from README
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        53bcbfc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/47efc1f8d517...53bcbfcc07e3
+Duration:      14 min 59 sec
+Started:       2013-11-18 14:26:23
+Finished:      2013-11-18 14:41:22
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

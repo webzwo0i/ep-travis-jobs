@@ -1,0 +1,11 @@
+Job #1508.1:  Don't try validating JSON-ish settings in /admin/settings
+State:         passed
+Type:          push
+Branch:        fix/admin-settings-json
+Commit:        fc5ec19
+Compare URL:   https://github.com/ether/etherpad-lite/commit/fc5ec1922a66
+Duration:      17 min 31 sec
+Started:       2013-11-19 13:46:53
+Finished:      2013-11-19 14:04:24
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

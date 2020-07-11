@@ -1,0 +1,11 @@
+Job #1284.1:  Merge pull request #1753 from ether/dont-crash-noauth
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ee8af34
+Compare URL:   https://github.com/ether/etherpad-lite/compare/315e229c8364...ee8af3454c21
+Duration:      7 min 45 sec
+Started:       2013-06-18 17:20:36
+Finished:      2013-06-18 17:28:21
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

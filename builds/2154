@@ -1,0 +1,11 @@
+Job #2154.1:  fix for #2132
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e51ab2d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b4ddeffd04b3...e51ab2db249f
+Duration:      14 min 20 sec
+Started:       2014-11-27 00:39:55
+Finished:      2014-11-27 00:54:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

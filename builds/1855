@@ -1,0 +1,11 @@
+Job #1855.1:  change to line 73
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2186)
+Commit:        b2d9f08
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2186
+Duration:      5 sec
+Started:       2014-06-28 16:20:19
+Finished:      2014-06-28 16:20:24
+Allow Failure: false
+Config:        node_js: 0.10

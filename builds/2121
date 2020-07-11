@@ -1,0 +1,11 @@
+Job #2121.1:  multiline
+State:         passed
+Type:          push
+Branch:        jsdom-go-away
+Commit:        77de2d9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2a062f8dc361...77de2d918bbd
+Duration:      21 min 56 sec
+Started:       2014-11-25 23:15:47
+Finished:      2014-11-25 23:37:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

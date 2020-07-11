@@ -1,0 +1,11 @@
+Job #2360.1:  Merge pull request #2421 from webzwo0i/fix-swagger
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4b6df17
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83f62bb6a92f...4b6df17e99cb
+Duration:      22 min 2 sec
+Started:       2014-12-31 14:27:43
+Finished:      2014-12-31 14:49:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1273.1:  added log4js 0.6.6
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1807)
+Commit:        c4c7c12
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1807
+Duration:      10 min 54 sec
+Started:       2013-06-13 15:22:04
+Finished:      2013-06-13 15:32:58
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

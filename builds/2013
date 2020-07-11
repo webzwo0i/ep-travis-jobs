@@ -1,0 +1,11 @@
+Job #2013.1:  merging
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2273)
+Commit:        03baa85
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2273
+Duration:      6 sec
+Started:       2014-11-15 16:58:19
+Finished:      2014-11-15 16:58:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

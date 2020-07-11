@@ -1,0 +1,11 @@
+Job #1464.1:  Merge branch 'release/1.3'
+State:         failed
+Type:          push
+Branch:        release/1.3
+Commit:        8fffe47
+Compare URL:   https://github.com/ether/etherpad-lite/compare/release/1.3
+Duration:      20 min 2 sec
+Started:       2013-10-24 22:00:22
+Finished:      2013-10-24 22:20:24
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

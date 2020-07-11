@@ -1,0 +1,11 @@
+Job #1526.1:  cp readme on build
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2007)
+Commit:        dcbc989
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2007
+Duration:      14 min 16 sec
+Started:       2013-11-24 14:11:53
+Finished:      2013-11-24 14:26:09
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1320.1:  Update README.md
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1aa5981
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e6dd23c282a1...1aa5981ce32e
+Duration:      8 min 5 sec
+Started:       2013-09-02 14:58:12
+Finished:      2013-09-02 15:06:17
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

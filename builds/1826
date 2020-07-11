@@ -1,0 +1,11 @@
+Job #1826.1:  Implemented the the new API method getPadID for reversing the Readonly ID. Based on: https://github.com/disy-mk/etherpad-lite/commit/ff88c19fc12887a49fdb752adb15ee3145f521f0
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2165)
+Commit:        eddee56
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2165
+Duration:      11 min 5 sec
+Started:       2014-05-31 00:49:17
+Finished:      2014-05-31 01:00:22
+Allow Failure: false
+Config:        node_js: 0.10

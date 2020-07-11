@@ -1,0 +1,11 @@
+Job #2198.1:  Merge pull request #2350 from ether/require-kernel-change
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b5a0767
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d7e980cd4755...b5a0767f323c
+Duration:      7 min 55 sec
+Started:       2014-12-01 00:30:45
+Finished:      2014-12-01 00:38:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

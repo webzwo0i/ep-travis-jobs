@@ -1,0 +1,11 @@
+Job #1961.1:  Update ace2_inner.js
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        b59f6a4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b61d8d99d178...b59f6a4d6f6a
+Duration:      21 min 28 sec
+Started:       2014-11-04 16:55:37
+Finished:      2014-11-04 17:17:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

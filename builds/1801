@@ -1,0 +1,11 @@
+Job #1801.1:  new simplified implementation of the TextLinesMutator. At least now I can understand how it works
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2114)
+Commit:        38b17c9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2114
+Duration:      11 min 53 sec
+Started:       2014-04-29 17:58:56
+Finished:      2014-04-29 18:10:49
+Allow Failure: false
+Config:        node_js: 0.10

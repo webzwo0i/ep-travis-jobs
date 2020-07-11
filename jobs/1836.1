@@ -1,0 +1,293 @@
+Using worker: worker-linux-6-2.bb.travis-ci.org:travis-linux-20
+
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+travis_fold:start:git.1$ git clone --depth=50 --branch=develop git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 7824, done.ote: Compressing objects:   0% (1/2750)   ote: Compressing objects:   1% (28/2750)   ote: Compressing objects:   2% (55/2750)   ote: Compressing objects:   3% (83/2750)   ote: Compressing objects:   4% (110/2750)   ote: Compressing objects:   5% (138/2750)   ote: Compressing objects:   6% (165/2750)   ote: Compressing objects:   7% (193/2750)   ote: Compressing objects:   8% (220/2750)   ote: Compressing objects:   9% (248/2750)   ote: Compressing objects:  10% (275/2750)   ote: Compressing objects:  11% (303/2750)   ote: Compressing objects:  12% (330/2750)   ote: Compressing objects:  13% (358/2750)   ote: Compressing objects:  14% (385/2750)   ote: Compressing objects:  15% (413/2750)   ote: Compressing objects:  16% (440/2750)   ote: Compressing objects:  17% (468/2750)   ote: Compressing objects:  18% (495/2750)   ote: Compressing objects:  19% (523/2750)   ote: Compressing objects:  20% (550/2750)   ote: Compressing objects:  21% (578/2750)   ote: Compressing objects:  22% (605/2750)   ote: Compressing objects:  23% (633/2750)   ote: Compressing objects:  24% (660/2750)   ote: Compressing objects:  25% (688/2750)   ote: Compressing objects:  26% (715/2750)   ote: Compressing objects:  27% (743/2750)   ote: Compressing objects:  28% (770/2750)   ote: Compressing objects:  29% (798/2750)   ote: Compressing objects:  30% (825/2750)   ote: Compressing objects:  31% (853/2750)   ote: Compressing objects:  32% (880/2750)   ote: Compressing objects:  33% (908/2750)   ote: Compressing objects:  34% (935/2750)   ote: Compressing objects:  35% (963/2750)   ote: Compressing objects:  36% (990/2750)   ote: Compressing objects:  37% (1018/2750)   ote: Compressing objects:  38% (1045/2750)   ote: Compressing objects:  39% (1073/2750)   ote: Compressing objects:  40% (1100/2750)   ote: Compressing objects:  41% (1128/2750)   ote: Compressing objects:  42% (1155/2750)   ote: Compressing objects:  43% (1183/2750)   ote: Compressing objects:  44% (1210/2750)   ote: Compressing objects:  45% (1238/2750)   ote: Compressing objects:  46% (1265/2750)   ote: Compressing objects:  47% (1293/2750)   ote: Compressing objects:  48% (1320/2750)   ote: Compressing objects:  49% (1348/2750)   ote: Compressing objects:  50% (1375/2750)   ote: Compressing objects:  51% (1403/2750)   ote: Compressing objects:  52% (1430/2750)   ote: Compressing objects:  53% (1458/2750)   ote: Compressing objects:  54% (1485/2750)   ote: Compressing objects:  55% (1513/2750)   ote: Compressing objects:  56% (1540/2750)   ote: Compressing objects:  57% (1568/2750)   ote: Compressing objects:  58% (1595/2750)   ote: Compressing objects:  59% (1623/2750)   ote: Compressing objects:  60% (1650/2750)   ote: Compressing objects:  61% (1678/2750)   ote: Compressing objects:  62% (1705/2750)   ote: Compressing objects:  63% (1733/2750)   ote: Compressing objects:  64% (1760/2750)   ote: Compressing objects:  65% (1788/2750)   ote: Compressing objects:  66% (1815/2750)   ote: Compressing objects:  67% (1843/2750)   ote: Compressing objects:  68% (1870/2750)   ote: Compressing objects:  69% (1898/2750)   ote: Compressing objects:  70% (1925/2750)   ote: Compressing objects:  71% (1953/2750)   ote: Compressing objects:  72% (1980/2750)   ote: Compressing objects:  73% (2008/2750)   ote: Compressing objects:  74% (2035/2750)   ote: Compressing objects:  75% (2063/2750)   ote: Compressing objects:  76% (2090/2750)   ote: Compressing objects:  77% (2118/2750)   ote: Compressing objects:  78% (2145/2750)   ote: Compressing objects:  79% (2173/2750)   ote: Compressing objects:  80% (2200/2750)   ote: Compressing objects:  81% (2228/2750)   ote: Compressing objects:  82% (2255/2750)   ote: Compressing objects:  83% (2283/2750)   ote: Compressing objects:  84% (2310/2750)   ote: Compressing objects:  85% (2338/2750)   ote: Compressing objects:  86% (2365/2750)   ote: Compressing objects:  87% (2393/2750)   ote: Compressing objects:  88% (2420/2750)   ote: Compressing objects:  89% (2448/2750)   ote: Compressing objects:  90% (2475/2750)   ote: Compressing objects:  91% (2503/2750)   ote: Compressing objects:  92% (2530/2750)   ote: Compressing objects:  93% (2558/2750)   ote: Compressing objects:  94% (2585/2750)   ote: Compressing objects:  95% (2613/2750)   ote: Compressing objects:  96% (2640/2750)   ote: Compressing objects:  97% (2668/2750)   ote: Compressing objects:  98% (2695/2750)   ote: Compressing objects:  99% (2723/2750)   ote: Compressing objects: 100% (2750/2750)   ote: Compressing objects: 100% (2750/2750), done.ote: Total 7824 (delta 5381), reused 7304 (delta 4980) use 0.10
+Now using node v0.10.26
+$ node --version
+v0.10.26
+$ npm --version
+1.4.3
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm ERR! Error: Attempt to unlock resolve@0.2.x, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock express@3.1.0, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock async@0.1.x, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock socket.io@0.9.x, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock ueberDB@>=0.2.2, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock connect@2.7.x, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock clean-css@0.3.2, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock uglify-js@1.2.5, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock formidable@1.0.9, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock log4js@0.6.6, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock nodemailer@0.3.x, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock jsdom-nocontextifiy@0.2.10, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock async-stacktrace@0.0.2, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock npm@1.4.x, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! Error: Attempt to unlock ejs@0.6.1, which hasn't been locked
+npm ERR!     at unlock (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1304:11)
+npm ERR!     at cb (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:646:5)
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:655:20
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/lib/cache.js:1290:7
+npm ERR!     at /home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/lockfile/lockfile.js:167:38
+npm ERR!     at OpenReq.Req.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:144:5)
+npm ERR!     at OpenReq.done (/home/travis/.nvm/v0.10.26/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:64:22)
+npm ERR!     at Object.oncomplete (fs.js:107:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab079.5
+npm ERR! command "/home/travis/.nvm/v0.10.26/bin/node" "/home/travis/.nvm/v0.10.26/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.26
+npm ERR! npm -v 1.4.3
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/travis/build/ether/etherpad-lite/src/npm-debug.log
+npm ERR! not ok code 0
+
+The command "bin/installDeps.sh" failed and exited with 1 during .
+
+Your build has been stopped.

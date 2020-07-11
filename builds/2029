@@ -1,0 +1,11 @@
+Job #2029.1:  more test fixes
+State:         passed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        1364ada
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4cb3d16c89e2...1364adaf28e8
+Duration:      11 min 59 sec
+Started:       2014-11-15 19:39:38
+Finished:      2014-11-15 19:51:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

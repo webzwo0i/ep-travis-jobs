@@ -1,0 +1,11 @@
+Job #2356.1:  export html more styles
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        01c667a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c20a7e9bce8b...01c667aa2ec2
+Duration:      7 min 51 sec
+Started:       2014-12-31 01:54:17
+Finished:      2014-12-31 02:02:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

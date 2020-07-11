@@ -1,0 +1,11 @@
+Job #1995.1:  Merge pull request #2303 from prtksxna/kbdtitle
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f042334
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e1fe1f0f9cf4...f0423349b5f0
+Duration:      8 min 47 sec
+Started:       2014-11-09 12:57:43
+Finished:      2014-11-09 13:06:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1996.1:  Merge pull request #2219 from Gared/fix_css
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        07d29a5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f0423349b5f0...07d29a5d7a45
+Duration:      9 min 11 sec
+Started:       2014-11-12 16:23:46
+Finished:      2014-11-12 16:32:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

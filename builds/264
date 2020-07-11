@@ -1,0 +1,11 @@
+Job #264.1:  Add rtl frontend test
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        5887260
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 20 sec
+Started:       2012-12-23 17:11:08
+Finished:      2012-12-23 17:24:28
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

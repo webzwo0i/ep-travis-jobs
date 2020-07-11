@@ -1,0 +1,11 @@
+Job #1337.1:  Merge pull request #1891 from dtygel/change-dialog-for-small-iframes
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4bf3f7a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ea8ee08470fc...4bf3f7ab12d4
+Duration:      16 min 22 sec
+Started:       2013-09-17 19:40:41
+Finished:      2013-09-17 19:57:03
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

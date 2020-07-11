@@ -1,0 +1,11 @@
+Job #2248.1:  Updating Install instructions, solves #2391
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2392)
+Commit:        c4104d7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2392
+Duration:      10 min 49 sec
+Started:       2014-12-24 02:30:34
+Finished:      2014-12-24 02:41:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

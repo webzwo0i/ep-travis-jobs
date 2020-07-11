@@ -1,0 +1,11 @@
+Job #1536.1:  have the server parse the settings file using minify and strip commas
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1999)
+Commit:        c1e9837
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1999
+Duration:      10 min 54 sec
+Started:       2013-11-26 09:22:04
+Finished:      2013-11-26 09:32:58
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

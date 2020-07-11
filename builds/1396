@@ -1,0 +1,11 @@
+Job #1396.1:  Merge pull request #1923 from ether/fix/filter-historicalAuthorData
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7663b2e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7f42f7073290...7663b2ec4942
+Duration:      19 min 31 sec
+Started:       2013-10-07 19:21:28
+Finished:      2013-10-07 19:40:59
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

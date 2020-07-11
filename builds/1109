@@ -1,0 +1,11 @@
+Job #1109.1:  animated image prolly wont work
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1704)
+Commit:        53b0d04
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1704
+Duration:      11 min 25 sec
+Started:       2013-04-04 03:03:30
+Finished:      2013-04-04 03:14:55
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

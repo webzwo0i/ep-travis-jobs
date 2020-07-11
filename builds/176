@@ -1,0 +1,11 @@
+Job #176.1:  Update CONTRIBUTING.md
+State:         failed
+Type:          push
+Branch:        master
+Commit:        3c8258f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e02054d6fe71...3c8258f54d67
+Duration:      24 min 39 sec
+Started:       2012-12-03 19:18:22
+Finished:      2012-12-03 19:43:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

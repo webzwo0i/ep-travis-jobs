@@ -1,0 +1,11 @@
+Job #1573.1:  docs but not sure how to specify the verison this was introduced
+State:         failed
+Type:          push
+Branch:        getAttributeOnSelection
+Commit:        d9ef40f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8a547b24ba25...d9ef40f9d70f
+Duration:      13 min 3 sec
+Started:       2013-12-07 18:48:51
+Finished:      2013-12-07 19:01:54
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

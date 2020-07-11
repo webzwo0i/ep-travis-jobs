@@ -1,0 +1,11 @@
+Job #241.1:  Fix html10n and the locale resource <link>s
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        2c1e470
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      12 min 54 sec
+Started:       2012-12-19 14:53:57
+Finished:      2012-12-19 15:06:51
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

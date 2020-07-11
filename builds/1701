@@ -1,0 +1,11 @@
+Job #1701.1:  allow tabs to be cycled when focus is in editor
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2080)
+Commit:        e5bb962
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2080
+Duration:      21 min 26 sec
+Started:       2014-02-01 08:10:47
+Finished:      2014-02-01 08:32:13
+Allow Failure: false
+Config:        node_js: 0.10

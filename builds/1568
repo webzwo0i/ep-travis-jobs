@@ -1,0 +1,11 @@
+Job #1568.1:  this stops appending being broken see log4js-node issue 163
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2024)
+Commit:        1d911e1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2024
+Duration:      24 min 45 sec
+Started:       2013-12-06 01:44:26
+Finished:      2013-12-06 02:09:11
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

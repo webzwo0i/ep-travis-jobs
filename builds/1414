@@ -1,0 +1,11 @@
+Job #1414.1:  Merge pull request #1927 from ether/fix/client-side-error-logging-in-server-log
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        de50efc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/22e9e5fdcdc1...de50efc71a9d
+Duration:      17 min 22 sec
+Started:       2013-10-10 20:18:19
+Finished:      2013-10-10 20:35:41
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

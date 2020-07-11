@@ -1,0 +1,11 @@
+Job #1397.1:  suggestion
+State:         failed
+Type:          push
+Branch:        move-padlist-init
+Commit:        c93acdf
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c93acdfc87f7
+Duration:      15 min 29 sec
+Started:       2013-10-09 17:16:04
+Finished:      2013-10-09 17:31:33
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

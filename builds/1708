@@ -1,0 +1,11 @@
+Job #1708.1:  fix for infinite loop on bad changeset
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2089)
+Commit:        02b9fd2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2089
+Duration:      11 min 3 sec
+Started:       2014-02-20 11:18:57
+Finished:      2014-02-20 11:30:00
+Allow Failure: false
+Config:        node_js: 0.10

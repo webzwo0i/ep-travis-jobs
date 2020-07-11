@@ -1,0 +1,11 @@
+Job #1609.1:  Don't crash if CHANGESET_REQ fails
+State:         passed
+Type:          push
+Branch:        fix/dont-crash-on-failed-changeset_req
+Commit:        adf0557
+Compare URL:   https://github.com/ether/etherpad-lite/commit/adf05576b2e1
+Duration:      12 min 54 sec
+Started:       2013-12-17 16:24:40
+Finished:      2013-12-17 16:37:34
+Allow Failure: false
+Config:        node_js: 0.10

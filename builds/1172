@@ -1,0 +1,11 @@
+Job #1172.1:  Update html10n.js to correctly use the console.log shim
+State:         passed
+Type:          push
+Branch:        fix/html10n.js-console-log-shim
+Commit:        c755633
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c755633f0920
+Duration:      2 min 25 sec
+Started:       2013-04-10 17:58:17
+Finished:      2013-04-10 18:00:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1399.1:  clean up
+State:         failed
+Type:          push
+Branch:        move-padlist-init
+Commit:        2992e3e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/40a65bd41cba...2992e3ea2b01
+Duration:      18 min 14 sec
+Started:       2013-10-09 17:39:19
+Finished:      2013-10-09 17:57:33
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1111.1:  dont use top, use the scheduler
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1705)
+Commit:        4643ef4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1705
+Duration:      11 min 19 sec
+Started:       2013-04-04 03:29:45
+Finished:      2013-04-04 03:41:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1825.1:  bump ueberdb for more performance on mysql
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2161)
+Commit:        d65ad15
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2161
+Duration:      21 min 33 sec
+Started:       2014-05-21 14:23:39
+Finished:      2014-05-21 14:45:12
+Allow Failure: false
+Config:        node_js: 0.10

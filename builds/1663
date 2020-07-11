@@ -1,0 +1,11 @@
+Job #1663.1:  Merge pull request #2062 from Gared/enable_import_buttons
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fd4dd91
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4b87f77aae1a...fd4dd915ceac
+Duration:      16 min 19 sec
+Started:       2014-01-24 17:27:35
+Finished:      2014-01-24 17:43:54
+Allow Failure: false
+Config:        node_js: 0.10

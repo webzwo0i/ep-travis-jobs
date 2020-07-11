@@ -1,0 +1,11 @@
+Job #1786.1:  Padaccess: Display a reason for refusing access
+State:         failed
+Type:          push
+Branch:        fix/group-export
+Commit:        70aa7b7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/70aa7b7543e8
+Duration:      20 min 34 sec
+Started:       2014-03-31 21:58:59
+Finished:      2014-03-31 22:19:33
+Allow Failure: false
+Config:        node_js: 0.10

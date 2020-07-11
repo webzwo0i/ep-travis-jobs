@@ -1,0 +1,11 @@
+Job #1530.1:  Merge pull request #2008 from s1341/add_pad_copy
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        81cf3a6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b821d42a226...81cf3a6ab325
+Duration:      15 min 49 sec
+Started:       2013-11-24 21:39:32
+Finished:      2013-11-24 21:55:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

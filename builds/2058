@@ -1,0 +1,11 @@
+Job #2058.1:  clean up
+State:         failed
+Type:          push
+Branch:        new-icons
+Commit:        95cb721
+Compare URL:   https://github.com/ether/etherpad-lite/compare/09b08e5a72e0...95cb721914bc
+Duration:      22 min 21 sec
+Started:       2014-11-18 23:46:43
+Finished:      2014-11-19 00:09:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

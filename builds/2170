@@ -1,0 +1,11 @@
+Job #2170.1:  fix timeslider tests
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d36911d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/47029f2e6bdc...d36911da3003
+Duration:      14 min 32 sec
+Started:       2014-11-28 00:37:10
+Finished:      2014-11-28 00:51:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

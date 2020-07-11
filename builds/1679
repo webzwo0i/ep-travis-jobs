@@ -1,0 +1,11 @@
+Job #1679.1:  Timeslider: Don't crash if url rev hash is out of bounds
+State:         passed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        04842d3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c0307bdc3381...04842d39da56
+Duration:      13 min 19 sec
+Started:       2014-01-28 14:02:56
+Finished:      2014-01-28 14:16:15
+Allow Failure: false
+Config:        node_js: 0.10

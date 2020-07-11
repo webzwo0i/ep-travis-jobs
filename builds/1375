@@ -1,0 +1,11 @@
+Job #1375.1:  Merge pull request #1906 from ether/down-arrow-dont-be-weird
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6e4d940
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f59df2bb80f0...6e4d94069f57
+Duration:      21 min 14 sec
+Started:       2013-09-29 08:39:15
+Finished:      2013-09-29 09:00:29
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

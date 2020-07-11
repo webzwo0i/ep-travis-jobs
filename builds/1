@@ -1,0 +1,10 @@
+Job #1.1:  Merge pull request #1104 from Pita/release/releases-1.1.5
+State:         failed
+Type:          push
+Branch:        master
+Commit:        3944517
+Compare URL:   https://github.com/ether/etherpad-lite/compare/437937c35047...3944517aff7e
+Duration:      16 sec
+Started:       2012-11-14 20:41:21
+Finished:      2012-11-14 20:41:37
+Allow Failure: false

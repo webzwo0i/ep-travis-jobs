@@ -1,0 +1,11 @@
+Job #1100.1:  weird styling
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1699)
+Commit:        d863a06
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1699
+Duration:      11 min 3 sec
+Started:       2013-04-03 00:29:35
+Finished:      2013-04-03 00:40:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1048.1:  Merge pull request #1664 from ether/sticky-chat
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cee1ead
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2266061eea5e...cee1ead8f6b4
+Duration:      2 min 12 sec
+Started:       2013-03-26 21:13:18
+Finished:      2013-03-26 21:15:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

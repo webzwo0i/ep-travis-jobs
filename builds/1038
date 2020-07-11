@@ -1,0 +1,11 @@
+Job #1038.1:  API documentation: listAllPads() returns {padIDs: [...]} instead of [...]
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1673)
+Commit:        a6b28b1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1673
+Duration:      11 min 10 sec
+Started:       2013-03-26 16:41:43
+Finished:      2013-03-26 16:52:53
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

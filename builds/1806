@@ -1,0 +1,11 @@
+Job #1806.1:  abiword shouldnt be used for HTML native documents
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2149)
+Commit:        d88daeb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2149
+Duration:      16 min 5 sec
+Started:       2014-05-06 18:41:54
+Finished:      2014-05-06 18:57:59
+Allow Failure: false
+Config:        node_js: 0.10

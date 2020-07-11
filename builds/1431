@@ -1,0 +1,11 @@
+Job #1431.1:  Fix disconnect modals
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8c9e543
+Compare URL:   https://github.com/ether/etherpad-lite/compare/76bd25ac2160...8c9e543b913f
+Duration:      21 min 1 sec
+Started:       2013-10-12 22:30:19
+Finished:      2013-10-12 22:51:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

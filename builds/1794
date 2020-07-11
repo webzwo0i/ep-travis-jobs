@@ -1,0 +1,11 @@
+Job #1794.1:  Updated Brazilian Portuguese translation
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2133)
+Commit:        79f06fa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2133
+Duration:      11 min 19 sec
+Started:       2014-04-08 20:36:07
+Finished:      2014-04-08 20:47:26
+Allow Failure: false
+Config:        node_js: 0.10

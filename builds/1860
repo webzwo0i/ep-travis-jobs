@@ -1,0 +1,11 @@
+Job #1860.1:  Fix Pad#copy routine for updating group list
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2174)
+Commit:        3979edc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2174
+Duration:      17 min 29 sec
+Started:       2014-07-07 21:18:08
+Finished:      2014-07-07 21:35:37
+Allow Failure: false
+Config:        node_js: 0.10

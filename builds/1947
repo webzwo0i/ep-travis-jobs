@@ -1,0 +1,11 @@
+Job #1947.1:  Merge pull request #2116 from jdittrich/updateUnderscore
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4b488bc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/41b7f99204e2...4b488bc8af93
+Duration:      10 min 56 sec
+Started:       2014-11-01 17:37:35
+Finished:      2014-11-01 17:48:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

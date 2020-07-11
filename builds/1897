@@ -1,0 +1,11 @@
+Job #1897.1:  If exportFileName hook isn’t defined don’t return empty filename.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2252)
+Commit:        fb5013d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2252
+Duration:      10 min 31 sec
+Started:       2014-09-28 15:05:56
+Finished:      2014-09-28 15:16:27
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1848.1:  Merge pull request #1787 from goldquest/dev_nopass_whensession
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b1b972a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c627608ea5c8...b1b972a2b457
+Duration:      17 min 2 sec
+Started:       2014-06-17 14:02:28
+Finished:      2014-06-17 14:19:30
+Allow Failure: false
+Config:        node_js: 0.10

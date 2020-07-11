@@ -1,0 +1,11 @@
+Job #1805.1:  abiword shouldnt be used for HTML native documents
+State:         passed
+Type:          push
+Branch:        dont-use-abiword-for-html
+Commit:        6d38b05
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6d38b056230f
+Duration:      17 min 36 sec
+Started:       2014-05-06 18:46:24
+Finished:      2014-05-06 19:04:00
+Allow Failure: false
+Config:        node_js: 0.10

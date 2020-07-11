@@ -1,0 +1,11 @@
+Job #1080.1:  log things the log4js-way; put all the brackets on a new line
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1687)
+Commit:        8b2138e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1687
+Duration:      10 min 57 sec
+Started:       2013-03-30 20:48:34
+Finished:      2013-03-30 20:59:31
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1131.1:  version bump
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7492fb1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/288cfb0dc5dc...7492fb18a487
+Duration:      2 min 22 sec
+Started:       2013-04-06 15:31:29
+Finished:      2013-04-06 15:33:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

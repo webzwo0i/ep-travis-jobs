@@ -1,0 +1,11 @@
+Job #1265.1:  Merge pull request #1786 from clkao/saferun
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        cd277e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0aa0c69ba32d...cd277e5810a0
+Duration:      10 min 49 sec
+Started:       2013-06-02 14:43:39
+Finished:      2013-06-02 14:54:28
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1297.1:  Adapt and add slowness test from @JohnMcLear.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1833)
+Commit:        cec5c9c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1833
+Duration:      11 min 30 sec
+Started:       2013-07-14 22:49:35
+Finished:      2013-07-14 23:01:05
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

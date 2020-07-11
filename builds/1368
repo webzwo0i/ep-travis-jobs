@@ -1,0 +1,11 @@
+Job #1368.1:  dont crash on importing blank html
+State:         passed
+Type:          push
+Branch:        dont-crash-blank-html-import
+Commit:        c615ccf
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c615ccf514e0
+Duration:      13 min 27 sec
+Started:       2013-09-27 15:51:08
+Finished:      2013-09-27 16:04:35
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

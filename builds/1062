@@ -1,0 +1,11 @@
+Job #1062.1:  show light yellow for .5 secs on save revision keypress
+State:         passed
+Type:          push
+Branch:        ctrl-s-fade
+Commit:        c489177
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c48917720699
+Duration:      3 min 11 sec
+Started:       2013-03-28 03:56:49
+Finished:      2013-03-28 04:00:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

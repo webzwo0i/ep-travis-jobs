@@ -1,0 +1,11 @@
+Job #1759.1:  Polished the doc styles a little
+State:         errored
+Type:          push
+Branch:        doc/asset-css-suit-up
+Commit:        a4b0383
+Compare URL:   https://github.com/ether/etherpad-lite/compare/13ce58ed3cb2^...a4b03831c745
+Duration:      6 sec
+Started:       2014-03-27 18:19:35
+Finished:      2014-03-27 18:19:41
+Allow Failure: false
+Config:        node_js: 0.10

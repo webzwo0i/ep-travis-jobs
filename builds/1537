@@ -1,0 +1,11 @@
+Job #1537.1:  add josnminify to package.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1999)
+Commit:        80ffbca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1999
+Duration:      10 min 58 sec
+Started:       2013-11-26 09:29:29
+Finished:      2013-11-26 09:40:27
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

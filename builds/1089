@@ -1,0 +1,11 @@
+Job #1089.1:  Merge branch 'feature/support-node-0.10' into develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        04a53c4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b2c67e9980d...04a53c4402bd
+Duration:      2 min 10 sec
+Started:       2013-04-01 13:29:51
+Finished:      2013-04-01 13:32:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

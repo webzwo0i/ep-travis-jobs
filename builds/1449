@@ -1,0 +1,11 @@
+Job #1449.1:  stats for bad changesets
+State:         passed
+Type:          push
+Branch:        metrics
+Commit:        05db85c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/462dafe63704...05db85ceca3c
+Duration:      9 min 40 sec
+Started:       2013-10-21 00:39:32
+Finished:      2013-10-21 00:49:12
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

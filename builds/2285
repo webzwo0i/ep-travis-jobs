@@ -1,0 +1,11 @@
+Job #2285.1:  minor ts bg fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b1f29b9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/036df30c0eae...b1f29b914cbb
+Duration:      7 min 23 sec
+Started:       2014-12-27 22:06:12
+Finished:      2014-12-27 22:13:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

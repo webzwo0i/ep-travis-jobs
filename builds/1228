@@ -1,0 +1,11 @@
+Job #1228.1:  Update SocketIORouter.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1756)
+Commit:        b640e88
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1756
+Duration:      11 min 1 sec
+Started:       2013-04-22 22:06:47
+Finished:      2013-04-22 22:17:48
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

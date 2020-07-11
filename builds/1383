@@ -1,0 +1,11 @@
+Job #1383.1:  use val not value, broken with newer jq
+State:         errored
+Type:          push
+Branch:        make-username-show-properly
+Commit:        d69df91
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e1e92c100aa...d69df917095c
+Duration:      11 min 59 sec
+Started:       2013-10-03 01:38:07
+Finished:      2013-10-03 01:50:06
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

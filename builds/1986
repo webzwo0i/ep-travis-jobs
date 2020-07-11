@@ -1,0 +1,11 @@
+Job #1986.1:  remove logging
+State:         passed
+Type:          push
+Branch:        go-away-npm
+Commit:        fc5152c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c7061e47db8a...fc5152c2f319
+Duration:      21 min 43 sec
+Started:       2014-11-06 18:43:43
+Finished:      2014-11-06 19:05:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

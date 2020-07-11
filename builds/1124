@@ -1,0 +1,11 @@
+Job #1124.1:  no need for the language string on that div
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1710)
+Commit:        a4026d2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1710
+Duration:      10 min 50 sec
+Started:       2013-04-05 04:42:39
+Finished:      2013-04-05 04:53:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

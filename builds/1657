@@ -1,0 +1,11 @@
+Job #1657.1:  fix randomstring
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2068)
+Commit:        28f887c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2068
+Duration:      11 min 1 sec
+Started:       2014-01-24 01:31:05
+Finished:      2014-01-24 01:42:06
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1756.1:  Merge pull request #2092 from webzwo0i/fix-crash-with-queued-messages
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        56fd078
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e23af7e43999...56fd078469fa
+Duration:      12 min 25 sec
+Started:       2014-03-26 20:47:30
+Finished:      2014-03-26 20:59:55
+Allow Failure: false
+Config:        node_js: 0.10

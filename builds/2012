@@ -1,0 +1,11 @@
+Job #2012.1:  Merge pull request #2285 from talexand/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9c935a6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eff4863a2232...9c935a69975d
+Duration:      21 min 52 sec
+Started:       2014-11-15 16:55:29
+Finished:      2014-11-15 17:17:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

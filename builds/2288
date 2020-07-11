@@ -1,0 +1,11 @@
+Job #2288.1:  Merge pull request #2398 from ether/indentLevels
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        dd09f61
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c276343216dc...dd09f6144bf2
+Duration:      6 min 53 sec
+Started:       2014-12-27 23:27:52
+Finished:      2014-12-27 23:34:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

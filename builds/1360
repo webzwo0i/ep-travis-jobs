@@ -1,0 +1,11 @@
+Job #1360.1:  /admin/plugins: Fix search algorithm (use string match in lower case)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1904)
+Commit:        913525a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1904
+Duration:      11 min 59 sec
+Started:       2013-09-23 20:02:12
+Finished:      2013-09-23 20:14:11
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

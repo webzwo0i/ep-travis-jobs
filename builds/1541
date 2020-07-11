@@ -1,0 +1,11 @@
+Job #1541.1:  getAttributeOnSelection function
+State:         failed
+Type:          push
+Branch:        getAttributeOnSelection
+Commit:        dee2dab
+Compare URL:   https://github.com/ether/etherpad-lite/commit/dee2dab7c430
+Duration:      16 min 21 sec
+Started:       2013-11-28 18:28:52
+Finished:      2013-11-28 18:45:13
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

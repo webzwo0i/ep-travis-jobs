@@ -1,0 +1,11 @@
+Job #1159.1:  make sure elements are supported, still doesn't assign numbers properly
+State:         passed
+Type:          push
+Branch:        keep-list-order-on-paste
+Commit:        70a2596
+Compare URL:   https://github.com/ether/etherpad-lite/compare/49cff88a480a...70a25964b6dc
+Duration:      2 min 31 sec
+Started:       2013-04-09 00:33:37
+Finished:      2013-04-09 00:36:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

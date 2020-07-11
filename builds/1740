@@ -1,0 +1,11 @@
+Job #1740.1:  Merge pull request #2110 from ether/modularize-toolbar
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        8cd9b98
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cd0f5742f606...8cd9b98b767a
+Duration:      22 min 43 sec
+Started:       2014-03-16 18:20:08
+Finished:      2014-03-16 18:42:51
+Allow Failure: false
+Config:        node_js: 0.10

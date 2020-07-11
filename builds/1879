@@ -1,0 +1,11 @@
+Job #1879.1:  Merge pull request #2218 from simong/userLeave-hook
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e34a4ea
+Compare URL:   https://github.com/ether/etherpad-lite/compare/49bba7dfe230...e34a4ea4ee59
+Duration:      9 min 1 sec
+Started:       2014-08-08 17:48:23
+Finished:      2014-08-08 17:57:24
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2073.1:  fixed socket.io path
+State:         errored
+Type:          pull request
+Branch:        blocks-for-custom-script-and-styles (PR #2328)
+Commit:        16299e2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2328
+Duration:      11 min 12 sec
+Started:       2014-11-19 18:41:47
+Finished:      2014-11-19 18:52:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

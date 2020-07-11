@@ -1,0 +1,11 @@
+Job #1477.1:  Bugfix: new pads not in listAllPads data if padList cache already created
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1971)
+Commit:        b0af69f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1971
+Duration:      11 min 9 sec
+Started:       2013-10-28 22:59:03
+Finished:      2013-10-28 23:10:12
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

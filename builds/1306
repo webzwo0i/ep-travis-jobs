@@ -1,0 +1,11 @@
+Job #1306.1:  Merge pull request #1841 from ether/update/html10n.js
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        78820b8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/100c4627ece2...78820b857270
+Duration:      22 min 52 sec
+Started:       2013-07-23 12:53:12
+Finished:      2013-07-23 13:16:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

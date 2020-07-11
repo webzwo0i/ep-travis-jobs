@@ -1,0 +1,11 @@
+Job #1764.1:  fix error on focus remove from import/export
+State:         errored
+Type:          push
+Branch:        release/1.4.0
+Commit:        54bf17b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/56fd078469fa...54bf17bfea01
+Duration:      11 min 56 sec
+Started:       2014-03-29 14:34:25
+Finished:      2014-03-29 14:46:21
+Allow Failure: false
+Config:        node_js: 0.10

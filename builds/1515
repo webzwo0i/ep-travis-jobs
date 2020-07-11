@@ -1,0 +1,11 @@
+Job #1515.1:  semi-working build script for deb packages
+State:         failed
+Type:          push
+Branch:        packaging
+Commit:        61df1fa
+Compare URL:   https://github.com/ether/etherpad-lite/commit/61df1facd2a7
+Duration:      15 min 22 sec
+Started:       2013-11-24 03:43:35
+Finished:      2013-11-24 03:58:57
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

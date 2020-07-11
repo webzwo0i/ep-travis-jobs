@@ -1,0 +1,11 @@
+Job #1789.1:  resolve merge
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2033)
+Commit:        e02c381
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2033
+Duration:      18 min 43 sec
+Started:       2014-04-07 15:29:47
+Finished:      2014-04-07 15:48:30
+Allow Failure: false
+Config:        node_js: 0.10

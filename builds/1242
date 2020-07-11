@@ -1,0 +1,11 @@
+Job #1242.1:  cleanup, still not 100% sure on functionality
+State:         errored
+Type:          push
+Branch:        slow-chrome
+Commit:        8b48c7b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/01dd261282c1...8b48c7b91ef2
+Duration:      11 min 46 sec
+Started:       2013-04-29 04:32:38
+Finished:      2013-04-29 04:44:24
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

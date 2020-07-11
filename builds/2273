@@ -1,0 +1,11 @@
+Job #2273.1:  fix commenting
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2403)
+Commit:        699fb96
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2403
+Duration:      13 min 31 sec
+Started:       2014-12-27 17:19:21
+Finished:      2014-12-27 17:32:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

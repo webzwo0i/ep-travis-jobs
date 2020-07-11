@@ -1,0 +1,11 @@
+Job #2318.1:  move pad tests - still need to do copy pad and some other functionality IE force
+State:         errored
+Type:          push
+Branch:        write-delay
+Commit:        c9b0c68
+Compare URL:   https://github.com/ether/etherpad-lite/compare/302ceb665b2d...c9b0c6896e2e
+Duration:      11 min 42 sec
+Started:       2014-12-29 15:10:28
+Finished:      2014-12-29 15:22:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

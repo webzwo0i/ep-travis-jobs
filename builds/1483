@@ -1,0 +1,11 @@
+Job #1483.1:  Fixed #1981 - uncomplete HTTP API documentation
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1983)
+Commit:        75ee274
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1983
+Duration:      11 min 20 sec
+Started:       2013-11-07 22:29:27
+Finished:      2013-11-07 22:40:47
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

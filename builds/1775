@@ -1,0 +1,11 @@
+Job #1775.1:  docs: update api version
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a7671a6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/de3a60ee2a0a...a7671a690bc1
+Duration:      14 min 15 sec
+Started:       2014-03-30 15:11:14
+Finished:      2014-03-30 15:25:29
+Allow Failure: false
+Config:        node_js: 0.10

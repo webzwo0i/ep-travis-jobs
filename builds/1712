@@ -1,0 +1,11 @@
+Job #1712.1:  Merge pull request #2088 from simong/padUsersCallback
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8b572b8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ca8dce18408e...8b572b888cb2
+Duration:      7 min 55 sec
+Started:       2014-02-26 22:57:11
+Finished:      2014-02-26 23:05:06
+Allow Failure: false
+Config:        node_js: 0.10

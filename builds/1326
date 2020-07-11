@@ -1,0 +1,11 @@
+Job #1326.1:  allow users to have colons in password
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1877)
+Commit:        b86b10b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1877
+Duration:      10 min 55 sec
+Started:       2013-09-10 16:03:29
+Finished:      2013-09-10 16:14:24
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

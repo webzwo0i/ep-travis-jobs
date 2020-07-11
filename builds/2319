@@ -1,0 +1,11 @@
+Job #2319.1:  move pad tests - still need to do copy pad and some other functionality IE force
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2415)
+Commit:        9c75302
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2415
+Duration:      11 min 44 sec
+Started:       2014-12-29 15:10:43
+Finished:      2014-12-29 15:22:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

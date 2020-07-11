@@ -1,0 +1,11 @@
+Job #1444.1:  Privacy: Add an option to disable IP logging
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1950)
+Commit:        1875a23
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1950
+Duration:      10 min 56 sec
+Started:       2013-10-19 21:45:42
+Finished:      2013-10-19 21:56:38
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2359.1:  remove console log
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        83f62bb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b5c671a9b623...83f62bb6a92f
+Duration:      10 min 37 sec
+Started:       2014-12-31 14:22:17
+Finished:      2014-12-31 14:32:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

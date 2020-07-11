@@ -1,0 +1,11 @@
+Job #1248.1:  Merge pull request #1770 from ether/feature/travis_fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        42e164c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2273cf9ed688...42e164c1b6ef
+Duration:      11 min 6 sec
+Started:       2013-05-04 14:20:45
+Finished:      2013-05-04 14:31:51
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

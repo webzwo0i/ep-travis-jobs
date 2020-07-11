@@ -1,0 +1,11 @@
+Job #1683.1:  Timeslider: Fix display of author colors
+State:         failed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        d809959
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dd8d5e8c38b0...d809959f667d
+Duration:      21 min 43 sec
+Started:       2014-01-28 15:56:14
+Finished:      2014-01-28 16:17:57
+Allow Failure: false
+Config:        node_js: 0.10

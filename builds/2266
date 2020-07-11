@@ -1,0 +1,11 @@
+Job #2266.1:  Prevent server crash if author is not set
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2400)
+Commit:        efac897
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2400
+Duration:      10 min 46 sec
+Started:       2014-12-27 14:36:18
+Finished:      2014-12-27 14:47:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

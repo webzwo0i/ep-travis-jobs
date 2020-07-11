@@ -1,0 +1,11 @@
+Job #1992.1:  new api ver
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2300)
+Commit:        2ca1c12
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2300
+Duration:      10 min 36 sec
+Started:       2014-11-08 01:43:52
+Finished:      2014-11-08 01:54:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

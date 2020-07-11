@@ -1,0 +1,11 @@
+Job #2193.1:  minor ui polish
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ed96c13
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ee585f045755...ed96c13a1f4a
+Duration:      7 min 29 sec
+Started:       2014-11-29 01:54:47
+Finished:      2014-11-29 02:02:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

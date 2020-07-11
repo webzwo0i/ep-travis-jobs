@@ -1,0 +1,11 @@
+Job #1352.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into import-button-styling
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1899)
+Commit:        e1e1511
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1899
+Duration:      13 min 40 sec
+Started:       2013-09-21 17:26:17
+Finished:      2013-09-21 17:39:57
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

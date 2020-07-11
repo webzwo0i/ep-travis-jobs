@@ -1,0 +1,11 @@
+Job #1317.1:  Clarify how to access tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1869)
+Commit:        9283ff2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1869
+Duration:      11 min 5 sec
+Started:       2013-09-01 11:25:30
+Finished:      2013-09-01 11:36:35
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

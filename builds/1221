@@ -1,0 +1,11 @@
+Job #1221.1:  dont crash on no auth, ust a bandaid
+State:         errored
+Type:          push
+Branch:        dont-crash-noauth
+Commit:        3b8621c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/3b8621c6a005
+Duration:      11 min 58 sec
+Started:       2013-04-17 20:54:46
+Finished:      2013-04-17 21:06:44
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1101.1:  Merge pull request #1699 from ether/fix-custom
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f503f28
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b1a11d5d86c...f503f28b084f
+Duration:      2 min 5 sec
+Started:       2013-04-03 00:25:46
+Finished:      2013-04-03 00:27:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

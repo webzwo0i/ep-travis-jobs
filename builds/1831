@@ -1,0 +1,11 @@
+Job #1831.1:  Fix typos in easysync-full-description.tex
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2166)
+Commit:        5721fb6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2166
+Duration:      10 min 57 sec
+Started:       2014-06-02 07:01:45
+Finished:      2014-06-02 07:12:42
+Allow Failure: false
+Config:        node_js: 0.10

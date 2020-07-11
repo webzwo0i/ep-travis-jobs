@@ -1,0 +1,11 @@
+Job #1904.1:  Merge pull request #2258 from 0ip/fix/button-select
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f3f653f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4569e915925b...f3f653f07fc0
+Duration:      21 min 53 sec
+Started:       2014-10-05 13:42:18
+Finished:      2014-10-05 14:04:11
+Allow Failure: false
+Config:        node_js: 0.10

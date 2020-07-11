@@ -1,0 +1,11 @@
+Job #2352.1:  Merge pull request #2406 from Gared/fix/author-not-set-callback
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c20a7e9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5df638bfac35...c20a7e9bce8b
+Duration:      8 min 59 sec
+Started:       2014-12-30 14:56:28
+Finished:      2014-12-30 15:05:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

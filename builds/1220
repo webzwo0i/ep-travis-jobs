@@ -1,0 +1,11 @@
+Job #1220.1:  fixed spacing
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1751)
+Commit:        6a530fb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1751
+Duration:      11 min 1 sec
+Started:       2013-04-17 18:18:07
+Finished:      2013-04-17 18:29:08
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

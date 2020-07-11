@@ -1,0 +1,11 @@
+Job #1323.1:  fix padUsers http api call in PadMessageHandler.js.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1874)
+Commit:        671e458
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1874
+Duration:      11 min 10 sec
+Started:       2013-09-09 16:28:26
+Finished:      2013-09-09 16:39:36
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

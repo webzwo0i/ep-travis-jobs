@@ -1,0 +1,11 @@
+Job #1678.1:  Timeslider: Fix calcPath()'s smart overshooting feature
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        da62a2f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      21 min 1 sec
+Started:       2014-01-28 13:47:05
+Finished:      2014-01-28 14:08:06
+Allow Failure: false
+Config:        node_js: 0.10

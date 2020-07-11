@@ -1,0 +1,11 @@
+Job #1373.1:  Merge pull request #1909 from ether/dont-crash-blank-html-import
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e573461
+Compare URL:   https://github.com/ether/etherpad-lite/compare/56bc632d410f...e573461c9b34
+Duration:      15 min 22 sec
+Started:       2013-09-27 21:07:15
+Finished:      2013-09-27 21:22:37
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1390.1:  do not pass historical author data to read only users
+State:         errored
+Type:          push
+Branch:        dont-pass-padid-in-historical-authors
+Commit:        b32aaae
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b32aaaeb1b89
+Duration:      12 min 26 sec
+Started:       2013-10-06 16:31:30
+Finished:      2013-10-06 16:43:56
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

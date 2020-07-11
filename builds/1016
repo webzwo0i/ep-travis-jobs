@@ -1,0 +1,11 @@
+Job #1016.1:  adds missing semicolons in src/node/handler folder
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1663)
+Commit:        1310978
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1663
+Duration:      1 min 6 sec
+Started:       2013-03-24 01:37:51
+Finished:      2013-03-24 01:38:57
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2187.1:  correct kernel v#
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2350)
+Commit:        1bbed56
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2350
+Duration:      11 min 13 sec
+Started:       2014-11-28 18:57:05
+Finished:      2014-11-28 19:08:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

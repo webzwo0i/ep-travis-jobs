@@ -1,0 +1,11 @@
+Job #1901.1:  Merge pull request #2256 from 0ip/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4569e91
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d25d81b9e2bf...4569e915925b
+Duration:      12 min 16 sec
+Started:       2014-10-03 21:54:11
+Finished:      2014-10-03 22:06:27
+Allow Failure: false
+Config:        node_js: 0.10

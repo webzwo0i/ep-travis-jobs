@@ -1,0 +1,11 @@
+Job #1828.1:  typof fix
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2114)
+Commit:        a19fa5f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2114
+Duration:      10 min 47 sec
+Started:       2014-05-31 23:06:05
+Finished:      2014-05-31 23:16:52
+Allow Failure: false
+Config:        node_js: 0.10

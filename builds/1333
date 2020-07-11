@@ -1,0 +1,11 @@
+Job #1333.1:  Beautify infinite scroll
+State:         passed
+Type:          push
+Branch:        fix/adminplugins/loading-and-scroll
+Commit:        2b46bc4
+Compare URL:   https://github.com/ether/etherpad-lite/commit/2b46bc40a1e9
+Duration:      14 min 19 sec
+Started:       2013-09-12 16:38:34
+Finished:      2013-09-12 16:52:53
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

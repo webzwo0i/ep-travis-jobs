@@ -1,0 +1,11 @@
+Job #2691.1:  Merge pull request #2423 from ether/fix/reimplement-ace-getAttributeOnSelection
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        70fdc7d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8c795b4e8a83...70fdc7dcd727
+Duration:      13 min 35 sec
+Started:       2015-04-01 00:23:21
+Finished:      2015-04-01 00:36:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

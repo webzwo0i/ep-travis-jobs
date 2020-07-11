@@ -1,0 +1,11 @@
+Job #1305.1:  Make use of the new plural macro
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1841)
+Commit:        7777fe7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1841
+Duration:      22 min 31 sec
+Started:       2013-07-23 12:51:38
+Finished:      2013-07-23 13:14:09
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

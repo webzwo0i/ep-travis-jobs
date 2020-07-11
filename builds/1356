@@ -1,0 +1,11 @@
+Job #1356.1:  Merge pull request #1900 from ether/dont-include-file-name-on-import
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7898c35
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c30101ab42f6...7898c350f7f8
+Duration:      22 min 58 sec
+Started:       2013-09-22 00:39:58
+Finished:      2013-09-22 01:02:56
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

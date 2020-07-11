@@ -1,0 +1,11 @@
+Job #229.1:  rebuild merged locales on server restart
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1279)
+Commit:        8893883
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1279
+Duration:      13 min 4 sec
+Started:       2012-12-11 20:08:14
+Finished:      2012-12-11 20:21:18
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

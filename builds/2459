@@ -1,0 +1,11 @@
+Job #2459.1:  Merge pull request #2479 from ether/export-privacy
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ee48b8b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9e8bad021cb3...ee48b8b93a04
+Duration:      19 min 5 sec
+Started:       2015-01-21 02:21:44
+Finished:      2015-01-21 02:40:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

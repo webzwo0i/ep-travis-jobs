@@ -1,0 +1,11 @@
+Job #2025.1:  comment out console logs
+State:         passed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        98e157e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ad142d49dcfb...98e157e4eb0a
+Duration:      22 min 22 sec
+Started:       2014-11-15 18:14:41
+Finished:      2014-11-15 18:37:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

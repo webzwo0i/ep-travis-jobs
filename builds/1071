@@ -1,0 +1,11 @@
+Job #1071.1:  Merge pull request #1681 from ether/loading_block
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        406ff8e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c6041bf0c288...406ff8e6f830
+Duration:      2 min 11 sec
+Started:       2013-03-29 04:02:15
+Finished:      2013-03-29 04:04:26
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

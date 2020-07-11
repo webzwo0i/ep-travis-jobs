@@ -1,0 +1,11 @@
+Job #1377.1:  works but hides caret on full line and not on X too, X is much harder to do
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1912)
+Commit:        ab75241
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1912
+Duration:      25 min 11 sec
+Started:       2013-09-29 09:23:29
+Finished:      2013-09-29 09:48:40
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

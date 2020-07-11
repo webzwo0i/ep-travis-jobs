@@ -1,0 +1,11 @@
+Job #2060.1:  more polish
+State:         failed
+Type:          push
+Branch:        new-icons
+Commit:        e821cb1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/95cb721914bc...e821cb13fa07
+Duration:      21 min 54 sec
+Started:       2014-11-18 23:55:36
+Finished:      2014-11-19 00:17:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1441.1:  Pad list cache: You can't change the cache if it's not initiated
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1943)
+Commit:        3ed83a5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1943
+Duration:      10 min 36 sec
+Started:       2013-10-14 18:35:42
+Finished:      2013-10-14 18:46:18
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

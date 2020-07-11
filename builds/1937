@@ -1,0 +1,11 @@
+Job #1937.1:  chrome browser change wrapping type
+State:         failed
+Type:          push
+Branch:        chrome-paste
+Commit:        ac2e949
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ac2e949c3ef1
+Duration:      13 min 10 sec
+Started:       2014-10-24 01:14:52
+Finished:      2014-10-24 01:28:02
+Allow Failure: false
+Config:        node_js: 0.10

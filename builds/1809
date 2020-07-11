@@ -1,0 +1,11 @@
+Job #1809.1:  working logic for allowing a server side hook to modify the export file name but NOT the extension
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2150)
+Commit:        74d57c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2150
+Duration:      17 min 37 sec
+Started:       2014-05-06 22:21:20
+Finished:      2014-05-06 22:38:57
+Allow Failure: false
+Config:        node_js: 0.10

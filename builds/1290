@@ -1,0 +1,11 @@
+Job #1290.1:  whoops
+State:         passed
+Type:          push
+Branch:        clean-css-update
+Commit:        8ec81ea
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d306537c648c...8ec81ea81ba0
+Duration:      7 min 27 sec
+Started:       2013-06-25 17:18:52
+Finished:      2013-06-25 17:26:19
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

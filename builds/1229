@@ -1,0 +1,11 @@
+Job #1229.1:  Highlight mumble:// urls
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1759)
+Commit:        1c883c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1759
+Duration:      11 min 10 sec
+Started:       2013-04-23 23:13:47
+Finished:      2013-04-23 23:24:57
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

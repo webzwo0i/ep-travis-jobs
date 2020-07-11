@@ -1,0 +1,11 @@
+Job #1445.1:  stats and metrics object available
+State:         failed
+Type:          push
+Branch:        metrics
+Commit:        c7608d6
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c7608d6963a6
+Duration:      16 min 17 sec
+Started:       2013-10-20 23:18:04
+Finished:      2013-10-20 23:34:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

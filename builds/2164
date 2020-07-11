@@ -1,0 +1,11 @@
+Job #2164.1:  yeah need htis too
+State:         failed
+Type:          push
+Branch:        require-kernel-change
+Commit:        c133019
+Compare URL:   https://github.com/ether/etherpad-lite/compare/61c6deda2e5a...c13301966f4d
+Duration:      22 min 14 sec
+Started:       2014-11-27 03:57:25
+Finished:      2014-11-27 04:19:39
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

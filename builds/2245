@@ -1,0 +1,11 @@
+Job #2245.1:  fix issue with attributes
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b71fb3a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/70ba525430e4...b71fb3ad20a6
+Duration:      8 min 29 sec
+Started:       2014-12-23 03:40:16
+Finished:      2014-12-23 03:48:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

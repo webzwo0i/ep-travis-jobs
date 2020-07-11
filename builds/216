@@ -1,0 +1,11 @@
+Job #216.1:  Remove async load of l10n.js because Chrome fail to translate
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1274)
+Commit:        d12b457
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1274
+Duration:      13 min
+Started:       2012-12-09 10:27:55
+Finished:      2012-12-09 10:40:55
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1593.1:  clean
+State:         errored
+Type:          push
+Branch:        support-images
+Commit:        2ebfb33
+Compare URL:   https://github.com/ether/etherpad-lite/compare/99e58e843bd0...2ebfb335d4ab
+Duration:      11 min 58 sec
+Started:       2013-12-12 01:24:37
+Finished:      2013-12-12 01:36:35
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

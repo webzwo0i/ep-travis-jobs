@@ -1,0 +1,11 @@
+Job #2223.1:  docs
+State:         passed
+Type:          push
+Branch:        hook_for_exportHTMLStyles
+Commit:        fccfc3b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3a2669b70488...fccfc3bd417c
+Duration:      16 min 26 sec
+Started:       2014-12-09 17:33:22
+Finished:      2014-12-09 17:49:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

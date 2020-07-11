@@ -1,0 +1,11 @@
+Job #1951.1:  Fixes #1414
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        d54bb52
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4b488bc8af93...d54bb52b759b
+Duration:      11 min
+Started:       2014-11-01 19:19:03
+Finished:      2014-11-01 19:30:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

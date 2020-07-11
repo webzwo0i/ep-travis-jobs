@@ -1,0 +1,11 @@
+Job #243.1:  Fix html10n cache and lang fallback
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        7234510
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 2 sec
+Started:       2012-12-19 17:04:57
+Finished:      2012-12-19 17:17:59
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

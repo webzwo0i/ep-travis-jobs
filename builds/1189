@@ -1,0 +1,11 @@
+Job #1189.1:  Merge pull request #1732 from ether/authorID-2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        08b54ef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b137f301e2cb...08b54ef61ba7
+Duration:      2 min 21 sec
+Started:       2013-04-12 15:37:36
+Finished:      2013-04-12 15:39:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

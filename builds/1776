@@ -1,0 +1,11 @@
+Job #1776.1:  Merge branch 'release/1.4.0'
+State:         passed
+Type:          push
+Branch:        master
+Commit:        c6d13a9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/44f8b4371919...c6d13a965c51
+Duration:      7 min 30 sec
+Started:       2014-03-30 15:13:25
+Finished:      2014-03-30 15:20:55
+Allow Failure: false
+Config:        node_js: 0.10

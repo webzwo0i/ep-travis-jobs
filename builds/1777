@@ -1,0 +1,11 @@
+Job #1777.1:  Merge branch 'master' into develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        874181c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a7671a690bc1...874181ce3ba1
+Duration:      12 min 10 sec
+Started:       2014-03-30 15:13:37
+Finished:      2014-03-30 15:25:47
+Allow Failure: false
+Config:        node_js: 0.10

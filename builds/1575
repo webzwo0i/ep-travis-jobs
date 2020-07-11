@@ -1,0 +1,11 @@
+Job #1575.1:  fix closing of </title> tag
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2027)
+Commit:        a4fad76
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2027
+Duration:      10 min 57 sec
+Started:       2013-12-08 14:09:07
+Finished:      2013-12-08 14:20:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

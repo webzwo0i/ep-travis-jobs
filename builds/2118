@@ -1,0 +1,11 @@
+Job #2118.1:  really recreate socketio-client in expressCreateServer, fixes #2342
+State:         failed
+Type:          push
+Branch:        fix-2320-crash
+Commit:        5c3874c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cef23ac04580...5c3874c0a130
+Duration:      22 min 7 sec
+Started:       2014-11-25 22:37:27
+Finished:      2014-11-25 22:59:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

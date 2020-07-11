@@ -1,0 +1,11 @@
+Job #1226.1:  Merge pull request #1754 from goldquest/patch-1
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        acd2e9f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f478f9999555...acd2e9ff6868
+Duration:      11 min 37 sec
+Started:       2013-04-18 13:38:50
+Finished:      2013-04-18 13:50:27
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

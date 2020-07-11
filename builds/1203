@@ -1,0 +1,11 @@
+Job #1203.1:  catch error on export
+State:         errored
+Type:          push
+Branch:        dont-crash-on-export-abiword
+Commit:        f987299
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f987299a5d5a
+Duration:      11 min 42 sec
+Started:       2013-04-16 00:04:48
+Finished:      2013-04-16 00:16:30
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

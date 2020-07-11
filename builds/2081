@@ -1,0 +1,11 @@
+Job #2081.1:  missing socketio fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        703440a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ff9a2a687f8c...703440acd786
+Duration:      14 min 36 sec
+Started:       2014-11-21 01:13:47
+Finished:      2014-11-21 01:28:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

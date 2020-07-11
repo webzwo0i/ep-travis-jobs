@@ -1,0 +1,11 @@
+Job #2261.1:  support for export
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2398)
+Commit:        a67bc06
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2398
+Duration:      15 min 26 sec
+Started:       2014-12-27 13:28:09
+Finished:      2014-12-27 13:43:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

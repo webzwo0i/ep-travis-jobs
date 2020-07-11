@@ -1,0 +1,11 @@
+Job #1965.1:  more stuff required to stop it crashing, now we have identified what needs fixing we can fix it
+State:         failed
+Type:          push
+Branch:        socket-io-1
+Commit:        adef0af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e53c4f5f044...adef0af227a7
+Duration:      18 min 55 sec
+Started:       2014-11-04 19:07:19
+Finished:      2014-11-04 19:26:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

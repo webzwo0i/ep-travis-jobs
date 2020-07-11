@@ -1,0 +1,11 @@
+Job #1964.1:  identify which parts are causing issues and comment them out, obviously this needs fixing
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        1e53c4f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2c801cc558bd...1e53c4f5f044
+Duration:      14 min 50 sec
+Started:       2014-11-04 19:04:52
+Finished:      2014-11-04 19:19:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

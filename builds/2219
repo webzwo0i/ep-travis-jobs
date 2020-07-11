@@ -1,0 +1,11 @@
+Job #2219.1:  Allow for shardable Etherpad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2370)
+Commit:        06dcc66
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2370
+Duration:      11 min 58 sec
+Started:       2014-12-09 16:21:29
+Finished:      2014-12-09 16:33:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

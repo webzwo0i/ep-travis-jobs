@@ -1,0 +1,11 @@
+Job #2599.1:  Add changelog for v1.5.2
+State:         failed
+Type:          push
+Branch:        release/1.5.2
+Commit:        c0260bc
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c0260bcc40e9
+Duration:      22 min 20 sec
+Started:       2015-03-15 14:30:43
+Finished:      2015-03-15 14:53:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

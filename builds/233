@@ -1,0 +1,11 @@
+Job #233.1:  Replace webL10n with html10n.js
+State:         failed
+Type:          push
+Branch:        migrate-to-html10n
+Commit:        b88f0f4
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b88f0f45e29d
+Duration:      6 min 51 sec
+Started:       2012-12-16 18:27:29
+Finished:      2012-12-16 18:34:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2086.1:  Merge pull request #2333 from l-y-n-x/admin_path
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        1ed12c6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/488d6890f917...1ed12c65554c
+Duration:      10 min 57 sec
+Started:       2014-11-22 14:45:45
+Finished:      2014-11-22 14:56:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1524.1:  growwlll
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2007)
+Commit:        35d26b7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2007
+Duration:      22 min 26 sec
+Started:       2013-11-24 14:00:09
+Finished:      2013-11-24 14:22:35
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

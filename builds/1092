@@ -1,0 +1,11 @@
+Job #1092.1:  Merge pull request #1692 from ether/fix/drop-0.6-support
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        42b9351
+Compare URL:   https://github.com/ether/etherpad-lite/compare/04a53c4402bd...42b935193375
+Duration:      2 min 5 sec
+Started:       2013-04-01 14:09:54
+Finished:      2013-04-01 14:11:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

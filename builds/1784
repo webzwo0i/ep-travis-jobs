@@ -1,0 +1,11 @@
+Job #1784.1:  Toolbar: Fix timeslider button
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2126)
+Commit:        f4dbd0c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2126
+Duration:      8 sec
+Started:       2014-03-31 20:54:19
+Finished:      2014-03-31 20:54:27
+Allow Failure: false
+Config:        node_js: 0.10

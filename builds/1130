@@ -1,0 +1,11 @@
+Job #1130.1:  Merge pull request #1712 from goldquest/dev_imp-browser-detect-fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        288cfb0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/38f54057a0c8...288cfb0dc5dc
+Duration:      2 min 8 sec
+Started:       2013-04-05 23:04:49
+Finished:      2013-04-05 23:06:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

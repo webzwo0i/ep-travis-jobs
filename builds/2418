@@ -1,0 +1,11 @@
+Job #2418.1:  more export logic handling
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6bc74a9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e50ea6ffea8e...6bc74a9adbbb
+Duration:      17 min 8 sec
+Started:       2015-01-19 00:34:40
+Finished:      2015-01-19 00:51:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1238.1:  clearer test description
+State:         errored
+Type:          push
+Branch:        slow-chrome
+Commit:        0450bd6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/40f797c32e59...0450bd64d33a
+Duration:      11 min 41 sec
+Started:       2013-04-29 03:39:41
+Finished:      2013-04-29 03:51:22
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

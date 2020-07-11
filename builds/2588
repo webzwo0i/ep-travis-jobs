@@ -1,0 +1,11 @@
+Job #2588.1:  bump ueber
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4e0353b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cc0eaba7e262...4e0353b3ef4e
+Duration:      16 min 45 sec
+Started:       2015-03-02 10:00:19
+Finished:      2015-03-02 10:17:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

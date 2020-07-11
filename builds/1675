@@ -1,0 +1,11 @@
+Job #1675.1:  Timeslider UI: Polish the timestamp and move it together with the handle
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        fd4d46f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      15 min 36 sec
+Started:       2014-01-26 15:32:29
+Finished:      2014-01-26 15:48:05
+Allow Failure: false
+Config:        node_js: 0.10

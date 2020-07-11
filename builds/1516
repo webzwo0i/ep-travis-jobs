@@ -1,0 +1,11 @@
+Job #1516.1:  ignore deb and create user
+State:         passed
+Type:          push
+Branch:        packaging
+Commit:        bb40644
+Compare URL:   https://github.com/ether/etherpad-lite/compare/61df1facd2a7...bb406448568c
+Duration:      12 min 27 sec
+Started:       2013-11-24 03:52:56
+Finished:      2013-11-24 04:05:23
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

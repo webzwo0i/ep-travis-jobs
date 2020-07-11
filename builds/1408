@@ -1,0 +1,11 @@
+Job #1408.1:  Polish logging of client-side errors on the server
+State:         passed
+Type:          push
+Branch:        fix/client-side-error-logging-in-server-log
+Commit:        b7c7685
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b7c7685dc70e
+Duration:      9 min 3 sec
+Started:       2013-10-10 18:48:52
+Finished:      2013-10-10 18:57:55
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

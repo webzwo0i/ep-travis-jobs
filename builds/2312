@@ -1,0 +1,11 @@
+Job #2312.1:  Merge pull request #2414 from ether/remove-old
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b3cf41a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/321d550d432c...b3cf41ab926d
+Duration:      22 min 30 sec
+Started:       2014-12-29 01:59:50
+Finished:      2014-12-29 02:22:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

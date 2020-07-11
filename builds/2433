@@ -1,0 +1,11 @@
+Job #2433.1:  nearly fully working
+State:         failed
+Type:          push
+Branch:        new-sethtml-tests
+Commit:        7958f3b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4f637befeb44...7958f3b7232c
+Duration:      22 min 27 sec
+Started:       2015-01-19 04:09:43
+Finished:      2015-01-19 04:32:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

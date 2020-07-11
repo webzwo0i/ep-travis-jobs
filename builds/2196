@@ -1,0 +1,11 @@
+Job #2196.1:  yet more minor css polish
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d7e980c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ed96c13a1f4a...d7e980cd4755
+Duration:      8 min 42 sec
+Started:       2014-11-29 03:24:54
+Finished:      2014-11-29 03:33:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

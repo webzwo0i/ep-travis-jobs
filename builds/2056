@@ -1,0 +1,11 @@
+Job #2056.1:  working pause
+State:         failed
+Type:          push
+Branch:        new-icons
+Commit:        09b08e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a06f01c04a3c...09b08e5a72e0
+Duration:      22 min 39 sec
+Started:       2014-11-18 23:36:49
+Finished:      2014-11-18 23:59:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

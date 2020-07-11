@@ -1,0 +1,11 @@
+Job #1232.1:  Add a server-side changeset queue per pad
+State:         errored
+Type:          push
+Branch:        feature/add-cs-queue
+Commit:        2c855de
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cd288c70cb6b...2c855de6f698
+Duration:      11 min 33 sec
+Started:       2013-04-27 23:05:57
+Finished:      2013-04-27 23:17:30
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

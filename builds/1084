@@ -1,0 +1,11 @@
+Job #1084.1:  Decode session-cookies in SecurityManager.checkAccess since our separator ',' gets encoded which messes up our split()
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1690)
+Commit:        7c4f342
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1690
+Duration:      11 min 3 sec
+Started:       2013-03-31 12:28:04
+Finished:      2013-03-31 12:39:07
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

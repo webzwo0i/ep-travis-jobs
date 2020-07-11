@@ -1,0 +1,11 @@
+Job #1924.1:  Use 'evt.shiftKey' instead of matching 'charCodes'
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2271)
+Commit:        ad14551
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2271
+Duration:      11 min 7 sec
+Started:       2014-10-14 15:12:13
+Finished:      2014-10-14 15:23:20
+Allow Failure: false
+Config:        node_js: 0.10

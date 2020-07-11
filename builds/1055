@@ -1,0 +1,11 @@
+Job #1055.1:  /admin/plugins: Add a loading indicator to some messages
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1672)
+Commit:        484c0bf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1672
+Duration:      10 min 57 sec
+Started:       2013-03-27 12:22:17
+Finished:      2013-03-27 12:33:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

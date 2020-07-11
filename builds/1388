@@ -1,0 +1,11 @@
+Job #1388.1:  Merge pull request #1920 from ether/allow-err-msg-from-listpadsof-author
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        37586d6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6dc424098557...37586d646ee5
+Duration:      11 min 57 sec
+Started:       2013-10-03 15:47:33
+Finished:      2013-10-03 15:59:30
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

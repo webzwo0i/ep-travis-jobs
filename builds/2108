@@ -1,0 +1,11 @@
+Job #2108.1:  use cheerio instead of jsdom
+State:         passed
+Type:          push
+Branch:        jsdom-go-away
+Commit:        60d44cd
+Compare URL:   https://github.com/ether/etherpad-lite/commit/60d44cd3df20
+Duration:      14 min 1 sec
+Started:       2014-11-25 18:31:46
+Finished:      2014-11-25 18:45:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1269.1:  Cleanup gophers
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1804)
+Commit:        99f4ba2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1804
+Duration:      11 min 13 sec
+Started:       2013-06-12 18:25:04
+Finished:      2013-06-12 18:36:17
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

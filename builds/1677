@@ -1,0 +1,11 @@
+Job #1677.1:  Timeslider: Display real-time changes in play mode
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        5e40f35
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      16 min 12 sec
+Started:       2014-01-26 22:08:26
+Finished:      2014-01-26 22:24:38
+Allow Failure: false
+Config:        node_js: 0.10

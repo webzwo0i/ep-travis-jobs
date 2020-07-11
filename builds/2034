@@ -1,0 +1,11 @@
+Job #2034.1:  client side code now fixed
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2319)
+Commit:        c27dd4e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2319
+Duration:      11 min 33 sec
+Started:       2014-11-18 15:12:34
+Finished:      2014-11-18 15:24:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

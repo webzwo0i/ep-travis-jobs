@@ -1,0 +1,11 @@
+Job #2112.1:  mheh no browser requirement at all
+State:         errored
+Type:          push
+Branch:        jsdom-go-away
+Commit:        2a062f8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c2c0cb690763...2a062f8dc361
+Duration:      11 min 20 sec
+Started:       2014-11-25 19:21:17
+Finished:      2014-11-25 19:32:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

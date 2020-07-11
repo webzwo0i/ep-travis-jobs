@@ -1,0 +1,11 @@
+Job #1453.1:  Add support for recording metrics
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1952)
+Commit:        5eea2f8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1952
+Duration:      13 min 56 sec
+Started:       2013-10-21 16:45:13
+Finished:      2013-10-21 16:59:09
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

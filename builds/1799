@@ -1,0 +1,11 @@
+Job #1799.1:  Try fixing #2107 by removing checkRep
+State:         failed
+Type:          push
+Branch:        try/client-init-remove-checkRep
+Commit:        ed25ffb
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ed25ffb025b0
+Duration:      8 min 22 sec
+Started:       2014-04-25 23:55:05
+Finished:      2014-04-26 00:03:27
+Allow Failure: false
+Config:        node_js: 0.10

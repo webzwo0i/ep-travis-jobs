@@ -1,0 +1,11 @@
+Job #2279.1:  working test spec
+State:         passed
+Type:          push
+Branch:        import-export-improvements
+Commit:        5733ffa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5e55d3cc2c56...5733ffa5efa9
+Duration:      7 min 48 sec
+Started:       2014-12-27 18:10:42
+Finished:      2014-12-27 18:18:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

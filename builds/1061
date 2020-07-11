@@ -1,0 +1,11 @@
+Job #1061.1:  Merge pull request #1675 from ether/fix/process-uncaughtException-event-handler-leak
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c6041bf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/09b32ea6946d...c6041bf0c288
+Duration:      2 min 19 sec
+Started:       2013-03-27 20:47:07
+Finished:      2013-03-27 20:49:26
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

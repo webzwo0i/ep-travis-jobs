@@ -1,0 +1,11 @@
+Job #1120.1:  Some comments but it still spams the database with a SET for each request
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1708)
+Commit:        aa53b08
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1708
+Duration:      11 min 32 sec
+Started:       2013-04-05 00:27:01
+Finished:      2013-04-05 00:38:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

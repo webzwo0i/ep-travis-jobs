@@ -1,0 +1,11 @@
+Job #1237.1:  base of a test for slow response
+State:         errored
+Type:          push
+Branch:        slow-chrome
+Commit:        40f797c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/40f797c32e59
+Duration:      11 min 31 sec
+Started:       2013-04-29 03:37:59
+Finished:      2013-04-29 03:49:30
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

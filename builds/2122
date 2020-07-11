@@ -1,0 +1,11 @@
+Job #2122.1:  multiline
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2341)
+Commit:        b5cfd47
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2341
+Duration:      11 min 48 sec
+Started:       2014-11-25 23:16:06
+Finished:      2014-11-25 23:27:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

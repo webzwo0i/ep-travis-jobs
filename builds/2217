@@ -1,0 +1,11 @@
+Job #2217.1:  this class was in before, it is used to show when a style is applied to a piece of content
+State:         passed
+Type:          push
+Branch:        hook_for_exportHTMLStyles
+Commit:        653cc6c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b94a525e07a5...653cc6c87fe8
+Duration:      23 min 54 sec
+Started:       2014-12-09 16:02:29
+Finished:      2014-12-09 16:26:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

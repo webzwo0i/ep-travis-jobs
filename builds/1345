@@ -1,0 +1,11 @@
+Job #1345.1:  Merge pull request #1897 from GuillaumeAmat/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cf3c8e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c095c6028480...cf3c8e599f9d
+Duration:      7 min 20 sec
+Started:       2013-09-21 16:48:01
+Finished:      2013-09-21 16:55:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

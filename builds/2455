@@ -1,0 +1,11 @@
+Job #2455.1:  better logic for author handling
+State:         passed
+Type:          push
+Branch:        export-privacy
+Commit:        cb65224
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5f9bbd066602...cb6522499734
+Duration:      15 min 14 sec
+Started:       2015-01-21 01:29:14
+Finished:      2015-01-21 01:44:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

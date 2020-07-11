@@ -1,0 +1,11 @@
+Job #231.1:  Merge pull request #1282 from marcelklehr/docs/fix/translate-on-twn-pls
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        22501f8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a5965bcdb505...22501f8b5bd9
+Duration:      6 min 36 sec
+Started:       2012-12-12 14:51:43
+Finished:      2012-12-12 14:58:19
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

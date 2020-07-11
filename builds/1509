@@ -1,0 +1,11 @@
+Job #1509.1:  Don't try validating JSON-ish settings in /admin/settings
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1998)
+Commit:        8acfc12
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1998
+Duration:      17 min 39 sec
+Started:       2013-11-19 13:47:37
+Finished:      2013-11-19 14:05:16
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

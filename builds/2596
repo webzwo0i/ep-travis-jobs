@@ -1,0 +1,11 @@
+Job #2596.1:  Merge pull request #2548 from lid2000/patch-1
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ec7ff3a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/56dbad41ada0...ec7ff3a0cac8
+Duration:      11 min 48 sec
+Started:       2015-03-13 11:52:31
+Finished:      2015-03-13 12:04:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

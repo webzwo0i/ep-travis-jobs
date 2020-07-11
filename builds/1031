@@ -1,0 +1,11 @@
+Job #1031.1:  /admin/plugins: Make it display the same amount of plugins after sorting
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1672)
+Commit:        28d0b7d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1672
+Duration:      10 min 59 sec
+Started:       2013-03-26 11:40:29
+Finished:      2013-03-26 11:51:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

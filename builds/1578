@@ -1,0 +1,11 @@
+Job #1578.1:  Merge pull request #2027 from webzwo0i/fix-import
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        bae7766
+Compare URL:   https://github.com/ether/etherpad-lite/compare/98c4e32a142f...bae77666a40b
+Duration:      15 min 17 sec
+Started:       2013-12-09 15:57:05
+Finished:      2013-12-09 16:12:22
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

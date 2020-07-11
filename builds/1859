@@ -1,0 +1,11 @@
+Job #1859.1:  Fallback for browsers that don't support window.history.pushstate
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2180)
+Commit:        306306e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2180
+Duration:      10 min 51 sec
+Started:       2014-07-07 00:23:21
+Finished:      2014-07-07 00:34:12
+Allow Failure: false
+Config:        node_js: 0.10

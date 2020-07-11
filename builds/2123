@@ -1,0 +1,11 @@
+Job #2123.1:  remove jsdom dep
+State:         passed
+Type:          push
+Branch:        jsdom-go-away
+Commit:        881763f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/77de2d918bbd...881763f663e4
+Duration:      22 min 55 sec
+Started:       2014-11-25 23:17:36
+Finished:      2014-11-25 23:40:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2226.1:  disconnect client if it submits a changeset that has a wrong number of newlines in op
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2372)
+Commit:        fd415cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2372
+Duration:      11 min 27 sec
+Started:       2014-12-14 18:03:41
+Finished:      2014-12-14 18:15:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

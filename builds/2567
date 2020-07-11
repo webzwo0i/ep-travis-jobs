@@ -1,0 +1,11 @@
+Job #2567.1:  Merge pull request #2519 from Gared/support_node_0.12
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d1b1f37
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e39b4428405d...d1b1f376bb0a
+Duration:      10 min 4 sec
+Started:       2015-02-16 01:10:50
+Finished:      2015-02-16 01:20:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

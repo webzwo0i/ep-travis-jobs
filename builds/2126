@@ -1,0 +1,11 @@
+Job #2126.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into jsdom-go-away
+State:         failed
+Type:          push
+Branch:        jsdom-go-away
+Commit:        8851b8a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/881763f663e4...8851b8ab6b25
+Duration:      22 min 19 sec
+Started:       2014-11-25 23:50:06
+Finished:      2014-11-26 00:12:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

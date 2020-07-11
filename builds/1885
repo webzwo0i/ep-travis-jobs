@@ -1,0 +1,11 @@
+Job #1885.1:  add changelog and bump v number
+State:         passed
+Type:          push
+Branch:        release/1.4.1
+Commit:        2530bf0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/release/1.4.1
+Duration:      13 min 41 sec
+Started:       2014-09-06 18:37:20
+Finished:      2014-09-06 18:51:01
+Allow Failure: false
+Config:        node_js: 0.10

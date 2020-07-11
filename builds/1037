@@ -1,0 +1,11 @@
+Job #1037.1:  /admin/plugins: Show some text if nothing is display otherwise
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1672)
+Commit:        efe7846
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1672
+Duration:      11 min 21 sec
+Started:       2013-03-26 16:25:36
+Finished:      2013-03-26 16:36:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

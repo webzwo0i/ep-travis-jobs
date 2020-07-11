@@ -1,0 +1,11 @@
+Job #1060.1:  Merge pull request #1672 from ether/feature/admin-plugins-revamp
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        09b32ea
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2abb993e8be5...09b32ea6946d
+Duration:      2 min 13 sec
+Started:       2013-03-27 21:36:31
+Finished:      2013-03-27 21:38:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

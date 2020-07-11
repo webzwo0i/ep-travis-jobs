@@ -1,0 +1,11 @@
+Job #1571.1:  resolve issue where first char showed all formatting
+State:         errored
+Type:          push
+Branch:        getAttributeOnSelection
+Commit:        8a547b2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/30f577e8f41e...8a547b24ba25
+Duration:      11 min 45 sec
+Started:       2013-12-07 18:38:45
+Finished:      2013-12-07 18:50:30
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1498.1:  whoopsi, polish
+State:         passed
+Type:          push
+Branch:        fix-ol-indent
+Commit:        e1ffbc5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d990fcb0f41...e1ffbc5fd38a
+Duration:      16 min 48 sec
+Started:       2013-11-16 19:37:35
+Finished:      2013-11-16 19:54:23
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

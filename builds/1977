@@ -1,0 +1,11 @@
+Job #1977.1:  reflow buttons based on browser size, much better
+State:         passed
+Type:          push
+Branch:        reflow-toolbar-properly
+Commit:        7d04d73
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7d04d7309f87
+Duration:      9 min 15 sec
+Started:       2014-11-06 15:34:49
+Finished:      2014-11-06 15:44:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

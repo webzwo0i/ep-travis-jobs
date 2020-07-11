@@ -1,0 +1,11 @@
+Job #2186.1:  correct kernel v#
+State:         failed
+Type:          push
+Branch:        require-kernel-change
+Commit:        3224122
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3bf9f3cf1dc7...3224122f7e27
+Duration:      22 min 44 sec
+Started:       2014-11-28 18:56:52
+Finished:      2014-11-28 19:19:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

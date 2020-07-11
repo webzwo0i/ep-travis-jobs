@@ -1,0 +1,11 @@
+Job #1629.1:  Run npm in a separate worker process
+State:         failed
+Type:          push
+Branch:        feature/npm-worker
+Commit:        b8870a7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/529b9c289319...b8870a758612
+Duration:      16 min 1 sec
+Started:       2013-12-27 16:03:59
+Finished:      2013-12-27 16:20:00
+Allow Failure: false
+Config:        node_js: 0.10

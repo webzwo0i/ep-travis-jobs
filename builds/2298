@@ -1,0 +1,11 @@
+Job #2298.1:  first effort
+State:         passed
+Type:          push
+Branch:        ios82
+Commit:        52d5bd2
+Compare URL:   https://github.com/ether/etherpad-lite/commit/52d5bd26193b
+Duration:      7 min 42 sec
+Started:       2014-12-28 22:13:49
+Finished:      2014-12-28 22:21:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

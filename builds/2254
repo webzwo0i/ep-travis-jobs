@@ -1,0 +1,11 @@
+Job #2254.1:  test for pad users
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c409495
+Compare URL:   https://github.com/ether/etherpad-lite/compare/80fa2c2868eb...c409495b5e3f
+Duration:      7 min 50 sec
+Started:       2014-12-24 05:01:54
+Finished:      2014-12-24 05:09:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

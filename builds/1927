@@ -1,0 +1,11 @@
+Job #1927.1:  Merge pull request #2272 from prtksxna/lang-tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8c1868f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bba97e94f03a...8c1868f0e953
+Duration:      14 min 20 sec
+Started:       2014-10-14 15:18:22
+Finished:      2014-10-14 15:32:42
+Allow Failure: false
+Config:        node_js: 0.10

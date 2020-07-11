@@ -1,0 +1,11 @@
+Job #2125.1:  basic test runner
+State:         failed
+Type:          push
+Branch:        backend-tests
+Commit:        3ac833d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ad7de8277d75^...3ac833d455dc
+Duration:      22 min 56 sec
+Started:       2014-11-25 23:50:08
+Finished:      2014-11-26 00:13:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

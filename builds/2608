@@ -1,0 +1,11 @@
+Job #2608.1:  Merge pull request #2561 from simong/ueberdb-cassandra
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        17db8ed
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f2e5dce6fa61...17db8ed4a440
+Duration:      10 min 30 sec
+Started:       2015-03-22 16:31:46
+Finished:      2015-03-22 16:42:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

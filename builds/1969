@@ -1,0 +1,11 @@
+Job #1969.1:  Begin to repair damage done to rooms logic
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        68eaa09
+Compare URL:   https://github.com/ether/etherpad-lite/compare/95e7b0f15609...68eaa0970824
+Duration:      25 min 54 sec
+Started:       2014-11-04 21:01:51
+Finished:      2014-11-04 21:27:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

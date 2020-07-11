@@ -1,0 +1,11 @@
+Job #1960.1:  Update package.json
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b61d8d9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/124ae311379b...b61d8d99d178
+Duration:      17 min 45 sec
+Started:       2014-11-03 18:21:00
+Finished:      2014-11-03 18:38:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

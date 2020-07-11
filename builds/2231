@@ -1,0 +1,11 @@
+Job #2231.1:  Merge pull request #2377 from webzwo0i/avoid-global-vairables
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a2d22a5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cfa3f15f94e7...a2d22a576407
+Duration:      8 min 25 sec
+Started:       2014-12-16 17:20:57
+Finished:      2014-12-16 17:29:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

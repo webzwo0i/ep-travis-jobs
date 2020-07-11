@@ -1,0 +1,11 @@
+Job #1307.1:  Merge pull request #1816 from bit/sessioninfos
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        40f578c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/78820b857270...40f578cfbd3e
+Duration:      13 min 1 sec
+Started:       2013-07-23 14:15:18
+Finished:      2013-07-23 14:28:19
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

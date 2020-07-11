@@ -1,0 +1,11 @@
+Job #2256.1:  slightly better attribute selection logic but still pretty b0rked
+State:         passed
+Type:          push
+Branch:        getattrselectionlogic
+Commit:        10d92b6
+Compare URL:   https://github.com/ether/etherpad-lite/commit/10d92b6bf16f
+Duration:      7 min 36 sec
+Started:       2014-12-27 00:42:48
+Finished:      2014-12-27 00:50:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

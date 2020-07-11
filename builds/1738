@@ -1,0 +1,11 @@
+Job #1738.1:  Add docs for toolbar controller and pad_editbar
+State:         errored
+Type:          push
+Branch:        modularize-toolbar
+Commit:        a69793a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/da5970dda3aa...a69793a2035e
+Duration:      14 sec
+Started:       2014-03-16 15:44:15
+Finished:      2014-03-16 15:44:29
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2133.1:  Merge pull request #2341 from ether/jsdom-go-away
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b4ddeff
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3a28db7f4028...b4ddeffd04b3
+Duration:      22 min 38 sec
+Started:       2014-11-26 16:23:13
+Finished:      2014-11-26 16:45:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

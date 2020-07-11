@@ -1,0 +1,11 @@
+Job #1585.1:  resolve merge conflict
+State:         errored
+Type:          push
+Branch:        dont-die-on-bad-html
+Commit:        58bbfd8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7c03bc2610a2...58bbfd8a65e1
+Duration:      11 min 55 sec
+Started:       2013-12-09 22:56:50
+Finished:      2013-12-09 23:08:45
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

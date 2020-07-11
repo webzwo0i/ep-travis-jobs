@@ -1,0 +1,11 @@
+Job #2022.1:  Merge pull request #1783 from simong/removed-console-in-html10n
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        135aa3e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/865829e159be...135aa3e8feee
+Duration:      14 min 24 sec
+Started:       2014-11-15 18:09:54
+Finished:      2014-11-15 18:24:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

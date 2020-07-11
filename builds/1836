@@ -1,0 +1,11 @@
+Job #1836.1:  Merge pull request #2161 from ether/bump-ueber
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        7bec297
+Compare URL:   https://github.com/ether/etherpad-lite/compare/40a97f08bb50...7bec297c0afd
+Duration:      8 sec
+Started:       2014-06-11 14:42:13
+Finished:      2014-06-11 14:42:21
+Allow Failure: false
+Config:        node_js: 0.10

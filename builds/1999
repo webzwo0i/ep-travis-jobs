@@ -1,0 +1,11 @@
+Job #1999.1:  Update API.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2300)
+Commit:        b3dbfce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2300
+Duration:      10 min 49 sec
+Started:       2014-11-12 19:57:38
+Finished:      2014-11-12 20:08:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

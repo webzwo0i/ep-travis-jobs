@@ -1,0 +1,11 @@
+Job #1584.1:  resolve merge conflict
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1514)
+Commit:        a306e1e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1514
+Duration:      13 min 3 sec
+Started:       2013-12-09 22:56:11
+Finished:      2013-12-09 23:09:14
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

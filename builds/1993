@@ -1,0 +1,11 @@
+Job #1993.1:  Add check for special url characters to createPad API function
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2302)
+Commit:        b140c7a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2302
+Duration:      10 min 39 sec
+Started:       2014-11-08 17:36:08
+Finished:      2014-11-08 17:46:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1618.1:  Merge pull request #2044 from ether/ff-del-firstchar
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1c2f05c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/33ecd3d52ffd...1c2f05cb96be
+Duration:      24 min 28 sec
+Started:       2013-12-18 19:42:46
+Finished:      2013-12-18 20:07:14
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1915.1:  Reduce toolbar height on mobile #2077
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2267)
+Commit:        461b610
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2267
+Duration:      10 min 34 sec
+Started:       2014-10-12 04:46:14
+Finished:      2014-10-12 04:56:48
+Allow Failure: false
+Config:        node_js: 0.10

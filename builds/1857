@@ -1,0 +1,11 @@
+Job #1857.1:  Fixes search on plugins without Description
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2193)
+Commit:        d26cce9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2193
+Duration:      10 min 50 sec
+Started:       2014-07-03 14:26:49
+Finished:      2014-07-03 14:37:39
+Allow Failure: false
+Config:        node_js: 0.10

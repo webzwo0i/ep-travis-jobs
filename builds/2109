@@ -1,0 +1,11 @@
+Job #2109.1:  use cheerio instead of jsdom
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2341)
+Commit:        e123d7b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2341
+Duration:      15 min 15 sec
+Started:       2014-11-25 19:02:11
+Finished:      2014-11-25 19:17:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1772.1:  Merge pull request #2120 from ether/fix/timeslider-editbar
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        de3a60e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/54bf17bfea01...de3a60ee2a0a
+Duration:      22 min 24 sec
+Started:       2014-03-30 13:25:49
+Finished:      2014-03-30 13:48:13
+Allow Failure: false
+Config:        node_js: 0.10

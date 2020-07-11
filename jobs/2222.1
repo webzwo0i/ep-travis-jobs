@@ -1,0 +1,300 @@
+Using worker: worker-linux-5-1.bb.travis-ci.org:travis-linux-13
+
+travis_fold:start:system_infoBuild system information
+Build language: node_js
+Build image provisioning date and time
+Sun Dec  7 06:18:09 UTC 2014
+lsb_release -a
+Distributor ID:Ubuntu
+Description:Ubuntu 12.04 LTS
+Release:12.04
+Codename:precise
+Cookbooks Version
+5736160 https://github.com/travis-ci/travis-cookbooks/tree/5736160
+GCC version
+gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.4 (tags/RELEASE_34/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+ruby-1.9.3-p551
+Pre-installed Node.js versions
+v0.10
+v0.10.18
+v0.10.33
+v0.11.14
+v0.6.21
+v0.8.23
+v0.8.25
+v0.8.27
+Pre-installed Go versions
+go1.3.3
+Redis version
+redis-server 2.8.18
+riak version
+1.4.12
+MongoDB version
+MongoDB 2.4.12
+CouchDB version
+couchdb 1.6.1
+Neo4j version
+1.9.4
+Cassandra version
+2.0.9
+RabbitMQ Version
+3.4.2
+ElasticSearch version
+1.4.0
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.4
+Default Sphinx version
+2.1.9
+Installed Firefox version
+firefox 31.0esr
+PhantomJS version
+1.9.8
+ant -version
+Apache Ant(TM) version 1.8.2 compiled on December 3 2011
+mvn -version
+Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-11T20:58:10+00:00)
+Maven home: /usr/local/maven
+Java version: 1.7.0_72, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "2.6.32-042stab090.5", arch: "amd64", family: "unix"
+travis_fold:end:system_infoe:start:0fb7264a/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 8118, done.ote: Compressing objects:   0% (1/2860)   ote: Compressing objects:   1% (29/2860)   ote: Compressing objects:   2% (58/2860)   ote: Compressing objects:   3% (86/2860)   ote: Compressing objects:   4% (115/2860)   ote: Compressing objects:   5% (143/2860)   ote: Compressing objects:   6% (172/2860)   ote: Compressing objects:   7% (201/2860)   ote: Compressing objects:   8% (229/2860)   ote: Compressing objects:   9% (258/2860)   ote: Compressing objects:  10% (286/2860)   ote: Compressing objects:  11% (315/2860)   ote: Compressing objects:  12% (344/2860)   ote: Compressing objects:  13% (372/2860)   ote: Compressing objects:  14% (401/2860)   ote: Compressing objects:  15% (429/2860)   ote: Compressing objects:  16% (458/2860)   ote: Compressing objects:  17% (487/2860)   ote: Compressing objects:  18% (515/2860)   ote: Compressing objects:  19% (544/2860)   ote: Compressing objects:  20% (572/2860)   ote: Compressing objects:  21% (601/2860)   ote: Compressing objects:  22% (630/2860)   ote: Compressing objects:  23% (658/2860)   ote: Compressing objects:  24% (687/2860)   ote: Compressing objects:  25% (715/2860)   ote: Compressing objects:  26% (744/2860)   ote: Compressing objects:  27% (773/2860)   ote: Compressing objects:  28% (801/2860)   ote: Compressing objects:  29% (830/2860)   ote: Compressing objects:  30% (858/2860)   ote: Compressing objects:  31% (887/2860)   ote: Compressing objects:  32% (916/2860)   ote: Compressing objects:  33% (944/2860)   ote: Compressing objects:  34% (973/2860)   ote: Compressing objects:  35% (1001/2860)   ote: Compressing objects:  36% (1030/2860)   ote: Compressing objects:  37% (1059/2860)   ote: Compressing objects:  38% (1087/2860)   ote: Compressing objects:  39% (1116/2860)   ote: Compressing objects:  40% (1144/2860)   ote: Compressing objects:  41% (1173/2860)   ote: Compressing objects:  42% (1202/2860)   ote: Compressing objects:  43% (1230/2860)   ote: Compressing objects:  44% (1259/2860)   ote: Compressing objects:  45% (1287/2860)   ote: Compressing objects:  46% (1316/2860)   ote: Compressing objects:  47% (1345/2860)   ote: Compressing objects:  48% (1373/2860)   ote: Compressing objects:  49% (1402/2860)   ote: Compressing objects:  50% (1430/2860)   ote: Compressing objects:  51% (1459/2860)   ote: Compressing objects:  52% (1488/2860)   ote: Compressing objects:  53% (1516/2860)   ote: Compressing objects:  54% (1545/2860)   ote: Compressing objects:  55% (1573/2860)   ote: Compressing objects:  56% (1602/2860)   ote: Compressing objects:  57% (1631/2860)   ote: Compressing objects:  58% (1659/2860)   ote: Compressing objects:  59% (1688/2860)   ote: Compressing objects:  60% (1716/2860)   ote: Compressing objects:  61% (1745/2860)   ote: Compressing objects:  62% (1774/2860)   ote: Compressing objects:  63% (1802/2860)   ote: Compressing objects:  64% (1831/2860)   ote: Compressing objects:  65% (1859/2860)   ote: Compressing objects:  66% (1888/2860)   ote: Compressing objects:  67% (1917/2860)   ote: Compressing objects:  68% (1945/2860)   ote: Compressing objects:  69% (1974/2860)   ote: Compressing objects:  70% (2002/2860)   ote: Compressing objects:  71% (2031/2860)   ote: Compressing objects:  72% (2060/2860)   ote: Compressing objects:  73% (2088/2860)   ote: Compressing objects:  74% (2117/2860)   ote: Compressing objects:  75% (2145/2860)   ote: Compressing objects:  76% (2174/2860)   ote: Compressing objects:  77% (2203/2860)   ote: Compressing objects:  78% (2231/2860)   ote: Compressing objects:  79% (2260/2860)   ote: Compressing objects:  80% (2288/2860)   ote: Compressing objects:  81% (2317/2860)   ote: Compressing objects:  82% (2346/2860)   ote: Compressing objects:  83% (2374/2860)   ote: Compressing objects:  84% (2403/2860)   ote: Compressing objects:  85% (2431/2860)   ote: Compressing objects:  86% (2460/2860)   ote: Compressing objects:  87% (2489/2860)   ote: Compressing objects:  88% (2517/2860)   ote: Compressing objects:  89% (2546/2860)   ote: Compressing objects:  90% (2574/2860)   ote: Compressing objects:  91% (2603/2860)   ote: Compressing objects:  92% (2632/2860)   ote: Compressing objects:  93% (2660/2860)   ote: Compressing objects:  94% (2689/2860)   ote: Compressing objects:  95% (2717/2860)   ote: Compressing objects:  96% (2746/2860)   ote: Compressing objects:  97% (2775/2860)   ote: Compressing objects:  98% (2803/2860)   ote: Compressing objects:  99% (2832/2860)   ote: Compressing objects: 100% (2860/2860)   ote: Compressing objects: 100% (2860/2860), done.ote: Total 8118 (delta 5597), reused 7554 (delta 5152)e:end:0fb7264a:start=1418142785706093071,finish=1418142786450234764,duration=744141693e:start:1a079438erge:
+remote: Counting objects: 60, done.ote: Compressing objects:   1% (1/52)   ote: Compressing objects:   3% (2/52)   ote: Compressing objects:   5% (3/52)   ote: Compressing objects:   7% (4/52)   ote: Compressing objects:   9% (5/52)   ote: Compressing objects:  11% (6/52)   ote: Compressing objects:  13% (7/52)   ote: Compressing objects:  15% (8/52)   ote: Compressing objects:  17% (9/52)   ote: Compressing objects:  19% (10/52)   ote: Compressing objects:  21% (11/52)   ote: Compressing objects:  23% (12/52)   ote: Compressing objects:  25% (13/52)   ote: Compressing objects:  26% (14/52)   ote: Compressing objects:  28% (15/52)   ote: Compressing objects:  30% (16/52)   ote: Compressing objects:  32% (17/52)   ote: Compressing objects:  34% (18/52)   ote: Compressing objects:  36% (19/52)   ote: Compressing objects:  38% (20/52)   ote: Compressing objects:  40% (21/52)   ote: Compressing objects:  42% (22/52)   ote: Compressing objects:  44% (23/52)   ote: Compressing objects:  46% (24/52)   ote: Compressing objects:  48% (25/52)   ote: Compressing objects:  50% (26/52)   ote: Compressing objects:  51% (27/52)   ote: Compressing objects:  53% (28/52)   ote: Compressing objects:  55% (29/52)   ote: Compressing objects:  57% (30/52)   ote: Compressing objects:  59% (31/52)   ote: Compressing objects:  61% (32/52)   ote: Compressing objects:  63% (33/52)   ote: Compressing objects:  65% (34/52)   ote: Compressing objects:  67% (35/52)   ote: Compressing objects:  69% (36/52)   ote: Compressing objects:  71% (37/52)   ote: Compressing objects:  73% (38/52)   ote: Compressing objects:  75% (39/52)   ote: Compressing objects:  76% (40/52)   ote: Compressing objects:  78% (41/52)   ote: Compressing objects:  80% (42/52)   ote: Compressing objects:  82% (43/52)   ote: Compressing objects:  84% (44/52)   ote: Compressing objects:  86% (45/52)   ote: Compressing objects:  88% (46/52)   ote: Compressing objects:  90% (47/52)   ote: Compressing objects:  92% (48/52)   ote: Compressing objects:  94% (49/52)   ote: Compressing objects:  96% (50/52)   ote: Compressing objects:  98% (51/52)   ote: Compressing objects: 100% (52/52)   ote: Compressing objects: 100% (52/52), done.ote: Total 60 (delta 50), reused 17 (delta 8) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/2368/merge -> FETCH_HEAD
+travis_time:end:1a079438:start=1418142786458494273,finish=1418142786641689514,duration=183195241Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:start:080e6700 install 0.10
+v0.10.33 is already installed.
+Now using node v0.10.33
+travis_time:end:080e6700:start=1418142786688047686,finish=1418142786907793824,duration=219746138 --version
+1.4.28
+$ nvm --version
+0.17.3
+travis_fold:start:install.1e:start:00c12618plate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+
+> ws@0.5.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+
+> microtime@0.4.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime
+> node-gyp rebuild
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+  CXX(target) Release/obj.target/microtime/src/microtime.o
+  SOLINK_MODULE(target) Release/obj.target/microtime.node
+  SOLINK_MODULE(target) Release/obj.target/microtime.node: Finished
+  COPY Release/microtime.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+slide@1.1.6 node_modules/slide
+
+graceful-fs@3.0.5 node_modules/graceful-fs
+
+tinycon@0.0.1 node_modules/tinycon
+
+formidable@1.0.15 node_modules/formidable
+
+async@0.9.0 node_modules/async
+
+underscore@1.5.1 node_modules/underscore
+
+etherpad-require-kernel@1.0.7 node_modules/etherpad-require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.3.3 node_modules/unorm
+
+measured@0.1.6 node_modules/measured
+
+semver@4.1.0 node_modules/semver
+
+ejs@1.0.0 node_modules/ejs
+
+resolve@1.0.0 node_modules/resolve
+
+clean-css@2.2.20 node_modules/clean-css
+└── commander@2.2.0
+
+yajsml@1.1.6 node_modules/yajsml
+
+supertest@0.15.0 node_modules/supertest
+├── methods@1.1.0
+└── superagent@0.21.0 (extend@1.2.1, methods@1.0.1, cookiejar@2.0.1, component-emitter@1.1.2, reduce-component@1.0.1, qs@1.2.0, debug@2.1.0, mime@1.2.11, form-data@0.1.3, readable-stream@1.0.27-1, formidable@1.0.14)
+
+log4js@0.6.21 node_modules/log4js
+├── semver@1.1.4
+├── async@0.2.10
+└── readable-stream@1.0.33 (isarray@0.0.1, string_decoder@0.10.31, inherits@2.0.1, core-util-is@1.0.1)
+
+request@2.50.0 node_modules/request
+├── caseless@0.8.0
+├── json-stringify-safe@5.0.0
+├── aws-sign2@0.5.0
+├── forever-agent@0.5.2
+├── stringstream@0.0.4
+├── oauth-sign@0.5.0
+├── tunnel-agent@0.4.0
+├── node-uuid@1.4.2
+├── qs@2.3.3
+├── mime-types@1.0.2
+├── combined-stream@0.0.7 (delayed-stream@0.0.5)
+├── form-data@0.2.0 (mime-types@2.0.3)
+├── bl@0.9.3 (readable-stream@1.0.33)
+├── tough-cookie@0.12.1 (punycode@1.3.2)
+├── http-signature@0.10.0 (assert-plus@0.1.2, asn1@0.1.11, ctype@0.5.2)
+└── hawk@1.1.1 (cryptiles@0.2.2, sntp@0.2.4, boom@0.4.2, hoek@0.9.1)
+
+uglify-js@2.4.16 node_modules/uglify-js
+├── uglify-to-browserify@1.0.2
+├── async@0.2.10
+├── optimist@0.3.7 (wordwrap@0.0.2)
+└── source-map@0.1.34 (amdefine@0.1.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── buffer-crc32@0.2.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── cookie@0.0.5
+├── debug@2.1.0 (ms@0.6.2)
+├── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+└── formidable@1.0.14
+
+mocha@2.0.1 node_modules/mocha
+├── escape-string-regexp@1.0.2
+├── diff@1.0.8
+├── growl@1.8.1
+├── commander@2.3.0
+├── debug@2.0.0 (ms@0.6.2)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+├── glob@3.2.3 (inherits@2.0.1, graceful-fs@2.0.3, minimatch@0.2.14)
+└── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── simplesmtp@0.3.33 (xoauth2@0.1.8, rai@0.1.11)
+├── optimist@0.6.1 (wordwrap@0.0.2, minimist@0.0.10)
+└── mailcomposer@0.2.12 (follow-redirects@0.0.3, he@0.3.6, dkim-signer@0.1.2, mime@1.2.11, mimelib@0.2.18)
+
+jsonminify@0.2.3 node_modules/jsonminify
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── async@0.1.22
+├── underscore@1.4.4
+└── request@2.12.0
+
+cheerio@0.18.0 node_modules/cheerio
+├── dom-serializer@0.0.1 (domelementtype@1.1.3)
+├── entities@1.1.1
+├── htmlparser2@3.8.2 (domelementtype@1.1.3, domutils@1.5.0, entities@1.0.0, domhandler@2.3.0, readable-stream@1.1.13)
+├── CSSselect@0.4.1 (domutils@1.4.3, CSSwhat@0.4.7)
+└── lodash@2.4.1
+
+swagger-node-express@2.1.3 node_modules/swagger-node-express
+└── lodash@1.3.1
+
+express@3.8.1 node_modules/express
+├── parseurl@1.0.1
+├── merge-descriptors@0.0.2
+├── cookie@0.1.2
+├── debug@0.8.1
+├── cookie-signature@1.0.3
+├── range-parser@1.0.0
+├── fresh@0.2.2
+├── methods@1.0.0
+├── buffer-crc32@0.2.1
+├── commander@1.3.2 (keypress@0.1.0)
+├── proxy-addr@1.0.0 (ipaddr.js@0.1.2)
+├── send@0.3.0 (debug@0.8.0, mime@1.2.11)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+└── connect@2.17.3 (response-time@1.0.0, pause@0.0.1, method-override@1.0.2, connect-timeout@1.1.0, vhost@1.0.0, qs@0.6.6, on-headers@0.0.0, basic-auth-connect@1.0.0, bytes@1.0.0, serve-favicon@2.0.0, morgan@1.1.1, errorhandler@1.0.1, serve-static@1.1.0, cookie-parser@1.1.0, body-parser@1.2.2, csurf@1.2.0, express-session@1.2.1, compression@1.0.2, type-is@1.2.0, serve-index@1.0.3, multiparty@2.2.0)
+
+npm@2.1.11 node_modules/npm
+
+socket.io@1.2.1 node_modules/socket.io
+├── debug@0.7.4
+├── has-binary-data@0.1.3 (isarray@0.0.1)
+├── socket.io-adapter@0.3.1 (object-keys@1.0.1, debug@1.0.2)
+├── socket.io-parser@2.2.2 (component-emitter@1.1.2, isarray@0.0.1, benchmark@1.0.0, json3@3.2.6)
+├── engine.io@1.4.3 (base64id@0.1.0, debug@1.0.3, engine.io-parser@1.1.0, ws@0.5.0)
+└── socket.io-client@1.2.1 (to-array@0.1.3, indexof@0.0.1, component-bind@1.0.0, object-component@0.0.3, component-emitter@1.1.2, has-binary@0.1.5, parseuri@0.0.2, engine.io-client@1.4.3)
+
+ueberDB@0.2.9 node_modules/ueberDB
+├── channels@0.0.2
+├── redis@0.12.1
+├── dirty@0.9.9
+├── async@0.1.15
+├── mysql@2.5.3 (require-all@0.0.8, bignumber.js@1.4.1, readable-stream@1.1.13)
+├── pg@4.1.0 (packet-reader@0.2.0, pg-connection-string@0.1.3, buffer-writer@1.0.0, generic-pool@2.1.1, pg-types@1.6.0, nan@1.3.0, pgpass@0.0.3)
+└── helenus@0.6.10 (node-uuid@1.3.3, helenus-thrift@0.7.4, microtime@0.4.0)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+Ensure custom css/js files are created...
+travis_time:end:00c12618:start=1418142787585845377,finish=1418142807076019585,duration=19490174208e:start:01890899e:end:01890899:start=1418142807085309896,finish=1418142807096719124,duration=11409228e:start:013ab020e    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.8M    0 28720    0     0  88258      0  0:05:54 --:--:--  0:05:54  123k  3 29.8M    3  960k    0     0   700k      0  0:00:43  0:00:01  0:00:42  754k  5 29.8M    5 1818k    0     0   786k      0  0:00:38  0:00:02  0:00:36  820k  7 29.8M    7 2385k    0     0   719k      0  0:00:42  0:00:03  0:00:39  741k  9 29.8M    9 3029k    0     0   698k      0  0:00:43  0:00:04  0:00:39  714k 12 29.8M   12 3690k    0     0   691k      0  0:00:44  0:00:05  0:00:39  731k 14 29.8M   14 4357k    0     0   690k      0  0:00:44  0:00:06  0:00:38  687k 16 29.8M   16 5038k    0     0   687k      0  0:00:44  0:00:07  0:00:37  642k 18 29.8M   18 5774k    0     0   694k      0  0:00:44  0:00:08  0:00:36  677k 20 29.8M   20 6215k    0     0   637k      0  0:00:47  0:00:09  0:00:38  588k 20 29.8M   20 6339k    0     0   614k      0  0:00:49  0:00:10  0:00:39  531k 21 29.8M   21 6655k    0     0   587k      0  0:00:51  0:00:11  0:00:40  458k 22 29.8M   22 6961k    0     0   562k      0  0:00:54  0:00:12  0:00:42  381k 23 29.8M   23 7247k    0     0   543k      0  0:00:56  0:00:13  0:00:43  293k 24 29.8M   24 7524k    0     0   525k      0  0:00:58  0:00:14  0:00:44  287k 25 29.8M   25 7836k    0     0   511k      0  0:00:59  0:00:15  0:00:44  298k 26 29.8M   26 8080k    0     0   494k      0  0:01:01  0:00:16  0:00:45  284k 27 29.8M   27 8371k    0     0   482k      0  0:01:03  0:00:17  0:00:46  283k 28 29.8M   28 8644k    0     0   471k      0  0:01:04  0:00:18  0:00:46  280k 29 29.8M   29 8969k    0     0   464k      0  0:01:05  0:00:19  0:00:46  288k 30 29.8M   30 9297k    0     0   457k      0  0:01:06  0:00:20  0:00:46  291k 31 29.8M   31 9659k    0     0   452k      0  0:01:07  0:00:21  0:00:46  314k 32 29.8M   32  9.8M    0     0   450k      0  0:01:07  0:00:22  0:00:45  339k 34 29.8M   34 10.2M    0     0   451k      0  0:01:07  0:00:23  0:00:44  375k 36 29.8M   36 10.8M    0     0   454k      0  0:01:07  0:00:24  0:00:43  418k 38 29.8M   38 11.3M    0     0   460k      0  0:01:06  0:00:25  0:00:41  472k 40 29.8M   40 12.1M    0     0   471k      0  0:01:04  0:00:26  0:00:38  552k 44 29.8M   44 13.2M    0     0   496k      0  0:01:01  0:00:27  0:00:34  706k 49 29.8M   49 14.6M    0     0   530k      0  0:00:57  0:00:28  0:00:29  899k 54 29.8M   54 16.2M    0     0   566k      0  0:00:53  0:00:29  0:00:24 1108k 60 29.8M   60 17.9M    0     0   604k      0  0:00:50  0:00:30  0:00:20 1335k 64 29.8M   64 19.2M    0     0   630k      0  0:00:48  0:00:31  0:00:17 1467k 68 29.8M   68 20.3M    0     0   645k      0  0:00:47  0:00:32  0:00:15 1459k 72 29.8M   72 21.7M    0     0   668k      0  0:00:45  0:00:33  0:00:12 1450k 74 29.8M   74 22.3M    0     0   665k      0  0:00:45  0:00:34  0:00:11 1252k 76 29.8M   76 22.6M    0     0   657k      0  0:00:46  0:00:35  0:00:11  978k 76 29.8M   76 22.9M    0     0   647k      0  0:00:47  0:00:36  0:00:11  754k 77 29.8M   77 23.2M    0     0   638k      0  0:00:47  0:00:37  0:00:10  590k 79 29.8M   79 23.6M    0     0   631k      0  0:00:48  0:00:38  0:00:10  380k 80 29.8M   80 23.9M    0     0   623k      0  0:00:48  0:00:39  0:00:09  334k 81 29.8M   81 24.3M    0     0   618k      0  0:00:49  0:00:40  0:00:09  341k 82 29.8M   82 24.6M    0     0   610k      0  0:00:50  0:00:41  0:00:09  347k 83 29.8M   83 24.9M    0     0   603k      0  0:00:50  0:00:42  0:00:08  340k 84 29.8M   84 25.1M    0     0   595k      0  0:00:51  0:00:43  0:00:08  321k 85 29.8M   85 25.4M    0     0   588k      0  0:00:51  0:00:44  0:00:07  312k 86 29.8M   86 25.8M    0     0   583k      0  0:00:52  0:00:45  0:00:07  299k 87 29.8M   87 26.1M    0     0   578k      0  0:00:52  0:00:46  0:00:06  314k 89 29.8M   89 26.5M    0     0   574k      0  0:00:53  0:00:47  0:00:06  334k 90 29.8M   90 26.9M    0     0   571k      0  0:00:53  0:00:48  0:00:05  365k 91 29.8M   91 27.4M    0     0   569k      0  0:00:53  0:00:49  0:00:04  401k 93 29.8M   93 27.9M    0     0   568k      0  0:00:53  0:00:50  0:00:03  438k 95 29.8M   95 28.5M    0     0   568k      0  0:00:53  0:00:51  0:00:02  475k 97 29.8M   97 29.1M    0     0   570k      0  0:00:53  0:00:52  0:00:01  529k100 29.8M  100 29.8M    0     0   573k      0  0:00:53  0:00:53 --:--:--  593k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2014-12-09 16:34:32.852:INFO::jetty-7.x.y-SNAPSHOT
+2014-12-09 16:34:32.881:INFO::Started SelectChannelConnector@0.0.0.0:38134
+2014-12-09 16:34:45.355:INFO::jetty-7.x.y-SNAPSHOT
+2014-12-09 16:34:45.359:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_time:end:013ab020:start=1418142807105911274,finish=1418142886780486416,duration=79674575142e:start:2395b3fcnpm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+
+
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+
+The build has been terminated
+

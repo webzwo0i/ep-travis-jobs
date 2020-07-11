@@ -1,0 +1,11 @@
+Job #2152.1:  path issues for supertitties
+State:         passed
+Type:          push
+Branch:        backend-tests
+Commit:        fa51309
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cff8f4a61ebe...fa5130978c3b
+Duration:      22 min 23 sec
+Started:       2014-11-26 23:13:59
+Finished:      2014-11-26 23:36:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

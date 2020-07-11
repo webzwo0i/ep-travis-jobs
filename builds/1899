@@ -1,0 +1,11 @@
+Job #1899.1:  FontAwesome
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2254)
+Commit:        9bd2a66
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2254
+Duration:      10 min 41 sec
+Started:       2014-09-30 00:07:45
+Finished:      2014-09-30 00:18:26
+Allow Failure: false
+Config:        node_js: 0.10

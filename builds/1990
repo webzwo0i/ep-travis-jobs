@@ -1,0 +1,11 @@
+Job #1990.1:  Added option to restore revisions #1791
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2300)
+Commit:        74b1e55
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2300
+Duration:      10 min 46 sec
+Started:       2014-11-08 01:16:16
+Finished:      2014-11-08 01:27:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

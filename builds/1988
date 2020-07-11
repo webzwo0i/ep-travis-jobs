@@ -1,0 +1,11 @@
+Job #1988.1:  Add keyboard shortcut to Clear Authorship Colors. Fixes #2292
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2299)
+Commit:        965b464
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2299
+Duration:      6 sec
+Started:       2014-11-07 09:36:49
+Finished:      2014-11-07 09:36:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1046.1:  /admin/plugins: Dry up displaying of info messages
+State:         passed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        d01a209
+Compare URL:   https://github.com/ether/etherpad-lite/compare/806926d0f601...d01a209cbf33
+Duration:      2 min 11 sec
+Started:       2013-03-26 21:06:28
+Finished:      2013-03-26 21:08:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

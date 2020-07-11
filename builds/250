@@ -1,0 +1,11 @@
+Job #250.1:  There's no utf8, but there's utf-8
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        21569e2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 7 sec
+Started:       2012-12-19 19:53:06
+Finished:      2012-12-19 20:06:13
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

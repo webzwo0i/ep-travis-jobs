@@ -1,0 +1,11 @@
+Job #1804.1:  Merge pull request #2138 from ether/fix-user-icon-color-and-count
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e85d094
+Compare URL:   https://github.com/ether/etherpad-lite/compare/20c32de5e78e...e85d09400ea1
+Duration:      14 min 12 sec
+Started:       2014-05-03 13:33:14
+Finished:      2014-05-03 13:47:26
+Allow Failure: false
+Config:        node_js: 0.10

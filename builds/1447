@@ -1,0 +1,11 @@
+Job #1447.1:  total user counts
+State:         errored
+Type:          push
+Branch:        metrics
+Commit:        3a1b952
+Compare URL:   https://github.com/ether/etherpad-lite/compare/25e31ecb16fe...3a1b952426c4
+Duration:      27 min 16 sec
+Started:       2013-10-21 00:32:10
+Finished:      2013-10-21 00:59:26
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

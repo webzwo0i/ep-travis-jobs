@@ -1,0 +1,11 @@
+Job #1711.1:  Updated npm version.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2095)
+Commit:        3367c09
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2095
+Duration:      10 min 59 sec
+Started:       2014-02-24 13:44:35
+Finished:      2014-02-24 13:55:34
+Allow Failure: false
+Config:        node_js: 0.10

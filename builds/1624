@@ -1,0 +1,11 @@
+Job #1624.1:  Fixed transition algo not incrementing start
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2040)
+Commit:        93bf6ab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2040
+Duration:      11 min 7 sec
+Started:       2013-12-22 17:22:56
+Finished:      2013-12-22 17:34:03
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1944.1:  bump ueberdb again
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        51b9af9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cd8ea040ad68...51b9af9df091
+Duration:      9 sec
+Started:       2014-10-30 17:20:33
+Finished:      2014-10-30 17:20:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

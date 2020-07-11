@@ -1,0 +1,11 @@
+Job #1921.1:  Merge pull request #2269 from prtksxna/fonticons
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        aee652d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b62c82575f8b...aee652dafc4c
+Duration:      22 min 10 sec
+Started:       2014-10-14 14:30:46
+Finished:      2014-10-14 14:52:56
+Allow Failure: false
+Config:        node_js: 0.10

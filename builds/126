@@ -1,0 +1,11 @@
+Job #126.1:  Merge pull request #1233 from marcelklehr/fix/s.io-perf-with-modern-browsers
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        53d6d08
+Compare URL:   https://github.com/ether/etherpad-lite/compare/182ea62de90a...53d6d0813e7e
+Duration:      7 min 5 sec
+Started:       2012-11-29 15:58:33
+Finished:      2012-11-29 16:05:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

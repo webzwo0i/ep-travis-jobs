@@ -1,0 +1,11 @@
+Job #1649.1:  convert over to server-side crypto
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2060)
+Commit:        05c90ad
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2060
+Duration:      9 sec
+Started:       2014-01-15 20:52:08
+Finished:      2014-01-15 20:52:17
+Allow Failure: false
+Config:        node_js: 0.10

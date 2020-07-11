@@ -1,0 +1,11 @@
+Job #2584.1:  Trigger renumbering when deleting (via cut) the first item of a list
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2533)
+Commit:        264d79f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2533
+Duration:      11 min 2 sec
+Started:       2015-02-27 18:56:34
+Finished:      2015-02-27 19:07:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

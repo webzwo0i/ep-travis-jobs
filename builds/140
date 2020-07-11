@@ -1,0 +1,11 @@
+Job #140.1:  Merge branch 'focus-on-password' of github.com:ether/etherpad-lite into focus-on-password
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1221)
+Commit:        b808adc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1221
+Duration:      15 min 48 sec
+Started:       2012-12-02 18:10:49
+Finished:      2012-12-02 18:26:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #114.1:  Merge pull request #1225 from disy-mk/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        df8207e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/491bf515c6fc...df8207e0df18
+Duration:      5 min 1 sec
+Started:       2012-11-27 15:09:10
+Finished:      2012-11-27 15:14:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

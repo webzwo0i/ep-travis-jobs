@@ -1,0 +1,11 @@
+Job #2678.1:  better handling for inputs and left and right arrows
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        48862da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/37c7c7eabec8...48862dac6f69
+Duration:      21 min 54 sec
+Started:       2015-03-31 19:55:35
+Finished:      2015-03-31 20:17:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

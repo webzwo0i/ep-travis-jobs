@@ -1,0 +1,11 @@
+Job #1613.1:  better handling for attribute queries
+State:         passed
+Type:          push
+Branch:        fix-get-attr
+Commit:        8313083
+Compare URL:   https://github.com/ether/etherpad-lite/commit/8313083cd981
+Duration:      7 min 27 sec
+Started:       2013-12-17 21:56:11
+Finished:      2013-12-17 22:03:38
+Allow Failure: false
+Config:        node_js: 0.10

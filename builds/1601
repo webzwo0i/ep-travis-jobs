@@ -1,0 +1,11 @@
+Job #1601.1:  Add input validation for html param in setHTML()
+State:         errored
+Type:          pull request
+Branch:        dont-die-on-bad-html (PR #2035)
+Commit:        a092276
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2035
+Duration:      11 min 9 sec
+Started:       2013-12-14 21:26:20
+Finished:      2013-12-14 21:37:29
+Allow Failure: false
+Config:        node_js: 0.10

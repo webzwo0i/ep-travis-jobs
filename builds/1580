@@ -1,0 +1,11 @@
+Job #1580.1:  Remove console logs
+State:         passed
+Type:          push
+Branch:        import_hook
+Commit:        3180b96
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6fcc7c77f901...3180b96213ab
+Duration:      10 min 12 sec
+Started:       2013-12-09 19:13:46
+Finished:      2013-12-09 19:23:58
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

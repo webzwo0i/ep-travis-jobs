@@ -1,0 +1,11 @@
+Job #2015.1:  Merge pull request #2273 from ether/bump-swagger
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f5fbcbb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9c935a69975d...f5fbcbbc8146
+Duration:      21 min 54 sec
+Started:       2014-11-15 16:58:57
+Finished:      2014-11-15 17:20:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

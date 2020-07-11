@@ -1,0 +1,11 @@
+Job #1913.1:  Add keyboard shortcuts for ordered and unordered lists and update tooltips #1987
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2266)
+Commit:        0d0cf7f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2266
+Duration:      10 min 33 sec
+Started:       2014-10-11 19:53:01
+Finished:      2014-10-11 20:03:34
+Allow Failure: false
+Config:        node_js: 0.10

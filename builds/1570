@@ -1,0 +1,11 @@
+Job #1570.1:  Merge pull request #2026 from ether/afterEditHook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        98c4e32
+Compare URL:   https://github.com/ether/etherpad-lite/compare/03d5acfd0ccc...98c4e32a142f
+Duration:      15 min 6 sec
+Started:       2013-12-07 17:55:40
+Finished:      2013-12-07 18:10:46
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

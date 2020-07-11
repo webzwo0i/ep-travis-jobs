@@ -1,0 +1,11 @@
+Job #2067.1:  move tiny bit of font awesome we actually use into pad.css
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2321)
+Commit:        3083f8d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2321
+Duration:      14 min 48 sec
+Started:       2014-11-19 01:17:11
+Finished:      2014-11-19 01:31:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1026.1:  Catch all errors in pluginfw/installer.js
+State:         failed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        9109bd2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ef7fb5c7f0e2^...9109bd206ee4
+Duration:      6 min 51 sec
+Started:       2013-03-26 11:22:39
+Finished:      2013-03-26 11:29:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

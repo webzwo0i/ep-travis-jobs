@@ -1,0 +1,11 @@
+Job #2192.1:  color picker on mobile actually shows on screen
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ee585f0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34f762573966...ee585f045755
+Duration:      16 min 5 sec
+Started:       2014-11-29 01:33:40
+Finished:      2014-11-29 01:49:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #122.1:  remove control S comment
+State:         passed
+Type:          push
+Branch:        control-s
+Commit:        93e9d7c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8c7939ec9f18...93e9d7c852be
+Duration:      5 min 56 sec
+Started:       2012-11-28 18:23:53
+Finished:      2012-11-28 18:29:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

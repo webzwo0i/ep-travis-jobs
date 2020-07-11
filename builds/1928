@@ -1,0 +1,11 @@
+Job #1928.1:  Merge pull request #2269 from prtksxna/fonticons
+State:         passed
+Type:          push
+Branch:        bump-swagger
+Commit:        aee652d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bump-swagger
+Duration:      22 min 26 sec
+Started:       2014-10-14 15:38:17
+Finished:      2014-10-14 16:00:43
+Allow Failure: false
+Config:        node_js: 0.10

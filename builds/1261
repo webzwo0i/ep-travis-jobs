@@ -1,0 +1,11 @@
+Job #1261.1:  Merge pull request #1785 from interesse/saferun_args
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0aa0c69
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7d81a6d04275...0aa0c69ba32d
+Duration:      10 min 44 sec
+Started:       2013-05-27 01:04:12
+Finished:      2013-05-27 01:14:56
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

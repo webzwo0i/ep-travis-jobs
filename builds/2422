@@ -1,0 +1,11 @@
+Job #2422.1:  semi working example
+State:         passed
+Type:          push
+Branch:        chat-and-users
+Commit:        63c65f7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/63c65f784ba2
+Duration:      9 min 3 sec
+Started:       2015-01-19 02:46:45
+Finished:      2015-01-19 02:55:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

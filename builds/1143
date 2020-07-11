@@ -1,0 +1,11 @@
+Job #1143.1:  pluginfw/installer: Only restart the server when all tasks have finished
+State:         errored
+Type:          push
+Branch:        fix/plugins-multi-install
+Commit:        5699b4c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5699b4c66ac9
+Duration:      5 sec
+Started:       2013-04-08 16:14:35
+Finished:      2013-04-08 16:14:40
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

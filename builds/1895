@@ -1,0 +1,11 @@
+Job #1895.1:  Merge pull request #2249 from Gared/support_npm2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2e6348b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d3b45ef2c96a...2e6348b8aa7f
+Duration:      8 min 24 sec
+Started:       2014-09-27 12:36:06
+Finished:      2014-09-27 12:44:30
+Allow Failure: false
+Config:        node_js: 0.10

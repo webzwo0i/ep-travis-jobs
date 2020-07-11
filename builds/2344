@@ -1,0 +1,11 @@
+Job #2344.1:  better take some responsibility
+State:         failed
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        5ba3cab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ac4f9eb4cebc...5ba3cab445e4
+Duration:      21 min 58 sec
+Started:       2014-12-30 00:18:05
+Finished:      2014-12-30 00:40:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

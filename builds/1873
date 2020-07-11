@@ -1,0 +1,11 @@
+Job #1873.1:  tidy up template a bit
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2203)
+Commit:        c5deb77
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2203
+Duration:      16 min 33 sec
+Started:       2014-07-22 17:26:40
+Finished:      2014-07-22 17:43:13
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1539.1:  ugly indentation
+State:         failed
+Type:          push
+Branch:        indentation
+Commit:        9fc51c7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/9fc51c7ef219
+Duration:      21 min 21 sec
+Started:       2013-11-26 17:35:18
+Finished:      2013-11-26 17:56:39
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

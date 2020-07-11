@@ -1,0 +1,11 @@
+Job #1365.1:  more sensible reload without cache message
+State:         passed
+Type:          push
+Branch:        clear-cache
+Commit:        ed04842
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ed0484280142
+Duration:      13 min 13 sec
+Started:       2013-09-25 23:21:02
+Finished:      2013-09-25 23:34:15
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

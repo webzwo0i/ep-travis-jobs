@@ -1,0 +1,11 @@
+Job #2220.1:  Merge pull request #2370 from simong/shardable-socket-io
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e57c8fa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6080de9d7962...e57c8fa763d2
+Duration:      9 min 29 sec
+Started:       2014-12-09 17:16:25
+Finished:      2014-12-09 17:25:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

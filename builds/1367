@@ -1,0 +1,11 @@
+Job #1367.1:  doh, wasnt supposed to add this background
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1907)
+Commit:        269e033
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1907
+Duration:      12 min 5 sec
+Started:       2013-09-25 23:23:42
+Finished:      2013-09-25 23:35:47
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

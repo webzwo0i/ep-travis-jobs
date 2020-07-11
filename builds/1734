@@ -1,0 +1,11 @@
+Job #1734.1:  2 more buttons supported for exmaple
+State:         failed
+Type:          push
+Branch:        toolbarItemsInSettings
+Commit:        8ed03c8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/11f7640fc71d...8ed03c83c7f6
+Duration:      22 min 55 sec
+Started:       2014-03-16 05:04:00
+Finished:      2014-03-16 05:26:55
+Allow Failure: false
+Config:        node_js: 0.10

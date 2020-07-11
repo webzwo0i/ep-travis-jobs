@@ -1,0 +1,11 @@
+Job #1559.1:  allow for lighter colors
+State:         errored
+Type:          push
+Branch:        lighter-colors
+Commit:        378e079
+Compare URL:   https://github.com/ether/etherpad-lite/commit/378e07964b75
+Duration:      22 min 31 sec
+Started:       2013-12-05 00:04:42
+Finished:      2013-12-05 00:27:13
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

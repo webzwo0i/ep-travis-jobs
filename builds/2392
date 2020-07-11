@@ -1,0 +1,11 @@
+Job #2392.1:  Merge pull request #2449 from webzwo0i/fix-for-uls-without-class
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        794a81f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f2c443809fe2...794a81f42b9c
+Duration:      8 min 19 sec
+Started:       2015-01-09 02:27:35
+Finished:      2015-01-09 02:35:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

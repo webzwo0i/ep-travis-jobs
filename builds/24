@@ -1,0 +1,13 @@
+Job #24.1:  mheh, better way of handling the buidl for windows script
+State:         failed
+Type:          push
+Branch:        fix-windows-package-extract
+Commit:        27c5e86
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1321d9e16f9c...27c5e8691f41
+Duration:      13 min 58 sec
+Started:       2012-11-16 21:51:44
+Finished:      2012-11-16 22:05:42
+Allow Failure: false
+Config:        env: SECURE oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

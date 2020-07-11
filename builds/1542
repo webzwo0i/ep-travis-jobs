@@ -1,0 +1,11 @@
+Job #1542.1:  getAttributeOnSelection function
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        753e908
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      25 min 15 sec
+Started:       2013-11-28 18:29:09
+Finished:      2013-11-28 18:54:24
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1925.1:  Merge pull request #2271 from prtksxna/keyboard-error
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bba97e9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/68c805070ab5...bba97e94f03a
+Duration:      9 min 39 sec
+Started:       2014-10-14 15:13:54
+Finished:      2014-10-14 15:23:33
+Allow Failure: false
+Config:        node_js: 0.10

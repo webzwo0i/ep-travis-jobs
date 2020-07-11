@@ -1,0 +1,11 @@
+Job #1178.1:  html10n.js: Don't break in getDirection if language hasn't been set
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        594757c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/df8a31f24186...594757cc472b
+Duration:      2 min 59 sec
+Started:       2013-04-11 17:54:52
+Finished:      2013-04-11 17:57:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

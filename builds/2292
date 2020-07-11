@@ -1,0 +1,11 @@
+Job #2292.1:  better logic, needs more testing still
+State:         passed
+Type:          push
+Branch:        getattrselectionlogic
+Commit:        c235254
+Compare URL:   https://github.com/ether/etherpad-lite/compare/10d92b6bf16f...c23525465d84
+Duration:      14 min 24 sec
+Started:       2014-12-28 18:24:41
+Finished:      2014-12-28 18:39:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1851.1:  CSS fix for pasting plain-text in chrome, needs thorough testing
+State:         errored
+Type:          push
+Branch:        font-on-innerdoc-body
+Commit:        db045c6
+Compare URL:   https://github.com/ether/etherpad-lite/commit/db045c6ffdb7
+Duration:      12 min 21 sec
+Started:       2014-06-24 19:53:22
+Finished:      2014-06-24 20:05:43
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1983.1:  this looks way better
+State:         errored
+Type:          push
+Branch:        reflow-toolbar-properly
+Commit:        d13b616
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0685e563ed94...d13b6162f0b7
+Duration:      11 min 12 sec
+Started:       2014-11-06 16:52:53
+Finished:      2014-11-06 17:04:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1569.1:  after Edit eejs block
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2026)
+Commit:        1e7bf1e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2026
+Duration:      5 sec
+Started:       2013-12-07 17:55:52
+Finished:      2013-12-07 17:55:57
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

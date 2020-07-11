@@ -1,0 +1,11 @@
+Job #1974.1:  working handling of setting client ip and anonymizing etc
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        9fa77cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f418dfa2053c...9fa77cdea251
+Duration:      8 min 44 sec
+Started:       2014-11-05 00:26:19
+Finished:      2014-11-05 00:35:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

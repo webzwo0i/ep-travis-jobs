@@ -1,0 +1,11 @@
+Job #2027.1:  ensure date/time updates
+State:         passed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        4cb3d16
+Compare URL:   https://github.com/ether/etherpad-lite/compare/98e157e4eb0a...4cb3d16c89e2
+Duration:      14 min 29 sec
+Started:       2014-11-15 19:15:02
+Finished:      2014-11-15 19:29:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

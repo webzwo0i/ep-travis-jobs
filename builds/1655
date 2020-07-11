@@ -1,0 +1,11 @@
+Job #1655.1:  Merge pull request #2061 from Gared/url_square_brackets
+State:         passed
+Type:          push
+Branch:        release/3.1.0
+Commit:        e4fbf4b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/release/3.1.0
+Duration:      12 min 42 sec
+Started:       2014-01-23 22:12:35
+Finished:      2014-01-23 22:25:17
+Allow Failure: false
+Config:        node_js: 0.10

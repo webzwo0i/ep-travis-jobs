@@ -1,0 +1,11 @@
+Job #1643.1:  it WORKS! happy new year everyone
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2054)
+Commit:        b5092fc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2054
+Duration:      16 min 26 sec
+Started:       2013-12-31 16:18:41
+Finished:      2013-12-31 16:35:07
+Allow Failure: false
+Config:        node_js: 0.10

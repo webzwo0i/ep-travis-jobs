@@ -1,0 +1,11 @@
+Job #2612.1:  2
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2542)
+Commit:        7d9bed5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2542
+Duration:      10 min 52 sec
+Started:       2015-03-23 15:10:37
+Finished:      2015-03-23 15:21:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

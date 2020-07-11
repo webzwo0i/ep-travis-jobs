@@ -1,0 +1,11 @@
+Job #1017.1:  option to show sticky chat on screen, note i use a literal string, how am i supposed to add a l10n title?
+State:         passed
+Type:          push
+Branch:        sticky-chat
+Commit:        2e7a979
+Compare URL:   https://github.com/ether/etherpad-lite/commit/2e7a9796ded7
+Duration:      2 min 18 sec
+Started:       2013-03-24 02:14:16
+Finished:      2013-03-24 02:16:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

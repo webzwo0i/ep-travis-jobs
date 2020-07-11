@@ -1,0 +1,11 @@
+Job #2203.1:  Merge pull request #2361 from seanhussey/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0809797
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c1fdd7ff7912...08097975edcc
+Duration:      15 min 7 sec
+Started:       2014-12-04 03:33:44
+Finished:      2014-12-04 03:48:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

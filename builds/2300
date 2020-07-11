@@ -1,0 +1,11 @@
+Job #2300.1:  Use camel case
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2410)
+Commit:        4c5f63a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2410
+Duration:      10 min 46 sec
+Started:       2014-12-28 22:21:39
+Finished:      2014-12-28 22:32:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

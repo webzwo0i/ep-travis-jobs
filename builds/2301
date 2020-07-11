@@ -1,0 +1,11 @@
+Job #2301.1:  test fix
+State:         passed
+Type:          push
+Branch:        ios82
+Commit:        2e30ce1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8c9d93467ac5...2e30ce1a4dbc
+Duration:      20 min 12 sec
+Started:       2014-12-28 22:27:49
+Finished:      2014-12-28 22:48:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

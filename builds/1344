@@ -1,0 +1,11 @@
+Job #1344.1:  The #importsubmitinput button was too small and hidden its value
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1897)
+Commit:        6aba1b2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1897
+Duration:      10 min 53 sec
+Started:       2013-09-21 12:57:16
+Finished:      2013-09-21 13:08:09
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

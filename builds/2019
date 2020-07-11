@@ -1,0 +1,11 @@
+Job #2019.1:  Merge pull request #1682 from luto/fix-listSessionsOfGroup
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        865829e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fc79c8a29812...865829e159be
+Duration:      21 min 47 sec
+Started:       2014-11-15 17:26:05
+Finished:      2014-11-15 17:47:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

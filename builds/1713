@@ -1,0 +1,11 @@
+Job #1713.1:  Merge pull request #2074 from webzwo0i/fix-disconnect-on-new-changes-in-padinitialization
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        af50001
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b572b888cb2...af50001769b6
+Duration:      15 min 12 sec
+Started:       2014-02-26 22:58:41
+Finished:      2014-02-26 23:13:53
+Allow Failure: false
+Config:        node_js: 0.10

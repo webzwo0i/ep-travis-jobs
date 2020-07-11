@@ -1,0 +1,11 @@
+Job #1072.1:  remove messy bits
+State:         passed
+Type:          push
+Branch:        ctrl-s-fade
+Commit:        c67c7ca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0ff5137da3b1...c67c7ca746fd
+Duration:      2 min 17 sec
+Started:       2013-03-29 04:11:47
+Finished:      2013-03-29 04:14:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

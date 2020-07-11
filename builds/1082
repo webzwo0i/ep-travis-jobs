@@ -1,0 +1,11 @@
+Job #1082.1:  When there is just one session and this one is invalid SecurityManager.checkAccess would cause the request to hang forever because the callback is omitted for each invalid session, this fixes this issue.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1689)
+Commit:        e82d6f4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1689
+Duration:      11 min 5 sec
+Started:       2013-03-31 12:28:05
+Finished:      2013-03-31 12:39:10
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

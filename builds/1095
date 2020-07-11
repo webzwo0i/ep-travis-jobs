@@ -1,0 +1,11 @@
+Job #1095.1:  longer timeout on reconnection
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1697)
+Commit:        3fcb83f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1697
+Duration:      11 min 21 sec
+Started:       2013-04-02 21:01:33
+Finished:      2013-04-02 21:12:54
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2055.1:  some timeslider styling but this wont be completed by me
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2321)
+Commit:        4b853b5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2321
+Duration:      21 min 48 sec
+Started:       2014-11-18 23:27:52
+Finished:      2014-11-18 23:49:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

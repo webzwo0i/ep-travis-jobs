@@ -1,0 +1,11 @@
+Job #2274.1:  fix warning message
+State:         failed
+Type:          push
+Branch:        import-export-improvements
+Commit:        2c10738
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7708460faff0...2c1073833148
+Duration:      22 min 8 sec
+Started:       2014-12-27 17:26:51
+Finished:      2014-12-27 17:48:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1264.1:  Use rev-parse to get short commit hash
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1789)
+Commit:        694af09
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1789
+Duration:      11 min 1 sec
+Started:       2013-05-31 03:06:37
+Finished:      2013-05-31 03:17:38
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1416.1:  Add explanations for more disconnect scenarios
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1929)
+Commit:        d2c3029
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1929
+Duration:      11 min 53 sec
+Started:       2013-10-10 21:17:38
+Finished:      2013-10-10 21:29:31
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

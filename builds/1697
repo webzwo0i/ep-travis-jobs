@@ -1,0 +1,11 @@
+Job #1697.1:  Timeslider: Don't compoese changes before applying them
+State:         failed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        15f08b4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/023ae3baac03...15f08b455c5f
+Duration:      15 min 39 sec
+Started:       2014-01-28 18:52:19
+Finished:      2014-01-28 19:07:58
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1266.1:  new hook: aceSetAuthorStyle
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1797)
+Commit:        c5bcfe1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1797
+Duration:      10 min 58 sec
+Started:       2013-06-06 07:16:39
+Finished:      2013-06-06 07:27:37
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

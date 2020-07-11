@@ -1,0 +1,11 @@
+Job #1864.1:  Support to allow for a setting so you can stop unknown file types from being imported
+State:         passed
+Type:          push
+Branch:        setting-to-not-import-unknown-file-types
+Commit:        17f26b8
+Compare URL:   https://github.com/ether/etherpad-lite/commit/17f26b8c2c98
+Duration:      17 min 21 sec
+Started:       2014-07-22 16:52:05
+Finished:      2014-07-22 17:09:26
+Allow Failure: false
+Config:        node_js: 0.10

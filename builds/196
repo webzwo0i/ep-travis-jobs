@@ -1,0 +1,11 @@
+Job #196.1:  Merge pull request #1265 from joker-x/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0908caa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/deb2c54487f1...0908caaf0d2c
+Duration:      4 min 53 sec
+Started:       2012-12-06 13:34:17
+Finished:      2012-12-06 13:39:10
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

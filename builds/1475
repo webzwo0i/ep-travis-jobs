@@ -1,0 +1,11 @@
+Job #1475.1:  Merge pull request #1963 from eyesonlyhack/allLinksTranslatingToHTTP
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        975eae3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7b84e7308bab...975eae350e29
+Duration:      12 min 23 sec
+Started:       2013-10-28 12:15:47
+Finished:      2013-10-28 12:28:10
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

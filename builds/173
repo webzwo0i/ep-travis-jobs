@@ -1,0 +1,11 @@
+Job #173.1:  Made routing behave and disallow funky PadIDs.
+State:         failed
+Type:          pull request
+Branch:        master (PR #1250)
+Commit:        78361d4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1250
+Duration:      12 min 59 sec
+Started:       2012-12-03 16:58:58
+Finished:      2012-12-03 17:11:57
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

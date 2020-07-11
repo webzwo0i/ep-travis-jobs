@@ -1,0 +1,11 @@
+Job #1359.1:  /admin/plugins: Fix search algorithm (use string match in lower case)
+State:         passed
+Type:          push
+Branch:        fix/plugin-search
+Commit:        6a02302
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6a02302fc9df
+Duration:      22 min 48 sec
+Started:       2013-09-23 20:01:23
+Finished:      2013-09-23 20:24:11
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

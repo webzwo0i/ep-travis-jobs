@@ -1,0 +1,11 @@
+Job #181.1:  Merge pull request #1223 from joker-x/languages4translatewiki
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ce71002
+Compare URL:   https://github.com/ether/etherpad-lite/compare/55d543f9ca6e...ce7100264430
+Duration:      5 min 47 sec
+Started:       2012-12-04 13:12:02
+Finished:      2012-12-04 13:17:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

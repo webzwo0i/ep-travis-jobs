@@ -1,0 +1,11 @@
+Job #1985.1:  fix pg
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3eb0652
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b59f6a4d6f6a...3eb0652b218b
+Duration:      9 min 9 sec
+Started:       2014-11-06 17:44:51
+Finished:      2014-11-06 17:54:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

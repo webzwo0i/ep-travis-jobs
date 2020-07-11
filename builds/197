@@ -1,0 +1,11 @@
+Job #197.1:  use the parent window, not the top
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1267)
+Commit:        6ed2537
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1267
+Duration:      12 min 54 sec
+Started:       2012-12-06 17:55:42
+Finished:      2012-12-06 18:08:36
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

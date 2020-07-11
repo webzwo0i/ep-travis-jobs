@@ -1,0 +1,11 @@
+Job #1029.1:  Silence npm when using npm.commands.search
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1672)
+Commit:        f837b9b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1672
+Duration:      10 min 56 sec
+Started:       2013-03-26 11:34:18
+Finished:      2013-03-26 11:45:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

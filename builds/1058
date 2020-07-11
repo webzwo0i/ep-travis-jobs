@@ -1,0 +1,11 @@
+Job #1058.1:  Update en.json
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        40cbe55
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cee1ead8f6b4...40cbe55507fd
+Duration:      2 min 25 sec
+Started:       2013-03-27 15:12:51
+Finished:      2013-03-27 15:15:16
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

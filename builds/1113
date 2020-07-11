@@ -1,0 +1,11 @@
+Job #1113.1:  hrm, maybe this makes sense to a wider audience
+State:         passed
+Type:          push
+Branch:        readme2
+Commit:        43f8778
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a3136d778dc9...43f877824136
+Duration:      2 min 2 sec
+Started:       2013-04-04 16:36:49
+Finished:      2013-04-04 16:38:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

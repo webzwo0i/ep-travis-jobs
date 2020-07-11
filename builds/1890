@@ -1,0 +1,11 @@
+Job #1890.1:  Revert change on position of imp/exp overlay
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2219)
+Commit:        683e029
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2219
+Duration:      11 min 32 sec
+Started:       2014-09-14 20:27:45
+Finished:      2014-09-14 20:39:17
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1792.1:  block ele for image
+State:         failed
+Type:          push
+Branch:        image
+Commit:        4e17e4d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dcb3e13358c9...4e17e4d8ca91
+Duration:      22 min 29 sec
+Started:       2014-04-07 20:37:24
+Finished:      2014-04-07 20:59:53
+Allow Failure: false
+Config:        node_js: 0.10

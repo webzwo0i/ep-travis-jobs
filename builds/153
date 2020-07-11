@@ -1,0 +1,11 @@
+Job #153.1:  Add same color in pad and chat for author
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1249)
+Commit:        3d106d4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1249
+Duration:      14 min 4 sec
+Started:       2012-12-03 03:50:28
+Finished:      2012-12-03 04:04:32
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

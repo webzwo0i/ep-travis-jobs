@@ -1,0 +1,11 @@
+Job #1341.1:  API: fix createGroup for mapper endpoint for cases when a mapped group has been deleted
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1893)
+Commit:        0be0587
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1893
+Duration:      19 min 30 sec
+Started:       2013-09-18 16:08:51
+Finished:      2013-09-18 16:28:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

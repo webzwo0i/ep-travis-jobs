@@ -1,0 +1,11 @@
+Job #1684.1:  Timeslider: Fix display of author colors
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        bf25b25
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      7 min 58 sec
+Started:       2014-01-28 15:56:10
+Finished:      2014-01-28 16:04:08
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2120.1:  Merge pull request #2342 from ether/fix-2320-crash
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3a28db7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/97068b562dce...3a28db7f4028
+Duration:      14 min 29 sec
+Started:       2014-11-25 23:11:02
+Finished:      2014-11-25 23:25:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1621.1:  Merge pull request #2045 from ether/exposeUpdateBrowserSel
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b5ca52a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1c2f05cb96be...b5ca52a5e5aa
+Duration:      13 min 55 sec
+Started:       2013-12-18 23:21:53
+Finished:      2013-12-18 23:35:48
+Allow Failure: false
+Config:        node_js: 0.10

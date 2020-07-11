@@ -1,0 +1,11 @@
+Job #2611.1:  acceptable custom value after collectcontent
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2542)
+Commit:        596561a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2542
+Duration:      10 min 41 sec
+Started:       2015-03-23 04:12:08
+Finished:      2015-03-23 04:22:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

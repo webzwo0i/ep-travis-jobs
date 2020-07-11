@@ -1,0 +1,11 @@
+Job #2174.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into sanitizer
+State:         failed
+Type:          push
+Branch:        sanitizer
+Commit:        d974e88
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2c728b8e1beb...d974e881a8e0
+Duration:      21 min 59 sec
+Started:       2014-11-28 01:03:01
+Finished:      2014-11-28 01:25:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

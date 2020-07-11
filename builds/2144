@@ -1,0 +1,11 @@
+Job #2144.1:  60% of backend api tests written
+State:         failed
+Type:          push
+Branch:        backend-tests
+Commit:        253d6da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/98cc725300de...253d6da2ac4b
+Duration:      22 min 27 sec
+Started:       2014-11-26 22:22:41
+Finished:      2014-11-26 22:45:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

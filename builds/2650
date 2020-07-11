@@ -1,0 +1,11 @@
+Job #2650.1:  much better chat focus toggle behavior
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2566)
+Commit:        a127449
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2566
+Duration:      16 min 34 sec
+Started:       2015-03-26 18:13:32
+Finished:      2015-03-26 18:30:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

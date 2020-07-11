@@ -1,0 +1,11 @@
+Job #1597.1:  DAMNIT
+State:         passed
+Type:          push
+Branch:        support-images
+Commit:        3c04a4c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a4c23a383c45...3c04a4c1b153
+Duration:      13 min 24 sec
+Started:       2013-12-12 01:38:33
+Finished:      2013-12-12 01:51:57
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1690.1:  Timeslider UI: Move timestamp with handle, not with star
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        d6e8211
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      12 min 44 sec
+Started:       2014-01-28 17:34:55
+Finished:      2014-01-28 17:47:39
+Allow Failure: false
+Config:        node_js: 0.10

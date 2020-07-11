@@ -1,0 +1,11 @@
+Job #1402.1:  Catch errors during preparation of client vars
+State:         failed
+Type:          push
+Branch:        fix/no-connect-to-corrupt-pad
+Commit:        6689a3c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ccf468355892^...6689a3c02e8c
+Duration:      16 min 21 sec
+Started:       2013-10-10 16:40:25
+Finished:      2013-10-10 16:56:46
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

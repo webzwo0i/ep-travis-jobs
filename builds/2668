@@ -1,0 +1,11 @@
+Job #2668.1:  I came to bring the rain..   Let me get my coat...  Fix focus on timeslider import export
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        24e6e17
+Compare URL:   https://github.com/ether/etherpad-lite/compare/73073dcbc1e7...24e6e1728a02
+Duration:      22 min 18 sec
+Started:       2015-03-31 16:10:08
+Finished:      2015-03-31 16:32:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

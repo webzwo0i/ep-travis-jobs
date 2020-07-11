@@ -1,0 +1,11 @@
+Job #1311.1:  Start script needs bash instead of sh for root arguments
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1851)
+Commit:        49bd2d3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1851
+Duration:      11 min 5 sec
+Started:       2013-08-15 19:10:04
+Finished:      2013-08-15 19:21:09
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

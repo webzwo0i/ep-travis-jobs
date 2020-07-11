@@ -1,0 +1,10 @@
+Job #16.1:  Dont include git history in the windows .zip
+State:         failed
+Type:          push
+Branch:        windows-build-script-exclusions
+Commit:        fcee203
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6e488703ad1d...fcee203a1a6a
+Duration:      23 sec
+Started:       2012-11-15 15:16:35
+Finished:      2012-11-15 15:16:58
+Allow Failure: false

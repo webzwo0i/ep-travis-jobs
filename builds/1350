@@ -1,0 +1,11 @@
+Job #1350.1:  make export clearly seperated from import
+State:         passed
+Type:          push
+Branch:        import-button-styling
+Commit:        e35c45e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ca680a32b688...e35c45e9b5d6
+Duration:      13 min 43 sec
+Started:       2013-09-21 17:23:40
+Finished:      2013-09-21 17:37:23
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

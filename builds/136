@@ -1,0 +1,11 @@
+Job #136.1:  replace async loading of l10n because chrome fail to load
+State:         failed
+Type:          pull request
+Branch:        develop (PR #)
+Commit:        4c724e0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1242
+Duration:      12 min 59 sec
+Started:       2012-12-02 06:09:41
+Finished:      2012-12-02 06:22:40
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

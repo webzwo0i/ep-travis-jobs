@@ -1,0 +1,11 @@
+Job #1545.1:  Added a way to closed the extended chat window
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2014)
+Commit:        3bc43e2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2014
+Duration:      11 min 7 sec
+Started:       2013-11-28 21:06:55
+Finished:      2013-11-28 21:18:02
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1010.1:  expires was never defined
+State:         passed
+Type:          push
+Branch:        feature/support-node-0.10
+Commit:        d515aca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b3988e30d54c...d515acae96dd
+Duration:      2 min 10 sec
+Started:       2013-03-23 19:03:56
+Finished:      2013-03-23 19:06:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

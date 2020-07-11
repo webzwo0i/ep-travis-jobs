@@ -1,0 +1,11 @@
+Job #2161.1:  sanitizer change
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2348)
+Commit:        7c9745b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2348
+Duration:      22 min 19 sec
+Started:       2014-11-27 01:47:49
+Finished:      2014-11-27 02:10:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

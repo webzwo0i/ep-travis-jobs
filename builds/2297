@@ -1,0 +1,11 @@
+Job #2297.1:  tests front chat going from stiky to smally
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9715e03
+Compare URL:   https://github.com/ether/etherpad-lite/compare/74eca43965b2...9715e039cdc1
+Duration:      8 min 13 sec
+Started:       2014-12-28 20:26:32
+Finished:      2014-12-28 20:34:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

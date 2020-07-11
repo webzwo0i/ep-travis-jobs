@@ -1,0 +1,11 @@
+Job #1912.1:  Add 'Ctrl-5' keyboard shortcut for 'strikethrough' #1987
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2265)
+Commit:        06994d2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2265
+Duration:      10 min 40 sec
+Started:       2014-10-11 19:23:00
+Finished:      2014-10-11 19:33:40
+Allow Failure: false
+Config:        node_js: 0.10

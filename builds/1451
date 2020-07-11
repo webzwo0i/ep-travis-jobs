@@ -1,0 +1,11 @@
+Job #1451.1:  clean up
+State:         errored
+Type:          push
+Branch:        metrics
+Commit:        6069a4d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/05db85ceca3c...6069a4ddfe0a
+Duration:      11 min 39 sec
+Started:       2013-10-21 00:40:55
+Finished:      2013-10-21 00:52:34
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

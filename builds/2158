@@ -1,0 +1,11 @@
+Job #2158.1:  utf8 check
+State:         failed
+Type:          push
+Branch:        utf-8-check
+Commit:        f5ff25e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f5ff25e3756b
+Duration:      22 min 26 sec
+Started:       2014-11-27 01:30:04
+Finished:      2014-11-27 01:52:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

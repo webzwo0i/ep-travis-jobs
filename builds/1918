@@ -1,0 +1,11 @@
+Job #1918.1:  swipe chat notification to the right to make it fade out
+State:         passed
+Type:          push
+Branch:        swipe-gestures
+Commit:        79e684a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/040dc78df9ec^...79e684ac34a4
+Duration:      13 min 59 sec
+Started:       2014-10-12 18:46:42
+Finished:      2014-10-12 19:00:41
+Allow Failure: false
+Config:        node_js: 0.10

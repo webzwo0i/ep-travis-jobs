@@ -1,0 +1,11 @@
+Job #108.1:  remember the styling for the pasword prompt
+State:         failed
+Type:          push
+Branch:        focus-on-password
+Commit:        f880473
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fddca354b33e...f880473360e2
+Duration:      5 min 59 sec
+Started:       2012-11-26 21:56:50
+Finished:      2012-11-26 22:02:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

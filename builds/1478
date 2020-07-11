@@ -1,0 +1,11 @@
+Job #1478.1:  Replace tabs indentation with spaces indentation
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1973)
+Commit:        765c839
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1973
+Duration:      11 min 1 sec
+Started:       2013-10-29 00:27:19
+Finished:      2013-10-29 00:38:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1941.1:  changed link wording for readme plugin reference
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2285)
+Commit:        06eb92b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2285
+Duration:      10 min 37 sec
+Started:       2014-10-29 02:14:12
+Finished:      2014-10-29 02:24:49
+Allow Failure: false
+Config:        node_js: 0.10

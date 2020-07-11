@@ -1,0 +1,11 @@
+Job #1361.1:  Merge pull request #1904 from ether/fix/plugin-search
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3e1e92c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7898c350f7f8...3e1e92c100aa
+Duration:      16 min 59 sec
+Started:       2013-09-23 20:03:11
+Finished:      2013-09-23 20:20:10
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

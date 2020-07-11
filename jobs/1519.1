@@ -1,0 +1,269 @@
+Using worker: worker-linux-5-2.bb.travis-ci.org:travis-linux-18
+
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+travis_fold:start:git.1$ git clone --depth=50 --branch=packaging git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 3619, done.ote: Compressing objects:   0% (1/1816)   ote: Compressing objects:   1% (19/1816)   ote: Compressing objects:   2% (37/1816)   ote: Compressing objects:   3% (55/1816)   ote: Compressing objects:   4% (73/1816)   ote: Compressing objects:   5% (91/1816)   ote: Compressing objects:   6% (109/1816)   ote: Compressing objects:   7% (128/1816)   ote: Compressing objects:   8% (146/1816)   ote: Compressing objects:   9% (164/1816)   ote: Compressing objects:  10% (182/1816)   ote: Compressing objects:  11% (200/1816)   ote: Compressing objects:  12% (218/1816)   ote: Compressing objects:  13% (237/1816)   ote: Compressing objects:  14% (255/1816)   ote: Compressing objects:  15% (273/1816)   ote: Compressing objects:  16% (291/1816)   ote: Compressing objects:  17% (309/1816)   ote: Compressing objects:  18% (327/1816)   ote: Compressing objects:  19% (346/1816)   ote: Compressing objects:  20% (364/1816)   ote: Compressing objects:  21% (382/1816)   ote: Compressing objects:  22% (400/1816)   ote: Compressing objects:  23% (418/1816)   ote: Compressing objects:  24% (436/1816)   ote: Compressing objects:  25% (454/1816)   ote: Compressing objects:  26% (473/1816)   ote: Compressing objects:  27% (491/1816)   ote: Compressing objects:  28% (509/1816)   ote: Compressing objects:  29% (527/1816)   ote: Compressing objects:  30% (545/1816)   ote: Compressing objects:  31% (563/1816)   ote: Compressing objects:  32% (582/1816)   ote: Compressing objects:  33% (600/1816)   ote: Compressing objects:  34% (618/1816)   ote: Compressing objects:  35% (636/1816)   ote: Compressing objects:  36% (654/1816)   ote: Compressing objects:  37% (672/1816)   ote: Compressing objects:  38% (691/1816)   ote: Compressing objects:  39% (709/1816)   ote: Compressing objects:  40% (727/1816)   ote: Compressing objects:  41% (745/1816)   ote: Compressing objects:  42% (763/1816)   ote: Compressing objects:  43% (781/1816)   ote: Compressing objects:  44% (800/1816)   ote: Compressing objects:  45% (818/1816)   ote: Compressing objects:  46% (836/1816)   ote: Compressing objects:  47% (854/1816)   ote: Compressing objects:  48% (872/1816)   ote: Compressing objects:  49% (890/1816)   ote: Compressing objects:  50% (908/1816)   ote: Compressing objects:  51% (927/1816)   ote: Compressing objects:  52% (945/1816)   ote: Compressing objects:  53% (963/1816)   ote: Compressing objects:  54% (981/1816)   ote: Compressing objects:  55% (999/1816)   ote: Compressing objects:  56% (1017/1816)   ote: Compressing objects:  57% (1036/1816)   ote: Compressing objects:  58% (1054/1816)   ote: Compressing objects:  59% (1072/1816)   ote: Compressing objects:  60% (1090/1816)   ote: Compressing objects:  61% (1108/1816)   ote: Compressing objects:  62% (1126/1816)   ote: Compressing objects:  63% (1145/1816)   ote: Compressing objects:  64% (1163/1816)   ote: Compressing objects:  65% (1181/1816)   ote: Compressing objects:  66% (1199/1816)   ote: Compressing objects:  67% (1217/1816)   ote: Compressing objects:  68% (1235/1816)   ote: Compressing objects:  69% (1254/1816)   ote: Compressing objects:  70% (1272/1816)   ote: Compressing objects:  71% (1290/1816)   ote: Compressing objects:  72% (1308/1816)   ote: Compressing objects:  73% (1326/1816)   ote: Compressing objects:  74% (1344/1816)   ote: Compressing objects:  75% (1362/1816)   ote: Compressing objects:  76% (1381/1816)   ote: Compressing objects:  77% (1399/1816)   ote: Compressing objects:  78% (1417/1816)   ote: Compressing objects:  79% (1435/1816)   ote: Compressing objects:  80% (1453/1816)   ote: Compressing objects:  81% (1471/1816)   ote: Compressing objects:  82% (1490/1816)   ote: Compressing objects:  83% (1508/1816)   ote: Compressing objects:  84% (1526/1816)   ote: Compressing objects:  85% (1544/1816)   ote: Compressing objects:  86% (1562/1816)   ote: Compressing objects:  87% (1580/1816)   ote: Compressing objects:  88% (1599/1816)   ote: Compressing objects:  89% (1617/1816)   ote: Compressing objects:  90% (1635/1816)   ote: Compressing objects:  91% (1653/1816)   ote: Compressing objects:  92% (1671/1816)   ote: Compressing objects:  93% (1689/1816)   ote: Compressing objects:  94% (1708/1816)   ote: Compressing objects:  95% (1726/1816)   ote: Compressing objects:  96% (1744/1816)   ote: Compressing objects:  97% (1762/1816)   ote: Compressing objects:  98% (1780/1816)   ote: Compressing objects:  99% (1798/1816)   ote: Compressing objects: 100% (1816/1816)   ote: Compressing objects: 100% (1816/1816), done.ote: Total 3619 (delta 2416), reused 2763 (delta 1744) use 0.10
+Now using node v0.10.22
+$ node --version
+v0.10.22
+$ npm --version
+1.3.14
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.22","npm":"1.3.14"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+measured@0.1.3 node_modules/measured
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@2.1.0)
+
+log4js@0.6.6 node_modules/log4js
+├── dequeue@1.0.3
+├── semver@1.1.4
+├── async@0.1.15
+└── readable-stream@1.0.17
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── cookie-signature@1.0.1
+├── debug@0.7.4
+├── qs@0.6.5
+├── bytes@0.2.0
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.6.0 (wordwrap@0.0.2, minimist@0.0.5)
+├── simplesmtp@0.3.15 (xoauth2@0.1.8, rai@0.1.8)
+└── mailcomposer@0.2.4 (mime@1.2.9, ent@0.1.0, mimelib@0.2.14)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── debug@0.7.4
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+npm@1.2.32 node_modules/npm
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+ueberDB@0.2.0 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.7
+├── async@0.1.15
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.4)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.31, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(git rev-parse --verify --short HEAD)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  6 29.1M    6 2053k    0     0  2453k      0  0:00:12 --:--:--  0:00:12 2569k 19 29.1M   19 5689k    0     0  3046k      0  0:00:09  0:00:01  0:00:08 3110k 30 29.1M   30 9113k    0     0  3190k      0  0:00:09  0:00:02  0:00:07 3232k 42 29.1M   42 12.2M    0     0  3252k      0  0:00:09  0:00:03  0:00:06 3285k 53 29.1M   53 15.6M    0     0  3291k      0  0:00:09  0:00:04  0:00:05 3317k 65 29.1M   65 18.9M    0     0  3323k      0  0:00:08  0:00:05  0:00:03 3468k 76 29.1M   76 22.3M    0     0  3337k      0  0:00:08  0:00:06  0:00:02 3445k 88 29.1M   88 25.6M    0     0  3350k      0  0:00:08  0:00:07  0:00:01 3443k 99 29.1M   99 28.9M    0     0  3358k      0  0:00:08  0:00:08 --:--:-- 3440k100 29.1M  100 29.1M    0     0  3361k      0  0:00:08  0:00:08 --:--:-- 3445k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-11-24 12:46:25.408:INFO::jetty-7.x.y-SNAPSHOT
+2013-11-24 12:46:25.436:INFO::Started SelectChannelConnector@0.0.0.0:42156
+2013-11-24 12:46:48.717:INFO::jetty-7.x.y-SNAPSHOT
+2013-11-24 12:46:48.720:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_fold:end:before_script$ tests/frontend/travis/runner.sh
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json tinycon@0.0.1 No repository field.
+npm WARN package.json ueberDB@0.2.0 No repository field.
+npm WARN package.json bytes@0.2.0 No repository field.
+npm WARN package.json cookie-signature@1.0.1 No repository field.
+npm WARN package.json fresh@0.1.0 No repository field.
+npm WARN package.json pause@0.0.1 No repository field.
+npm WARN package.json cookie-signature@0.0.1 No repository field.
+npm WARN package.json methods@0.0.1 No repository field.
+npm WARN package.json range-parser@0.0.4 No repository field.
+npm WARN package.json send@0.1.0 No repository field.
+npm WARN package.json policyfile@0.0.4 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json docco@0.4.0 No repository field.
+npm WARN package.json channels@0.0.2 No repository field.
+npm WARN package.json dirty@0.9.7 No repository field.
+npm WARN package.json vargs@0.1.0 No repository field.
+npm WARN package.json bytes@0.1.0 No repository field.
+npm WARN package.json formidable@1.0.11 No repository field.
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+npm WARN package.json assert-plus@0.1.2 No repository field.
+npm WARN package.json ctype@0.5.2 No repository field.
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"rotatable": false, "browserConnectionEnabled": true, "acceptSslCerts": true, "cssSelectorsEnabled": true, "javascriptEnabled": true, "nativeEvents": false, "databaseEnabled": true, "locationContextEnabled": true, "takesScreenshot": true, "platform": "LINUX", "browserName": "firefox", "webdriver.remote.sessionid": "1c788127-7ec5-4fdb-a1fc-9585c5296774", "version": "25.0", "applicationCacheEnabled": true, "webStorageEnabled": true, "handlesAlerts": true}, "sessionId": "6f1f615df37a4c40bea5d300532ec1e9", "hCode": 12273995, "class": "org.openqa.selenium.remote.Response"}' }
+Remote sauce test 'd6f1aa3 - googlechrome , Linux' started! https://saucelabs.com/jobs/a05bc3d4f60a472c89929feb365d6f6a
+Remote sauce test 'd6f1aa3 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/a0331dca43ae4de59d610f2030d19f4f
+Remote sauce test 'd6f1aa3 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/111bec3238d44c5b9e7d811d62e26c59
+2013-11-24 12:47:39.090:WARN::9 threads could not be stopped
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold on click
+[iexplore 10]     -> PASSED : makes text bold on keypress
+[iexplore 10] 
+[iexplore 10] caret.js
+[iexplore 10]   As the caret is moved is the UI properly updated?
+[iexplore 10]     -> PASSED : creates a pad
+[iexplore 10]     -> PASSED : down arrow
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test 'd6f1aa3 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/111bec3238d44c5b9e7d811d62e26c59
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 13, "sessionId": "f7dfaed310e842b1a853a3074117c2e0", "value": {"message": "Sauce could not start your job. For more information on what happened, please visit https://saucelabs.com/jobs/f7dfaed310e842b1a853a3074117c2e0"}}' }
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] caret.js
+[googlechrome]   As the caret is moved is the UI properly updated?
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : down arrow
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> FAILED : Remembers the user name after a refresh Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     -> FAILED : "before each" hook Error: the string "Uncaught TypeError: Cannot read proper
+[googlechrome]     ty 'contentWindow' of undefined" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome] 
+Remote sauce test 'd6f1aa3 - googlechrome , Linux' finished! https://saucelabs.com/jobs/a05bc3d4f60a472c89929feb365d6f6a
+[iexplore 8] alphabet.js
+[iexplore 8]   All the alphabet works n stuff
+[iexplore 8]     -> PASSED : when you enter any char it appears right
+[iexplore 8] 
+[iexplore 8] bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> PASSED : makes text bold on click
+[iexplore 8]     -> PASSED : makes text bold on keypress
+[iexplore 8] 
+[iexplore 8] caret.js
+[iexplore 8]   As the caret is moved is the UI properly updated?
+[iexplore 8]     -> PASSED : creates a pad
+[iexplore 8]     -> PASSED : down arrow
+[iexplore 8] 
+[iexplore 8] change_user_name.js
+[iexplore 8]   change username value
+[iexplore 8] 
+Remote sauce test 'd6f1aa3 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/a0331dca43ae4de59d610f2030d19f4f
+a function in your .chain() failed: {"message":"Unexpected data in simpleCallback.","data":{"status":13,"message":"Due to a previous error, this job has already finished. You can learn more at https://saucelabs.com/jobs/a0331dca43ae4de59d610f2030d19f4f","value":{"message":"Due to a previous error, this job has already finished. You can learn more at https://saucelabs.com/jobs/a0331dca43ae4de59d610f2030d19f4f"}}}
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 0.
+
+Done. Your build exited with 0.

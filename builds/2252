@@ -1,0 +1,11 @@
+Job #2252.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into utf-8-check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2347)
+Commit:        94ddaa9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2347
+Duration:      11 min 56 sec
+Started:       2014-12-24 03:46:19
+Finished:      2014-12-24 03:58:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

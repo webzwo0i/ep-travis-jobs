@@ -1,0 +1,11 @@
+Job #1289.1:  update clean css
+State:         errored
+Type:          push
+Branch:        clean-css-update
+Commit:        d306537
+Compare URL:   https://github.com/ether/etherpad-lite/commit/d306537c648c
+Duration:      36 sec
+Started:       2013-06-25 17:18:44
+Finished:      2013-06-25 17:19:20
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

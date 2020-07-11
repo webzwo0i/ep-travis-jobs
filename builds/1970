@@ -1,0 +1,11 @@
+Job #1970.1:  working messages
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        a6cbb4a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/68eaa0970824...a6cbb4af409b
+Duration:      13 min 59 sec
+Started:       2014-11-04 21:04:29
+Finished:      2014-11-04 21:18:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

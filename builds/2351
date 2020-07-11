@@ -1,0 +1,11 @@
+Job #2351.1:  Merge pull request #2410 from Gared/feature/notify-user-cookies-rejected
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5df638b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/90e83ed6b5a1...5df638bfac35
+Duration:      19 min 53 sec
+Started:       2014-12-30 14:55:25
+Finished:      2014-12-30 15:15:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

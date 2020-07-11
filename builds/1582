@@ -1,0 +1,11 @@
+Job #1582.1:  Merge pull request #2030 from ether/import_hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        438f3fc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/505dc70df561...438f3fc717e1
+Duration:      23 min 13 sec
+Started:       2013-12-09 19:25:06
+Finished:      2013-12-09 19:48:19
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

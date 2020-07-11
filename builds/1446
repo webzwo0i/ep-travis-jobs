@@ -1,0 +1,11 @@
+Job #1446.1:  requests per second and some cruft for total users
+State:         failed
+Type:          push
+Branch:        metrics
+Commit:        25e31ec
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c7608d6963a6...25e31ecb16fe
+Duration:      21 min 9 sec
+Started:       2013-10-20 23:59:56
+Finished:      2013-10-21 00:21:05
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

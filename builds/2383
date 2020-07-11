@@ -1,0 +1,11 @@
+Job #2383.1:  final html export hook
+State:         passed
+Type:          push
+Branch:        exporthtmlendhook
+Commit:        17ce67d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/17ce67d93677
+Duration:      13 min 42 sec
+Started:       2015-01-06 17:33:00
+Finished:      2015-01-06 17:46:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

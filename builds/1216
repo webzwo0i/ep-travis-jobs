@@ -1,0 +1,11 @@
+Job #1216.1:  Fix authorship sanitization
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1750)
+Commit:        c4212b8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1750
+Duration:      10 min 53 sec
+Started:       2013-04-17 15:28:08
+Finished:      2013-04-17 15:39:01
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

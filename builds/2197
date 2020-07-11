@@ -1,0 +1,11 @@
+Job #2197.1:  stop death on no session
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2350)
+Commit:        2d11e42
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2350
+Duration:      13 min 38 sec
+Started:       2014-11-30 22:22:43
+Finished:      2014-11-30 22:36:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

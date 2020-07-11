@@ -1,0 +1,11 @@
+Job #1009.1:  pump isdeprecated
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1623)
+Commit:        66025cf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1623
+Duration:      10 min 52 sec
+Started:       2013-03-23 18:57:29
+Finished:      2013-03-23 19:08:21
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

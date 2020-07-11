@@ -1,0 +1,11 @@
+Job #2230.1:  declare var outside of loop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2377)
+Commit:        8d2489c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2377
+Duration:      8 sec
+Started:       2014-12-16 17:20:56
+Finished:      2014-12-16 17:21:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2358.1:  Merge pull request #2420 from ether/fix/clean-up-after-removing-list-attrs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b5c671a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/335bf3dc4a21...b5c671a9b623
+Duration:      16 min 39 sec
+Started:       2014-12-31 14:20:08
+Finished:      2014-12-31 14:36:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

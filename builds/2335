@@ -1,0 +1,11 @@
+Job #2335.1:  more author logic
+State:         errored
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        1e0de62
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec2b844f9433...1e0de620be85
+Duration:      11 min 49 sec
+Started:       2014-12-29 23:08:58
+Finished:      2014-12-29 23:20:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

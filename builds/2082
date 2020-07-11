@@ -1,0 +1,11 @@
+Job #2082.1:  minor styling
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        488d689
+Compare URL:   https://github.com/ether/etherpad-lite/compare/703440acd786...488d6890f917
+Duration:      17 min 10 sec
+Started:       2014-11-21 01:16:53
+Finished:      2014-11-21 01:34:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

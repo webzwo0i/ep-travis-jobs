@@ -1,0 +1,243 @@
+Using worker: worker-linux-4-1.bb.travis-ci.org:travis-linux-13
+
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+travis_fold:start:git.1$ git clone --depth=50 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 8406, done.ote: Compressing objects:   0% (1/3149)   ote: Compressing objects:   1% (32/3149)   ote: Compressing objects:   2% (63/3149)   ote: Compressing objects:   3% (95/3149)   ote: Compressing objects:   4% (126/3149)   ote: Compressing objects:   5% (158/3149)   ote: Compressing objects:   6% (189/3149)   ote: Compressing objects:   7% (221/3149)   ote: Compressing objects:   8% (252/3149)   ote: Compressing objects:   9% (284/3149)   ote: Compressing objects:  10% (315/3149)   ote: Compressing objects:  11% (347/3149)   ote: Compressing objects:  12% (378/3149)   ote: Compressing objects:  13% (410/3149)   ote: Compressing objects:  14% (441/3149)   ote: Compressing objects:  15% (473/3149)   ote: Compressing objects:  16% (504/3149)   ote: Compressing objects:  17% (536/3149)   ote: Compressing objects:  18% (567/3149)   ote: Compressing objects:  19% (599/3149)   ote: Compressing objects:  20% (630/3149)   ote: Compressing objects:  21% (662/3149)   ote: Compressing objects:  22% (693/3149)   ote: Compressing objects:  23% (725/3149)   ote: Compressing objects:  24% (756/3149)   ote: Compressing objects:  25% (788/3149)   ote: Compressing objects:  26% (819/3149)   ote: Compressing objects:  27% (851/3149)   ote: Compressing objects:  28% (882/3149)   ote: Compressing objects:  29% (914/3149)   ote: Compressing objects:  30% (945/3149)   ote: Compressing objects:  31% (977/3149)   ote: Compressing objects:  32% (1008/3149)   ote: Compressing objects:  33% (1040/3149)   ote: Compressing objects:  34% (1071/3149)   ote: Compressing objects:  35% (1103/3149)   ote: Compressing objects:  36% (1134/3149)   ote: Compressing objects:  37% (1166/3149)   ote: Compressing objects:  38% (1197/3149)   ote: Compressing objects:  39% (1229/3149)   ote: Compressing objects:  40% (1260/3149)   ote: Compressing objects:  41% (1292/3149)   ote: Compressing objects:  42% (1323/3149)   ote: Compressing objects:  43% (1355/3149)   ote: Compressing objects:  44% (1386/3149)   ote: Compressing objects:  45% (1418/3149)   ote: Compressing objects:  46% (1449/3149)   ote: Compressing objects:  47% (1481/3149)   ote: Compressing objects:  48% (1512/3149)   ote: Compressing objects:  49% (1544/3149)   ote: Compressing objects:  50% (1575/3149)   ote: Compressing objects:  51% (1606/3149)   ote: Compressing objects:  52% (1638/3149)   ote: Compressing objects:  53% (1669/3149)   ote: Compressing objects:  54% (1701/3149)   ote: Compressing objects:  55% (1732/3149)   ote: Compressing objects:  56% (1764/3149)   ote: Compressing objects:  57% (1795/3149)   ote: Compressing objects:  58% (1827/3149)   ote: Compressing objects:  59% (1858/3149)   ote: Compressing objects:  60% (1890/3149)   ote: Compressing objects:  61% (1921/3149)   ote: Compressing objects:  62% (1953/3149)   ote: Compressing objects:  63% (1984/3149)   ote: Compressing objects:  64% (2016/3149)   ote: Compressing objects:  65% (2047/3149)   ote: Compressing objects:  66% (2079/3149)   ote: Compressing objects:  67% (2110/3149)   ote: Compressing objects:  68% (2142/3149)   ote: Compressing objects:  69% (2173/3149)   ote: Compressing objects:  70% (2205/3149)   ote: Compressing objects:  71% (2236/3149)   ote: Compressing objects:  72% (2268/3149)   ote: Compressing objects:  73% (2299/3149)   ote: Compressing objects:  74% (2331/3149)   ote: Compressing objects:  75% (2362/3149)   ote: Compressing objects:  76% (2394/3149)   ote: Compressing objects:  77% (2425/3149)   ote: Compressing objects:  78% (2457/3149)   ote: Compressing objects:  79% (2488/3149)   ote: Compressing objects:  80% (2520/3149)   ote: Compressing objects:  81% (2551/3149)   ote: Compressing objects:  82% (2583/3149)   ote: Compressing objects:  83% (2614/3149)   ote: Compressing objects:  84% (2646/3149)   ote: Compressing objects:  85% (2677/3149)   ote: Compressing objects:  86% (2709/3149)   ote: Compressing objects:  87% (2740/3149)   ote: Compressing objects:  88% (2772/3149)   ote: Compressing objects:  89% (2803/3149)   ote: Compressing objects:  90% (2835/3149)   ote: Compressing objects:  91% (2866/3149)   ote: Compressing objects:  92% (2898/3149)   ote: Compressing objects:  93% (2929/3149)   ote: Compressing objects:  94% (2961/3149)   ote: Compressing objects:  95% (2992/3149)   ote: Compressing objects:  96% (3024/3149)   ote: Compressing objects:  97% (3055/3149)   ote: Compressing objects:  98% (3087/3149)   ote: Compressing objects:  99% (3118/3149)   ote: Compressing objects: 100% (3149/3149)   ote: Compressing objects: 100% (3149/3149), done.ote: Total 8406 (delta 6032), reused 7374 (delta 5151)erge: 
+remote: Counting objects: 12, done.ote: Compressing objects:  50% (1/2)   ote: Compressing objects: 100% (2/2)   ote: Compressing objects: 100% (2/2), done.ote: Total 7 (delta 5), reused 6 (delta 5) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1939/merge -> FETCH_HEAD
+travis_fold:end:git.2travis_fold:start:git.3$ git checkout -qf FETCH_HEAD
+travis_fold:end:git.3$ nvm use 0.10
+Now using node v0.10.12
+$ node --version
+v0.10.12
+$ npm --version
+1.2.32
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json ueberDB@0.2.0 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json channels@0.0.2 No repository field.
+npm WARN package.json range-parser@0.0.4 No repository field.
+npm WARN package.json methods@0.0.1 No repository field.
+npm WARN package.json methods@0.0.1 No readme data.
+npm WARN package.json fresh@0.1.0 No repository field.
+npm WARN package.json cookie-signature@0.0.1 No repository field.
+npm WARN package.json send@0.1.0 No repository field.
+npm WARN package.json dirty@0.9.7 No repository field.
+npm WARN package.json policyfile@0.0.4 No repository field.
+npm WARN package.json policyfile@0.0.4 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json docco@0.4.0 No repository field.
+npm WARN package.json vargs@0.1.0 No repository field.
+npm WARN package.json cookie-signature@1.0.1 No repository field.
+npm WARN package.json bytes@0.2.0 No repository field.
+npm WARN package.json pause@0.0.1 No repository field.
+npm WARN package.json addressparser@0.1.3 No repository field.
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.12","npm":"1.2.32"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+npm WARN package.json bytes@0.1.0 No repository field.
+npm WARN package.json formidable@1.0.11 No repository field.
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+npm WARN package.json assert-plus@0.1.2 No repository field.
+npm WARN package.json ctype@0.5.2 No repository field.
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+log4js@0.6.6 node_modules/log4js
+├── dequeue@1.0.3
+├── semver@1.1.4
+├── async@0.1.15
+└── readable-stream@1.0.17
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@2.0.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.6.0 (wordwrap@0.0.2, minimist@0.0.5)
+├── simplesmtp@0.3.10 (xoauth2@0.1.8, rai@0.1.7)
+└── mailcomposer@0.2.2 (mime@1.2.9, mimelib@0.2.13)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+npm@1.2.32 node_modules/npm
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+ueberDB@0.2.0 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.7
+├── async@0.1.15
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.4)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.31, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 29.0M    2  721k    0     0  1025k      0  0:00:29 --:--:--  0:00:29 1733k 14 29.0M   14 4253k    0     0  2496k      0  0:00:11  0:00:01  0:00:10 3003k 26 29.0M   26 7771k    0     0  2874k      0  0:00:10  0:00:02  0:00:08 3216k 37 29.0M   37 10.9M    0     0  3044k      0  0:00:09  0:00:03  0:00:06 3301k 49 29.0M   49 14.3M    0     0  3126k      0  0:00:09  0:00:04  0:00:05 3329k 60 29.0M   60 17.7M    0     0  3188k      0  0:00:09  0:00:05  0:00:04 3492k 72 29.0M   72 21.0M    0     0  3223k      0  0:00:09  0:00:06  0:00:03 3472k 84 29.0M   84 24.5M    0     0  3257k      0  0:00:09  0:00:07  0:00:02 3463k 95 29.0M   95 27.7M    0     0  3276k      0  0:00:09  0:00:08  0:00:01 3447k100 29.0M  100 29.0M    0     0  3290k      0  0:00:09  0:00:09 --:--:-- 3468k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-10-13 19:23:02.897:INFO::jetty-7.x.y-SNAPSHOT
+2013-10-13 19:23:02.949:INFO::Started SelectChannelConnector@0.0.0.0:35818
+2013-10-13 19:23:56.851:INFO::jetty-7.x.y-SNAPSHOT
+2013-10-13 19:23:56.855:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_fold:end:before_script$ tests/frontend/travis/runner.sh
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json tinycon@0.0.1 No repository field.
+npm WARN package.json ueberDB@0.2.0 No repository field.
+npm WARN package.json bytes@0.2.0 No repository field.
+npm WARN package.json cookie-signature@1.0.1 No repository field.
+npm WARN package.json fresh@0.1.0 No repository field.
+npm WARN package.json pause@0.0.1 No repository field.
+npm WARN package.json cookie-signature@0.0.1 No repository field.
+npm WARN package.json methods@0.0.1 No repository field.
+npm WARN package.json range-parser@0.0.4 No repository field.
+npm WARN package.json send@0.1.0 No repository field.
+npm WARN package.json policyfile@0.0.4 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json docco@0.4.0 No repository field.
+npm WARN package.json channels@0.0.2 No repository field.
+npm WARN package.json dirty@0.9.7 No repository field.
+npm WARN package.json vargs@0.1.0 No repository field.
+npm WARN package.json bytes@0.1.0 No repository field.
+npm WARN package.json formidable@1.0.11 No repository field.
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+npm WARN package.json addressparser@0.1.3 No repository field.
+npm WARN package.json assert-plus@0.1.2 No repository field.
+npm WARN package.json ctype@0.5.2 No repository field.
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"rotatable": false, "browserConnectionEnabled": true, "acceptSslCerts": true, "cssSelectorsEnabled": true, "javascriptEnabled": true, "nativeEvents": false, "databaseEnabled": true, "locationContextEnabled": true, "takesScreenshot": true, "platform": "LINUX", "browserName": "firefox", "webdriver.remote.sessionid": "6c709a53-04a6-4352-9876-a1e3403423de", "version": "23.0.1", "applicationCacheEnabled": true, "webStorageEnabled": true, "handlesAlerts": true}, "sessionId": "e33aabb5a13f46779a1698472b46f9d6", "hCode": 5424820, "class": "org.openqa.selenium.remote.Response"}' }
+Remote sauce test '8976f46 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/0a6c79eb7772415682b89fe1e0609d4e
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 13, "sessionId": "1a30a263f11b4cf98828d51289a1b107", "value": {"message": "Sauce could not start your job. For more information on what happened, please visit https://saucelabs.com/jobs/1a30a263f11b4cf98828d51289a1b107"}}' }
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 13, "sessionId": "c09f38a1bcaf43e29fc8412c13632d05", "value": {"message": "Sauce could not start your job. For more information on what happened, please visit https://saucelabs.com/jobs/c09f38a1bcaf43e29fc8412c13632d05"}}' }
+Remote sauce test '8976f46 - googlechrome , Linux' started! https://saucelabs.com/jobs/b196f8db93d443708ef88f6f0b8c288d
+[iexplore 10] 
+Remote sauce test '8976f46 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/0a6c79eb7772415682b89fe1e0609d4e
+[googlechrome] 
+Remote sauce test '8976f46 - googlechrome , Linux' finished! https://saucelabs.com/jobs/b196f8db93d443708ef88f6f0b8c288d
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 0.
+
+Done. Your build exited with 0.

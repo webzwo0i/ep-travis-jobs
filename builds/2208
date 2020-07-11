@@ -1,0 +1,11 @@
+Job #2208.1:  Merge pull request #2348 from ether/sanitizer
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6080de9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/89adbb9f1227...6080de9d7962
+Duration:      9 min 6 sec
+Started:       2014-12-04 18:38:10
+Finished:      2014-12-04 18:47:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1898.1:  Merge pull request #2252 from otetard/bugfix/fix_export_filename
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d25d81b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2e6348b8aa7f...d25d81b9e2bf
+Duration:      13 min 58 sec
+Started:       2014-09-28 15:06:37
+Finished:      2014-09-28 15:20:35
+Allow Failure: false
+Config:        node_js: 0.10

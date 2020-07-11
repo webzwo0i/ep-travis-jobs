@@ -1,0 +1,11 @@
+Job #1733.1:  updated template file
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2109)
+Commit:        e510fdc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2109
+Duration:      7 min 4 sec
+Started:       2014-03-16 05:02:35
+Finished:      2014-03-16 05:09:39
+Allow Failure: false
+Config:        node_js: 0.10

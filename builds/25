@@ -1,0 +1,13 @@
+Job #25.1:  dont forget to allow for cleanup
+State:         failed
+Type:          push
+Branch:        fix-windows-package-extract
+Commit:        fbe16da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/27c5e8691f41...fbe16da72852
+Duration:      13 min 59 sec
+Started:       2012-11-16 21:53:12
+Finished:      2012-11-16 22:07:11
+Allow Failure: false
+Config:        env: SECURE oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

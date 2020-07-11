@@ -1,0 +1,11 @@
+Job #1008.1:  pump isdeprecated
+State:         passed
+Type:          push
+Branch:        feature/support-node-0.10
+Commit:        b3988e3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e050ad57e489...b3988e30d54c
+Duration:      2 min 21 sec
+Started:       2013-03-23 18:57:22
+Finished:      2013-03-23 18:59:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

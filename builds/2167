@@ -1,0 +1,11 @@
+Job #2167.1:  fix frontend tests
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ff58897
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3ca48ed97572...ff5889767989
+Duration:      15 min 32 sec
+Started:       2014-11-27 18:00:29
+Finished:      2014-11-27 18:16:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

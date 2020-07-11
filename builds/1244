@@ -1,0 +1,11 @@
+Job #1244.1:  better test but still fragile
+State:         errored
+Type:          push
+Branch:        slow-chrome
+Commit:        4663c92
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b48c7b91ef2...4663c92b3426
+Duration:      11 min 46 sec
+Started:       2013-04-29 17:21:33
+Finished:      2013-04-29 17:33:19
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

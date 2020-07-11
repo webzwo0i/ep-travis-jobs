@@ -1,0 +1,11 @@
+Job #1068.1:  Make revision button glow on ctrl-s and increase duration
+State:         passed
+Type:          push
+Branch:        ctrl-s-fade
+Commit:        0ff5137
+Compare URL:   https://github.com/ether/etherpad-lite/compare/59a9ff404d1b...0ff5137da3b1
+Duration:      2 min 11 sec
+Started:       2013-03-28 16:46:45
+Finished:      2013-03-28 16:48:56
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

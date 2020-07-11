@@ -1,0 +1,11 @@
+Job #1417.1:  Merge pull request #1929 from ether/feature/add-more-disconnect-scenarios
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        c3a96b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/de50efc71a9d...c3a96b34bbd0
+Duration:      11 min 41 sec
+Started:       2013-10-10 21:23:10
+Finished:      2013-10-10 21:34:51
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

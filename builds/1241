@@ -1,0 +1,11 @@
+Job #1241.1:  clear up language
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1764)
+Commit:        9f6f3b6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1764
+Duration:      10 min 54 sec
+Started:       2013-04-29 04:25:35
+Finished:      2013-04-29 04:36:29
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

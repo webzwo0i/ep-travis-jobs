@@ -1,0 +1,11 @@
+Job #2268.1:  set prefs and get prefs
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2401)
+Commit:        ebdf8c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2401
+Duration:      22 min 48 sec
+Started:       2014-12-27 15:09:57
+Finished:      2014-12-27 15:32:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

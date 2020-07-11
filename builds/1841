@@ -1,0 +1,11 @@
+Job #1841.1:  pluginfw: accept 'null' as a hook-result, as this is needed by handleMessage
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2175)
+Commit:        fa71ad3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2175
+Duration:      22 min 20 sec
+Started:       2014-06-12 13:35:22
+Finished:      2014-06-12 13:57:42
+Allow Failure: false
+Config:        node_js: 0.10

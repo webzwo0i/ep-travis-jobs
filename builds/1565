@@ -1,0 +1,11 @@
+Job #1565.1:  Merge pull request #2021 from ldidry/fix-no-tab-indent
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        37442d3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/60017e91904d...37442d301c96
+Duration:      15 min 54 sec
+Started:       2013-12-05 15:23:34
+Finished:      2013-12-05 15:39:28
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

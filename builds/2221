@@ -1,0 +1,11 @@
+Job #2221.1:  additional tag support hook
+State:         passed
+Type:          push
+Branch:        hook_for_exportHTMLStyles
+Commit:        3a2669b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/653cc6c87fe8...3a2669b70488
+Duration:      15 min 43 sec
+Started:       2014-12-09 17:28:54
+Finished:      2014-12-09 17:44:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

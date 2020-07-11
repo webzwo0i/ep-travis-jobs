@@ -1,0 +1,11 @@
+Job #2184.1:  script to update all plugins with one command on CLI
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c6d7ed1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a642deaa72ee...c6d7ed114ea3
+Duration:      9 min 39 sec
+Started:       2014-11-28 17:51:18
+Finished:      2014-11-28 18:00:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

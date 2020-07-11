@@ -1,0 +1,11 @@
+Job #1349.1:  fix padding so export icons show properly
+State:         errored
+Type:          push
+Branch:        import-button-styling
+Commit:        ca680a3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/05a8ae7accc4...ca680a32b688
+Duration:      11 min 42 sec
+Started:       2013-09-21 17:18:14
+Finished:      2013-09-21 17:29:56
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1040.1:  Remove plugin prefix in pluin lists and make links to plugins more clear
+State:         passed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        f75a839
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7edfff75743a...f75a839cd093
+Duration:      2 min 28 sec
+Started:       2013-03-26 18:40:52
+Finished:      2013-03-26 18:43:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

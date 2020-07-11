@@ -1,0 +1,11 @@
+Job #1532.1:  slightly cleaner
+State:         passed
+Type:          push
+Branch:        sticky-chat-resize
+Commit:        3be1ee5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/252be1988537...3be1ee59675a
+Duration:      18 min 38 sec
+Started:       2013-11-25 18:59:43
+Finished:      2013-11-25 19:18:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

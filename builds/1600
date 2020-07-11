@@ -1,0 +1,11 @@
+Job #1600.1:  working import and copy/paste
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2033)
+Commit:        105208e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2033
+Duration:      41 min 2 sec
+Started:       2013-12-12 17:05:07
+Finished:      2013-12-12 17:46:09
+Allow Failure: false
+Config:        node_js: 0.10

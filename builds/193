@@ -1,0 +1,11 @@
+Job #193.1:  fix for multiple cookies support (Also fix for, when session is not valid anymore)
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1264)
+Commit:        62d75ec
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1264
+Duration:      12 min 57 sec
+Started:       2012-12-06 02:18:06
+Finished:      2012-12-06 02:31:03
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

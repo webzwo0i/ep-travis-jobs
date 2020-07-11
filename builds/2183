@@ -1,0 +1,11 @@
+Job #2183.1:  gritter css fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a642dea
+Compare URL:   https://github.com/ether/etherpad-lite/compare/68979e12123f...a642deaa72ee
+Duration:      9 min 2 sec
+Started:       2014-11-28 03:26:32
+Finished:      2014-11-28 03:35:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

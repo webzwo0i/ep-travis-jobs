@@ -1,0 +1,11 @@
+Job #2619.1:  feature #2558 more precise documentation
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2565)
+Commit:        30eb019
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2565
+Duration:      10 min 41 sec
+Started:       2015-03-25 13:36:57
+Finished:      2015-03-25 13:47:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

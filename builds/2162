@@ -1,0 +1,11 @@
+Job #2162.1:  use a forked require-kernel
+State:         passed
+Type:          push
+Branch:        require-kernel-change
+Commit:        61c6ded
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3ddf88deceba^...61c6deda2e5a
+Duration:      14 min 35 sec
+Started:       2014-11-27 03:45:43
+Finished:      2014-11-27 04:00:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

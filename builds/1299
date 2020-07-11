@@ -1,0 +1,11 @@
+Job #1299.1:  Merge pull request #1833 from digitalbazaar/fix-chrome-longlines-slowdown
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        53fb4fc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3a9ef306a63f...53fb4fc3fe96
+Duration:      12 min 47 sec
+Started:       2013-07-15 00:00:04
+Finished:      2013-07-15 00:12:51
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

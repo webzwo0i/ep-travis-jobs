@@ -1,0 +1,11 @@
+Job #1762.1:  Merge pull request #2117 from ether/doc/asset-css-suit-up
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c1ef3f4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/56fd078469fa...c1ef3f4801e8
+Duration:      17 min 5 sec
+Started:       2014-03-27 18:24:14
+Finished:      2014-03-27 18:41:19
+Allow Failure: false
+Config:        node_js: 0.10

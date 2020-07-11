@@ -1,0 +1,11 @@
+Job #1331.1:  Merge pull request #1850 from Wikinaut/develop
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        c2e60a3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c4fcedbb8db5...c2e60a391985
+Duration:      16 min 43 sec
+Started:       2013-09-12 14:47:35
+Finished:      2013-09-12 15:04:18
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

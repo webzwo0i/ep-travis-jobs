@@ -1,0 +1,11 @@
+Job #1411.1:  Polish the error messages of the easysync lib
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1928)
+Commit:        0adc2d5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1928
+Duration:      8 min 37 sec
+Started:       2013-10-10 20:09:27
+Finished:      2013-10-10 20:18:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

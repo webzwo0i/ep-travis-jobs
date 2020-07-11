@@ -1,0 +1,11 @@
+Job #1839.1:  Fix #2136: update cache and group list when copying pads
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2174)
+Commit:        85df4aa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2174
+Duration:      23 min 13 sec
+Started:       2014-06-11 22:31:55
+Finished:      2014-06-11 22:55:08
+Allow Failure: false
+Config:        node_js: 0.10

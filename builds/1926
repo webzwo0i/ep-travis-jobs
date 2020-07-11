@@ -1,0 +1,11 @@
+Job #1926.1:  Update frontend language tests for new keyboard shortcut convention
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2272)
+Commit:        76fc60b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2272
+Duration:      6 sec
+Started:       2014-10-14 15:18:05
+Finished:      2014-10-14 15:18:11
+Allow Failure: false
+Config:        node_js: 0.10

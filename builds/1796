@@ -1,0 +1,11 @@
+Job #1796.1:  fix color
+State:         failed
+Type:          push
+Branch:        fix-user-icon-color-and-count
+Commit:        706ee1f
+Compare URL:   https://github.com/ether/etherpad-lite/commit/706ee1f86628
+Duration:      14 min 48 sec
+Started:       2014-04-15 19:21:27
+Finished:      2014-04-15 19:36:15
+Allow Failure: false
+Config:        node_js: 0.10

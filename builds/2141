@@ -1,0 +1,11 @@
+Job #2141.1:  mowah pad tests, tea time
+State:         errored
+Type:          push
+Branch:        backend-tests
+Commit:        f3c2ac6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5434d2118d9b...f3c2ac6d9473
+Duration:      12 min 2 sec
+Started:       2014-11-26 20:45:58
+Finished:      2014-11-26 20:58:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

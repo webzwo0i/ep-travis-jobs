@@ -1,0 +1,11 @@
+Job #2296.1:  Merge pull request #2014 from eyesonlyhack/closeExtendedChatWindow
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        74eca43
+Compare URL:   https://github.com/ether/etherpad-lite/compare/68f50ff9faf8...74eca43965b2
+Duration:      7 min 20 sec
+Started:       2014-12-28 20:17:55
+Finished:      2014-12-28 20:25:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

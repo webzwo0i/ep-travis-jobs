@@ -1,0 +1,11 @@
+Job #123.1:  remove control S comment
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1229)
+Commit:        1a3e347
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1229
+Duration:      13 min 22 sec
+Started:       2012-11-28 18:24:34
+Finished:      2012-11-28 18:37:56
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #228.1:  Update Vietnamese translation
+State:         failed
+Type:          pull request
+Branch:        master (PR #1281)
+Commit:        6be9f9d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1281
+Duration:      13 min
+Started:       2012-12-11 19:40:13
+Finished:      2012-12-11 19:53:13
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

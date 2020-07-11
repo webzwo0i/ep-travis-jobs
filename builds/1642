@@ -1,0 +1,11 @@
+Job #1642.1:  it WORKS! happy new year everyone
+State:         failed
+Type:          push
+Branch:        test/changeset_req-assertions
+Commit:        287b509
+Compare URL:   https://github.com/ether/etherpad-lite/compare/31c73203df2f...287b5095af3a
+Duration:      20 min 37 sec
+Started:       2013-12-31 16:18:46
+Finished:      2013-12-31 16:39:23
+Allow Failure: false
+Config:        node_js: 0.10

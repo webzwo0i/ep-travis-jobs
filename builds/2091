@@ -1,0 +1,11 @@
+Job #2091.1:  swap out jquery browser for bower but expose browser object to all pages also enable minification..  Seems to work well
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2335)
+Commit:        4a257ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2335
+Duration:      20 min 36 sec
+Started:       2014-11-22 20:13:16
+Finished:      2014-11-22 20:33:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

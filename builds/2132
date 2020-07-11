@@ -1,0 +1,11 @@
+Job #2132.1:  make additional line break at end of imported doc
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2341)
+Commit:        859eebf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2341
+Duration:      9 sec
+Started:       2014-11-26 16:22:45
+Finished:      2014-11-26 16:22:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2172.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into require-kernel-change
+State:         passed
+Type:          push
+Branch:        require-kernel-change
+Commit:        422cfec
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c13301966f4d...422cfec27afb
+Duration:      21 min 55 sec
+Started:       2014-11-28 01:02:35
+Finished:      2014-11-28 01:24:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

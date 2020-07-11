@@ -1,0 +1,11 @@
+Job #2059.1:  clean up
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2321)
+Commit:        cc7460e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2321
+Duration:      22 min 25 sec
+Started:       2014-11-18 23:55:12
+Finished:      2014-11-19 00:17:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

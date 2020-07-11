@@ -1,0 +1,169 @@
+Using worker: worker-linux-2-2.bb.travis-ci.org:travis-linux-4
+
+$ export SAUCE_USER=etherpad
+travis_fold:start:git.1$ git clone --depth=50 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 5596, done.ote: Compressing objects:   0% (1/2118)   ote: Compressing objects:   1% (22/2118)   ote: Compressing objects:   2% (43/2118)   ote: Compressing objects:   3% (64/2118)   ote: Compressing objects:   4% (85/2118)   ote: Compressing objects:   5% (106/2118)   ote: Compressing objects:   6% (128/2118)   ote: Compressing objects:   7% (149/2118)   ote: Compressing objects:   8% (170/2118)   ote: Compressing objects:   9% (191/2118)   ote: Compressing objects:  10% (212/2118)   ote: Compressing objects:  11% (233/2118)   ote: Compressing objects:  12% (255/2118)   ote: Compressing objects:  13% (276/2118)   ote: Compressing objects:  14% (297/2118)   ote: Compressing objects:  15% (318/2118)   ote: Compressing objects:  16% (339/2118)   ote: Compressing objects:  17% (361/2118)   ote: Compressing objects:  18% (382/2118)   ote: Compressing objects:  19% (403/2118)   ote: Compressing objects:  20% (424/2118)   ote: Compressing objects:  21% (445/2118)   ote: Compressing objects:  22% (466/2118)   ote: Compressing objects:  23% (488/2118)   ote: Compressing objects:  24% (509/2118)   ote: Compressing objects:  25% (530/2118)   ote: Compressing objects:  26% (551/2118)   ote: Compressing objects:  27% (572/2118)   ote: Compressing objects:  28% (594/2118)   ote: Compressing objects:  29% (615/2118)   ote: Compressing objects:  30% (636/2118)   ote: Compressing objects:  31% (657/2118)   ote: Compressing objects:  32% (678/2118)   ote: Compressing objects:  33% (699/2118)   ote: Compressing objects:  34% (721/2118)   ote: Compressing objects:  35% (742/2118)   ote: Compressing objects:  36% (763/2118)   ote: Compressing objects:  37% (784/2118)   ote: Compressing objects:  38% (805/2118)   ote: Compressing objects:  39% (827/2118)   ote: Compressing objects:  40% (848/2118)   ote: Compressing objects:  41% (869/2118)   ote: Compressing objects:  42% (890/2118)   ote: Compressing objects:  43% (911/2118)   ote: Compressing objects:  44% (932/2118)   ote: Compressing objects:  45% (954/2118)   ote: Compressing objects:  46% (975/2118)   ote: Compressing objects:  47% (996/2118)   ote: Compressing objects:  48% (1017/2118)   ote: Compressing objects:  49% (1038/2118)   ote: Compressing objects:  50% (1059/2118)   ote: Compressing objects:  51% (1081/2118)   ote: Compressing objects:  52% (1102/2118)   ote: Compressing objects:  53% (1123/2118)   ote: Compressing objects:  54% (1144/2118)   ote: Compressing objects:  55% (1165/2118)   ote: Compressing objects:  56% (1187/2118)   ote: Compressing objects:  57% (1208/2118)   ote: Compressing objects:  58% (1229/2118)   ote: Compressing objects:  59% (1250/2118)   ote: Compressing objects:  60% (1271/2118)   ote: Compressing objects:  61% (1292/2118)   ote: Compressing objects:  62% (1314/2118)   ote: Compressing objects:  63% (1335/2118)   ote: Compressing objects:  64% (1356/2118)   ote: Compressing objects:  65% (1377/2118)   ote: Compressing objects:  66% (1398/2118)   ote: Compressing objects:  67% (1420/2118)   ote: Compressing objects:  68% (1441/2118)   ote: Compressing objects:  69% (1462/2118)   ote: Compressing objects:  70% (1483/2118)   ote: Compressing objects:  71% (1504/2118)   ote: Compressing objects:  72% (1525/2118)   ote: Compressing objects:  73% (1547/2118)   ote: Compressing objects:  74% (1568/2118)   ote: Compressing objects:  75% (1589/2118)   ote: Compressing objects:  76% (1610/2118)   ote: Compressing objects:  77% (1631/2118)   ote: Compressing objects:  78% (1653/2118)   ote: Compressing objects:  79% (1674/2118)   ote: Compressing objects:  80% (1695/2118)   ote: Compressing objects:  81% (1716/2118)   ote: Compressing objects:  82% (1737/2118)   ote: Compressing objects:  83% (1758/2118)   ote: Compressing objects:  84% (1780/2118)   ote: Compressing objects:  85% (1801/2118)   ote: Compressing objects:  86% (1822/2118)   ote: Compressing objects:  87% (1843/2118)   ote: Compressing objects:  88% (1864/2118)   ote: Compressing objects:  89% (1886/2118)   ote: Compressing objects:  90% (1907/2118)   ote: Compressing objects:  91% (1928/2118)   ote: Compressing objects:  92% (1949/2118)   ote: Compressing objects:  93% (1970/2118)   ote: Compressing objects:  94% (1991/2118)   ote: Compressing objects:  95% (2013/2118)   ote: Compressing objects:  96% (2034/2118)   ote: Compressing objects:  97% (2055/2118)   ote: Compressing objects:  98% (2076/2118)   ote: Compressing objects:  99% (2097/2118)   ote: Compressing objects: 100% (2118/2118)   ote: Compressing objects: 100% (2118/2118), done.ote: Total 5596 (delta 3978), reused 4860 (delta 3399)erge: 
+remote: Counting objects: 3, done.ote: Compressing objects: 100% (1/1)   ote: Compressing objects: 100% (1/1), done.ote: Total 1 (delta 0), reused 1 (delta 0) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1804/merge -> FETCH_HEAD
+travis_fold:end:git.2travis_fold:start:git.3$ git checkout -qf FETCH_HEAD
+travis_fold:end:git.3$ nvm use 0.10
+Now using node v0.10.2
+$ node --version
+v0.10.2
+$ npm --version
+1.2.15
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN engine log4js@0.5.8: wanted: {"node":"~0.6||~0.8"} (current: {"node":"v0.10.2","npm":"1.2.15"})
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.2","npm":"1.2.15"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+npm WARN prefer global npm@1.2.28 should be installed with -g
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.8 node_modules/log4js
+├── dequeue@1.0.3
+└── async@0.1.15
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── cookie-signature@1.0.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.9)
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@1.1.1)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.5.2 (wordwrap@0.0.2)
+├── simplesmtp@0.3.2 (xoauth2@0.1.8, rai@0.1.7)
+└── mailcomposer@0.1.33 (mime@1.2.9, mimelib@0.2.12)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+npm@1.2.28 node_modules/npm
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+ueberDB@0.2.0 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.7
+├── async@0.1.15
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.3)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.25, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 29.0M    1  328k    0     0   510k      0  0:00:58 --:--:--  0:00:58  805k 12 29.0M   12 3577k    0     0  2190k      0  0:00:13  0:00:01  0:00:12 2559k 23 29.0M   23 6896k    0     0  2623k      0  0:00:11  0:00:02  0:00:09 2883k 34 29.0M   34  9.9M    0     0  2806k      0  0:00:10  0:00:03  0:00:07 3001k 45 29.0M   45 13.1M    0     0  2909k      0  0:00:10  0:00:04  0:00:06 3065k 55 29.0M   55 16.2M    0     0  2949k      0  0:00:10  0:00:05  0:00:05 3263k 66 29.0M   66 19.3M    0     0  2992k      0  0:00:09  0:00:06  0:00:03 3254k 77 29.0M   77 22.5M    0     0  3026k      0  0:00:09  0:00:07  0:00:02 3237k 88 29.0M   88 25.8M    0     0  3060k      0  0:00:09  0:00:08  0:00:01 3244k 99 29.0M   99 29.0M    0     0  3082k      0  0:00:09  0:00:09 --:--:-- 3242k100 29.0M  100 29.0M    0     0  3089k      0  0:00:09  0:00:09 --:--:-- 3286k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+Missing required argument API_KEY
+
+
+
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+
+The build has been terminated
+

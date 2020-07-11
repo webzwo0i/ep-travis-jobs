@@ -1,0 +1,11 @@
+Job #1438.1:  Merge pull request #1940 from piratenfraktion-nrw/fix_readonly_if_require_session
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        be78488
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ef4e0d0eb0ba...be78488635b4
+Duration:      17 min 44 sec
+Started:       2013-10-13 22:42:19
+Finished:      2013-10-13 23:00:03
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

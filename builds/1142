@@ -1,0 +1,11 @@
+Job #1142.1:  Actually update windows download link
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3cdb813
+Compare URL:   https://github.com/ether/etherpad-lite/compare/555be31eab7f...3cdb8131ced5
+Duration:      2 min 10 sec
+Started:       2013-04-08 03:44:12
+Finished:      2013-04-08 03:46:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

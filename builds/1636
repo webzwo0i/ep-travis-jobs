@@ -1,0 +1,11 @@
+Job #1636.1:  Add assertions for the results of CHANGESET_REQ
+State:         failed
+Type:          push
+Branch:        test/add-assertions-cs_req
+Commit:        07aa751
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e55ef0fe95a5^...07aa7517314f
+Duration:      14 min 17 sec
+Started:       2013-12-30 17:36:43
+Finished:      2013-12-30 17:51:00
+Allow Failure: false
+Config:        node_js: 0.10

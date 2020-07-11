@@ -1,0 +1,11 @@
+Job #1404.1:  Never keep processing a changeset if it's corrupted
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1926)
+Commit:        9f172f0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1926
+Duration:      10 min 4 sec
+Started:       2013-10-10 16:53:09
+Finished:      2013-10-10 17:03:13
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1369.1:  dont crash on importing blank html
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1909)
+Commit:        b89bf2d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1909
+Duration:      14 min 31 sec
+Started:       2013-09-27 15:50:41
+Finished:      2013-09-27 16:05:12
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

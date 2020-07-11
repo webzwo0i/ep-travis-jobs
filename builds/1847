@@ -1,0 +1,11 @@
+Job #1847.1:  Merge pull request #1619 from ether/stricter-transport
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c627608
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6dd66c6a16da...c627608ea5c8
+Duration:      23 min 10 sec
+Started:       2014-06-17 14:00:43
+Finished:      2014-06-17 14:23:53
+Allow Failure: false
+Config:        node_js: 0.10

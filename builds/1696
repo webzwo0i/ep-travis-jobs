@@ -1,0 +1,11 @@
+Job #1696.1:  test
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        f037004
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      18 min 30 sec
+Started:       2014-01-28 18:24:38
+Finished:      2014-01-28 18:43:08
+Allow Failure: false
+Config:        node_js: 0.10

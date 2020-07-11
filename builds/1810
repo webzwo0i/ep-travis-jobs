@@ -1,0 +1,11 @@
+Job #1810.1:  docs for new hook
+State:         errored
+Type:          push
+Branch:        export-file-name-hook
+Commit:        a8d9a38
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1f7fcd54f140...a8d9a3868d9e
+Duration:      13 min 4 sec
+Started:       2014-05-06 22:25:49
+Finished:      2014-05-06 22:38:53
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2460.1:  blind attempt to try
+State:         passed
+Type:          push
+Branch:        IE-again
+Commit:        eacf111
+Compare URL:   https://github.com/ether/etherpad-lite/commit/eacf1118f86f
+Duration:      8 min 11 sec
+Started:       2015-01-21 03:56:05
+Finished:      2015-01-21 04:04:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

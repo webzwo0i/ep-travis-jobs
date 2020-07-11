@@ -1,0 +1,11 @@
+Job #1820.1:  use full string not first char
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2150)
+Commit:        bbf553f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2150
+Duration:      12 min 10 sec
+Started:       2014-05-12 16:17:15
+Finished:      2014-05-12 16:29:25
+Allow Failure: false
+Config:        node_js: 0.10

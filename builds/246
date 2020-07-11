@@ -1,0 +1,11 @@
+Job #246.1:  Don't tell IE it's utf8. Just send it. Otherwise it'll snuff it!
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        91049f4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 1 sec
+Started:       2012-12-19 17:39:23
+Finished:      2012-12-19 17:52:24
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

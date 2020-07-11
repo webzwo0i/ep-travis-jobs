@@ -1,0 +1,11 @@
+Job #1086.1:  Merge pull request #1689 from mluto/fix-checkAccess-omitted-cb
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c1806e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9c36d6f58b48...c1806e54e2fc
+Duration:      2 min 12 sec
+Started:       2013-03-31 18:36:16
+Finished:      2013-03-31 18:38:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

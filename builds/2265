@@ -1,0 +1,11 @@
+Job #2265.1:  Merge pull request #2399 from ether/remove-dokuwiki
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5b7ae4b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/444bbf4cbc50...5b7ae4bd5fea
+Duration:      13 min 57 sec
+Started:       2014-12-27 14:27:37
+Finished:      2014-12-27 14:41:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

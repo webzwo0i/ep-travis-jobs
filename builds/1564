@@ -1,0 +1,11 @@
+Job #1564.1:  Create git pre-commit hook for preventing tabs
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2022)
+Commit:        115ed0c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2022
+Duration:      11 min 33 sec
+Started:       2013-12-05 15:03:35
+Finished:      2013-12-05 15:15:08
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

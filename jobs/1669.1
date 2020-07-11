@@ -1,0 +1,187 @@
+Using worker: worker-linux-6-1.bb.travis-ci.org:travis-linux-3
+
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+travis_fold:start:git.1$ git clone --depth=50 --branch=release/1.4.0 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 15162, done.ote: Compressing objects:   0% (1/4601)   ote: Compressing objects:   1% (47/4601)   ote: Compressing objects:   2% (93/4601)   ote: Compressing objects:   3% (139/4601)   ote: Compressing objects:   4% (185/4601)   ote: Compressing objects:   5% (231/4601)   ote: Compressing objects:   6% (277/4601)   ote: Compressing objects:   7% (323/4601)   ote: Compressing objects:   8% (369/4601)   ote: Compressing objects:   9% (415/4601)   ote: Compressing objects:  10% (461/4601)   ote: Compressing objects:  11% (507/4601)   ote: Compressing objects:  12% (553/4601)   ote: Compressing objects:  13% (599/4601)   ote: Compressing objects:  14% (645/4601)   ote: Compressing objects:  15% (691/4601)   ote: Compressing objects:  16% (737/4601)   ote: Compressing objects:  17% (783/4601)   ote: Compressing objects:  18% (829/4601)   ote: Compressing objects:  19% (875/4601)   ote: Compressing objects:  20% (921/4601)   ote: Compressing objects:  21% (967/4601)   ote: Compressing objects:  22% (1013/4601)   ote: Compressing objects:  23% (1059/4601)   ote: Compressing objects:  24% (1105/4601)   ote: Compressing objects:  25% (1151/4601)   ote: Compressing objects:  26% (1197/4601)   ote: Compressing objects:  27% (1243/4601)   ote: Compressing objects:  28% (1289/4601)   ote: Compressing objects:  29% (1335/4601)   ote: Compressing objects:  30% (1381/4601)   ote: Compressing objects:  31% (1427/4601)   ote: Compressing objects:  32% (1473/4601)   ote: Compressing objects:  33% (1519/4601)   ote: Compressing objects:  34% (1565/4601)   ote: Compressing objects:  35% (1611/4601)   ote: Compressing objects:  36% (1657/4601)   ote: Compressing objects:  37% (1703/4601)   ote: Compressing objects:  38% (1749/4601)   ote: Compressing objects:  39% (1795/4601)   ote: Compressing objects:  40% (1841/4601)   ote: Compressing objects:  41% (1887/4601)   ote: Compressing objects:  42% (1933/4601)   ote: Compressing objects:  43% (1979/4601)   ote: Compressing objects:  44% (2025/4601)   ote: Compressing objects:  45% (2071/4601)   ote: Compressing objects:  46% (2117/4601)   ote: Compressing objects:  47% (2163/4601)   ote: Compressing objects:  48% (2209/4601)   ote: Compressing objects:  49% (2255/4601)   ote: Compressing objects:  50% (2301/4601)   ote: Compressing objects:  51% (2347/4601)   ote: Compressing objects:  52% (2393/4601)   ote: Compressing objects:  53% (2439/4601)   ote: Compressing objects:  54% (2485/4601)   ote: Compressing objects:  55% (2531/4601)   ote: Compressing objects:  56% (2577/4601)   ote: Compressing objects:  57% (2623/4601)   ote: Compressing objects:  58% (2669/4601)   ote: Compressing objects:  59% (2715/4601)   ote: Compressing objects:  60% (2761/4601)   ote: Compressing objects:  61% (2807/4601)   ote: Compressing objects:  62% (2853/4601)   ote: Compressing objects:  63% (2899/4601)   ote: Compressing objects:  64% (2945/4601)   ote: Compressing objects:  65% (2991/4601)   ote: Compressing objects:  66% (3037/4601)   ote: Compressing objects:  67% (3083/4601)   ote: Compressing objects:  68% (3129/4601)   ote: Compressing objects:  69% (3175/4601)   ote: Compressing objects:  70% (3221/4601)   ote: Compressing objects:  71% (3267/4601)   ote: Compressing objects:  72% (3313/4601)   ote: Compressing objects:  73% (3359/4601)   ote: Compressing objects:  74% (3405/4601)   ote: Compressing objects:  75% (3451/4601)   ote: Compressing objects:  76% (3497/4601)   ote: Compressing objects:  77% (3543/4601)   ote: Compressing objects:  78% (3589/4601)   ote: Compressing objects:  79% (3635/4601)   ote: Compressing objects:  80% (3681/4601)   ote: Compressing objects:  81% (3727/4601)   ote: Compressing objects:  82% (3773/4601)   ote: Compressing objects:  83% (3819/4601)   ote: Compressing objects:  84% (3865/4601)   ote: Compressing objects:  85% (3911/4601)   ote: Compressing objects:  86% (3957/4601)   ote: Compressing objects:  87% (4003/4601)   ote: Compressing objects:  88% (4049/4601)   ote: Compressing objects:  89% (4095/4601)   ote: Compressing objects:  90% (4141/4601)   ote: Compressing objects:  91% (4187/4601)   ote: Compressing objects:  92% (4233/4601)   ote: Compressing objects:  93% (4279/4601)   ote: Compressing objects:  94% (4325/4601)   ote: Compressing objects:  95% (4371/4601)   ote: Compressing objects:  96% (4417/4601)   ote: Compressing objects:  97% (4463/4601)   ote: Compressing objects:  98% (4509/4601)   ote: Compressing objects:  99% (4555/4601)   ote: Compressing objects: 100% (4601/4601)   ote: Compressing objects: 100% (4601/4601), done.ote: Total 15162 (delta 10734), reused 14722 (delta 10363) use 0.10
+Now using node v0.10.24
+$ node --version
+v0.10.24
+$ npm --version
+1.3.21
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.24","npm":"1.3.21"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+measured@0.1.3 node_modules/measured
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@2.1.0)
+
+jsonminify@0.2.2 node_modules/jsonminify
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── debug@0.7.4
+├── qs@0.6.5
+├── bytes@0.2.0
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+
+log4js@0.6.6 node_modules/log4js
+├── dequeue@1.0.3
+├── semver@1.1.4
+├── async@0.1.15
+└── readable-stream@1.0.25 (string_decoder@0.10.24)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── simplesmtp@0.3.18 (xoauth2@0.1.8, rai@0.1.9)
+├── optimist@0.6.0 (wordwrap@0.0.2, minimist@0.0.5)
+└── mailcomposer@0.2.7 (follow-redirects@0.0.3, dkim-signer@0.1.0, mime@1.2.9, punycode@1.2.3, he@0.3.6, mimelib@0.2.14)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── debug@0.7.4
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.7
+
+npm@1.2.32 node_modules/npm
+
+ueberDB@0.2.0 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.7
+├── async@0.1.15
+├── mysql@0.9.5 (hashish@0.0.4)
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.4)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.31, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(git rev-parse --verify --short HEAD)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 29.1M    8 2402k    0     0  2393k      0  0:00:12  0:00:01  0:00:11 2505k 19 29.1M   19 5944k    0     0  2952k      0  0:00:10  0:00:02  0:00:08 3019k 31 29.1M   31 9508k    0     0  3144k      0  0:00:09  0:00:03  0:00:06 3191k 42 29.1M   42 12.4M    0     0  3204k      0  0:00:09  0:00:03  0:00:06 3240k 54 29.1M   54 15.8M    0     0  3261k      0  0:00:09  0:00:04  0:00:05 3290k 66 29.1M   66 19.2M    0     0  3295k      0  0:00:09  0:00:05  0:00:04 3476k 78 29.1M   78 22.7M    0     0  3325k      0  0:00:08  0:00:07  0:00:01 3475k 89 29.1M   89 26.0M    0     0  3341k      0  0:00:08  0:00:07  0:00:01 3461k100 29.1M  100 29.1M    0     0  3347k      0  0:00:08  0:00:08 --:--:-- 3464k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2014-01-25 16:56:49.135:INFO::jetty-7.x.y-SNAPSHOT
+2014-01-25 16:56:49.192:INFO::Started SelectChannelConnector@0.0.0.0:48539
+Traceback (most recent call last):
+  File "__pyclasspath__/java_urllib2.py", line 41, in open
+IOException: java.io.IOException: Server returned HTTP response code: 400 for URL: https://saucelabs.com/rest/v1/[secure]/tunnels
+Traceback (most recent call last):
+  File "__pyclasspath__/java_urllib2.py", line 41, in open
+IOException: java.io.IOException: Server returned HTTP response code: 400 for URL: https://saucelabs.com/rest/v1/[secure]/tunnels
+Traceback (most recent call last):
+  File "__pyclasspath__/java_urllib2.py", line 41, in open
+IOException: java.io.IOException: Server returned HTTP response code: 400 for URL: https://saucelabs.com/rest/v1/[secure]/tunnels
+Traceback (most recent call last):
+  File "__pyclasspath__/java_urllib2.py", line 41, in open
+IOException: java.io.IOException: Server returned HTTP response code: 400 for URL: https://saucelabs.com/rest/v1/[secure]/tunnels
+Traceback (most recent call last):
+  File "__pyclasspath__/java_urllib2.py", line 41, in open
+IOException: java.io.IOException: Server returned HTTP response code: 400 for URL: https://saucelabs.com/rest/v1/[secure]/tunnels
+Traceback (most recent call last):
+  File "__pyclasspath__/java_urllib2.py", line 41, in open
+IOException: java.io.IOException: Server returned HTTP response code: 400 for URL: https://saucelabs.com/rest/v1/[secure]/tunnels
+
+
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+
+The build has been terminated
+

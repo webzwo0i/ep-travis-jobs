@@ -1,0 +1,11 @@
+Job #2284.1:  op is ok, if it doesnt include newlines. op is ok, if op.lines is equal to newlines in op.chars
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2405)
+Commit:        77fa826
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2405
+Duration:      10 min 42 sec
+Started:       2014-12-27 19:43:52
+Finished:      2014-12-27 19:54:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

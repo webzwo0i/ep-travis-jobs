@@ -1,0 +1,11 @@
+Job #1639.1:  Aha, my assumptions were wrong. Change assetions to pass
+State:         passed
+Type:          push
+Branch:        test/changeset_req-assertions
+Commit:        31c7320
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c03c6beb73f6...31c73203df2f
+Duration:      13 min 36 sec
+Started:       2013-12-30 18:19:20
+Finished:      2013-12-30 18:32:56
+Allow Failure: false
+Config:        node_js: 0.10

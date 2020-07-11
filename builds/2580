@@ -1,0 +1,11 @@
+Job #2580.1:  Add backend tests for new API functions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2527)
+Commit:        a41351a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2527
+Duration:      10 min 47 sec
+Started:       2015-02-25 01:09:33
+Finished:      2015-02-25 01:20:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

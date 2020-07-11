@@ -1,0 +1,11 @@
+Job #2329.1:  working for all files
+State:         passed
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        ab5e738
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1081156f134a...ab5e7381a29a
+Duration:      7 min 40 sec
+Started:       2014-12-29 21:36:04
+Finished:      2014-12-29 21:43:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

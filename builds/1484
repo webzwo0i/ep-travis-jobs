@@ -1,0 +1,11 @@
+Job #1484.1:  Forgot a small chunck of documentation for getRevisionChangeset
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1983)
+Commit:        48250ad
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1983
+Duration:      5 sec
+Started:       2013-11-07 22:50:59
+Finished:      2013-11-07 22:51:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

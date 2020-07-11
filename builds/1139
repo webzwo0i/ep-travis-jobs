@@ -1,0 +1,11 @@
+Job #1139.1:  only try to redraw the line height of lines that exist..
+State:         passed
+Type:          push
+Branch:        only-redraw-existing-lines
+Commit:        f135f79
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f135f79d1315
+Duration:      2 min 22 sec
+Started:       2013-04-07 20:07:57
+Finished:      2013-04-07 20:10:19
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

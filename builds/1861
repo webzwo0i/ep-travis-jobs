@@ -1,0 +1,11 @@
+Job #1861.1:  Merge pull request #2174 from ether/fix/copy-pad-update-lists
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        9d1eca4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/03ead389ba18...9d1eca42b385
+Duration:      26 min 42 sec
+Started:       2014-07-08 21:08:36
+Finished:      2014-07-08 21:35:18
+Allow Failure: false
+Config:        node_js: 0.10

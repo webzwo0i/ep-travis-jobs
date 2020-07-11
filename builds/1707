@@ -1,0 +1,11 @@
+Job #1707.1:  Addressed a potential never finishing forEach in PadMessageHandler.padUsers
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2088)
+Commit:        eef2ae7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2088
+Duration:      11 min 22 sec
+Started:       2014-02-19 11:50:37
+Finished:      2014-02-19 12:01:59
+Allow Failure: false
+Config:        node_js: 0.10

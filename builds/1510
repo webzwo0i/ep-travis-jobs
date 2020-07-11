@@ -1,0 +1,11 @@
+Job #1510.1:  strip off trailing commas
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1999)
+Commit:        3ecbc57
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1999
+Duration:      11 min 5 sec
+Started:       2013-11-19 17:21:54
+Finished:      2013-11-19 17:32:59
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

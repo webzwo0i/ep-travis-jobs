@@ -1,0 +1,11 @@
+Job #1070.1:  Loading blocks
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1681)
+Commit:        097f036
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1681
+Duration:      10 min 55 sec
+Started:       2013-03-29 03:31:38
+Finished:      2013-03-29 03:42:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

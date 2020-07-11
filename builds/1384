@@ -1,0 +1,11 @@
+Job #1384.1:  use val not value, broken with newer jq
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1919)
+Commit:        9c705f4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1919
+Duration:      26 min 57 sec
+Started:       2013-10-03 01:37:26
+Finished:      2013-10-03 02:04:23
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

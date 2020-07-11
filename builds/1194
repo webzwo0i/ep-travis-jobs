@@ -1,0 +1,11 @@
+Job #1194.1:  Merge pull request #1736 from ether/dont-avoid-spam
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9b7dca5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2c8699506d3c...9b7dca54277b
+Duration:      2 min 22 sec
+Started:       2013-04-15 16:23:38
+Finished:      2013-04-15 16:26:00
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.8

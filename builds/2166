@@ -1,0 +1,11 @@
+Job #2166.1:  fix undo in chrome etc
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3ca48ed
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e51ab2db249f...3ca48ed97572
+Duration:      14 min 42 sec
+Started:       2014-11-27 17:50:30
+Finished:      2014-11-27 18:05:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

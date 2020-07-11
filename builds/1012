@@ -1,0 +1,11 @@
+Job #1012.1:  Use a node domain per message to stabilize the server
+State:         passed
+Type:          push
+Branch:        feature/message-domains
+Commit:        0a468e9
+Compare URL:   https://github.com/ether/etherpad-lite/commit/0a468e92b63d
+Duration:      2 min 5 sec
+Started:       2013-03-23 22:22:57
+Finished:      2013-03-23 22:25:02
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

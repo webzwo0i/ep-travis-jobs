@@ -1,0 +1,11 @@
+Job #1393.1:  Merge pull request #1921 from ether/dont-pass-padid-in-historical-authors
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7f42f70
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eb611e2b36da...7f42f7073290
+Duration:      25 min 2 sec
+Started:       2013-10-06 16:32:17
+Finished:      2013-10-06 16:57:19
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

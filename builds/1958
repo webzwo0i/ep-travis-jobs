@@ -1,0 +1,11 @@
+Job #1958.1:  basics, still not working
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        a67e805
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a67e805da0f3
+Duration:      14 min 15 sec
+Started:       2014-11-01 22:26:26
+Finished:      2014-11-01 22:40:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1312.1:  Correct the path to the docs file used by the doc generator
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1861)
+Commit:        33822ee
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1861
+Duration:      11 min 7 sec
+Started:       2013-08-23 01:00:13
+Finished:      2013-08-23 01:11:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

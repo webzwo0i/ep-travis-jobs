@@ -1,0 +1,11 @@
+Job #2244.1:  Merge pull request #2368 from ether/hook_for_exportHTMLStyles
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        70ba525
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ee3f3b80603f...70ba525430e4
+Duration:      9 min 6 sec
+Started:       2014-12-22 03:33:39
+Finished:      2014-12-22 03:42:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

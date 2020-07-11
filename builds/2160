@@ -1,0 +1,11 @@
+Job #2160.1:  sanitizer change
+State:         passed
+Type:          push
+Branch:        sanitizer
+Commit:        2c728b8
+Compare URL:   https://github.com/ether/etherpad-lite/commit/2c728b8e1beb
+Duration:      14 min 56 sec
+Started:       2014-11-27 01:46:18
+Finished:      2014-11-27 02:01:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

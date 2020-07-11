@@ -1,0 +1,11 @@
+Job #165.1:  Merge pull request #1248 from ether/improved-search
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        17fb60e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/433421cc912f...17fb60e48393
+Duration:      7 min 43 sec
+Started:       2012-12-03 13:17:00
+Finished:      2012-12-03 13:24:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

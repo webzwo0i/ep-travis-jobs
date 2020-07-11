@@ -1,0 +1,11 @@
+Job #1327.1:  Merge pull request #1877 from piratenfraktion-nrw/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4de986a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c08a4dd01f2d...4de986a1ae2e
+Duration:      13 min 8 sec
+Started:       2013-09-10 18:15:18
+Finished:      2013-09-10 18:28:26
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

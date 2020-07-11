@@ -1,0 +1,11 @@
+Job #1235.1:  Merge pull request #1760 from bemeric1/develop
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        9f2bab2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/702a30016460...9f2bab2ba3f5
+Duration:      11 min 32 sec
+Started:       2013-04-28 22:12:07
+Finished:      2013-04-28 22:23:39
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

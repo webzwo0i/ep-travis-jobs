@@ -1,0 +1,11 @@
+Job #1739.1:  Add docs for toolbar controller and pad_editbar
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2110)
+Commit:        febbe93
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2110
+Duration:      21 min 14 sec
+Started:       2014-03-16 15:47:13
+Finished:      2014-03-16 16:08:27
+Allow Failure: false
+Config:        node_js: 0.10

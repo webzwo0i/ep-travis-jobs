@@ -1,0 +1,11 @@
+Job #1403.1:  Never keep processing a changeset if it's corrupted
+State:         passed
+Type:          push
+Branch:        fix/no-connect-to-corrupt-pad
+Commit:        262a12a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6689a3c02e8c...262a12ad6761
+Duration:      16 min 4 sec
+Started:       2013-10-10 16:48:55
+Finished:      2013-10-10 17:04:59
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

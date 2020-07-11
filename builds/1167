@@ -1,0 +1,11 @@
+Job #1167.1:  no need to declare var twice
+State:         passed
+Type:          push
+Branch:        expose-broadcastslider
+Commit:        9dfac79
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8836981e32f1...9dfac791074c
+Duration:      2 min 33 sec
+Started:       2013-04-09 16:59:47
+Finished:      2013-04-09 17:02:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

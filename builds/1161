@@ -1,0 +1,11 @@
+Job #1161.1:  kudos to quenenni for some working CSS
+State:         passed
+Type:          push
+Branch:        keep-list-order-on-paste
+Commit:        bfa233b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/70a25964b6dc...bfa233ba04ad
+Duration:      2 min 12 sec
+Started:       2013-04-09 01:47:16
+Finished:      2013-04-09 01:49:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

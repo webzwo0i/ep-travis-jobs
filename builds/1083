@@ -1,0 +1,11 @@
+Job #1083.1:  Log when a sessionID in checkAccess is not found
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1689)
+Commit:        a7d1f9a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1689
+Duration:      10 min 55 sec
+Started:       2013-03-31 12:27:55
+Finished:      2013-03-31 12:38:50
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

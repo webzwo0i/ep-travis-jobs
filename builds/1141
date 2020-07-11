@@ -1,0 +1,11 @@
+Job #1141.1:  kinda weird but dragging content to the bottom can break browser functionality so this is a bodge
+State:         passed
+Type:          push
+Branch:        drag-to-bottom
+Commit:        1f4d11a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f135f79d1315...1f4d11a96025
+Duration:      2 min 12 sec
+Started:       2013-04-07 21:29:38
+Finished:      2013-04-07 21:31:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

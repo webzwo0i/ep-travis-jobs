@@ -1,0 +1,11 @@
+Job #2316.1:  delay write to fix copypad -- bad practice but due to db.set not allowing callback
+State:         passed
+Type:          push
+Branch:        write-delay
+Commit:        302ceb6
+Compare URL:   https://github.com/ether/etherpad-lite/commit/302ceb665b2d
+Duration:      13 min 41 sec
+Started:       2014-12-29 15:07:47
+Finished:      2014-12-29 15:21:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

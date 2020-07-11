@@ -1,0 +1,11 @@
+Job #2366.1:  changelog
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        95af559
+Compare URL:   https://github.com/ether/etherpad-lite/compare/45e90e138c1a...95af55992a1f
+Duration:      7 min 58 sec
+Started:       2015-01-01 18:14:53
+Finished:      2015-01-01 18:22:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

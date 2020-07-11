@@ -1,0 +1,11 @@
+Job #1732.1:  updated template file
+State:         passed
+Type:          push
+Branch:        toolbarItemsInSettings
+Commit:        11f7640
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec92562a80d5^...11f7640fc71d
+Duration:      9 min 50 sec
+Started:       2014-03-16 04:58:47
+Finished:      2014-03-16 05:08:37
+Allow Failure: false
+Config:        node_js: 0.10

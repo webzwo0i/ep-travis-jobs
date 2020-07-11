@@ -1,0 +1,11 @@
+Job #1480.1:  Update padList correctly
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1974)
+Commit:        f7517df
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1974
+Duration:      17 min 40 sec
+Started:       2013-11-01 14:24:33
+Finished:      2013-11-01 14:42:13
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

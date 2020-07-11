@@ -1,0 +1,11 @@
+Job #2347.1:  Merge pull request #2405 from webzwo0i/fix-lineassembler-not-finished
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        19c7821
+Compare URL:   https://github.com/ether/etherpad-lite/compare/79803813696a...19c78212e8c6
+Duration:      10 min 34 sec
+Started:       2014-12-30 12:19:30
+Finished:      2014-12-30 12:30:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

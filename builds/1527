@@ -1,0 +1,11 @@
+Job #1527.1:  mkdir
+State:         errored
+Type:          push
+Branch:        packaging
+Commit:        8c1e066
+Compare URL:   https://github.com/ether/etherpad-lite/compare/97f5b581b00a...8c1e066a02d3
+Duration:      11 min 36 sec
+Started:       2013-11-24 14:17:34
+Finished:      2013-11-24 14:29:10
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

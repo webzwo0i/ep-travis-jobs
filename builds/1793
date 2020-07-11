@@ -1,0 +1,11 @@
+Job #1793.1:  remove cruft
+State:         failed
+Type:          push
+Branch:        image
+Commit:        55db159
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4e17e4d8ca91...55db1592abe2
+Duration:      20 min 36 sec
+Started:       2014-04-07 21:37:33
+Finished:      2014-04-07 21:58:09
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2647.1:  alt c to focus on chat and gritter and chat both now work with aria
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        428b547
+Compare URL:   https://github.com/ether/etherpad-lite/compare/548cef701849...428b547d2450
+Duration:      21 min 3 sec
+Started:       2015-03-26 17:58:58
+Finished:      2015-03-26 18:20:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

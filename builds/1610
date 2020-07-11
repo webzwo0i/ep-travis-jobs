@@ -1,0 +1,11 @@
+Job #1610.1:  Don't crash if CHANGESET_REQ fails
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2039)
+Commit:        25ad640
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2039
+Duration:      17 min 19 sec
+Started:       2013-12-17 16:25:13
+Finished:      2013-12-17 16:42:32
+Allow Failure: false
+Config:        node_js: 0.10

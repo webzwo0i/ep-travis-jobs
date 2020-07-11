@@ -1,0 +1,11 @@
+Job #1496.1:  Merge pull request #1994 from ether/node11
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ccd4300
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1ee7c7000f3b...ccd4300edc36
+Duration:      10 min 49 sec
+Started:       2013-11-14 23:48:04
+Finished:      2013-11-14 23:58:53
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

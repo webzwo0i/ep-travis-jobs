@@ -1,0 +1,11 @@
+Job #1340.1:  API: fix createGroup for mapper endpoint for cases when a mapped group has been deleted
+State:         failed
+Type:          push
+Branch:        fix/api/cginef-endpoint
+Commit:        182ce5c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/182ce5c48da3
+Duration:      10 min 54 sec
+Started:       2013-09-18 16:07:23
+Finished:      2013-09-18 16:18:17
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

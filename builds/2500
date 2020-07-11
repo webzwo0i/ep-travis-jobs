@@ -1,0 +1,11 @@
+Job #2500.1:  Merge pull request #2490 from Gared/https_plugins_json
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3f08bf7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/85c5cc80d0a3...3f08bf740595
+Duration:      21 min 40 sec
+Started:       2015-01-24 14:35:23
+Finished:      2015-01-24 14:57:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

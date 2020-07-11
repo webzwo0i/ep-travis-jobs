@@ -1,0 +1,11 @@
+Job #1309.1:  adds backlink to main page on Admin Dashboard "Etherpad" navibar title
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1849)
+Commit:        a397c44
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1849
+Duration:      11 min 15 sec
+Started:       2013-08-14 18:21:58
+Finished:      2013-08-14 18:33:13
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

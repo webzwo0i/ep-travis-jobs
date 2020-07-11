@@ -1,0 +1,11 @@
+Job #1976.1:  bump express to a working version
+State:         passed
+Type:          push
+Branch:        new-express
+Commit:        57f56d8
+Compare URL:   https://github.com/ether/etherpad-lite/commit/57f56d8fe11e
+Duration:      14 min 31 sec
+Started:       2014-11-05 00:43:45
+Finished:      2014-11-05 00:58:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

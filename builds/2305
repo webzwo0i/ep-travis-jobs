@@ -1,0 +1,11 @@
+Job #2305.1:  fix sockets of switch to pad
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2413)
+Commit:        aa06526
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2413
+Duration:      19 min 50 sec
+Started:       2014-12-29 00:49:15
+Finished:      2014-12-29 01:09:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

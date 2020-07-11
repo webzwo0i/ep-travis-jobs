@@ -1,0 +1,11 @@
+Job #1972.1:  fix room client leave
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        af3e8e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8391f902fbda...af3e8e5e15b6
+Duration:      22 min 12 sec
+Started:       2014-11-04 23:39:36
+Finished:      2014-11-05 00:01:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

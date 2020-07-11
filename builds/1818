@@ -1,0 +1,11 @@
+Job #1818.1:  use call first and update docs
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2150)
+Commit:        680fca5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2150
+Duration:      27 min 33 sec
+Started:       2014-05-12 16:10:18
+Finished:      2014-05-12 16:37:51
+Allow Failure: false
+Config:        node_js: 0.10

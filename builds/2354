@@ -1,0 +1,11 @@
+Job #2354.1:  Clean-up after removing list attribute: Remove list numbering attribute
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2420)
+Commit:        3c90402
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2420
+Duration:      8 min 6 sec
+Started:       2014-12-30 17:47:34
+Finished:      2014-12-30 17:55:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

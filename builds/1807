@@ -1,0 +1,11 @@
+Job #1807.1:  Localisation updates from https://translatewiki.net.
+State:         failed
+Type:          push
+Branch:        removel-lite-reference-from-exports
+Commit:        962b166
+Compare URL:   https://github.com/ether/etherpad-lite/compare/removel-lite-reference-from-exports
+Duration:      11 min 41 sec
+Started:       2014-05-06 20:32:28
+Finished:      2014-05-06 20:44:09
+Allow Failure: false
+Config:        node_js: 0.10

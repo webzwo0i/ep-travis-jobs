@@ -1,0 +1,11 @@
+Job #2291.1:  Merge pull request #2409 from ether/fix-removeAttribOnLine
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        68f50ff
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dd09f6144bf2...68f50ff9faf8
+Duration:      7 min 44 sec
+Started:       2014-12-28 12:53:06
+Finished:      2014-12-28 13:00:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

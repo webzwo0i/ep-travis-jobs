@@ -1,0 +1,11 @@
+Job #1650.1:  Merge pull request #2060 from rhelmer/bug844796-session-token-generation
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        be4adec
+Compare URL:   https://github.com/ether/etherpad-lite/compare/346c03911d40...be4adec1228c
+Duration:      13 min 15 sec
+Started:       2014-01-15 20:52:48
+Finished:      2014-01-15 21:06:03
+Allow Failure: false
+Config:        node_js: 0.10

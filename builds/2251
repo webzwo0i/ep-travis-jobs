@@ -1,0 +1,11 @@
+Job #2251.1:  move docs
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        80fa2c2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1ab7dfdb7b9a...80fa2c2868eb
+Duration:      22 min 31 sec
+Started:       2014-12-24 03:46:03
+Finished:      2014-12-24 04:08:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

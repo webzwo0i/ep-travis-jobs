@@ -1,0 +1,11 @@
+Job #1682.1:  Timeslider: Enable exports per revision
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        c2b2520
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      16 min 46 sec
+Started:       2014-01-28 15:10:01
+Finished:      2014-01-28 15:26:47
+Allow Failure: false
+Config:        node_js: 0.10

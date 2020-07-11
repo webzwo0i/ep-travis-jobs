@@ -1,0 +1,11 @@
+Job #1121.1:  begin by adding some template css
+State:         passed
+Type:          push
+Branch:        keep-list-order-on-paste
+Commit:        883be3d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/883be3d48d3a
+Duration:      2 min 26 sec
+Started:       2013-04-05 03:23:17
+Finished:      2013-04-05 03:25:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

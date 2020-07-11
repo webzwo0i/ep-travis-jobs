@@ -1,0 +1,11 @@
+Job #1470.1:  Expose current stats at /stats
+State:         failed
+Type:          push
+Branch:        metrics
+Commit:        387091c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/940f114a84d8...387091c5c9f1
+Duration:      19 min 34 sec
+Started:       2013-10-27 18:14:21
+Finished:      2013-10-27 18:33:55
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

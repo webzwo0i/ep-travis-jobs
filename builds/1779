@@ -1,0 +1,11 @@
+Job #1779.1:  Linke Mucke und linke filme hier rein :)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2122)
+Commit:        9f883b5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2122
+Duration:      10 min 58 sec
+Started:       2014-03-30 20:01:55
+Finished:      2014-03-30 20:12:53
+Allow Failure: false
+Config:        node_js: 0.10

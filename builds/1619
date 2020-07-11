@@ -1,0 +1,11 @@
+Job #1619.1:  expose update browser selection function
+State:         failed
+Type:          push
+Branch:        exposeUpdateBrowserSel
+Commit:        333d2f1
+Compare URL:   https://github.com/ether/etherpad-lite/commit/333d2f119b4c
+Duration:      23 min 28 sec
+Started:       2013-12-18 23:24:57
+Finished:      2013-12-18 23:48:25
+Allow Failure: false
+Config:        node_js: 0.10

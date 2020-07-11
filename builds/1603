@@ -1,0 +1,11 @@
+Job #1603.1:  Merge pull request #2035 from lebrinkma/dont-die-on-bad-html
+State:         errored
+Type:          push
+Branch:        dont-die-on-bad-html
+Commit:        3d8edef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/58bbfd8a65e1...3d8edef9261b
+Duration:      28 min 1 sec
+Started:       2013-12-16 12:09:40
+Finished:      2013-12-16 12:37:41
+Allow Failure: false
+Config:        node_js: 0.10

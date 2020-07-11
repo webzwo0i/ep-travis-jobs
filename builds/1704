@@ -1,0 +1,11 @@
+Job #1704.1:  Create etherpad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2084)
+Commit:        e338e18
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2084
+Duration:      11 min 34 sec
+Started:       2014-02-11 12:16:36
+Finished:      2014-02-11 12:28:10
+Allow Failure: false
+Config:        node_js: 0.10

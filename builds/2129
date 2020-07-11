@@ -1,0 +1,11 @@
+Job #2129.1:  make internal note of which endpoints need testing
+State:         passed
+Type:          push
+Branch:        backend-tests
+Commit:        7a4a3b5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a4be5b4fd7be...7a4a3b5ef312
+Duration:      22 min 19 sec
+Started:       2014-11-26 02:12:51
+Finished:      2014-11-26 02:35:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

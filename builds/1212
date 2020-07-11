@@ -1,0 +1,11 @@
+Job #1212.1:  begin understanding why HTML export can be broken on weird content
+State:         errored
+Type:          push
+Branch:        html-export-nesting
+Commit:        40780ae
+Compare URL:   https://github.com/ether/etherpad-lite/commit/40780ae32f17
+Duration:      12 min 35 sec
+Started:       2013-04-16 22:13:14
+Finished:      2013-04-16 22:25:49
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

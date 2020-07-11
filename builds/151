@@ -1,0 +1,11 @@
+Job #151.1:  improve search to use description too, bit more cpu heavy for thats okay
+State:         failed
+Type:          push
+Branch:        improved-search
+Commit:        b5c263d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b5c263dd3782
+Duration:      7 min 34 sec
+Started:       2012-12-03 02:42:27
+Finished:      2012-12-03 02:50:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #239.1:  Use "nodejs" binary when "node" is not available (Debian) -- fix
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1294)
+Commit:        3106274
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1294
+Duration:      12 min 56 sec
+Started:       2012-12-18 13:08:02
+Finished:      2012-12-18 13:20:58
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

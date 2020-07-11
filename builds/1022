@@ -1,0 +1,11 @@
+Job #1022.1:  adds missing semicolons in src/static/js folder
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1668)
+Commit:        a0b6ceb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1668
+Duration:      10 min 53 sec
+Started:       2013-03-24 03:47:35
+Finished:      2013-03-24 03:58:28
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

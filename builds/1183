@@ -1,0 +1,11 @@
+Job #1183.1:  MAGIQ
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b137f30
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e8d953a15c10...b137f301e2cb
+Duration:      2 min 20 sec
+Started:       2013-04-11 19:36:38
+Finished:      2013-04-11 19:38:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

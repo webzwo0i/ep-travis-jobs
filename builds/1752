@@ -1,0 +1,11 @@
+Job #1752.1:  changelog, package file and fix for redo
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        e23af7e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dc1a33beade2...e23af7e43999
+Duration:      13 min 9 sec
+Started:       2014-03-26 16:50:39
+Finished:      2014-03-26 17:03:48
+Allow Failure: false
+Config:        node_js: 0.10

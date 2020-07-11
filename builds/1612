@@ -1,0 +1,11 @@
+Job #1612.1:  Real fix for the traversal/granularity bug.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2040)
+Commit:        c78e916
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2040
+Duration:      11 min 24 sec
+Started:       2013-12-17 16:50:43
+Finished:      2013-12-17 17:02:07
+Allow Failure: false
+Config:        node_js: 0.10

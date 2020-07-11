@@ -1,0 +1,11 @@
+Job #2009.1:  Merge pull request #2298 from ether/reflow-toolbar-properly
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        8d2fa35
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ab4819fb859e...8d2fa35b3f3d
+Duration:      11 min 6 sec
+Started:       2014-11-15 16:38:25
+Finished:      2014-11-15 16:49:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

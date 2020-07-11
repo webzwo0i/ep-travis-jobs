@@ -1,0 +1,11 @@
+Job #1902.1:  Fix user count
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2257)
+Commit:        c863401
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2257
+Duration:      10 min 36 sec
+Started:       2014-10-05 13:18:13
+Finished:      2014-10-05 13:28:49
+Allow Failure: false
+Config:        node_js: 0.10

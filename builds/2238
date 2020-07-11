@@ -1,0 +1,11 @@
+Job #2238.1:  fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4573796
+Compare URL:   https://github.com/ether/etherpad-lite/compare/745ef5db1cfe...4573796166b6
+Duration:      22 min 49 sec
+Started:       2014-12-22 00:21:13
+Finished:      2014-12-22 00:44:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

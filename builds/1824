@@ -1,0 +1,11 @@
+Job #1824.1:  bump ueberdb for more performance on mysql
+State:         errored
+Type:          push
+Branch:        bump-ueber
+Commit:        37f6dde
+Compare URL:   https://github.com/ether/etherpad-lite/commit/37f6dde365ea
+Duration:      25 sec
+Started:       2014-05-21 14:21:46
+Finished:      2014-05-21 14:22:11
+Allow Failure: false
+Config:        node_js: 0.10

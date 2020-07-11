@@ -1,0 +1,11 @@
+Job #1724.1:  more sanity stuff
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2033)
+Commit:        7d77348
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2033
+Duration:      26 min 58 sec
+Started:       2014-03-11 04:23:23
+Finished:      2014-03-11 04:50:21
+Allow Failure: false
+Config:        node_js: 0.10

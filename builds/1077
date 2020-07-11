@@ -1,0 +1,11 @@
+Job #1077.1:  fix "util.pump() is deprecated. Use readableStream.pipe()"
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1623)
+Commit:        7c61d7b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1623
+Duration:      10 min 51 sec
+Started:       2013-03-30 15:42:58
+Finished:      2013-03-30 15:53:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

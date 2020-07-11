@@ -1,0 +1,11 @@
+Job #2629.1:  support drop down show events
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        e67ae52
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aff802a0b3e4...e67ae522e22a
+Duration:      10 min 56 sec
+Started:       2015-03-26 00:43:36
+Finished:      2015-03-26 00:54:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

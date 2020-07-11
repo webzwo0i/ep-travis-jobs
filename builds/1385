@@ -1,0 +1,11 @@
+Job #1385.1:  Merge pull request #1919 from ether/make-username-show-properly
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6dc4240
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ba1ff4686701...6dc424098557
+Duration:      26 min 8 sec
+Started:       2013-10-03 01:38:10
+Finished:      2013-10-03 02:04:18
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

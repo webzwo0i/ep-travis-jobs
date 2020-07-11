@@ -1,0 +1,11 @@
+Job #1260.1:  Pass arguments from safeRun.sh to run.sh
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1785)
+Commit:        aa9a03e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1785
+Duration:      10 min 58 sec
+Started:       2013-05-26 23:23:01
+Finished:      2013-05-26 23:33:59
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

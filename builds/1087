@@ -1,0 +1,11 @@
+Job #1087.1:  Merge pull request #1691 from mluto/socketio-decode-cookie-session
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0b2c67e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c1806e54e2fc...0b2c67e9980d
+Duration:      2 min 14 sec
+Started:       2013-03-31 18:36:15
+Finished:      2013-03-31 18:38:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1557.1:  Update pad.html
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2017)
+Commit:        4bde618
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2017
+Duration:      11 min 22 sec
+Started:       2013-12-02 17:12:17
+Finished:      2013-12-02 17:23:39
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

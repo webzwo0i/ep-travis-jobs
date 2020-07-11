@@ -1,0 +1,11 @@
+Job #1372.1:  Merge pull request #1907 from ether/clear-cache
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        56bc632
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e1e92c100aa...56bc632d410f
+Duration:      10 min 28 sec
+Started:       2013-09-27 16:19:34
+Finished:      2013-09-27 16:30:02
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

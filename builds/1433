@@ -1,0 +1,11 @@
+Job #1433.1:  Don't try to populate padlist on each req
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        680d9a2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8c9e543b913f...680d9a281151
+Duration:      14 min 59 sec
+Started:       2013-10-13 17:41:05
+Finished:      2013-10-13 17:56:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

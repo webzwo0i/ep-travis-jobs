@@ -1,0 +1,11 @@
+Job #1465.1:  Refactors APIHandler:callAPI
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1968)
+Commit:        a4a4e7f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1968
+Duration:      10 min 57 sec
+Started:       2013-10-25 00:50:12
+Finished:      2013-10-25 01:01:09
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

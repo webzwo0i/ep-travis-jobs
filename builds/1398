@@ -1,0 +1,11 @@
+Job #1398.1:  more warns
+State:         failed
+Type:          push
+Branch:        move-padlist-init
+Commit:        40a65bd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c93acdfc87f7...40a65bd41cba
+Duration:      19 min 35 sec
+Started:       2013-10-09 17:20:30
+Finished:      2013-10-09 17:40:05
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

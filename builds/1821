@@ -1,0 +1,11 @@
+Job #1821.1:  Merge pull request #1984 from ldidry/fix/getRevisionChangeset-crash
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        44b1ac2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9212ebe9f031...44b1ac2b1641
+Duration:      13 min 26 sec
+Started:       2014-05-14 15:13:29
+Finished:      2014-05-14 15:26:55
+Allow Failure: false
+Config:        node_js: 0.10

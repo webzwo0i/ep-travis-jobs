@@ -1,0 +1,11 @@
+Job #1469.1:  Record metrics with 'measured'
+State:         failed
+Type:          push
+Branch:        metrics
+Commit:        940f114
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8d4f9002aba4...940f114a84d8
+Duration:      15 min 24 sec
+Started:       2013-10-27 17:43:58
+Finished:      2013-10-27 17:59:22
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

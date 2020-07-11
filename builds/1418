@@ -1,0 +1,11 @@
+Job #1418.1:  Prepare release
+State:         failed
+Type:          push
+Branch:        release/1.2.12
+Commit:        74bc2bd
+Compare URL:   https://github.com/ether/etherpad-lite/commit/74bc2bd76134
+Duration:      16 min 15 sec
+Started:       2013-10-12 14:17:42
+Finished:      2013-10-12 14:33:57
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

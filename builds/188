@@ -1,0 +1,11 @@
+Job #188.1:  Fix #1226: Chrome would load async js
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fe89a36
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2f37afac66d7...fe89a367cc02
+Duration:      4 min 46 sec
+Started:       2012-12-05 14:19:50
+Finished:      2012-12-05 14:24:36
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

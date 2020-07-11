@@ -1,0 +1,11 @@
+Job #1989.1:  Merge pull request #2299 from prtksxna/colorauth
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e1fe1f0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3eb0652b218b...e1fe1f0f9cf4
+Duration:      8 min 36 sec
+Started:       2014-11-07 11:41:32
+Finished:      2014-11-07 11:50:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

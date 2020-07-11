@@ -1,0 +1,11 @@
+Job #1769.1:  Fix redo toolbar command, again.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2120)
+Commit:        2797860
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2120
+Duration:      11 min 49 sec
+Started:       2014-03-30 13:06:42
+Finished:      2014-03-30 13:18:31
+Allow Failure: false
+Config:        node_js: 0.10

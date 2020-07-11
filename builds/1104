@@ -1,0 +1,11 @@
+Job #1104.1:  Merge pull request #1703 from mluto/kick-users-with-invalid-session-2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        29beda8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f503f28b084f...29beda8ebd0f
+Duration:      2 min 22 sec
+Started:       2013-04-03 17:29:17
+Finished:      2013-04-03 17:31:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

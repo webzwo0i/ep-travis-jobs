@@ -1,0 +1,11 @@
+Job #1844.1:  Merge pull request #2150 from ether/export-file-name-hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        44cb676
+Compare URL:   https://github.com/ether/etherpad-lite/compare/71c7deecd98a...44cb676ba2a9
+Duration:      17 min 21 sec
+Started:       2014-06-16 17:56:00
+Finished:      2014-06-16 18:13:21
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1466.1:  Update APIHandler.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1968)
+Commit:        c421af6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1968
+Duration:      10 min 20 sec
+Started:       2013-10-25 12:04:08
+Finished:      2013-10-25 12:14:28
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

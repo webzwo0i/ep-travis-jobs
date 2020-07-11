@@ -1,0 +1,11 @@
+Job #1490.1:  allow nix file process path to be visible in ps aux
+State:         failed
+Type:          push
+Branch:        run-path-available-in-ps-aux
+Commit:        932c9ae
+Compare URL:   https://github.com/ether/etherpad-lite/commit/932c9ae40652
+Duration:      16 min 6 sec
+Started:       2013-11-10 17:33:53
+Finished:      2013-11-10 17:49:59
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

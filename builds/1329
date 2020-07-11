@@ -1,0 +1,11 @@
+Job #1329.1:  Merge pull request #1879 from Gared/binary-upload-fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c4fcedb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4de986a1ae2e...c4fcedbb8db5
+Duration:      17 min 31 sec
+Started:       2013-09-10 22:49:55
+Finished:      2013-09-10 23:07:26
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

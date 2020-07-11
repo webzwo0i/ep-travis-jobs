@@ -1,0 +1,11 @@
+Job #1741.1:  quick formatting clean up
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e1fa43e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8cd9b98b767a...e1fa43e640bf
+Duration:      16 min 19 sec
+Started:       2014-03-17 20:22:12
+Finished:      2014-03-17 20:38:31
+Allow Failure: false
+Config:        node_js: 0.10

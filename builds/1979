@@ -1,0 +1,11 @@
+Job #1979.1:  cleaner reflow
+State:         passed
+Type:          push
+Branch:        reflow-toolbar-properly
+Commit:        96d6e7c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9170effb27de...96d6e7c1b7df
+Duration:      17 min 34 sec
+Started:       2014-11-06 16:13:52
+Finished:      2014-11-06 16:31:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

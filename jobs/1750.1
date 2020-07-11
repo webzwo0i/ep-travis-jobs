@@ -1,0 +1,998 @@
+Using worker: worker-linux-8-2.bb.travis-ci.org:travis-linux-1
+
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+travis_fold:start:git.1$ git clone --depth=50 --branch=release/1.4.0 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 8211, done.ote: Compressing objects:   0% (1/2994)   ote: Compressing objects:   1% (30/2994)   ote: Compressing objects:   2% (60/2994)   ote: Compressing objects:   3% (90/2994)   ote: Compressing objects:   4% (120/2994)   ote: Compressing objects:   5% (150/2994)   ote: Compressing objects:   6% (180/2994)   ote: Compressing objects:   7% (210/2994)   ote: Compressing objects:   8% (240/2994)   ote: Compressing objects:   9% (270/2994)   ote: Compressing objects:  10% (300/2994)   ote: Compressing objects:  11% (330/2994)   ote: Compressing objects:  12% (360/2994)   ote: Compressing objects:  13% (390/2994)   ote: Compressing objects:  14% (420/2994)   ote: Compressing objects:  15% (450/2994)   ote: Compressing objects:  16% (480/2994)   ote: Compressing objects:  17% (509/2994)   ote: Compressing objects:  18% (539/2994)   ote: Compressing objects:  19% (569/2994)   ote: Compressing objects:  20% (599/2994)   ote: Compressing objects:  21% (629/2994)   ote: Compressing objects:  22% (659/2994)   ote: Compressing objects:  23% (689/2994)   ote: Compressing objects:  24% (719/2994)   ote: Compressing objects:  25% (749/2994)   ote: Compressing objects:  26% (779/2994)   ote: Compressing objects:  27% (809/2994)   ote: Compressing objects:  28% (839/2994)   ote: Compressing objects:  29% (869/2994)   ote: Compressing objects:  30% (899/2994)   ote: Compressing objects:  31% (929/2994)   ote: Compressing objects:  32% (959/2994)   ote: Compressing objects:  33% (989/2994)   ote: Compressing objects:  34% (1018/2994)   ote: Compressing objects:  35% (1048/2994)   ote: Compressing objects:  36% (1078/2994)   ote: Compressing objects:  37% (1108/2994)   ote: Compressing objects:  38% (1138/2994)   ote: Compressing objects:  39% (1168/2994)   ote: Compressing objects:  40% (1198/2994)   ote: Compressing objects:  41% (1228/2994)   ote: Compressing objects:  42% (1258/2994)   ote: Compressing objects:  43% (1288/2994)   ote: Compressing objects:  44% (1318/2994)   ote: Compressing objects:  45% (1348/2994)   ote: Compressing objects:  46% (1378/2994)   ote: Compressing objects:  47% (1408/2994)   ote: Compressing objects:  48% (1438/2994)   ote: Compressing objects:  49% (1468/2994)   ote: Compressing objects:  50% (1497/2994)   ote: Compressing objects:  51% (1527/2994)   ote: Compressing objects:  52% (1557/2994)   ote: Compressing objects:  53% (1587/2994)   ote: Compressing objects:  54% (1617/2994)   ote: Compressing objects:  55% (1647/2994)   ote: Compressing objects:  56% (1677/2994)   ote: Compressing objects:  57% (1707/2994)   ote: Compressing objects:  58% (1737/2994)   ote: Compressing objects:  59% (1767/2994)   ote: Compressing objects:  60% (1797/2994)   ote: Compressing objects:  61% (1827/2994)   ote: Compressing objects:  62% (1857/2994)   ote: Compressing objects:  63% (1887/2994)   ote: Compressing objects:  64% (1917/2994)   ote: Compressing objects:  65% (1947/2994)   ote: Compressing objects:  66% (1977/2994)   ote: Compressing objects:  67% (2006/2994)   ote: Compressing objects:  68% (2036/2994)   ote: Compressing objects:  69% (2066/2994)   ote: Compressing objects:  70% (2096/2994)   ote: Compressing objects:  71% (2126/2994)   ote: Compressing objects:  72% (2156/2994)   ote: Compressing objects:  73% (2186/2994)   ote: Compressing objects:  74% (2216/2994)   ote: Compressing objects:  75% (2246/2994)   ote: Compressing objects:  76% (2276/2994)   ote: Compressing objects:  77% (2306/2994)   ote: Compressing objects:  78% (2336/2994)   ote: Compressing objects:  79% (2366/2994)   ote: Compressing objects:  80% (2396/2994)   ote: Compressing objects:  81% (2426/2994)   ote: Compressing objects:  82% (2456/2994)   ote: Compressing objects:  83% (2486/2994)   ote: Compressing objects:  84% (2515/2994)   ote: Compressing objects:  85% (2545/2994)   ote: Compressing objects:  86% (2575/2994)   ote: Compressing objects:  87% (2605/2994)   ote: Compressing objects:  88% (2635/2994)   ote: Compressing objects:  89% (2665/2994)   ote: Compressing objects:  90% (2695/2994)   ote: Compressing objects:  91% (2725/2994)   ote: Compressing objects:  92% (2755/2994)   ote: Compressing objects:  93% (2785/2994)   ote: Compressing objects:  94% (2815/2994)   ote: Compressing objects:  95% (2845/2994)   ote: Compressing objects:  96% (2875/2994)   ote: Compressing objects:  97% (2905/2994)   ote: Compressing objects:  98% (2935/2994)   ote: Compressing objects:  99% (2965/2994)   ote: Compressing objects: 100% (2994/2994)   ote: Compressing objects: 100% (2994/2994), done.ote: Total 8211 (delta 5588), reused 7595 (delta 5108) use 0.10
+Now using node v0.10.25
+$ node --version
+v0.10.25
+$ npm --version
+1.3.24
+Applying fix for NPM certificates
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.25","npm":"1.3.24"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+measured@0.1.3 node_modules/measured
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.6.6 node_modules/log4js
+├── dequeue@1.0.3
+├── semver@1.1.4
+├── async@0.1.15
+└── readable-stream@1.0.26-2 (string_decoder@0.10.25-1)
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@2.1.0)
+
+jsonminify@0.2.2 node_modules/jsonminify
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── debug@0.7.4
+├── qs@0.6.5
+├── bytes@0.2.0
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.6.1 (wordwrap@0.0.2, minimist@0.0.8)
+├── simplesmtp@0.3.23 (xoauth2@0.1.8, rai@0.1.9)
+└── mailcomposer@0.2.8 (follow-redirects@0.0.3, dkim-signer@0.1.0, punycode@1.2.4, mime@1.2.9, he@0.3.6, mimelib@0.2.14)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── cookie-signature@0.0.1
+├── range-parser@0.0.4
+├── debug@0.7.4
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.7
+
+npm@1.4.6 node_modules/npm
+
+ueberDB@0.2.1 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.9
+├── async@0.1.15
+├── mysql@0.9.5 (hashish@0.0.4)
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.4)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.31, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(git rev-parse --verify --short HEAD)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.1M    0  4344    0     0  37067      0  0:13:43 --:--:--  0:13:43 57157  6 29.1M    6 2032k    0     0  1802k      0  0:00:16  0:00:01  0:00:15 1869k 17 29.1M   17 5131k    0     0  2403k      0  0:00:12  0:00:02  0:00:10 2450k 26 29.1M   26 7866k    0     0  2498k      0  0:00:11  0:00:03  0:00:08 2531k 32 29.1M   32 9604k    0     0  2327k      0  0:00:12  0:00:04  0:00:08 2350k 41 29.1M   41 12.2M    0     0  2431k      0  0:00:12  0:00:05  0:00:07 2488k 50 29.1M   50 14.7M    0     0  2472k      0  0:00:12  0:00:06  0:00:06 2622k 59 29.1M   59 17.2M    0     0  2481k      0  0:00:12  0:00:07  0:00:05 2515k 67 29.1M   67 19.7M    0     0  2487k      0  0:00:11  0:00:08  0:00:03 2480k 76 29.1M   76 22.1M    0     0  2489k      0  0:00:11  0:00:09  0:00:02 2622k 84 29.1M   84 24.6M    0     0  2488k      0  0:00:11  0:00:10  0:00:01 2545k 92 29.1M   92 26.9M    0     0  2475k      0  0:00:12  0:00:11  0:00:01 2480k 99 29.1M   99 29.0M    0     0  2454k      0  0:00:12  0:00:12 --:--:-- 2416k100 29.1M  100 29.1M    0     0  2455k      0  0:00:12  0:00:12 --:--:-- 2390k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2014-03-26 15:38:22.931:INFO::jetty-7.x.y-SNAPSHOT
+2014-03-26 15:38:23.090:INFO::Started SelectChannelConnector@0.0.0.0:53238
+2014-03-26 15:38:51.018:INFO::jetty-7.x.y-SNAPSHOT
+2014-03-26 15:38:51.030:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_fold:end:before_script$ tests/frontend/travis/runner.sh
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported. Please pick one as the 'repository' field
+npm WARN package.json tinycon@0.0.1 No repository field.
+Remote sauce test 'dc1a33b - googlechrome , Linux' started! https://saucelabs.com/jobs/18adc651b0dd4dad8a17fcabf11fd229
+Remote sauce test 'dc1a33b - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/528d331c246d432cbf333794dd93bf3c
+Remote sauce test 'dc1a33b - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/308ec283a925458a94fe07c5d1618fa9
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] caret.js
+[googlechrome]   As the caret is moved is the UI properly updated?
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : down arrow
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat.js
+[googlechrome]   Chat messages and UI
+[googlechrome]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[googlechrome]     -> PASSED : makes sure that an empty message can't be sent
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : adds a lot of messages
+[googlechrome]     -> PASSED : checks initial message count
+[googlechrome]     -> PASSED : loads more messages
+[googlechrome]     -> PASSED : checks for button vanishing
+[googlechrome] 
+[googlechrome] clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] delete.js
+[googlechrome]   delete keystroke
+[googlechrome]     -> PASSED : makes text delete
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : is the actual pad url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome]     when read only option is set
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : shows a read only url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome] 
+[googlechrome] enter.js
+[googlechrome]   enter keystroke
+[googlechrome]     -> PASSED : creates a new line & puts cursor onto a new line
+[googlechrome] 
+[googlechrome] font_type.js
+[googlechrome]   font select
+[googlechrome]     -> PASSED : makes text monospace
+[googlechrome] 
+[googlechrome] helper.js
+[googlechrome]   the test helper
+[googlechrome]     the newPad method
+[googlechrome]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[googlechrome]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[googlechrome]     the waitFor method
+[googlechrome]       -> PASSED : takes a timeout and waits long enough
+[googlechrome]       -> PASSED : takes an interval and checks on every interval
+[googlechrome]       returns a deferred object
+[googlechrome]         -> PASSED : it calls done after success
+[googlechrome]         -> PASSED : calls fail after failure
+[googlechrome]         -> PENDING: throws if you don't listen for fails
+[googlechrome] 
+[googlechrome] indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text with keypress
+[googlechrome]     -> PASSED : indent text with button
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] italic.js
+[googlechrome]   italic some text
+[googlechrome]     -> PASSED : makes text italic using button
+[googlechrome]     -> PASSED : makes text italic using keypress
+[googlechrome] 
+[googlechrome] language.js
+[googlechrome]   Language select and change
+[googlechrome]     -> PASSED : makes text german
+[googlechrome]     -> PASSED : makes text English
+[googlechrome]     -> PASSED : changes direction when picking an rtl lang
+[googlechrome]     -> PASSED : changes direction when picking an ltr lang
+[googlechrome] 
+[googlechrome] ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> FAILED : redo some typing with button ReferenceError: ace is not defined
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:1748
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:3812
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43858)
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43923)
+[googlechrome]         at Object.bq [as ace_inCallStack] (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg
+[googlechrome]     14OSUOKV:1:0), <anonymous>:4:2474)
+[googlechrome]         at Object.Ace2Inner.y.ace_callWithAce (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEn
+[googlechrome]     e7Qg14OSUOKV:1:0), <anonymous>:4:43951)
+[googlechrome]         at Object.<anonymous> (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:1334)
+[googlechrome]         at g (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.d
+[googlechrome]     efine:22:196)
+[googlechrome]         at Object.callWithAce (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:226)
+[googlechrome]         at Object.redo (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback
+[googlechrome]     =require.define:15:3788)
+[googlechrome]     -> PASSED : redo some typing with keypress
+[googlechrome] 
+[googlechrome] responsiveness.js
+[googlechrome]   Responsiveness of Editor
+[googlechrome]     -> PASSED : Fast response to keypress in pad with large amount of contents
+[googlechrome] 
+[googlechrome] strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] timeslider_labels.js
+[googlechrome]   timeslider
+[googlechrome]     -> FAILED : Shows a date and time in the timeslider and make sure it doesn't include NaN
+[googlechrome]      Error: the string "Uncaught TypeError: undefined is not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome] 
+[googlechrome] timeslider_revisions.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : loads adds a hundred revisions
+[googlechrome]     -> PASSED : changes the url when clicking on the timeslider
+[googlechrome]     -> PASSED : jumps to a revision given in the url
+[googlechrome]     -> PASSED : checks the export url
+[googlechrome] 
+[googlechrome] undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing using a keypress
+[googlechrome] 
+[googlechrome] urls_become_clickable.js
+[googlechrome]   urls
+[googlechrome]     -> PASSED : when you enter an url, it becomes clickable
+[googlechrome]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[googlechrome]      whole URL
+[googlechrome] 
+[googlechrome] FINISHED - 48 tests passed, 2 tests failed, duration: 4:20
+[googlechrome] 
+Remote sauce test 'dc1a33b - googlechrome , Linux' finished! https://saucelabs.com/jobs/18adc651b0dd4dad8a17fcabf11fd229
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] caret.js
+[googlechrome]   As the caret is moved is the UI properly updated?
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : down arrow
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat.js
+[googlechrome]   Chat messages and UI
+[googlechrome]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[googlechrome]     -> PASSED : makes sure that an empty message can't be sent
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : adds a lot of messages
+[googlechrome]     -> PASSED : checks initial message count
+[googlechrome]     -> PASSED : loads more messages
+[googlechrome]     -> PASSED : checks for button vanishing
+[googlechrome] 
+[googlechrome] clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] delete.js
+[googlechrome]   delete keystroke
+[googlechrome]     -> PASSED : makes text delete
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : is the actual pad url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome]     when read only option is set
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : shows a read only url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome] 
+[googlechrome] enter.js
+[googlechrome]   enter keystroke
+[googlechrome]     -> PASSED : creates a new line & puts cursor onto a new line
+[googlechrome] 
+[googlechrome] font_type.js
+[googlechrome]   font select
+[googlechrome]     -> PASSED : makes text monospace
+[googlechrome] 
+[googlechrome] helper.js
+[googlechrome]   the test helper
+[googlechrome]     the newPad method
+[googlechrome]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[googlechrome]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[googlechrome]     the waitFor method
+[googlechrome]       -> PASSED : takes a timeout and waits long enough
+[googlechrome]       -> PASSED : takes an interval and checks on every interval
+[googlechrome]       returns a deferred object
+[googlechrome]         -> PASSED : it calls done after success
+[googlechrome]         -> PASSED : calls fail after failure
+[googlechrome]         -> PENDING: throws if you don't listen for fails
+[googlechrome] 
+[googlechrome] indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text with keypress
+[googlechrome]     -> PASSED : indent text with button
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] italic.js
+[googlechrome]   italic some text
+[googlechrome]     -> PASSED : makes text italic using button
+[googlechrome]     -> PASSED : makes text italic using keypress
+[googlechrome] 
+[googlechrome] language.js
+[googlechrome]   Language select and change
+[googlechrome]     -> PASSED : makes text german
+[googlechrome]     -> PASSED : makes text English
+[googlechrome]     -> PASSED : changes direction when picking an rtl lang
+[googlechrome]     -> PASSED : changes direction when picking an ltr lang
+[googlechrome] 
+[googlechrome] ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> FAILED : redo some typing with button ReferenceError: ace is not defined
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:1748
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:3812
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43858)
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43923)
+[googlechrome]         at Object.bq [as ace_inCallStack] (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg
+[googlechrome]     14OSUOKV:1:0), <anonymous>:4:2474)
+[googlechrome]         at Object.Ace2Inner.y.ace_callWithAce (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEn
+[googlechrome]     e7Qg14OSUOKV:1:0), <anonymous>:4:43951)
+[googlechrome]         at Object.<anonymous> (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:1334)
+[googlechrome]         at g (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.d
+[googlechrome]     efine:22:196)
+[googlechrome]         at Object.callWithAce (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:226)
+[googlechrome]         at Object.redo (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback
+[googlechrome]     =require.define:15:3788)
+[googlechrome]     -> PASSED : redo some typing with keypress
+[googlechrome] 
+[googlechrome] responsiveness.js
+[googlechrome]   Responsiveness of Editor
+[googlechrome]     -> PASSED : Fast response to keypress in pad with large amount of contents
+[googlechrome] 
+[googlechrome] strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] timeslider_labels.js
+[googlechrome]   timeslider
+[googlechrome]     -> FAILED : Shows a date and time in the timeslider and make sure it doesn't include NaN
+[googlechrome]      Error: the string "Uncaught TypeError: undefined is not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome] 
+[googlechrome] timeslider_revisions.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : loads adds a hundred revisions
+[googlechrome]     -> PASSED : changes the url when clicking on the timeslider
+[googlechrome]     -> PASSED : jumps to a revision given in the url
+[googlechrome]     -> PASSED : checks the export url
+[googlechrome] 
+[googlechrome] undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing using a keypress
+[googlechrome] 
+[googlechrome] urls_become_clickable.js
+[googlechrome]   urls
+[googlechrome]     -> PASSED : when you enter an url, it becomes clickable
+[googlechrome]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[googlechrome]      whole URL
+[googlechrome] 
+[googlechrome] FINISHED - 48 tests passed, 2 tests failed, duration: 4:20
+[googlechrome] 
+Remote sauce test 'dc1a33b - googlechrome , Linux' finished! https://saucelabs.com/jobs/18adc651b0dd4dad8a17fcabf11fd229
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] caret.js
+[googlechrome]   As the caret is moved is the UI properly updated?
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : down arrow
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat.js
+[googlechrome]   Chat messages and UI
+[googlechrome]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[googlechrome]     -> PASSED : makes sure that an empty message can't be sent
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : adds a lot of messages
+[googlechrome]     -> PASSED : checks initial message count
+[googlechrome]     -> PASSED : loads more messages
+[googlechrome]     -> PASSED : checks for button vanishing
+[googlechrome] 
+[googlechrome] clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] delete.js
+[googlechrome]   delete keystroke
+[googlechrome]     -> PASSED : makes text delete
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : is the actual pad url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome]     when read only option is set
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : shows a read only url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome] 
+[googlechrome] enter.js
+[googlechrome]   enter keystroke
+[googlechrome]     -> PASSED : creates a new line & puts cursor onto a new line
+[googlechrome] 
+[googlechrome] font_type.js
+[googlechrome]   font select
+[googlechrome]     -> PASSED : makes text monospace
+[googlechrome] 
+[googlechrome] helper.js
+[googlechrome]   the test helper
+[googlechrome]     the newPad method
+[googlechrome]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[googlechrome]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[googlechrome]     the waitFor method
+[googlechrome]       -> PASSED : takes a timeout and waits long enough
+[googlechrome]       -> PASSED : takes an interval and checks on every interval
+[googlechrome]       returns a deferred object
+[googlechrome]         -> PASSED : it calls done after success
+[googlechrome]         -> PASSED : calls fail after failure
+[googlechrome]         -> PENDING: throws if you don't listen for fails
+[googlechrome] 
+[googlechrome] indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text with keypress
+[googlechrome]     -> PASSED : indent text with button
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] italic.js
+[googlechrome]   italic some text
+[googlechrome]     -> PASSED : makes text italic using button
+[googlechrome]     -> PASSED : makes text italic using keypress
+[googlechrome] 
+[googlechrome] language.js
+[googlechrome]   Language select and change
+[googlechrome]     -> PASSED : makes text german
+[googlechrome]     -> PASSED : makes text English
+[googlechrome]     -> PASSED : changes direction when picking an rtl lang
+[googlechrome]     -> PASSED : changes direction when picking an ltr lang
+[googlechrome] 
+[googlechrome] ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> FAILED : redo some typing with button ReferenceError: ace is not defined
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:1748
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:3812
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43858)
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43923)
+[googlechrome]         at Object.bq [as ace_inCallStack] (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg
+[googlechrome]     14OSUOKV:1:0), <anonymous>:4:2474)
+[googlechrome]         at Object.Ace2Inner.y.ace_callWithAce (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEn
+[googlechrome]     e7Qg14OSUOKV:1:0), <anonymous>:4:43951)
+[googlechrome]         at Object.<anonymous> (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:1334)
+[googlechrome]         at g (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.d
+[googlechrome]     efine:22:196)
+[googlechrome]         at Object.callWithAce (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:226)
+[googlechrome]         at Object.redo (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback
+[googlechrome]     =require.define:15:3788)
+[googlechrome]     -> PASSED : redo some typing with keypress
+[googlechrome] 
+[googlechrome] responsiveness.js
+[googlechrome]   Responsiveness of Editor
+[googlechrome]     -> PASSED : Fast response to keypress in pad with large amount of contents
+[googlechrome] 
+[googlechrome] strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] timeslider_labels.js
+[googlechrome]   timeslider
+[googlechrome]     -> FAILED : Shows a date and time in the timeslider and make sure it doesn't include NaN
+[googlechrome]      Error: the string "Uncaught TypeError: undefined is not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome] 
+[googlechrome] timeslider_revisions.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : loads adds a hundred revisions
+[googlechrome]     -> PASSED : changes the url when clicking on the timeslider
+[googlechrome]     -> PASSED : jumps to a revision given in the url
+[googlechrome]     -> PASSED : checks the export url
+[googlechrome] 
+[googlechrome] undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing using a keypress
+[googlechrome] 
+[googlechrome] urls_become_clickable.js
+[googlechrome]   urls
+[googlechrome]     -> PASSED : when you enter an url, it becomes clickable
+[googlechrome]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[googlechrome]      whole URL
+[googlechrome] 
+[googlechrome] FINISHED - 48 tests passed, 2 tests failed, duration: 4:20
+[googlechrome] 
+Remote sauce test 'dc1a33b - googlechrome , Linux' finished! https://saucelabs.com/jobs/18adc651b0dd4dad8a17fcabf11fd229
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] caret.js
+[googlechrome]   As the caret is moved is the UI properly updated?
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : down arrow
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat.js
+[googlechrome]   Chat messages and UI
+[googlechrome]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[googlechrome]     -> PASSED : makes sure that an empty message can't be sent
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : adds a lot of messages
+[googlechrome]     -> PASSED : checks initial message count
+[googlechrome]     -> PASSED : loads more messages
+[googlechrome]     -> PASSED : checks for button vanishing
+[googlechrome] 
+[googlechrome] clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] delete.js
+[googlechrome]   delete keystroke
+[googlechrome]     -> PASSED : makes text delete
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : is the actual pad url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome]     when read only option is set
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : shows a read only url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome] 
+[googlechrome] enter.js
+[googlechrome]   enter keystroke
+[googlechrome]     -> PASSED : creates a new line & puts cursor onto a new line
+[googlechrome] 
+[googlechrome] font_type.js
+[googlechrome]   font select
+[googlechrome]     -> PASSED : makes text monospace
+[googlechrome] 
+[googlechrome] helper.js
+[googlechrome]   the test helper
+[googlechrome]     the newPad method
+[googlechrome]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[googlechrome]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[googlechrome]     the waitFor method
+[googlechrome]       -> PASSED : takes a timeout and waits long enough
+[googlechrome]       -> PASSED : takes an interval and checks on every interval
+[googlechrome]       returns a deferred object
+[googlechrome]         -> PASSED : it calls done after success
+[googlechrome]         -> PASSED : calls fail after failure
+[googlechrome]         -> PENDING: throws if you don't listen for fails
+[googlechrome] 
+[googlechrome] indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text with keypress
+[googlechrome]     -> PASSED : indent text with button
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] italic.js
+[googlechrome]   italic some text
+[googlechrome]     -> PASSED : makes text italic using button
+[googlechrome]     -> PASSED : makes text italic using keypress
+[googlechrome] 
+[googlechrome] language.js
+[googlechrome]   Language select and change
+[googlechrome]     -> PASSED : makes text german
+[googlechrome]     -> PASSED : makes text English
+[googlechrome]     -> PASSED : changes direction when picking an rtl lang
+[googlechrome]     -> PASSED : changes direction when picking an ltr lang
+[googlechrome] 
+[googlechrome] ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> FAILED : redo some typing with button ReferenceError: ace is not defined
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:1748
+[googlechrome]         at http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.defi
+[googlechrome]     ne:15:3812
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43858)
+[googlechrome]         at d (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg14OSUOKV:1:0), <anonymous>:4:
+[googlechrome]     43923)
+[googlechrome]         at Object.bq [as ace_inCallStack] (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEne7Qg
+[googlechrome]     14OSUOKV:1:0), <anonymous>:4:2474)
+[googlechrome]         at Object.Ace2Inner.y.ace_callWithAce (eval at G (http://localhost:9001/p/FRONTEND_TEST_zjAdUtEn
+[googlechrome]     e7Qg14OSUOKV:1:0), <anonymous>:4:43951)
+[googlechrome]         at Object.<anonymous> (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:1334)
+[googlechrome]         at g (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.d
+[googlechrome]     efine:22:196)
+[googlechrome]         at Object.callWithAce (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?c
+[googlechrome]     allback=require.define:22:226)
+[googlechrome]         at Object.redo (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback
+[googlechrome]     =require.define:15:3788)
+[googlechrome]     -> PASSED : redo some typing with keypress
+[googlechrome] 
+[googlechrome] responsiveness.js
+[googlechrome]   Responsiveness of Editor
+[googlechrome]     -> PASSED : Fast response to keypress in pad with large amount of contents
+[googlechrome] 
+[googlechrome] strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] timeslider_labels.js
+[googlechrome]   timeslider
+[googlechrome]     -> FAILED : Shows a date and time in the timeslider and make sure it doesn't include NaN
+[googlechrome]      Error: the string "Uncaught TypeError: undefined is not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome] 
+[googlechrome] timeslider_revisions.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : loads adds a hundred revisions
+[googlechrome]     -> PASSED : changes the url when clicking on the timeslider
+[googlechrome]     -> PASSED : jumps to a revision given in the url
+[googlechrome]     -> PASSED : checks the export url
+[googlechrome] 
+[googlechrome] undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing using a keypress
+[googlechrome] 
+[googlechrome] urls_become_clickable.js
+[googlechrome]   urls
+[googlechrome]     -> PASSED : when you enter an url, it becomes clickable
+[googlechrome]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[googlechrome]      whole URL
+[googlechrome] 
+[googlechrome] FINISHED - 48 tests passed, 2 tests failed, duration: 4:20
+[googlechrome] 
+Remote sauce test 'dc1a33b - googlechrome , Linux' finished! https://saucelabs.com/jobs/18adc651b0dd4dad8a17fcabf11fd229
+a function in your .chain() failed: {"message":"Unexpected data in simpleCallback.","data":{"status":13,"message":"OKOK","value":{"message":"OKOK"}}}
+Remote sauce test 'dc1a33b - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/03b5a9cce5864d14a20c458141956620
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold on click
+[iexplore 10]     -> PASSED : makes text bold on keypress
+[iexplore 10] 
+[iexplore 10] caret.js
+[iexplore 10]   As the caret is moved is the UI properly updated?
+[iexplore 10]     -> PASSED : creates a pad
+[iexplore 10]     -> PASSED : down arrow
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> PASSED : Remembers the user name after a refresh
+[iexplore 10]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 10] 
+[iexplore 10] chat.js
+[iexplore 10]   Chat messages and UI
+[iexplore 10]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 10]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 10]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 10] 
+[iexplore 10] chat_load_messages.js
+[iexplore 10]   chat-load-messages
+[iexplore 10]     -> PASSED : creates a pad
+[iexplore 10]     -> PASSED : adds a lot of messages
+[iexplore 10]     -> PASSED : checks initial message count
+[iexplore 10]     -> PASSED : loads more messages
+[iexplore 10]     -> PASSED : checks for button vanishing
+[iexplore 10] 
+[iexplore 10] clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> PASSED : makes text clear authorship colors
+[iexplore 10] 
+[iexplore 10] delete.js
+[iexplore 10]   delete keystroke
+[iexplore 10]     -> PASSED : makes text delete
+[iexplore 10] 
+[iexplore 10] embed_value.js
+[iexplore 10]   embed links
+[iexplore 10]     read and write
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : is the actual pad url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10]     when read only option is set
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : shows a read only url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10] 
+[iexplore 10] enter.js
+[iexplore 10]   enter keystroke
+[iexplore 10]     -> PASSED : creates a new line & puts cursor onto a new line
+[iexplore 10] 
+[iexplore 10] font_type.js
+[iexplore 10]   font select
+[iexplore 10]     -> PASSED : makes text monospace
+[iexplore 10] 
+[iexplore 10] helper.js
+[iexplore 10]   the test helper
+[iexplore 10]     the newPad method
+[iexplore 10]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 10]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 10]     the waitFor method
+[iexplore 10]       -> PASSED : takes a timeout and waits long enough
+[iexplore 10]       -> PASSED : takes an interval and checks on every interval
+[iexplore 10]       returns a deferred object
+[iexplore 10]         -> PASSED : it calls done after success
+[iexplore 10]         -> PASSED : calls fail after failure
+[iexplore 10]         -> PENDING: throws if you don't listen for fails
+[iexplore 10] 
+[iexplore 10] indentation.js
+[iexplore 10]   indentation button
+[iexplore 10]     -> PASSED : indent text with keypress
+[iexplore 10]     -> PASSED : indent text with button
+[iexplore 10]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 10] 
+[iexplore 10] italic.js
+[iexplore 10]   italic some text
+[iexplore 10]     -> PASSED : makes text italic using button
+[iexplore 10]     -> PASSED : makes text italic using keypress
+[iexplore 10] 
+[iexplore 10] language.js
+[iexplore 10]   Language select and change
+[iexplore 10]     -> PASSED : makes text german
+[iexplore 10]     -> PASSED : makes text English
+[iexplore 10]     -> PASSED : changes direction when picking an rtl lang
+[iexplore 10]     -> PASSED : changes direction when picking an ltr lang
+[iexplore 10] 
+[iexplore 10] ordered_list.js
+[iexplore 10]   assign ordered list
+[iexplore 10]     -> PASSED : insert ordered list text
+[iexplore 10]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 10]     PASTING INTO A PAD
+[iexplore 10] 
+[iexplore 10] redo.js
+[iexplore 10]   undo button then redo button
+[iexplore 10]     -> FAILED : redo some typing with button ReferenceError: 'ace' is undefined
+[iexplore 10]        at Anonymous function (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?ca
+[iexplore 10]     llback=require.define:15:1748)
+[iexplore 10]        at Anonymous function (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?ca
+[iexplore 10]     llback=require.define:15:3812)
+[iexplore 10]        at d (Function code:3:43851)
+[iexplore 10]        at d (Function code:3:43923)
+[iexplore 10]        at bq (Function code:3:2472)
+[iexplore 10]        at ace_callWithAce (Function code:3:43928)
+[iexplore 10]        at Anonymous function (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?ca
+[iexplore 10]     llback=require.define:22:1327)
+[iexplore 10]        at g (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?callback=require.de
+[iexplore 10]     fine:22:194)
+[iexplore 10]        at Anonymous function (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?ca
+[iexplore 10]     llback=require.define:22:226)
+[iexplore 10]        at Anonymous function (http://localhost:9001/javascripts/lib/ep_etherpad-lite/static/js/pad.js?ca
+[iexplore 10]     llback=require.define:15:3786)
+[iexplore 10]     -> PASSED : redo some typing with keypress
+[iexplore 10] 
+[iexplore 10] responsiveness.js
+[iexplore 10]   Responsiveness of Editor
+[iexplore 10]     -> FAILED : Fast response to keypress in pad with large amount of contents Error: the st
+[iexplore 10]     ring "expected 537 to be below 200" was thrown, throw an Error :)
+[iexplore 10] 
+[iexplore 10] strikethrough.js
+[iexplore 10]   strikethrough button
+[iexplore 10]     -> PASSED : makes text strikethrough
+[iexplore 10] 
+[iexplore 10] timeslider.js
+[iexplore 10]   timeslider button takes you to the timeslider of a pad
+[iexplore 10]     -> PENDING: timeslider contained in URL
+[iexplore 10] 
+[iexplore 10] timeslider_labels.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[iexplore 10]     aN
+[iexplore 10] 
+[iexplore 10] timeslider_revisions.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : loads adds a hundred revisions
+[iexplore 10]     -> PASSED : changes the url when clicking on the timeslider
+[iexplore 10]     -> PASSED : jumps to a revision given in the url
+[iexplore 10]     -> PASSED : checks the export url
+[iexplore 10] 
+[iexplore 10] undo.js
+[iexplore 10]   undo button
+[iexplore 10]     -> PASSED : undo some typing using a keypress
+[iexplore 10] 
+[iexplore 10] urls_become_clickable.js
+[iexplore 10]   urls
+[iexplore 10]     -> PASSED : when you enter an url, it becomes clickable
+[iexplore 10]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[iexplore 10]      whole URL
+[iexplore 10] 
+[iexplore 10] FINISHED - 48 tests passed, 2 tests failed, duration: 4:41
+[iexplore 10] 
+Remote sauce test 'dc1a33b - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/308ec283a925458a94fe07c5d1618fa9
+2014-03-26 15:44:23.370:WARN::11 threads could not be stopped
+
+The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

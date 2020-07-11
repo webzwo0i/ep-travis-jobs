@@ -1,0 +1,11 @@
+Job #2227.1:  dont make local variables global
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2373)
+Commit:        bd9736c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2373
+Duration:      10 min 55 sec
+Started:       2014-12-14 22:07:29
+Finished:      2014-12-14 22:18:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

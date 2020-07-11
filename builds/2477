@@ -1,0 +1,11 @@
+Job #2477.1:  move saved revs notification to gritter
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        657974b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aee0fd797dd5...657974b51897
+Duration:      7 min 51 sec
+Started:       2015-01-21 17:55:32
+Finished:      2015-01-21 18:03:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

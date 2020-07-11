@@ -1,0 +1,11 @@
+Job #1079.1:  Added debug-output to SecurityManager.checkAccess to indicate *why* an auth-try failed.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1687)
+Commit:        1baff42
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1687
+Duration:      10 min 50 sec
+Started:       2013-03-30 20:38:30
+Finished:      2013-03-30 20:49:20
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

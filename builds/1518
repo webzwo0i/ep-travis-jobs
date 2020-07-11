@@ -1,0 +1,11 @@
+Job #1518.1:  whoa there, no need to include .git folder in build
+State:         failed
+Type:          push
+Branch:        packaging
+Commit:        678c80d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d2f5e5cca98...678c80d1dcae
+Duration:      21 min 25 sec
+Started:       2013-11-24 03:57:50
+Finished:      2013-11-24 04:19:15
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1909.1:  I prefer this..
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2261)
+Commit:        22ae02d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2261
+Duration:      22 min 4 sec
+Started:       2014-10-06 15:24:48
+Finished:      2014-10-06 15:46:52
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1023.1:  expose ace document, reqjired for various plugins
+State:         failed
+Type:          push
+Branch:        ace_document_expose
+Commit:        6b55d13
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6b55d13370f1
+Duration:      12 min 23 sec
+Started:       2013-03-26 02:55:54
+Finished:      2013-03-26 03:08:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1837.1:  Merge pull request #2149 from ether/dont-use-abiword-for-html
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        cd294c6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7bec297c0afd...cd294c608b6e
+Duration:      18 min 3 sec
+Started:       2014-06-11 14:48:16
+Finished:      2014-06-11 15:06:19
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2089.1:  Merge pull request #2334 from luto/api-mystery-crash
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        764b8af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1ed12c65554c...764b8af5e387
+Duration:      8 min 14 sec
+Started:       2014-11-22 16:51:16
+Finished:      2014-11-22 16:59:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

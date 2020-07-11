@@ -1,0 +1,11 @@
+Job #2119.1:  really recreate socketio-client in expressCreateServer, fixes #2342
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2342)
+Commit:        edb6d01
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2342
+Duration:      22 min 32 sec
+Started:       2014-11-25 22:37:03
+Finished:      2014-11-25 22:59:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

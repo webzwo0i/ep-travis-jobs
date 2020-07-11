@@ -1,0 +1,11 @@
+Job #219.1:  Merge pull request #1272 from stephan48/patch-1
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f1ca9bb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d1870e741f7a...f1ca9bb4562a
+Duration:      6 min 14 sec
+Started:       2012-12-10 10:17:18
+Finished:      2012-12-10 10:23:32
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

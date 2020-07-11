@@ -1,0 +1,11 @@
+Job #1512.1:  Fix walking caret bug
+State:         errored
+Type:          push
+Branch:        fix/walking-caret
+Commit:        5d803a0
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5d803a05239b
+Duration:      12 min 51 sec
+Started:       2013-11-22 17:20:58
+Finished:      2013-11-22 17:33:49
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1435.1:  You don't need the padList if you want to alter it
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1939)
+Commit:        47e99f4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1939
+Duration:      17 min 52 sec
+Started:       2013-10-13 21:21:59
+Finished:      2013-10-13 21:39:51
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

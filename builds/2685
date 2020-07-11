@@ -1,0 +1,11 @@
+Job #2685.1:  Merge pull request #2565 from tm-linkwerk/feature-2558-attributes-on-position
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4397191
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ab2a3b83af76...4397191f5592
+Duration:      12 min 45 sec
+Started:       2015-03-31 23:49:07
+Finished:      2015-04-01 00:01:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

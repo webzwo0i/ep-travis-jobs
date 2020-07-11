@@ -1,0 +1,11 @@
+Job #1437.1:  pass correct padID to checkAccess if pad is requested via readOnly link
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1940)
+Commit:        d9a58ec
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1940
+Duration:      10 min 58 sec
+Started:       2013-10-13 22:41:16
+Finished:      2013-10-13 22:52:14
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1378.1:  ‘Etherpad Lite’ -> ‘Etherpad’
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1862)
+Commit:        96ccf8d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1862
+Duration:      10 min 55 sec
+Started:       2013-09-29 13:59:46
+Finished:      2013-09-29 14:10:41
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

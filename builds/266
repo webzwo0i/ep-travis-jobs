@@ -1,0 +1,11 @@
+Job #266.1:  [l10n] Convert all ini files to json
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        548bbc9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 22 sec
+Started:       2012-12-23 18:27:48
+Finished:      2012-12-23 18:41:10
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

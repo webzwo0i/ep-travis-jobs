@@ -1,0 +1,11 @@
+Job #1024.1:  expose ace document, reqjired for various plugins
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1671)
+Commit:        e85be6d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1671
+Duration:      11 min 7 sec
+Started:       2013-03-26 02:57:37
+Finished:      2013-03-26 03:08:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

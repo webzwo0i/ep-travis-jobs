@@ -1,0 +1,11 @@
+Job #1318.1:  Merge pull request #1869 from codingisacopingstrategy/clarify-how-to-access-tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ed77bff
+Compare URL:   https://github.com/ether/etherpad-lite/compare/20ae3b333bf9...ed77bffbabc1
+Duration:      10 min 14 sec
+Started:       2013-09-01 11:29:07
+Finished:      2013-09-01 11:39:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1187.1:  remove console logs and cruft
+State:         passed
+Type:          push
+Branch:        authorID-2
+Commit:        337179f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f4de7f6a9068...337179fddd6f
+Duration:      2 min 35 sec
+Started:       2013-04-12 15:37:24
+Finished:      2013-04-12 15:39:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

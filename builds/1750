@@ -1,0 +1,11 @@
+Job #1750.1:  Merge pull request #2111 from ether/quickfix/req_cs-bounds-check
+State:         failed
+Type:          push
+Branch:        release/1.4.0
+Commit:        dc1a33b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ba38bc998e9e...dc1a33beade2
+Duration:      7 min 55 sec
+Started:       2014-03-26 16:36:59
+Finished:      2014-03-26 16:44:54
+Allow Failure: false
+Config:        node_js: 0.10

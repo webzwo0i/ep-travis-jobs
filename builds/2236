@@ -1,0 +1,11 @@
+Job #2236.1:  fix timeslider socket issue
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        745ef5d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ffdce760d5a1...745ef5db1cfe
+Duration:      16 min 33 sec
+Started:       2014-12-22 00:11:47
+Finished:      2014-12-22 00:28:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

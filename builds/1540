@@ -1,0 +1,11 @@
+Job #1540.1:  not working and erally confused
+State:         failed
+Type:          push
+Branch:        import_hook
+Commit:        6fcc7c7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6fcc7c77f901
+Duration:      18 min 51 sec
+Started:       2013-11-27 01:24:21
+Finished:      2013-11-27 01:43:12
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

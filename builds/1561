@@ -1,0 +1,11 @@
+Job #1561.1:  after Edit eejs block
+State:         failed
+Type:          push
+Branch:        afterEditHook
+Commit:        749e557
+Compare URL:   https://github.com/ether/etherpad-lite/commit/749e557b84c7
+Duration:      26 min 15 sec
+Started:       2013-12-05 00:19:05
+Finished:      2013-12-05 00:45:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

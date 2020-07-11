@@ -1,0 +1,11 @@
+Job #1310.1:  utf-8 without BOM; removed trailing white spaces
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1850)
+Commit:        702131f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1850
+Duration:      10 min 54 sec
+Started:       2013-08-15 09:23:42
+Finished:      2013-08-15 09:34:36
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

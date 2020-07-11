@@ -1,0 +1,11 @@
+Job #1626.1:  Fix transition bug; add scrollIntoView.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2040)
+Commit:        c13f4c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2040
+Duration:      11 min 4 sec
+Started:       2013-12-22 17:42:19
+Finished:      2013-12-22 17:53:23
+Allow Failure: false
+Config:        node_js: 0.10

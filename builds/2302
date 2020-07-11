@@ -1,0 +1,11 @@
+Job #2302.1:  blah
+State:         passed
+Type:          push
+Branch:        ios82
+Commit:        eda9de7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2e30ce1a4dbc...eda9de7fd609
+Duration:      10 min 41 sec
+Started:       2014-12-28 22:29:34
+Finished:      2014-12-28 22:40:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

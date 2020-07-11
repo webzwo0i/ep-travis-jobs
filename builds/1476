@@ -1,0 +1,11 @@
+Job #1476.1:  Merge branch 'pr/1789' into develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e725113
+Compare URL:   https://github.com/ether/etherpad-lite/compare/975eae350e29...e72511349d9f
+Duration:      24 min 9 sec
+Started:       2013-10-28 12:20:53
+Finished:      2013-10-28 12:45:02
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

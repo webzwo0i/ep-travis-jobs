@@ -1,0 +1,11 @@
+Job #2222.1:  additional tag support hook
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2368)
+Commit:        2f1dcfe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2368
+Duration:      11 min 47 sec
+Started:       2014-12-09 17:33:03
+Finished:      2014-12-09 17:44:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2102.1:  Merge pull request #2336 from ether/more-socket-io-fixes
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        945d6c8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/555d22245d36...945d6c83c1e1
+Duration:      11 min 23 sec
+Started:       2014-11-23 23:35:10
+Finished:      2014-11-23 23:46:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

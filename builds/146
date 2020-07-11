@@ -1,0 +1,11 @@
+Job #146.1:  use require for jquery, pretty ghetto but works better(ish)
+State:         failed
+Type:          push
+Branch:        fix-275-ie-import
+Commit:        7ec09c4
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7ec09c4bbe66
+Duration:      10 min 25 sec
+Started:       2012-12-02 19:06:38
+Finished:      2012-12-02 19:17:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

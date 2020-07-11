@@ -1,0 +1,11 @@
+Job #1676.1:  Timeslider UI: Improve UX for slider handle
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        e040023
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      15 min 46 sec
+Started:       2014-01-26 21:06:17
+Finished:      2014-01-26 21:22:03
+Allow Failure: false
+Config:        node_js: 0.10

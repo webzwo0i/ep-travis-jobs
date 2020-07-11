@@ -1,0 +1,11 @@
+Job #2657.1:  dont use nasty settimeouts use a callback instead for focus
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2566)
+Commit:        736c862
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2566
+Duration:      13 min 10 sec
+Started:       2015-03-31 14:23:59
+Finished:      2015-03-31 14:37:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

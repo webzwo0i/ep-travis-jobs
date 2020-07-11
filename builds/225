@@ -1,0 +1,11 @@
+Job #225.1:  Merge pull request #1244 from Wikinaut/add-socketio-transport-protocol-parameter
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a5965bc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bf5283fa1108...a5965bcdb505
+Duration:      6 min 49 sec
+Started:       2012-12-11 00:15:11
+Finished:      2012-12-11 00:22:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

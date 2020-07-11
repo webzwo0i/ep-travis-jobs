@@ -1,0 +1,11 @@
+Job #1929.1:  bump semver
+State:         errored
+Type:          push
+Branch:        bump-swagger
+Commit:        09acdda
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aee652dafc4c...09acdda4f7e7
+Duration:      11 min 28 sec
+Started:       2014-10-14 15:38:40
+Finished:      2014-10-14 15:50:08
+Allow Failure: false
+Config:        node_js: 0.10

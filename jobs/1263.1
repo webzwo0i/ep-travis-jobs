@@ -1,0 +1,69 @@
+Using worker: worker-linux-2-1.bb.travis-ci.org:travis-linux-19
+
+$ export SAUCE_USER=etherpad
+travis_fold:start:git.1$ git clone --depth=50 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 6357, done.ote: Compressing objects:   0% (1/2337)   ote: Compressing objects:   1% (24/2337)   ote: Compressing objects:   2% (47/2337)   ote: Compressing objects:   3% (71/2337)   ote: Compressing objects:   4% (94/2337)   ote: Compressing objects:   5% (117/2337)   ote: Compressing objects:   6% (141/2337)   ote: Compressing objects:   7% (164/2337)   ote: Compressing objects:   8% (187/2337)   ote: Compressing objects:   9% (211/2337)   ote: Compressing objects:  10% (234/2337)   ote: Compressing objects:  11% (258/2337)   ote: Compressing objects:  12% (281/2337)   ote: Compressing objects:  13% (304/2337)   ote: Compressing objects:  14% (328/2337)   ote: Compressing objects:  15% (351/2337)   ote: Compressing objects:  16% (374/2337)   ote: Compressing objects:  17% (398/2337)   ote: Compressing objects:  18% (421/2337)   ote: Compressing objects:  19% (445/2337)   ote: Compressing objects:  20% (468/2337)   ote: Compressing objects:  21% (491/2337)   ote: Compressing objects:  22% (515/2337)   ote: Compressing objects:  23% (538/2337)   ote: Compressing objects:  24% (561/2337)   ote: Compressing objects:  25% (585/2337)   ote: Compressing objects:  26% (608/2337)   ote: Compressing objects:  27% (631/2337)   ote: Compressing objects:  28% (655/2337)   ote: Compressing objects:  29% (678/2337)   ote: Compressing objects:  30% (702/2337)   ote: Compressing objects:  31% (725/2337)   ote: Compressing objects:  32% (748/2337)   ote: Compressing objects:  33% (772/2337)   ote: Compressing objects:  34% (795/2337)   ote: Compressing objects:  35% (818/2337)   ote: Compressing objects:  36% (842/2337)   ote: Compressing objects:  37% (865/2337)   ote: Compressing objects:  38% (889/2337)   ote: Compressing objects:  39% (912/2337)   ote: Compressing objects:  40% (935/2337)   ote: Compressing objects:  41% (959/2337)   ote: Compressing objects:  42% (982/2337)   ote: Compressing objects:  43% (1005/2337)   ote: Compressing objects:  44% (1029/2337)   ote: Compressing objects:  45% (1052/2337)   ote: Compressing objects:  46% (1076/2337)   ote: Compressing objects:  47% (1099/2337)   ote: Compressing objects:  48% (1122/2337)   ote: Compressing objects:  49% (1146/2337)   ote: Compressing objects:  50% (1169/2337)   ote: Compressing objects:  51% (1192/2337)   ote: Compressing objects:  52% (1216/2337)   ote: Compressing objects:  53% (1239/2337)   ote: Compressing objects:  54% (1262/2337)   ote: Compressing objects:  55% (1286/2337)   ote: Compressing objects:  56% (1309/2337)   ote: Compressing objects:  57% (1333/2337)   ote: Compressing objects:  58% (1356/2337)   ote: Compressing objects:  59% (1379/2337)   ote: Compressing objects:  60% (1403/2337)   ote: Compressing objects:  61% (1426/2337)   ote: Compressing objects:  62% (1449/2337)   ote: Compressing objects:  63% (1473/2337)   ote: Compressing objects:  64% (1496/2337)   ote: Compressing objects:  65% (1520/2337)   ote: Compressing objects:  66% (1543/2337)   ote: Compressing objects:  67% (1566/2337)   ote: Compressing objects:  68% (1590/2337)   ote: Compressing objects:  69% (1613/2337)   ote: Compressing objects:  70% (1636/2337)   ote: Compressing objects:  71% (1660/2337)   ote: Compressing objects:  72% (1683/2337)   ote: Compressing objects:  73% (1707/2337)   ote: Compressing objects:  74% (1730/2337)   ote: Compressing objects:  75% (1753/2337)   ote: Compressing objects:  76% (1777/2337)   ote: Compressing objects:  77% (1800/2337)   ote: Compressing objects:  78% (1823/2337)   ote: Compressing objects:  79% (1847/2337)   ote: Compressing objects:  80% (1870/2337)   ote: Compressing objects:  81% (1893/2337)   ote: Compressing objects:  82% (1917/2337)   ote: Compressing objects:  83% (1940/2337)   ote: Compressing objects:  84% (1964/2337)   ote: Compressing objects:  85% (1987/2337)   ote: Compressing objects:  86% (2010/2337)   ote: Compressing objects:  87% (2034/2337)   ote: Compressing objects:  88% (2057/2337)   ote: Compressing objects:  89% (2080/2337)   ote: Compressing objects:  90% (2104/2337)   ote: Compressing objects:  91% (2127/2337)   ote: Compressing objects:  92% (2151/2337)   ote: Compressing objects:  93% (2174/2337)   ote: Compressing objects:  94% (2197/2337)   ote: Compressing objects:  95% (2221/2337)   ote: Compressing objects:  96% (2244/2337)   ote: Compressing objects:  97% (2267/2337)   ote: Compressing objects:  98% (2291/2337)   ote: Compressing objects:  99% (2314/2337)   ote: Compressing objects: 100% (2337/2337)   ote: Compressing objects: 100% (2337/2337), done.ote: Total 6357 (delta 4538), reused 5611 (delta 3934)erge: 
+remote: Counting objects: 24, done.ote: Compressing objects:  12% (1/8)   ote: Compressing objects:  25% (2/8)   ote: Compressing objects:  37% (3/8)   ote: Compressing objects:  50% (4/8)   ote: Compressing objects:  62% (5/8)   ote: Compressing objects:  75% (6/8)   ote: Compressing objects:  87% (7/8)   ote: Compressing objects: 100% (8/8)   ote: Compressing objects: 100% (8/8), done.ote: Total 16 (delta 13), reused 11 (delta 8) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1787/merge -> FETCH_HEAD
+travis_fold:end:git.2travis_fold:start:git.3$ git checkout -qf FETCH_HEAD
+travis_fold:end:git.3$ nvm use 0.10
+Now using node v0.10.2
+$ node --version
+v0.10.2
+$ npm --version
+1.2.15
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm ERR! fetch failed https://registry.npmjs.org/unorm/-/unorm-1.0.0.tgz
+npm ERR! fetch failed https://registry.npmjs.org/tinycon/-/tinycon-0.0.1.tgz
+npm ERR! fetch failed https://registry.npmjs.org/underscore/-/underscore-1.3.1.tgz
+npm ERR! fetch failed https://registry.npmjs.org/swagger-node-express/-/swagger-node-express-1.2.3.tgz
+npm ERR! fetch failed https://registry.npmjs.org/languages4translatewiki/-/languages4translatewiki-0.1.3.tgz
+npm ERR! fetch failed https://registry.npmjs.org/channels/-/channels-0.0.4.tgz
+npm ERR! fetch failed https://registry.npmjs.org/languages4translatewiki/-/languages4translatewiki-0.1.3.tgz
+npm ERR! fetch failed https://registry.npmjs.org/underscore/-/underscore-1.3.1.tgz
+npm ERR! fetch failed https://registry.npmjs.org/tinycon/-/tinycon-0.0.1.tgz
+npm ERR! fetch failed https://registry.npmjs.org/unorm/-/unorm-1.0.0.tgz
+npm ERR! fetch failed https://registry.npmjs.org/channels/-/channels-0.0.4.tgz
+npm ERR! fetch failed https://registry.npmjs.org/swagger-node-express/-/swagger-node-express-1.2.3.tgz
+npm ERR! fetch failed https://registry.npmjs.org/wd/-/wd-0.0.31.tgz
+npm ERR! fetch failed https://registry.npmjs.org/wd/-/wd-0.0.31.tgz
+npm ERR! fetch failed https://registry.npmjs.org/languages4translatewiki/-/languages4translatewiki-0.1.3.tgz
+npm ERR! fetch failed https://registry.npmjs.org/underscore/-/underscore-1.3.1.tgz
+npm ERR! Error: connect ECONNREFUSED
+npm ERR!     at errnoException (net.js:878:11)
+npm ERR!     at Object.afterConnect [as oncomplete] (net.js:869:19)
+npm ERR!  { [Error: connect ECONNREFUSED]
+npm ERR!   code: 'ECONNREFUSED',
+npm ERR!   errno: 'ECONNREFUSED',
+npm ERR!   syscall: 'connect' }
+npm ERR! 
+npm ERR! If you are behind a proxy, please make sure that the
+npm ERR! 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! System Linux 2.6.32-042stab061.2
+npm ERR! command "/home/travis/.nvm/v0.10.2/bin/node" "/home/travis/.nvm/v0.10.2/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.2
+npm ERR! npm -v 1.2.15
+npm ERR! syscall connect
+npm ERR! code ECONNREFUSED
+npm ERR! errno ECONNREFUSED
+npm ERR! stack Error: connect ECONNREFUSED
+npm ERR! stack     at errnoException (net.js:878:11)
+npm ERR! stack     at Object.afterConnect [as oncomplete] (net.js:869:19)
+npm ERR! fetch failed https://registry.npmjs.org/tinycon/-/tinycon-0.0.1.tgz
+npm ERR! fetch failed https://registry.npmjs.org/unorm/-/unorm-1.0.0.tgz
+npm ERR! fetch failed https://registry.npmjs.org/channels/-/channels-0.0.4.tgz
+npm ERR! fetch failed https://registry.npmjs.org/swagger-node-express/-/swagger-node-express-1.2.3.tgz
+npm ERR! fetch failed https://registry.npmjs.org/wd/-/wd-0.0.31.tgz
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/travis/build/ether/etherpad-lite/src/npm-debug.log
+npm ERR! not ok code 0
+
+The command "bin/installDeps.sh" failed and exited with 1 during install.
+
+Your build has been stopped.

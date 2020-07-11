@@ -1,0 +1,11 @@
+Job #263.1:  Add direction info
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        9eb08ef
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 21 sec
+Started:       2012-12-23 16:51:35
+Finished:      2012-12-23 17:04:56
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

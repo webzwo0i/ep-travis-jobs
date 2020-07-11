@@ -1,0 +1,11 @@
+Job #1907.1:  escape useragent before displaying
+State:         passed
+Type:          push
+Branch:        fix-xss-on-useragent
+Commit:        f0c12d3
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f0c12d38845a
+Duration:      10 min 9 sec
+Started:       2014-10-06 15:20:29
+Finished:      2014-10-06 15:30:38
+Allow Failure: false
+Config:        node_js: 0.10

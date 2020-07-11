@@ -1,0 +1,11 @@
+Job #1148.1:  remove draggable which was used for dragging users in the userbox
+State:         passed
+Type:          push
+Branch:        remove-draggable
+Commit:        7728d5b
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7728d5b32118
+Duration:      2 min 10 sec
+Started:       2013-04-08 18:24:19
+Finished:      2013-04-08 18:26:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

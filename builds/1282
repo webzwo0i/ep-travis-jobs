@@ -1,0 +1,11 @@
+Job #1282.1:  export sessioninfos so plugins can access it
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1816)
+Commit:        4818658
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1816
+Duration:      11 min
+Started:       2013-06-17 16:53:13
+Finished:      2013-06-17 17:04:13
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

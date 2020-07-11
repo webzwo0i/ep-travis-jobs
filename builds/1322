@@ -1,0 +1,11 @@
+Job #1322.1:  Merge branch 'upstream/develop'
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1787)
+Commit:        2eb172a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1787
+Duration:      11 min 1 sec
+Started:       2013-09-04 15:32:03
+Finished:      2013-09-04 15:43:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

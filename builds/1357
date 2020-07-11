@@ -1,0 +1,11 @@
+Job #1357.1:  Don't stop processing changesets if there is an error
+State:         failed
+Type:          push
+Branch:        fix/handle-message-continuation
+Commit:        7f7d506
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7f7d506ff34b
+Duration:      15 min 12 sec
+Started:       2013-09-23 16:44:18
+Finished:      2013-09-23 16:59:30
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

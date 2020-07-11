@@ -1,0 +1,11 @@
+Job #134.1:  fix 1236 favicon url
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1239)
+Commit:        f5e48e4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1239
+Duration:      13 min 27 sec
+Started:       2012-12-01 11:17:28
+Finished:      2012-12-01 11:30:55
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

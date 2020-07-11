@@ -1,0 +1,11 @@
+Job #1215.1:  Fix authorship sanitization
+State:         errored
+Type:          push
+Branch:        fix/authorship-once-and-4-all
+Commit:        560fd55
+Compare URL:   https://github.com/ether/etherpad-lite/commit/560fd55bf250
+Duration:      11 min 35 sec
+Started:       2013-04-17 15:25:29
+Finished:      2013-04-17 15:37:04
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #259.1:  Merge pull request #1292 from ilyash/ffed5fdb6ab1b792fbafb1c6d78f97b19f9e8324
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4534d20
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f0b613aa5763...4534d20c80fe
+Duration:      6 min 57 sec
+Started:       2012-12-22 12:39:10
+Finished:      2012-12-22 12:46:07
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

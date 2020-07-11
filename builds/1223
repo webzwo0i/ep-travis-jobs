@@ -1,0 +1,11 @@
+Job #1223.1:  better message for admins
+State:         errored
+Type:          push
+Branch:        dont-crash-noauth
+Commit:        bf4c86e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3b8621c6a005...bf4c86ed94b3
+Duration:      11 min 53 sec
+Started:       2013-04-18 00:57:20
+Finished:      2013-04-18 01:09:13
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

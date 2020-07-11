@@ -1,0 +1,11 @@
+Job #1968.1:  transports
+State:         failed
+Type:          push
+Branch:        socket-io-1
+Commit:        95e7b0f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cb28d109631e...95e7b0f15609
+Duration:      16 min 45 sec
+Started:       2014-11-04 20:15:34
+Finished:      2014-11-04 20:32:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

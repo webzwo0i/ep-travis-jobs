@@ -1,0 +1,11 @@
+Job #2188.1:  bump vs
+State:         passed
+Type:          push
+Branch:        require-kernel-change
+Commit:        74ffbde
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3224122f7e27...74ffbdea7908
+Duration:      14 min 31 sec
+Started:       2014-11-28 19:10:51
+Finished:      2014-11-28 19:25:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1179.1:  Merge pull request #1723 from ether/expose-broadcastslider
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        dc6e2e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/594757cc472b...dc6e2e13fef4
+Duration:      2 min 40 sec
+Started:       2013-04-11 18:05:58
+Finished:      2013-04-11 18:08:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

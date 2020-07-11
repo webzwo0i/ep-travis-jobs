@@ -1,0 +1,11 @@
+Job #1428.1:  Update CHANGELOG
+State:         failed
+Type:          push
+Branch:        release/1.2.12
+Commit:        b9cc91e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/614ca6bd9033...b9cc91e6add9
+Duration:      15 min 48 sec
+Started:       2013-10-12 20:36:26
+Finished:      2013-10-12 20:52:14
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

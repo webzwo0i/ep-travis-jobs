@@ -1,0 +1,11 @@
+Job #1236.1:  Merge pull request #1740 from ether/feature/add-cs-queue
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        2273cf9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9f2bab2ba3f5...2273cf9ed688
+Duration:      11 min 39 sec
+Started:       2013-04-28 22:58:46
+Finished:      2013-04-28 23:10:25
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1816.1:  Update ImportHandler.js
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2149)
+Commit:        0be600d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2149
+Duration:      17 min 39 sec
+Started:       2014-05-09 14:50:56
+Finished:      2014-05-09 15:08:35
+Allow Failure: false
+Config:        node_js: 0.10

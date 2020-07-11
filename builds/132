@@ -1,0 +1,11 @@
+Job #132.1:  a test for adding any letter from alphabet can be extended to include foreign cahrs infact please DO THIS
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        eb93ce2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3dcbd8dd4ed6...eb93ce2aa66a
+Duration:      6 min 54 sec
+Started:       2012-12-01 00:36:44
+Finished:      2012-12-01 00:43:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

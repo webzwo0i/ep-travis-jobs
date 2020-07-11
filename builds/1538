@@ -1,0 +1,11 @@
+Job #1538.1:  Merge pull request #1999 from s1341/fix_json_is_bad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1fa2b32
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fb69e6b0a333...1fa2b32854c3
+Duration:      14 min 55 sec
+Started:       2013-11-26 14:17:12
+Finished:      2013-11-26 14:32:07
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

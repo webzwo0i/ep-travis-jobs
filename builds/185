@@ -1,0 +1,11 @@
+Job #185.1:  Adjust select width
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8d0ef88
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ce7100264430...8d0ef88baf3f
+Duration:      8 min 22 sec
+Started:       2012-12-05 12:55:57
+Finished:      2012-12-05 13:04:19
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

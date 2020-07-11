@@ -1,0 +1,11 @@
+Job #1852.1:  don't lose comment
+State:         failed
+Type:          push
+Branch:        font-on-innerdoc-body
+Commit:        25ace65
+Compare URL:   https://github.com/ether/etherpad-lite/compare/db045c6ffdb7...25ace65374cd
+Duration:      19 min 54 sec
+Started:       2014-06-24 19:53:30
+Finished:      2014-06-24 20:13:24
+Allow Failure: false
+Config:        node_js: 0.10

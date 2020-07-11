@@ -1,0 +1,11 @@
+Job #1858.1:  Merge pull request #2193 from kpn3m000/develop
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        03ead38
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a3a40e1bccd9...03ead389ba18
+Duration:      28 min 12 sec
+Started:       2014-07-03 20:04:43
+Finished:      2014-07-03 20:32:55
+Allow Failure: false
+Config:        node_js: 0.10

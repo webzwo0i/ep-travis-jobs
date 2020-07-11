@@ -1,0 +1,11 @@
+Job #1502.1:  fix bugs, add force option to overwrite destination
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1995)
+Commit:        f74f3ce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1995
+Duration:      11 min 1 sec
+Started:       2013-11-18 07:26:02
+Finished:      2013-11-18 07:37:03
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

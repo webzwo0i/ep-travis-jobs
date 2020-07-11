@@ -1,0 +1,11 @@
+Job #1706.1:  Merge pull request #2086 from bnchdrff/cleanse-npm-values
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ca8dce1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f798e287fb80...ca8dce18408e
+Duration:      8 min 22 sec
+Started:       2014-02-17 17:52:58
+Finished:      2014-02-17 18:01:20
+Allow Failure: false
+Config:        node_js: 0.10

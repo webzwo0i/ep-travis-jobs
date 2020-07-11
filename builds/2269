@@ -1,0 +1,11 @@
+Job #2269.1:  Merge pull request #2400 from Gared/fix/author-not-set
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a645aee
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5b7ae4bd5fea...a645aeef5c46
+Duration:      14 min 31 sec
+Started:       2014-12-27 16:16:08
+Finished:      2014-12-27 16:30:39
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

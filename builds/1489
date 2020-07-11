@@ -1,0 +1,11 @@
+Job #1489.1:  en.json: Add keyboard shortcuts for indent and outdent to translations
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8e5af48
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3c4c0de38a01...8e5af48f7990
+Duration:      14 min 29 sec
+Started:       2013-11-08 16:33:58
+Finished:      2013-11-08 16:48:27
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1427.1:  Merge branch 'develop' into release/1.2.12
+State:         passed
+Type:          push
+Branch:        release/1.2.12
+Commit:        614ca6b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/74bc2bd76134...614ca6bd9033
+Duration:      9 min 40 sec
+Started:       2013-10-12 20:31:31
+Finished:      2013-10-12 20:41:11
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1525.1:  cp readme on build
+State:         passed
+Type:          push
+Branch:        packaging
+Commit:        97f5b58
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1eef5278bdd7...97f5b581b00a
+Duration:      26 min 37 sec
+Started:       2013-11-24 14:11:52
+Finished:      2013-11-24 14:38:29
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

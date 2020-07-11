@@ -1,0 +1,11 @@
+Job #1468.1:  Merge pull request #1968 from KenanSulayman/patch-1
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f532c1c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8fffe4777e36...f532c1c6fbc6
+Duration:      15 min 32 sec
+Started:       2013-10-25 15:35:46
+Finished:      2013-10-25 15:51:18
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

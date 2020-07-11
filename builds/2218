@@ -1,0 +1,11 @@
+Job #2218.1:  this class was in before, it is used to show when a style is applied to a piece of content
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2368)
+Commit:        86a6f7a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2368
+Duration:      13 min 7 sec
+Started:       2014-12-09 16:02:54
+Finished:      2014-12-09 16:16:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

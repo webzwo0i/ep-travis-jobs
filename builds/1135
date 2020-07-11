@@ -1,0 +1,11 @@
+Job #1135.1:  rewrite author to actual author on changes
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1715)
+Commit:        95b548b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1715
+Duration:      10 min 56 sec
+Started:       2013-04-07 17:30:54
+Finished:      2013-04-07 17:41:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

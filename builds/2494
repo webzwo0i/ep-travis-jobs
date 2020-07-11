@@ -1,0 +1,11 @@
+Job #2494.1:  Add 'last update' column to plugins table
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2489)
+Commit:        16a56c6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2489
+Duration:      10 min 39 sec
+Started:       2015-01-24 12:51:21
+Finished:      2015-01-24 13:02:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

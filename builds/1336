@@ -1,0 +1,11 @@
+Job #1336.1:  fix .popup CSS to fit in small spaces, like thin iframe
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1891)
+Commit:        68e83bc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1891
+Duration:      11 min 28 sec
+Started:       2013-09-17 19:39:43
+Finished:      2013-09-17 19:51:11
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

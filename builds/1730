@@ -1,0 +1,11 @@
+Job #1730.1:  Merge pull request #2108 from goldquest/dev_deleteSessionBug
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        cd0f574
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cc03f5374cb1...cd0f5742f606
+Duration:      16 min 44 sec
+Started:       2014-03-14 18:28:16
+Finished:      2014-03-14 18:45:00
+Allow Failure: false
+Config:        node_js: 0.10

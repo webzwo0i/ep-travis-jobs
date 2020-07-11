@@ -1,0 +1,11 @@
+Job #2168.1:  mst tests still brkoen but it runs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        617514b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ff5889767989...617514b33561
+Duration:      8 min 27 sec
+Started:       2014-11-27 18:17:53
+Finished:      2014-11-27 18:26:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

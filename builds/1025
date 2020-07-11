@@ -1,0 +1,11 @@
+Job #1025.1:  Merge pull request #1671 from ether/ace_document_expose
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8b7db49
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34e3e2f4321d...8b7db49f9c9f
+Duration:      7 min 8 sec
+Started:       2013-03-26 02:57:39
+Finished:      2013-03-26 03:04:47
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

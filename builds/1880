@@ -1,0 +1,11 @@
+Job #1880.1:  Fix position of import/export popup in timeslider
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2219)
+Commit:        99ae3ea
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2219
+Duration:      10 min 47 sec
+Started:       2014-08-09 19:02:27
+Finished:      2014-08-09 19:13:14
+Allow Failure: false
+Config:        node_js: 0.10

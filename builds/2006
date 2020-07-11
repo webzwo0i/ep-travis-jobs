@@ -1,0 +1,11 @@
+Job #2006.1:  Merge pull request #2300 from cristo-rabani/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a75f02c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e8fda27ead8b...a75f02cddf58
+Duration:      21 min 42 sec
+Started:       2014-11-15 16:33:22
+Finished:      2014-11-15 16:55:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

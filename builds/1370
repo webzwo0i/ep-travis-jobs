@@ -1,0 +1,11 @@
+Job #1370.1:  whoops, not supposed to be there
+State:         passed
+Type:          push
+Branch:        dont-crash-blank-html-import
+Commit:        6fbdc2c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c615ccf514e0...6fbdc2cfd969
+Duration:      17 min 38 sec
+Started:       2013-09-27 15:52:20
+Finished:      2013-09-27 16:09:58
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1363.1:  sanity also control home support
+State:         passed
+Type:          push
+Branch:        down-arrow-dont-be-weird
+Commit:        c8109b7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/487f1a969f32...c8109b739866
+Duration:      12 min 1 sec
+Started:       2013-09-25 17:03:41
+Finished:      2013-09-25 17:15:42
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

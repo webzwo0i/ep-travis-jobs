@@ -1,0 +1,11 @@
+Job #1535.1:  Merge pull request #2007 from ether/packaging
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        fb69e6b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b527ef2bc5fb...fb69e6b0a333
+Duration:      31 min
+Started:       2013-11-25 19:02:12
+Finished:      2013-11-25 19:33:12
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

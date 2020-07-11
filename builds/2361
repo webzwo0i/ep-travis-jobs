@@ -1,0 +1,11 @@
+Job #2361.1:  Merge pull request #2418 from ether/etherpad-export-and-import
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        036b7d2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4b6df17e99cb...036b7d28902f
+Duration:      14 min 28 sec
+Started:       2014-12-31 14:32:50
+Finished:      2014-12-31 14:47:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

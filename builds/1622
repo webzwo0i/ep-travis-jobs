@@ -1,0 +1,11 @@
+Job #1622.1:  Implement authorinfo; split RevisionSlider out
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2040)
+Commit:        78b8b5b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2040
+Duration:      11 min 3 sec
+Started:       2013-12-20 13:13:41
+Finished:      2013-12-20 13:24:44
+Allow Failure: false
+Config:        node_js: 0.10

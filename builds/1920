@@ -1,0 +1,11 @@
+Job #1920.1:  Merge pull request #2264 from prtksxna/a-span-title
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b62c825
+Compare URL:   https://github.com/ether/etherpad-lite/compare/743eaff202de...b62c82575f8b
+Duration:      16 min 20 sec
+Started:       2014-10-14 14:29:54
+Finished:      2014-10-14 14:46:14
+Allow Failure: false
+Config:        node_js: 0.10

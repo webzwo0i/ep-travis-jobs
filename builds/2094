@@ -1,0 +1,11 @@
+Job #2094.1:  fix session management
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2319)
+Commit:        42c0f31
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2319
+Duration:      21 min 2 sec
+Started:       2014-11-23 15:14:53
+Finished:      2014-11-23 15:35:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

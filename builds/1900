@@ -1,0 +1,11 @@
+Job #1900.1:  Fix import/export popup margin @ timeslider
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2256)
+Commit:        232cfa7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2256
+Duration:      10 min 37 sec
+Started:       2014-10-03 17:45:14
+Finished:      2014-10-03 17:55:51
+Allow Failure: false
+Config:        node_js: 0.10

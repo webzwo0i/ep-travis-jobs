@@ -1,0 +1,11 @@
+Job #1495.1:  support node 0.11
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1994)
+Commit:        ca3f530
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1994
+Duration:      4 sec
+Started:       2013-11-14 23:48:13
+Finished:      2013-11-14 23:48:17
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

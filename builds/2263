@@ -1,0 +1,11 @@
+Job #2263.1:  removing dokuwiki
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2399)
+Commit:        8abe9cf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2399
+Duration:      22 min 23 sec
+Started:       2014-12-27 14:10:17
+Finished:      2014-12-27 14:32:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2413.1:  remove infinite load was causing pain
+State:         passed
+Type:          push
+Branch:        remove-infinite
+Commit:        7e69bc6
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7e69bc65ce50
+Duration:      14 min 41 sec
+Started:       2015-01-19 00:05:02
+Finished:      2015-01-19 00:19:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

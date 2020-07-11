@@ -1,0 +1,11 @@
+Job #1295.1:  Fixed mind-o
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1826)
+Commit:        6af4617
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1826
+Duration:      11 min 25 sec
+Started:       2013-07-03 20:04:38
+Finished:      2013-07-03 20:16:03
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

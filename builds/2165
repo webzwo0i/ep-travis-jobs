@@ -1,0 +1,11 @@
+Job #2165.1:  yeah need htis too
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2350)
+Commit:        dd85c58
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2350
+Duration:      11 min 7 sec
+Started:       2014-11-27 03:57:56
+Finished:      2014-11-27 04:09:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2336.1:  more author logic
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2418)
+Commit:        f82c28d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2418
+Duration:      14 min 42 sec
+Started:       2014-12-29 23:09:02
+Finished:      2014-12-29 23:23:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2338.1:  remove error logging
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2418)
+Commit:        feea6dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2418
+Duration:      11 min 45 sec
+Started:       2014-12-29 23:09:25
+Finished:      2014-12-29 23:21:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

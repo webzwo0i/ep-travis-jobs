@@ -1,0 +1,198 @@
+Using worker: worker-linux-2-2.bb.travis-ci.org:travis-linux-15
+
+travis_fold:start:git.1$ git clone --depth=50 git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 4890, done.ote: Compressing objects:   0% (1/1982)   ote: Compressing objects:   1% (20/1982)   ote: Compressing objects:   2% (40/1982)   ote: Compressing objects:   3% (60/1982)   ote: Compressing objects:   4% (80/1982)   ote: Compressing objects:   5% (100/1982)   ote: Compressing objects:   6% (119/1982)   ote: Compressing objects:   7% (139/1982)   ote: Compressing objects:   8% (159/1982)   ote: Compressing objects:   9% (179/1982)   ote: Compressing objects:  10% (199/1982)   ote: Compressing objects:  11% (219/1982)   ote: Compressing objects:  12% (238/1982)   ote: Compressing objects:  13% (258/1982)   ote: Compressing objects:  14% (278/1982)   ote: Compressing objects:  15% (298/1982)   ote: Compressing objects:  16% (318/1982)   ote: Compressing objects:  17% (337/1982)   ote: Compressing objects:  18% (357/1982)   ote: Compressing objects:  19% (377/1982)   ote: Compressing objects:  20% (397/1982)   ote: Compressing objects:  21% (417/1982)   ote: Compressing objects:  22% (437/1982)   ote: Compressing objects:  23% (456/1982)   ote: Compressing objects:  24% (476/1982)   ote: Compressing objects:  25% (496/1982)   ote: Compressing objects:  26% (516/1982)   ote: Compressing objects:  27% (536/1982)   ote: Compressing objects:  28% (555/1982)   ote: Compressing objects:  29% (575/1982)   ote: Compressing objects:  30% (595/1982)   ote: Compressing objects:  31% (615/1982)   ote: Compressing objects:  32% (635/1982)   ote: Compressing objects:  33% (655/1982)   ote: Compressing objects:  34% (674/1982)   ote: Compressing objects:  35% (694/1982)   ote: Compressing objects:  36% (714/1982)   ote: Compressing objects:  37% (734/1982)   ote: Compressing objects:  38% (754/1982)   ote: Compressing objects:  39% (773/1982)   ote: Compressing objects:  40% (793/1982)   ote: Compressing objects:  41% (813/1982)   ote: Compressing objects:  42% (833/1982)   ote: Compressing objects:  43% (853/1982)   ote: Compressing objects:  44% (873/1982)   ote: Compressing objects:  45% (892/1982)   ote: Compressing objects:  46% (912/1982)   ote: Compressing objects:  47% (932/1982)   ote: Compressing objects:  48% (952/1982)   ote: Compressing objects:  49% (972/1982)   ote: Compressing objects:  50% (991/1982)   ote: Compressing objects:  51% (1011/1982)   ote: Compressing objects:  52% (1031/1982)   ote: Compressing objects:  53% (1051/1982)   ote: Compressing objects:  54% (1071/1982)   ote: Compressing objects:  55% (1091/1982)   ote: Compressing objects:  56% (1110/1982)   ote: Compressing objects:  57% (1130/1982)   ote: Compressing objects:  58% (1150/1982)   ote: Compressing objects:  59% (1170/1982)   ote: Compressing objects:  60% (1190/1982)   ote: Compressing objects:  61% (1210/1982)   ote: Compressing objects:  62% (1229/1982)   ote: Compressing objects:  63% (1249/1982)   ote: Compressing objects:  64% (1269/1982)   ote: Compressing objects:  65% (1289/1982)   ote: Compressing objects:  66% (1309/1982)   ote: Compressing objects:  67% (1328/1982)   ote: Compressing objects:  68% (1348/1982)   ote: Compressing objects:  69% (1368/1982)   ote: Compressing objects:  70% (1388/1982)   ote: Compressing objects:  71% (1408/1982)   ote: Compressing objects:  72% (1428/1982)   ote: Compressing objects:  73% (1447/1982)   ote: Compressing objects:  74% (1467/1982)   ote: Compressing objects:  75% (1487/1982)   ote: Compressing objects:  76% (1507/1982)   ote: Compressing objects:  77% (1527/1982)   ote: Compressing objects:  78% (1546/1982)   ote: Compressing objects:  79% (1566/1982)   ote: Compressing objects:  80% (1586/1982)   ote: Compressing objects:  81% (1606/1982)   ote: Compressing objects:  82% (1626/1982)   ote: Compressing objects:  83% (1646/1982)   ote: Compressing objects:  84% (1665/1982)   ote: Compressing objects:  85% (1685/1982)   ote: Compressing objects:  86% (1705/1982)   ote: Compressing objects:  87% (1725/1982)   ote: Compressing objects:  88% (1745/1982)   ote: Compressing objects:  89% (1764/1982)   ote: Compressing objects:  90% (1784/1982)   ote: Compressing objects:  91% (1804/1982)   ote: Compressing objects:  92% (1824/1982)   ote: Compressing objects:  93% (1844/1982)   ote: Compressing objects:  94% (1864/1982)   ote: Compressing objects:  95% (1883/1982)   ote: Compressing objects:  96% (1903/1982)   ote: Compressing objects:  97% (1923/1982)   ote: Compressing objects:  98% (1943/1982)   ote: Compressing objects:  99% (1963/1982)   ote: Compressing objects: 100% (1982/1982)   ote: Compressing objects: 100% (1982/1982), done.ote: Total 4890 (delta 3444), reused 4123 (delta 2839)erge: 
+remote: Counting objects: 26, done.ote: Compressing objects:   9% (1/11)   ote: Compressing objects:  18% (2/11)   ote: Compressing objects:  27% (3/11)   ote: Compressing objects:  36% (4/11)   ote: Compressing objects:  45% (5/11)   ote: Compressing objects:  54% (6/11)   ote: Compressing objects:  63% (7/11)   ote: Compressing objects:  72% (8/11)   ote: Compressing objects:  81% (9/11)   ote: Compressing objects:  90% (10/11)   ote: Compressing objects: 100% (11/11)   ote: Compressing objects: 100% (11/11), done.ote: Total 18 (delta 13), reused 12 (delta 7) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1850/merge -> FETCH_HEAD
+travis_fold:end:git.2travis_fold:start:git.3$ git checkout -qf FETCH_HEAD
+travis_fold:end:git.3$ nvm use 0.10
+Now using node v0.10.12
+$ node --version
+v0.10.12
+$ npm --version
+1.2.32
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+npm WARN package.json ueberDB@0.2.0 No repository field.
+npm WARN package.json ejs@0.6.1 No repository field.
+npm WARN package.json formidable@1.0.9 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 No repository field.
+npm WARN package.json jsdom-nocontextifiy@0.2.10 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json channels@0.0.2 No repository field.
+npm WARN package.json range-parser@0.0.4 No repository field.
+npm WARN package.json fresh@0.1.0 No repository field.
+npm WARN package.json methods@0.0.1 No repository field.
+npm WARN package.json methods@0.0.1 No readme data.
+npm WARN package.json send@0.1.0 No repository field.
+npm WARN package.json cookie-signature@0.0.1 No repository field.
+npm WARN package.json vargs@0.1.0 No repository field.
+npm WARN package.json dirty@0.9.7 No repository field.
+npm WARN package.json cookie-signature@1.0.1 No repository field.
+npm WARN package.json pause@0.0.1 No repository field.
+npm WARN package.json bytes@0.2.0 No repository field.
+npm WARN package.json policyfile@0.0.4 No repository field.
+npm WARN package.json policyfile@0.0.4 'repositories' (plural) Not supported.
+npm WARN package.json Please pick one as the 'repository' field
+npm WARN package.json docco@0.4.0 No repository field.
+npm WARN engine helenus@0.6.2: wanted: {"node":">=0.6.0 <0.9.0"} (current: {"node":"v0.10.12","npm":"1.2.32"})
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+npm WARN package.json addressparser@0.1.3 No repository field.
+npm WARN package.json formidable@1.0.11 No repository field.
+npm WARN package.json bytes@0.1.0 No repository field.
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+
+> ws@0.4.27 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+npm WARN package.json github-url-from-git@1.1.1 No repository field.
+npm WARN package.json assert-plus@0.1.2 No repository field.
+npm WARN package.json ctype@0.5.2 No repository field.
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.6.6 node_modules/log4js
+├── dequeue@1.0.3
+├── semver@1.1.4
+├── async@0.1.15
+└── readable-stream@1.0.15
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@2.0.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── bytes@0.2.0
+├── qs@0.6.5
+├── buffer-crc32@0.2.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── formidable@1.0.14
+└── send@0.1.1 (range-parser@0.0.4, mime@1.2.10)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── cookie-signature@0.0.1
+├── range-parser@0.0.4
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.6.0 (minimist@0.0.1, wordwrap@0.0.2)
+├── simplesmtp@0.3.6 (xoauth2@0.1.8, rai@0.1.7)
+└── mailcomposer@0.2.1 (mime@1.2.9, mimelib@0.2.12)
+
+npm@1.2.32 node_modules/npm
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+ueberDB@0.2.0 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.7
+├── dirty@0.9.7
+├── async@0.1.15
+├── helenus@0.6.2 (node-uuid@1.3.3, helenus-thrift@0.7.3)
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.4)
+
+socket.io@0.9.16 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.16 (xmlhttprequest@1.4.2, ws@0.4.27, active-x-obfuscator@0.0.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  6 29.0M    6 1872k    0     0  1849k      0  0:00:16  0:00:01  0:00:15 2502k 18 29.0M   18 5435k    0     0  2700k      0  0:00:11  0:00:02  0:00:09 3109k 29 29.0M   29 8873k    0     0  2965k      0  0:00:10  0:00:02  0:00:08 3252k 41 29.0M   41 12.1M    0     0  3099k      0  0:00:09  0:00:04  0:00:05 3317k 53 29.0M   53 15.4M    0     0  3165k      0  0:00:09  0:00:05  0:00:04 3341k 64 29.0M   64 18.8M    0     0  3204k      0  0:00:09  0:00:06  0:00:03 3477k 73 29.0M   73 21.2M    0     0  3115k      0  0:00:09  0:00:06  0:00:03 3282k 84 29.0M   84 24.6M    0     0  3152k      0  0:00:09  0:00:08  0:00:01 3263k 96 29.0M   96 27.9M    0     0  3183k      0  0:00:09  0:00:09 --:--:-- 3250k100 29.0M  100 29.0M    0     0  3189k      0  0:00:09  0:00:09 --:--:-- 3216k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+Missing required arguments USERNAME, API_KEY
+
+
+
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+
+The build has been terminated
+

@@ -1,0 +1,11 @@
+Job #195.1:  reverse old change
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1265)
+Commit:        77e9406
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1265
+Duration:      13 min 2 sec
+Started:       2012-12-06 12:00:06
+Finished:      2012-12-06 12:13:08
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

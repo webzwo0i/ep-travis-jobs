@@ -1,0 +1,11 @@
+Job #1671.1:  Fix server-side revision numbering
+State:         passed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        88c97a9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8e2e9d7b732d^...88c97a9b5526
+Duration:      6 min 55 sec
+Started:       2014-01-26 01:42:15
+Finished:      2014-01-26 01:49:10
+Allow Failure: false
+Config:        node_js: 0.10

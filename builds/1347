@@ -1,0 +1,11 @@
+Job #1347.1:  dont crash on malformed HTML import
+State:         passed
+Type:          pull request
+Branch:        develop (PR #1898)
+Commit:        8bd8bea
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1898
+Duration:      9 min 48 sec
+Started:       2013-09-21 17:15:37
+Finished:      2013-09-21 17:25:25
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

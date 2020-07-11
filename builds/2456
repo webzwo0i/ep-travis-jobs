@@ -1,0 +1,11 @@
+Job #2456.1:  better logic for author handling
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2479)
+Commit:        1991a58
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2479
+Duration:      15 sec
+Started:       2015-01-21 01:30:45
+Finished:      2015-01-21 01:31:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

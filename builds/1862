@@ -1,0 +1,11 @@
+Job #1862.1:  Cleaning up switchToPad functionality so that we only need one call to the server("SWITCH_TO_PAD") instead of two (cleaning session info and client ready).
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2180)
+Commit:        622c164
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2180
+Duration:      10 min 47 sec
+Started:       2014-07-12 22:27:46
+Finished:      2014-07-12 22:38:33
+Allow Failure: false
+Config:        node_js: 0.10

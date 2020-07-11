@@ -1,0 +1,11 @@
+Job #2020.1:  Nooping console.foo in html10n.js when the method is not defined.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1783)
+Commit:        acf4abd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1783
+Duration:      10 min 34 sec
+Started:       2014-11-15 17:34:25
+Finished:      2014-11-15 17:44:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

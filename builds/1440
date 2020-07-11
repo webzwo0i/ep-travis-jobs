@@ -1,0 +1,11 @@
+Job #1440.1:  Consistent spelling style
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        96c366b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e308c265afb9...96c366b1e1a2
+Duration:      16 min 21 sec
+Started:       2013-10-14 13:13:44
+Finished:      2013-10-14 13:30:05
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

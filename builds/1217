@@ -1,0 +1,11 @@
+Job #1217.1:  Remove console.log in content collector
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        146c75e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a3ed936d5f5f...146c75e70321
+Duration:      11 min 28 sec
+Started:       2013-04-17 15:38:43
+Finished:      2013-04-17 15:50:11
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

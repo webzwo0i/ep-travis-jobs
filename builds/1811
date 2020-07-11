@@ -1,0 +1,11 @@
+Job #1811.1:  docs for new hook
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2150)
+Commit:        93d8ff2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2150
+Duration:      21 min 22 sec
+Started:       2014-05-06 22:26:51
+Finished:      2014-05-06 22:48:13
+Allow Failure: false
+Config:        node_js: 0.10

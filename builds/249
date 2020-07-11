@@ -1,0 +1,11 @@
+Job #249.1:  Allow html10n to handle import paths relative to the importing file
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        b26838c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 1 sec
+Started:       2012-12-19 19:46:54
+Finished:      2012-12-19 19:59:55
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

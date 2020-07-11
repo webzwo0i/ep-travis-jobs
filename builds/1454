@@ -1,0 +1,11 @@
+Job #1454.1:  Merge pull request #1950 from eyesonlyhack/disableIPlogging
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d43945d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b1b801e7c7df...d43945db0720
+Duration:      10 min 55 sec
+Started:       2013-10-21 17:09:22
+Finished:      2013-10-21 17:20:17
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

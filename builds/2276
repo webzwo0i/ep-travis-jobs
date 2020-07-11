@@ -1,0 +1,11 @@
+Job #2276.1:  working importing of weird lis
+State:         failed
+Type:          push
+Branch:        import-export-improvements
+Commit:        5e55d3c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2c1073833148...5e55d3cc2c56
+Duration:      22 min 1 sec
+Started:       2014-12-27 17:33:44
+Finished:      2014-12-27 17:55:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1514.1:  Merge pull request #2004 from ether/fix/walking-caret
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8b821d4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/117a4ab1a802...8b821d42a226
+Duration:      20 min 4 sec
+Started:       2013-11-22 17:29:17
+Finished:      2013-11-22 17:49:21
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

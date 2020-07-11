@@ -1,0 +1,11 @@
+Job #1720.1:  preprocessor for domline attributes
+State:         failed
+Type:          push
+Branch:        preProcessDomLine
+Commit:        c3d62c5
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c3d62c5fa444
+Duration:      19 min 20 sec
+Started:       2014-03-05 00:15:04
+Finished:      2014-03-05 00:34:24
+Allow Failure: false
+Config:        node_js: 0.10

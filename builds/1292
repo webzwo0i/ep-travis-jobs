@@ -1,0 +1,11 @@
+Job #1292.1:  Update LICENSE
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fb917b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/98a9a24d025d...fb917b3d7857
+Duration:      10 min 40 sec
+Started:       2013-06-27 00:35:09
+Finished:      2013-06-27 00:45:49
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

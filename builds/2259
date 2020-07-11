@@ -1,0 +1,11 @@
+Job #2259.1:  support indentation up to 16 levels and dont go back afterwards
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2398)
+Commit:        e9cb49c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2398
+Duration:      21 min 48 sec
+Started:       2014-12-27 13:22:52
+Finished:      2014-12-27 13:44:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

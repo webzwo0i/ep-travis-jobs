@@ -1,0 +1,11 @@
+Job #2233.1:  fix typo in addSavedRevisions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2380)
+Commit:        b0b3c5d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2380
+Duration:      11 min 36 sec
+Started:       2014-12-17 01:12:17
+Finished:      2014-12-17 01:23:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

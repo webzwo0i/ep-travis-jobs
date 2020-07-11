@@ -1,0 +1,11 @@
+Job #1954.1:  use latest jsdom
+State:         passed
+Type:          push
+Branch:        use-jsdom
+Commit:        852452e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/852452e4ee54
+Duration:      13 min 41 sec
+Started:       2014-11-01 21:58:05
+Finished:      2014-11-01 22:11:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

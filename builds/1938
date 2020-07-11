@@ -1,0 +1,11 @@
+Job #1938.1:  chrome browser change wrapping type
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2282)
+Commit:        1711722
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2282
+Duration:      22 min 6 sec
+Started:       2014-10-24 01:14:48
+Finished:      2014-10-24 01:36:54
+Allow Failure: false
+Config:        node_js: 0.10

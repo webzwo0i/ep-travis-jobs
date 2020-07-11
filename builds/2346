@@ -1,0 +1,11 @@
+Job #2346.1:  no errors on chrome client
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2418)
+Commit:        0ba11f1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2418
+Duration:      11 min 34 sec
+Started:       2014-12-30 12:15:53
+Finished:      2014-12-30 12:27:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

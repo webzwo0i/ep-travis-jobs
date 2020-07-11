@@ -1,0 +1,11 @@
+Job #147.1:  use require for jquery, pretty ghetto but works better(ish)
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1246)
+Commit:        489cf7c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1246
+Duration:      15 min
+Started:       2012-12-02 19:04:31
+Finished:      2012-12-02 19:19:31
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2105.1:  more old load testing cruft
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        97068b5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5e843a5877d7...97068b562dce
+Duration:      14 min 5 sec
+Started:       2014-11-25 02:36:04
+Finished:      2014-11-25 02:50:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

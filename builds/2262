@@ -1,0 +1,11 @@
+Job #2262.1:  removing dokuwiki
+State:         passed
+Type:          push
+Branch:        remove-dokuwiki
+Commit:        ae22332
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ae22332f71e2
+Duration:      13 min 44 sec
+Started:       2014-12-27 14:09:51
+Finished:      2014-12-27 14:23:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

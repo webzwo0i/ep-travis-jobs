@@ -1,0 +1,11 @@
+Job #2461.1:  clean up iojs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f880b0f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ee48b8b93a04...f880b0feb7df
+Duration:      14 min 16 sec
+Started:       2015-01-21 13:19:25
+Finished:      2015-01-21 13:33:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

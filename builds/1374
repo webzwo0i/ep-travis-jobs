@@ -1,0 +1,11 @@
+Job #1374.1:  Merge pull request #1902 from ether/fix/handle-message-continuation
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f59df2b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e573461c9b34...f59df2bb80f0
+Duration:      16 min 27 sec
+Started:       2013-09-29 08:39:12
+Finished:      2013-09-29 08:55:39
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

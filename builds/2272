@@ -1,0 +1,11 @@
+Job #2272.1:  fix commenting
+State:         passed
+Type:          push
+Branch:        import-export-improvements
+Commit:        7708460
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7708460faff0
+Duration:      8 min 7 sec
+Started:       2014-12-27 17:16:02
+Finished:      2014-12-27 17:24:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

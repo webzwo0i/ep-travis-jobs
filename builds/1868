@@ -1,0 +1,11 @@
+Job #1868.1:  tidy up template a bit
+State:         failed
+Type:          push
+Branch:        setting-to-not-import-unknown-file-types
+Commit:        6dfe332
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aa908ea8ce5b...6dfe33258a4a
+Duration:      10 min 51 sec
+Started:       2014-07-22 17:08:10
+Finished:      2014-07-22 17:19:01
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1620.1:  expose update browser selection function
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2045)
+Commit:        0036f9f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2045
+Duration:      8 sec
+Started:       2013-12-18 23:24:01
+Finished:      2013-12-18 23:24:09
+Allow Failure: false
+Config:        node_js: 0.10

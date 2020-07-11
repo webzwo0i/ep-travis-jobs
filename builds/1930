@@ -1,0 +1,11 @@
+Job #1930.1:  bump swagger
+State:         failed
+Type:          push
+Branch:        bump-swagger
+Commit:        9c2f880
+Compare URL:   https://github.com/ether/etherpad-lite/compare/09acdda4f7e7...9c2f8808bee8
+Duration:      18 min 49 sec
+Started:       2014-10-14 15:39:38
+Finished:      2014-10-14 15:58:27
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2615.1:  own list
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2541)
+Commit:        f5e813d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2541
+Duration:      10 min 54 sec
+Started:       2015-03-24 20:13:56
+Finished:      2015-03-24 20:24:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1797.1:  fix color
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2138)
+Commit:        cd9b1d2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2138
+Duration:      19 min 47 sec
+Started:       2014-04-15 19:26:27
+Finished:      2014-04-15 19:46:14
+Allow Failure: false
+Config:        node_js: 0.10

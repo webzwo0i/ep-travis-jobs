@@ -1,0 +1,11 @@
+Job #1981.1:  working on resize
+State:         errored
+Type:          push
+Branch:        reflow-toolbar-properly
+Commit:        0685e56
+Compare URL:   https://github.com/ether/etherpad-lite/compare/96d6e7c1b7df...0685e563ed94
+Duration:      11 min 52 sec
+Started:       2014-11-06 16:44:46
+Finished:      2014-11-06 16:56:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

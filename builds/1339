@@ -1,0 +1,11 @@
+Job #1339.1:  Back to sh, fix comparison for POSIX/dash (++ CentOS, Ubuntu compatibility)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1851)
+Commit:        1418764
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1851
+Duration:      11 min 6 sec
+Started:       2013-09-17 23:28:04
+Finished:      2013-09-17 23:39:10
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1640.1:  Aha, my assumptions were wrong. Change assetions to pass
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2054)
+Commit:        deb1d66
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2054
+Duration:      25 min 8 sec
+Started:       2013-12-30 18:19:42
+Finished:      2013-12-30 18:44:50
+Allow Failure: false
+Config:        node_js: 0.10

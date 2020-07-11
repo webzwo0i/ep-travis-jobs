@@ -1,0 +1,11 @@
+Job #2106.1:  resolve merges
+State:         passed
+Type:          push
+Branch:        api_functions_versioning
+Commit:        35832a1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f0bde9bf18b6^...35832a1cf75c
+Duration:      16 min 39 sec
+Started:       2014-11-25 03:23:05
+Finished:      2014-11-25 03:39:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

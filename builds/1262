@@ -1,0 +1,11 @@
+Job #1262.1:  Fix safeRun that tries to shift on subsequent restarts
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1786)
+Commit:        5f6b391
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1786
+Duration:      11 min 2 sec
+Started:       2013-05-29 04:42:53
+Finished:      2013-05-29 04:53:55
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

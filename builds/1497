@@ -1,0 +1,11 @@
+Job #1497.1:  attempt one breaks other fonts and monospace
+State:         errored
+Type:          push
+Branch:        fix-ol-indent
+Commit:        9d990fc
+Compare URL:   https://github.com/ether/etherpad-lite/commit/9d990fcb0f41
+Duration:      24 min 14 sec
+Started:       2013-11-16 19:36:31
+Finished:      2013-11-16 20:00:45
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

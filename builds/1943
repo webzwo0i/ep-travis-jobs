@@ -1,0 +1,11 @@
+Job #1943.1:  bump ueber to require working mysql
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        cd8ea04
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1046442975f...cd8ea040ad68
+Duration:      16 min 56 sec
+Started:       2014-10-30 15:44:38
+Finished:      2014-10-30 16:01:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

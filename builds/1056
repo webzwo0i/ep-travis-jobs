@@ -1,0 +1,11 @@
+Job #1056.1:  /admin/plugins: Display a tooltip when hovering the plugin details link
+State:         passed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        cbee50d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bc8d6d4c45f4...cbee50d42d8a
+Duration:      2 min 33 sec
+Started:       2013-03-27 12:29:47
+Finished:      2013-03-27 12:32:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

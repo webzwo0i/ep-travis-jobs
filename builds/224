@@ -1,0 +1,11 @@
+Job #224.1:  moved to settings.json.template bottom; chg gitignore
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1244)
+Commit:        165f090
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1244
+Duration:      13 min 6 sec
+Started:       2012-12-10 23:50:37
+Finished:      2012-12-11 00:03:43
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

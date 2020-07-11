@@ -1,0 +1,11 @@
+Job #187.1:  Merge pull request #1255 from 0ip/feature/show-pl-version
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2f37afa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8d0ef88baf3f...2f37afac66d7
+Duration:      5 min 59 sec
+Started:       2012-12-05 14:12:08
+Finished:      2012-12-05 14:18:07
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

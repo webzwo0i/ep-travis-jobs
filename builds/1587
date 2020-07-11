@@ -1,0 +1,11 @@
+Job #1587.1:  Merge pull request #2032 from webzwo0i/fix-exporthtml-styling-tags
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        37015e7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/24e96c4f8bc2...37015e728b9d
+Duration:      15 min 56 sec
+Started:       2013-12-10 20:29:33
+Finished:      2013-12-10 20:45:29
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

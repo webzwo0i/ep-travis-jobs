@@ -1,0 +1,11 @@
+Job #2364.1:  Re-implement ace_getAttributeOnSelection
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2423)
+Commit:        a6a7b9d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2423
+Duration:      7 min 48 sec
+Started:       2014-12-31 19:26:38
+Finished:      2014-12-31 19:34:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

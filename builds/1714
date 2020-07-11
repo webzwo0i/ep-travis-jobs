@@ -1,0 +1,11 @@
+Job #1714.1:  Merge pull request #2095 from vvision/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6940106
+Compare URL:   https://github.com/ether/etherpad-lite/compare/af50001769b6...6940106829e0
+Duration:      16 min 8 sec
+Started:       2014-02-26 23:34:03
+Finished:      2014-02-26 23:50:11
+Allow Failure: false
+Config:        node_js: 0.10

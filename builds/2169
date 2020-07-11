@@ -1,0 +1,11 @@
+Job #2169.1:  diable caret tests for now
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        47029f2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/617514b33561...47029f2e6bdc
+Duration:      14 min 10 sec
+Started:       2014-11-28 00:11:20
+Finished:      2014-11-28 00:25:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1442.1:  Merge pull request #1943 from ether/fix/listAllPads-fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a120d78
+Compare URL:   https://github.com/ether/etherpad-lite/compare/96c366b1e1a2...a120d78b7ef5
+Duration:      22 min 40 sec
+Started:       2013-10-14 18:36:57
+Finished:      2013-10-14 18:59:37
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

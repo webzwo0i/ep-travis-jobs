@@ -1,0 +1,11 @@
+Job #1140.1:  only try to redraw the line height of lines that exist..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1716)
+Commit:        cc257e7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1716
+Duration:      11 min 14 sec
+Started:       2013-04-07 20:08:20
+Finished:      2013-04-07 20:19:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

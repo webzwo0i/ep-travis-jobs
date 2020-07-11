@@ -1,0 +1,11 @@
+Job #1661.1:  Merge remote-tracking branch 'remotes/origin/pr/2040' into fix-timeslider
+State:         passed
+Type:          push
+Branch:        fix-timeslider
+Commit:        966fc25
+Compare URL:   https://github.com/ether/etherpad-lite/compare/39dc8622e639^...966fc2514557
+Duration:      13 min 6 sec
+Started:       2014-01-24 17:03:02
+Finished:      2014-01-24 17:16:08
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1767.1:  Create a customizable timeslider toolbar
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2120)
+Commit:        c559f89
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2120
+Duration:      7 min 23 sec
+Started:       2014-03-30 13:04:31
+Finished:      2014-03-30 13:11:54
+Allow Failure: false
+Config:        node_js: 0.10

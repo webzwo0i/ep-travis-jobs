@@ -1,0 +1,11 @@
+Job #1727.1:  Merge pull request #2080 from ether/ignore-ctrl-pageup
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e12093e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/96d06abac07a...e12093eb196a
+Duration:      8 min 35 sec
+Started:       2014-03-13 01:50:05
+Finished:      2014-03-13 01:58:40
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2099.1:  Merge pull request #2335 from ether/javascript-bower
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        555d222
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b0872cc447b5...555d22245d36
+Duration:      10 min 48 sec
+Started:       2014-11-23 15:27:43
+Finished:      2014-11-23 15:38:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

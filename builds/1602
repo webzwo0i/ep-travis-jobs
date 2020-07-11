@@ -1,0 +1,11 @@
+Job #1602.1:  Changed to not use inline JavaScript
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2014)
+Commit:        859bea2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2014
+Duration:      11 min 4 sec
+Started:       2013-12-15 11:05:11
+Finished:      2013-12-15 11:16:15
+Allow Failure: false
+Config:        node_js: 0.10

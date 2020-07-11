@@ -1,0 +1,11 @@
+Job #2182.1:  better fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        68979e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e6d85bbe69de...68979e12123f
+Duration:      7 min 22 sec
+Started:       2014-11-28 01:38:21
+Finished:      2014-11-28 01:45:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1473.1:  Add docs for stats
+State:         failed
+Type:          push
+Branch:        metrics
+Commit:        5bce9bc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3ad4b1b83772...5bce9bc336da
+Duration:      16 min 46 sec
+Started:       2013-10-27 22:00:49
+Finished:      2013-10-27 22:17:35
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

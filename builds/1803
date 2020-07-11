@@ -1,0 +1,11 @@
+Job #1803.1:  Fix #online_count
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2138)
+Commit:        3b7441c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2138
+Duration:      23 min 28 sec
+Started:       2014-04-30 22:33:38
+Finished:      2014-04-30 22:57:06
+Allow Failure: false
+Config:        node_js: 0.10

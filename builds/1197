@@ -1,0 +1,11 @@
+Job #1197.1:  Update .travis.yml
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        0b2e1a0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a670158e784b...0b2e1a0c3174
+Duration:      11 min 57 sec
+Started:       2013-04-15 17:36:21
+Finished:      2013-04-15 17:48:18
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

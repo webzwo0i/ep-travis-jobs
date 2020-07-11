@@ -1,0 +1,11 @@
+Job #1791.1:  content collector for images
+State:         failed
+Type:          push
+Branch:        image
+Commit:        dcb3e13
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6597c287e28d...dcb3e13358c9
+Duration:      18 min 48 sec
+Started:       2014-04-07 20:27:50
+Finished:      2014-04-07 20:46:38
+Allow Failure: false
+Config:        node_js: 0.10

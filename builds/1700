@@ -1,0 +1,11 @@
+Job #1700.1:  allow tabs to be cycled when focus is in editor
+State:         failed
+Type:          push
+Branch:        ignore-ctrl-pageup
+Commit:        7151e78
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7151e7827a52
+Duration:      16 min 11 sec
+Started:       2014-02-01 08:10:55
+Finished:      2014-02-01 08:27:06
+Allow Failure: false
+Config:        node_js: 0.10

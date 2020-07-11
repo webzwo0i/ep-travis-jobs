@@ -1,0 +1,11 @@
+Job #1551.1:  remove white space
+State:         errored
+Type:          push
+Branch:        getAttributeOnSelection
+Commit:        95db100
+Compare URL:   https://github.com/ether/etherpad-lite/compare/39f81fdb9ed2...95db100f1222
+Duration:      11 min 38 sec
+Started:       2013-12-01 19:57:14
+Finished:      2013-12-01 20:08:52
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

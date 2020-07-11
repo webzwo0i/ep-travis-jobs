@@ -1,0 +1,11 @@
+Job #1528.1:  mkdir
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2007)
+Commit:        82be353
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2007
+Duration:      11 min 41 sec
+Started:       2013-11-24 14:16:51
+Finished:      2013-11-24 14:28:32
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

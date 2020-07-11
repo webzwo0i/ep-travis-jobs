@@ -1,0 +1,11 @@
+Job #1770.1:  Update docs
+State:         passed
+Type:          push
+Branch:        fix/timeslider-editbar
+Commit:        33ecc1d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/80e45e1192e4...33ecc1d8df64
+Duration:      8 min 58 sec
+Started:       2014-03-30 13:09:05
+Finished:      2014-03-30 13:18:03
+Allow Failure: false
+Config:        node_js: 0.10

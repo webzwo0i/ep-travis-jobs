@@ -1,0 +1,11 @@
+Job #1617.1:  dont error when pressing del on rep 0 0
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2044)
+Commit:        8969f30
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2044
+Duration:      13 sec
+Started:       2013-12-18 19:42:21
+Finished:      2013-12-18 19:42:34
+Allow Failure: false
+Config:        node_js: 0.10

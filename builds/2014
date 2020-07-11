@@ -1,0 +1,11 @@
+Job #2014.1:  merging
+State:         failed
+Type:          push
+Branch:        bump-swagger
+Commit:        4986dd1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/226e0bf0e39f...4986dd11ee0d
+Duration:      21 min 47 sec
+Started:       2014-11-15 16:58:36
+Finished:      2014-11-15 17:20:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

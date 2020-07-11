@@ -1,0 +1,11 @@
+Job #1910.1:  Merge pull request #2261 from ether/fix-xss-on-useragent
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6ec5530
+Compare URL:   https://github.com/ether/etherpad-lite/compare/64c89613a133...6ec55309a7ef
+Duration:      8 min 26 sec
+Started:       2014-10-06 18:14:34
+Finished:      2014-10-06 18:23:00
+Allow Failure: false
+Config:        node_js: 0.10

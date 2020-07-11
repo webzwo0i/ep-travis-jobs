@@ -1,0 +1,11 @@
+Job #1487.1:  Forgot to bump the API version
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1985)
+Commit:        871d4ac
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1985
+Duration:      4 sec
+Started:       2013-11-07 23:32:24
+Finished:      2013-11-07 23:32:28
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

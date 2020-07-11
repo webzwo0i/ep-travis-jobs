@@ -1,0 +1,11 @@
+Job #1830.1:  Corrected the API Version number.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2165)
+Commit:        6ed5a65
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2165
+Duration:      11 min 18 sec
+Started:       2014-06-01 21:23:36
+Finished:      2014-06-01 21:34:54
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1281.1:  Add userLeave hook
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1815)
+Commit:        aa3ea2e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1815
+Duration:      11 min 5 sec
+Started:       2013-06-17 15:58:23
+Finished:      2013-06-17 16:09:28
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

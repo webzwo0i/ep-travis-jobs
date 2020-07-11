@@ -1,0 +1,11 @@
+Job #1651.1:  Fix #2058 Add square brackets to url characters
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2061)
+Commit:        ac53060
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2061
+Duration:      6 sec
+Started:       2014-01-19 19:26:45
+Finished:      2014-01-19 19:26:51
+Allow Failure: false
+Config:        node_js: 0.10

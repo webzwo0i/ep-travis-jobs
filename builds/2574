@@ -1,0 +1,11 @@
+Job #2574.1:  fix export of bad pads and also limit import to files
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d5bec17
+Compare URL:   https://github.com/ether/etherpad-lite/compare/abb9b6d8330c...d5bec1701e10
+Duration:      9 min 36 sec
+Started:       2015-02-21 13:35:16
+Finished:      2015-02-21 13:44:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

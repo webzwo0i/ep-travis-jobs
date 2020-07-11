@@ -1,0 +1,11 @@
+Job #1129.1:  browser detection was dropped in jquery 1.9, so we have to add the browser detection js file
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1712)
+Commit:        3830795
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1712
+Duration:      10 min 58 sec
+Started:       2013-04-05 15:38:31
+Finished:      2013-04-05 15:49:29
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

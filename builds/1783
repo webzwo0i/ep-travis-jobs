@@ -1,0 +1,11 @@
+Job #1783.1:  Toolbar: Fix timeslider button
+State:         passed
+Type:          push
+Branch:        fix/toolbar-timeslider-button
+Commit:        6b5e3ea
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6b5e3ea3a521
+Duration:      7 min 20 sec
+Started:       2014-03-31 20:53:47
+Finished:      2014-03-31 21:01:07
+Allow Failure: false
+Config:        node_js: 0.10

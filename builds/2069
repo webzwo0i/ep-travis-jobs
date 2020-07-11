@@ -1,0 +1,11 @@
+Job #2069.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into new-icons
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2321)
+Commit:        97b0d95
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2321
+Duration:      22 min 28 sec
+Started:       2014-11-19 01:18:36
+Finished:      2014-11-19 01:41:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

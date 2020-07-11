@@ -1,0 +1,11 @@
+Job #1112.1:  hrm, maybe this makes sense to a wider audience
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1704)
+Commit:        335ba2a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1704
+Duration:      11 min 5 sec
+Started:       2013-04-04 16:36:54
+Finished:      2013-04-04 16:47:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

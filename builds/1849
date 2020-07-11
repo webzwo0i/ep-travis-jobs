@@ -1,0 +1,11 @@
+Job #1849.1:  added /abs/path/settings.json handling
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2184)
+Commit:        c1739d6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2184
+Duration:      10 min 58 sec
+Started:       2014-06-22 20:57:17
+Finished:      2014-06-22 21:08:15
+Allow Failure: false
+Config:        node_js: 0.10

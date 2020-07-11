@@ -1,0 +1,11 @@
+Job #1379.1:  Merge pull request #1862 from codingisacopingstrategy/etherpad-lite-to-etherpad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9afbedc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6e4d94069f57...9afbedc908ca
+Duration:      16 min 48 sec
+Started:       2013-09-29 16:04:16
+Finished:      2013-09-29 16:21:04
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

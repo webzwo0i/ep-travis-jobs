@@ -1,0 +1,11 @@
+Job #1856.1:  Merge pull request #2186 from ether/font-on-innerdoc-body
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a3a40e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a76dc697f013...a3a40e1bccd9
+Duration:      15 min 6 sec
+Started:       2014-06-28 16:20:35
+Finished:      2014-06-28 16:35:41
+Allow Failure: false
+Config:        node_js: 0.10

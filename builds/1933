@@ -1,0 +1,11 @@
+Job #1933.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into develop
+State:         passed
+Type:          push
+Branch:        browser-based-css-wrap
+Commit:        3115da7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f22ed65b50cd^...3115da78802a
+Duration:      14 min 14 sec
+Started:       2014-10-19 01:26:12
+Finished:      2014-10-19 01:40:26
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2287.1:  Fix missing callback of #2400 and ignore missing author on timeslider on client-side
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2406)
+Commit:        5a5d9c1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2406
+Duration:      10 min 48 sec
+Started:       2014-12-27 22:51:35
+Finished:      2014-12-27 23:02:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

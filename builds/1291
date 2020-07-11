@@ -1,0 +1,11 @@
+Job #1291.1:  repo url as latest npm shows warn if non existant
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        98a9a24
+Compare URL:   https://github.com/ether/etherpad-lite/compare/53529cd0310f...98a9a24d025d
+Duration:      11 min 3 sec
+Started:       2013-06-26 21:20:24
+Finished:      2013-06-26 21:31:27
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

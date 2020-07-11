@@ -1,0 +1,11 @@
+Job #2487.1:  beginning of a hook, needs docs etc
+State:         failed
+Type:          push
+Branch:        html-e-hook
+Commit:        3720632
+Compare URL:   https://github.com/ether/etherpad-lite/commit/372063295f54
+Duration:      12 min 53 sec
+Started:       2015-01-24 05:10:37
+Finished:      2015-01-24 05:23:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

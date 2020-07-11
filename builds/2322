@@ -1,0 +1,11 @@
+Job #2322.1:  Merge pull request #2416 from webzwo0i/fix-import-of-indented-lists
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cd944a3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/565097efb466...cd944a356d5b
+Duration:      8 min 17 sec
+Started:       2014-12-29 16:26:38
+Finished:      2014-12-29 16:34:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1015.1:  Merge pull request #1662 from disy-mk/jshint_semicol_utils
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        34e3e2f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/35e489121797...34e3e2f4321d
+Duration:      2 min 7 sec
+Started:       2013-03-24 01:32:48
+Finished:      2013-03-24 01:34:55
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

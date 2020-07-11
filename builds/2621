@@ -1,0 +1,11 @@
+Job #2621.1:  better logic for handling lr arrows
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        0c902ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c6cac53ddada...0c902ced7399
+Duration:      16 min 49 sec
+Started:       2015-03-25 16:35:46
+Finished:      2015-03-25 16:52:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1423.1:  Drop messages from unknown connections
+State:         errored
+Type:          push
+Branch:        fix/unknown-connection-message
+Commit:        aa77a61
+Compare URL:   https://github.com/ether/etherpad-lite/compare/835063baa736...aa77a615da13
+Duration:      11 min 28 sec
+Started:       2013-10-12 18:51:49
+Finished:      2013-10-12 19:03:17
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

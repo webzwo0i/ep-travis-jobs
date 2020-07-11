@@ -1,0 +1,11 @@
+Job #1614.1:  better handling for attribute queries
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2041)
+Commit:        a3f4617
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2041
+Duration:      6 sec
+Started:       2013-12-17 21:58:00
+Finished:      2013-12-17 21:58:06
+Allow Failure: false
+Config:        node_js: 0.10

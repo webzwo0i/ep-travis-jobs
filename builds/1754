@@ -1,0 +1,11 @@
+Job #1754.1:  changelog, package file and fix for redo
+State:         errored
+Type:          pull request
+Branch:        master (PR #2069)
+Commit:        e559cb5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2069
+Duration:      12 min 41 sec
+Started:       2014-03-26 16:50:50
+Finished:      2014-03-26 17:03:31
+Allow Failure: false
+Config:        node_js: 0.10

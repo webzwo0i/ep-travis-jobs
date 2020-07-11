@@ -1,0 +1,11 @@
+Job #2017.1:  Merge branch 'master' of github.com:ether/etherpad-lite into develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        77c805a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3bf108f3b4bc...77c805a2bf1c
+Duration:      22 min 28 sec
+Started:       2014-11-15 17:13:30
+Finished:      2014-11-15 17:35:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

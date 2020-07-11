@@ -1,0 +1,11 @@
+Job #1044.1:  /admin/plugins: If a user installs sth scroll up to the loading indicator
+State:         passed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        806926d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4edb3b7ab3a7...806926d0f601
+Duration:      2 min 22 sec
+Started:       2013-03-26 19:55:40
+Finished:      2013-03-26 19:58:02
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1698.1:  Timeslider: Don't compoese changes before applying them
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        83c490b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      11 min 54 sec
+Started:       2014-01-28 18:52:36
+Finished:      2014-01-28 19:04:30
+Allow Failure: false
+Config:        node_js: 0.10

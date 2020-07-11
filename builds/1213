@@ -1,0 +1,11 @@
+Job #1213.1:  Don't block changeset queue with delivering changeset
+State:         errored
+Type:          push
+Branch:        feature/add-cs-queue
+Commit:        cd288c7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9533d22aef5f...cd288c70cb6b
+Duration:      12 min 3 sec
+Started:       2013-04-17 14:27:11
+Finished:      2013-04-17 14:39:14
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

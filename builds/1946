@@ -1,0 +1,11 @@
+Job #1946.1:  Bump resolve
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        41b7f99
+Compare URL:   https://github.com/ether/etherpad-lite/compare/51b9af9df091...41b7f99204e2
+Duration:      16 min 43 sec
+Started:       2014-11-01 17:25:46
+Finished:      2014-11-01 17:42:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

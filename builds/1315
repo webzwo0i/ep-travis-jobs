@@ -1,0 +1,11 @@
+Job #1315.1:  Merge pull request #1868 from codingisacopingstrategy/encoding-fix-localization-dot-md
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        20ae3b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cb3ab51ee14a...20ae3b333bf9
+Duration:      12 min 6 sec
+Started:       2013-09-01 11:01:48
+Finished:      2013-09-01 11:13:54
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

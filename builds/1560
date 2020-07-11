@@ -1,0 +1,11 @@
+Job #1560.1:  allow for lighter colors
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2019)
+Commit:        166c783
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2019
+Duration:      19 min 14 sec
+Started:       2013-12-05 00:07:10
+Finished:      2013-12-05 00:26:24
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

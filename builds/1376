@@ -1,0 +1,11 @@
+Job #1376.1:  works but hides caret on full line and not on X too, X is much harder to do
+State:         errored
+Type:          push
+Branch:        hide-chat-when-caret-behind
+Commit:        716e929
+Compare URL:   https://github.com/ether/etherpad-lite/commit/716e929e6449
+Duration:      26 min 46 sec
+Started:       2013-09-29 09:22:38
+Finished:      2013-09-29 09:49:24
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

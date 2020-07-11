@@ -1,0 +1,11 @@
+Job #1681.1:  Timeslider: Enable exports per revision
+State:         failed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        dd8d5e8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/04842d39da56...dd8d5e8c38b0
+Duration:      19 min 23 sec
+Started:       2014-01-28 15:09:48
+Finished:      2014-01-28 15:29:11
+Allow Failure: false
+Config:        node_js: 0.10

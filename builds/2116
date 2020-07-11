@@ -1,0 +1,11 @@
+Job #2116.1:  fix #2320
+State:         errored
+Type:          push
+Branch:        fix-2320-crash
+Commit:        cef23ac
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5d8c4745591c...cef23ac04580
+Duration:      12 min 4 sec
+Started:       2014-11-25 22:13:39
+Finished:      2014-11-25 22:25:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

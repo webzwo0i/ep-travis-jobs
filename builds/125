@@ -1,0 +1,11 @@
+Job #125.1:  Let socket.io decide which transport is best for the browser
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1233)
+Commit:        556fcd8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1233
+Duration:      13 min 1 sec
+Started:       2012-11-29 13:47:00
+Finished:      2012-11-29 14:00:01
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2282.1:  Merge pull request #2404 from webzwo0i/sanity-in-atext
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7df944b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ddd6a8ebcef5...7df944b3fd25
+Duration:      7 min 16 sec
+Started:       2014-12-27 18:36:41
+Finished:      2014-12-27 18:43:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

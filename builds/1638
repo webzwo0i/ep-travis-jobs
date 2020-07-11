@@ -1,0 +1,11 @@
+Job #1638.1:  Add assertions for the results of CHANGESET_REQ
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2054)
+Commit:        2f2a7bf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2054
+Duration:      13 min 7 sec
+Started:       2013-12-30 17:44:04
+Finished:      2013-12-30 17:57:11
+Allow Failure: false
+Config:        node_js: 0.10

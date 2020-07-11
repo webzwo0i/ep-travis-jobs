@@ -1,0 +1,11 @@
+Job #1710.1:  remember user session because it can be gone when finalHandler is called
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2092)
+Commit:        75c7fc1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2092
+Duration:      11 min 26 sec
+Started:       2014-02-20 19:30:32
+Finished:      2014-02-20 19:41:58
+Allow Failure: false
+Config:        node_js: 0.10

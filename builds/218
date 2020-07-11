@@ -1,0 +1,11 @@
+Job #218.1:  Merge pull request #1274 from joker-x/jstranslate
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d1870e7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/25125c30c3a0...d1870e741f7a
+Duration:      6 min 27 sec
+Started:       2012-12-09 21:53:17
+Finished:      2012-12-09 21:59:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

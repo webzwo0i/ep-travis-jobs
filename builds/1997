@@ -1,0 +1,11 @@
+Job #1997.1:  update pad clients
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2300)
+Commit:        8e3eb9a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2300
+Duration:      10 min 39 sec
+Started:       2014-11-12 19:52:54
+Finished:      2014-11-12 20:03:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

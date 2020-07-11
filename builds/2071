@@ -1,0 +1,11 @@
+Job #2071.1:  Merge pull request #2326 from ether/blocks-for-custom-script-and-styles
+State:         passed
+Type:          push
+Branch:        blocks-for-custom-script-and-styles
+Commit:        7b9fd81
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0f1fd0b28183...7b9fd81284a6
+Duration:      20 min 46 sec
+Started:       2014-11-19 01:29:49
+Finished:      2014-11-19 01:50:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

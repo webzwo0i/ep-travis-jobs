@@ -1,0 +1,11 @@
+Job #2660.1:  make buttons i18n friendly and a better experience
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        ef38bca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/35948989b398...ef38bcad9ff6
+Duration:      21 min 53 sec
+Started:       2015-03-31 14:59:26
+Finished:      2015-03-31 15:21:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

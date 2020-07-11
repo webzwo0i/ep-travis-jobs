@@ -1,0 +1,11 @@
+Job #1949.1:  take line breaks and treat them appropriatly instead of creating a space for them..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2289)
+Commit:        cb40e59
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2289
+Duration:      11 min 26 sec
+Started:       2014-11-01 19:09:02
+Finished:      2014-11-01 19:20:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

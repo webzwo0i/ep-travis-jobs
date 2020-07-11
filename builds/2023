@@ -1,0 +1,11 @@
+Job #2023.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into refactor-timeslider
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2070)
+Commit:        31fac0a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2070
+Duration:      21 min 55 sec
+Started:       2014-11-15 18:13:04
+Finished:      2014-11-15 18:34:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

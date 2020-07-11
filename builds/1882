@@ -1,0 +1,11 @@
+Job #1882.1:  Added extra block elements to contentcollector to allow imports to function with ep_headings
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2222)
+Commit:        5d43e98
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2222
+Duration:      8 sec
+Started:       2014-08-12 05:14:20
+Finished:      2014-08-12 05:14:28
+Allow Failure: false
+Config:        node_js: 0.10

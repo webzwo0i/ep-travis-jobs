@@ -1,0 +1,11 @@
+Job #1456.1:  update package.json
+State:         failed
+Type:          pull request
+Branch:        master (PR #1955)
+Commit:        e588521
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1955
+Duration:      23 min 13 sec
+Started:       2013-10-21 17:16:57
+Finished:      2013-10-21 17:40:10
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

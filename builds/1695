@@ -1,0 +1,11 @@
+Job #1695.1:  test
+State:         errored
+Type:          push
+Branch:        refactor-timeslider
+Commit:        023ae3b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec6759521829...023ae3baac03
+Duration:      12 min 33 sec
+Started:       2014-01-28 18:24:52
+Finished:      2014-01-28 18:37:25
+Allow Failure: false
+Config:        node_js: 0.10

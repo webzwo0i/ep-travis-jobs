@@ -1,0 +1,11 @@
+Job #1243.1:  cleanup, still not 100% sure on functionality
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1764)
+Commit:        dc701c3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1764
+Duration:      10 min 55 sec
+Started:       2013-04-29 04:32:44
+Finished:      2013-04-29 04:43:39
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

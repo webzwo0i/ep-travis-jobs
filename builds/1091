@@ -1,0 +1,11 @@
+Job #1091.1:  Drop support for node v0.6, officially
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1692)
+Commit:        f65577d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1692
+Duration:      10 min 53 sec
+Started:       2013-04-01 14:08:53
+Finished:      2013-04-01 14:19:46
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

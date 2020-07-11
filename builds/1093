@@ -1,0 +1,11 @@
+Job #1093.1:  Added getAttributePool, getRevisionOfHead and getRevisionChangeset methods to API v1.2.8
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1693)
+Commit:        7b425f3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1693
+Duration:      11 min 23 sec
+Started:       2013-04-01 17:23:26
+Finished:      2013-04-01 17:34:49
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

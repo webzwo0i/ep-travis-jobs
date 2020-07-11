@@ -1,0 +1,11 @@
+Job #2374.1:  fix timeslider stars and frontend tests, needs css polish
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        230302b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/be4782ae07dc...230302b132db
+Duration:      14 min 3 sec
+Started:       2015-01-01 23:42:42
+Finished:      2015-01-01 23:56:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

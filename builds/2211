@@ -1,0 +1,11 @@
+Job #2211.1:  Merge pull request #2348 from ether/sanitizer
+State:         passed
+Type:          push
+Branch:        hook_for_exportHTMLStyles
+Commit:        6080de9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/hook_for_exportHTMLStyles
+Duration:      9 min 48 sec
+Started:       2014-12-08 20:07:36
+Finished:      2014-12-08 20:17:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

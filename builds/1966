@@ -1,0 +1,11 @@
+Job #1966.1:  auth fix
+State:         failed
+Type:          push
+Branch:        socket-io-1
+Commit:        5d0ccb5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/adef0af227a7...5d0ccb5f8f7b
+Duration:      16 min 50 sec
+Started:       2014-11-04 19:21:10
+Finished:      2014-11-04 19:38:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

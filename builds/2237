@@ -1,0 +1,11 @@
+Job #2237.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into hook_for_exportHTMLStyles
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2368)
+Commit:        f9ee7ab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2368
+Duration:      14 min 26 sec
+Started:       2014-12-22 00:13:41
+Finished:      2014-12-22 00:28:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1736.1:  Toolbar: Allow custom dropdowns for plugins
+State:         failed
+Type:          push
+Branch:        modularize-toolbar
+Commit:        51900cb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c57bc444cde7^...51900cbf67d2
+Duration:      20 min 21 sec
+Started:       2014-03-16 14:05:11
+Finished:      2014-03-16 14:25:32
+Allow Failure: false
+Config:        node_js: 0.10

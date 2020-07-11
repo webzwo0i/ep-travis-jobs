@@ -1,0 +1,11 @@
+Job #1039.1:  Merge pull request #1673 from neurolit/api-doc-errors
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2266061
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b7db49f9c9f...2266061eea5e
+Duration:      2 min 27 sec
+Started:       2013-03-26 16:41:56
+Finished:      2013-03-26 16:44:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

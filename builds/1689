@@ -1,0 +1,11 @@
+Job #1689.1:  Timeslider UI: Move timestamp with handle, not with star
+State:         failed
+Type:          push
+Branch:        refactor-timeslider
+Commit:        8ae17ff
+Compare URL:   https://github.com/ether/etherpad-lite/compare/94c8d6369972...8ae17ffae515
+Duration:      24 min 16 sec
+Started:       2014-01-28 17:36:50
+Finished:      2014-01-28 18:01:06
+Allow Failure: false
+Config:        node_js: 0.10

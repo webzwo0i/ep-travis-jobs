@@ -1,0 +1,11 @@
+Job #2590.1:  actually disconnect should NOT be visible...
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2538)
+Commit:        a52ed63
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2538
+Duration:      11 min 6 sec
+Started:       2015-03-03 17:28:30
+Finished:      2015-03-03 17:39:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

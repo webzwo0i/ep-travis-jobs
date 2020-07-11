@@ -1,0 +1,11 @@
+Job #1005.1:  changelog
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1657)
+Commit:        66b3a79
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1657
+Duration:      11 min 5 sec
+Started:       2013-03-23 15:52:39
+Finished:      2013-03-23 16:03:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

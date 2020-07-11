@@ -1,0 +1,11 @@
+Job #1967.1:  move logging into debug environment variable .. sighs
+State:         failed
+Type:          push
+Branch:        socket-io-1
+Commit:        cb28d10
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5d0ccb5f8f7b...cb28d109631e
+Duration:      17 min 16 sec
+Started:       2014-11-04 19:35:50
+Finished:      2014-11-04 19:53:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

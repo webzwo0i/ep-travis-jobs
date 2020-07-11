@@ -1,0 +1,11 @@
+Job #1574.1:  docs but not sure how to specify the verison this was introduced
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        1fe69fe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      11 min 49 sec
+Started:       2013-12-07 18:48:58
+Finished:      2013-12-07 19:00:47
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

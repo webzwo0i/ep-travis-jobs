@@ -1,0 +1,11 @@
+Job #1892.1:  readme: Add formatting sugar for readibility
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2243)
+Commit:        c07594d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2243
+Duration:      8 sec
+Started:       2014-09-23 16:10:24
+Finished:      2014-09-23 16:10:32
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1353.1:  Merge pull request #1899 from ether/import-button-styling
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        c30101a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/26d5a4fcca16...c30101ab42f6
+Duration:      28 min 48 sec
+Started:       2013-09-21 17:30:45
+Finished:      2013-09-21 17:59:33
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

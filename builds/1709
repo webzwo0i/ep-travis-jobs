@@ -1,0 +1,11 @@
+Job #1709.1:  disconnect client if it submits an already accepted changeset based on an old revision
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2091)
+Commit:        891d11f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2091
+Duration:      11 min 26 sec
+Started:       2014-02-20 18:45:10
+Finished:      2014-02-20 18:56:36
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #121.1:  catch control S and send an event to save a revision
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1229)
+Commit:        fb91630
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1229
+Duration:      13 min 9 sec
+Started:       2012-11-28 18:22:04
+Finished:      2012-11-28 18:35:13
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

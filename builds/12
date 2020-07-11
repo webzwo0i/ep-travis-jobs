@@ -1,0 +1,11 @@
+Job #12.1:  Traducción al castellano/Spanish translation
+State:         failed
+Type:          pull request
+Branch:        master (PR #1163)
+Commit:        907886c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1163
+Duration:      12 min 58 sec
+Started:       2012-11-15 12:18:10
+Finished:      2012-11-15 12:31:08
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

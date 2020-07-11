@@ -1,0 +1,11 @@
+Job #1314.1:  Fix encoding issue in localization.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1868)
+Commit:        38de189
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1868
+Duration:      10 min 54 sec
+Started:       2013-09-01 11:00:28
+Finished:      2013-09-01 11:11:22
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

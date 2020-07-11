@@ -1,0 +1,11 @@
+Job #1980.1:  cleaner reflow
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2298)
+Commit:        cf110fa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2298
+Duration:      11 min 13 sec
+Started:       2014-11-06 16:16:41
+Finished:      2014-11-06 16:27:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #21.1:  Fix examples url in settings.html to use ether/
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1170)
+Commit:        f7a53c9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1170
+Duration:      12 min 58 sec
+Started:       2012-11-16 10:42:07
+Finished:      2012-11-16 10:55:05
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

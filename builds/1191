@@ -1,0 +1,11 @@
+Job #1191.1:  Merge pull request #1721 from ether/dont-send-same-cs-spam
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c3c7a3d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8a2977381fce...c3c7a3d128b7
+Duration:      2 min 8 sec
+Started:       2013-04-15 13:21:17
+Finished:      2013-04-15 13:23:25
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.8

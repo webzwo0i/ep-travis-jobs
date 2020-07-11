@@ -1,0 +1,11 @@
+Job #1346.1:  dont crash on malformed HTML import
+State:         passed
+Type:          push
+Branch:        fix-bad-html-on-import
+Commit:        204118e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/204118eea5b5
+Duration:      7 min 46 sec
+Started:       2013-09-21 17:13:34
+Finished:      2013-09-21 17:21:20
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

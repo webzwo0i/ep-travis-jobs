@@ -1,0 +1,11 @@
+Job #1748.1:  processing pull request feedback
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2114)
+Commit:        dfb735a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2114
+Duration:      11 min 33 sec
+Started:       2014-03-25 21:45:41
+Finished:      2014-03-25 21:57:14
+Allow Failure: false
+Config:        node_js: 0.10

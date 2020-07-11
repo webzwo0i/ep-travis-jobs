@@ -1,0 +1,11 @@
+Job #2294.1:  Notify user if cookies can't be created
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2410)
+Commit:        1f15fd3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2410
+Duration:      11 min 31 sec
+Started:       2014-12-28 18:49:38
+Finished:      2014-12-28 19:01:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

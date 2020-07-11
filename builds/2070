@@ -1,0 +1,11 @@
+Job #2070.1:  correct file links
+State:         passed
+Type:          push
+Branch:        new-icons
+Commit:        28c7b66
+Compare URL:   https://github.com/ether/etherpad-lite/compare/16d8068d7d79...28c7b666c19e
+Duration:      17 min 22 sec
+Started:       2014-11-19 01:25:23
+Finished:      2014-11-19 01:42:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

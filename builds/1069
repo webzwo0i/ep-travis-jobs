@@ -1,0 +1,11 @@
+Job #1069.1:  Loading blocks
+State:         passed
+Type:          push
+Branch:        loading_block
+Commit:        d73ea4e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/d73ea4e334ed
+Duration:      2 min 22 sec
+Started:       2013-03-29 03:26:32
+Finished:      2013-03-29 03:28:54
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

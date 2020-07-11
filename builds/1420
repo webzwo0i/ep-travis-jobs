@@ -1,0 +1,11 @@
+Job #1420.1:  Don't create new pad if a non-existant read-only pad is accessed
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1937)
+Commit:        eb3d714
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1937
+Duration:      11 min 45 sec
+Started:       2013-10-12 18:43:44
+Finished:      2013-10-12 18:55:29
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

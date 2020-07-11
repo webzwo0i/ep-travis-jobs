@@ -1,0 +1,11 @@
+Job #1342.1:  Merge pull request #1851 from Karunamon/patch-1
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1bbe029
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4bf3f7ab12d4...1bbe0293ac47
+Duration:      17 min 28 sec
+Started:       2013-09-18 20:15:16
+Finished:      2013-09-18 20:32:44
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

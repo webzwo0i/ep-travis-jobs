@@ -1,0 +1,11 @@
+Job #2080.1:  Restore pad to new location at a given revision
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2329)
+Commit:        d814510
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2329
+Duration:      11 min
+Started:       2014-11-19 20:19:40
+Finished:      2014-11-19 20:30:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

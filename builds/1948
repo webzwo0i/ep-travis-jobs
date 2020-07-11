@@ -1,0 +1,11 @@
+Job #1948.1:  take line breaks and treat them appropriatly instead of creating a space for them..
+State:         passed
+Type:          push
+Branch:        extra-spaces-on-paste
+Commit:        bf380ee
+Compare URL:   https://github.com/ether/etherpad-lite/commit/bf380eea5046
+Duration:      14 min 4 sec
+Started:       2014-11-01 19:08:59
+Finished:      2014-11-01 19:23:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

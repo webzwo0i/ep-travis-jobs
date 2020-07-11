@@ -1,0 +1,11 @@
+Job #1766.1:  Create a customizable timeslider toolbar
+State:         errored
+Type:          push
+Branch:        fix/timeslider-editbar
+Commit:        6054cda
+Compare URL:   https://github.com/ether/etherpad-lite/compare/867e40533a13^...6054cda47394
+Duration:      22 min 13 sec
+Started:       2014-03-30 13:03:22
+Finished:      2014-03-30 13:25:35
+Allow Failure: false
+Config:        node_js: 0.10

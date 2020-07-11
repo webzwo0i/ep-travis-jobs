@@ -1,0 +1,11 @@
+Job #1660.1:  Merge pull request #2068 from webzwo0i/fix-randomstring
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4b87f77
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e4fbf4bbcdb8...4b87f77aae1a
+Duration:      14 min 51 sec
+Started:       2014-01-24 16:44:49
+Finished:      2014-01-24 16:59:40
+Allow Failure: false
+Config:        node_js: 0.10

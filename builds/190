@@ -1,0 +1,11 @@
+Job #190.1:  Reduces the width of the file input to prevent overflow in the import popup
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1259)
+Commit:        456c552
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1259
+Duration:      12 min 59 sec
+Started:       2012-12-05 15:06:31
+Finished:      2012-12-05 15:19:30
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

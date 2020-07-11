@@ -1,0 +1,11 @@
+Job #2194.1:  bump cleancss
+State:         errored
+Type:          push
+Branch:        require-kernel-change
+Commit:        12f25d8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/74ffbdea7908...12f25d8a458b
+Duration:      11 min 39 sec
+Started:       2014-11-29 02:31:52
+Finished:      2014-11-29 02:43:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1219.1:  Merge pull request #1750 from ether/fix/authorship-once-and-4-all
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        f478f99
+Compare URL:   https://github.com/ether/etherpad-lite/compare/146c75e70321...f478f9999555
+Duration:      12 min 37 sec
+Started:       2013-04-17 17:15:56
+Finished:      2013-04-17 17:28:33
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

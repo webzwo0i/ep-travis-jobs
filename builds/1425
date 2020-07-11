@@ -1,0 +1,11 @@
+Job #1425.1:  Merge pull request #1937 from ether/fix/non-existant-read-only-pads
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a5b34a2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c3a96b34bbd0...a5b34a2ce35e
+Duration:      14 min 21 sec
+Started:       2013-10-12 20:25:09
+Finished:      2013-10-12 20:39:30
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

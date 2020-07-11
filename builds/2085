@@ -1,0 +1,11 @@
+Job #2085.1:  Changed relative path to Etherpad main page in admin settings.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2333)
+Commit:        eb23972
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2333
+Duration:      10 min 39 sec
+Started:       2014-11-22 10:44:58
+Finished:      2014-11-22 10:55:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

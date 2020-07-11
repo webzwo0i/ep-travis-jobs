@@ -1,0 +1,11 @@
+Job #2111.1:  so yeah, prolly can do this anyway?
+State:         passed
+Type:          push
+Branch:        jsdom-go-away
+Commit:        c2c0cb6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/60d44cd3df20...c2c0cb690763
+Duration:      22 min 4 sec
+Started:       2014-11-25 19:11:21
+Finished:      2014-11-25 19:33:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

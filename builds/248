@@ -1,0 +1,11 @@
+Job #248.1:  fixed bug in parseIni
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        d03d5b3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min 2 sec
+Started:       2012-12-19 18:54:46
+Finished:      2012-12-19 19:07:48
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2204.1:  Merge pull request #2329 from timrchavez/rebuild-pad-script
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        89adbb9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/08097975edcc...89adbb9f1227
+Duration:      22 min 49 sec
+Started:       2014-12-04 03:34:56
+Finished:      2014-12-04 03:57:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

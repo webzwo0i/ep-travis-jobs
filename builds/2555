@@ -1,0 +1,11 @@
+Job #2555.1:  fix JS error in timeslider if offset doesn't exist
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0ad09c1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/26ae37572701...0ad09c17db0e
+Duration:      11 min 2 sec
+Started:       2015-02-10 00:05:25
+Finished:      2015-02-10 00:16:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

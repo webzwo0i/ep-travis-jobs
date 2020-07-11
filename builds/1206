@@ -1,0 +1,11 @@
+Job #1206.1:  Merge pull request #1737 from ether/develop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1745)
+Commit:        62f9283
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1745
+Duration:      11 min 22 sec
+Started:       2013-04-16 01:07:44
+Finished:      2013-04-16 01:19:06
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

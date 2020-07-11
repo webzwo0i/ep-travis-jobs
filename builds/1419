@@ -1,0 +1,11 @@
+Job #1419.1:  Don't create new pad if a non-existant read-only pad is accessed
+State:         errored
+Type:          push
+Branch:        fix/non-existant-read-only-pads
+Commit:        048d55a
+Compare URL:   https://github.com/ether/etherpad-lite/commit/048d55a64c4f
+Duration:      26 min 59 sec
+Started:       2013-10-12 18:42:46
+Finished:      2013-10-12 19:09:45
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

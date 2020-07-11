@@ -1,0 +1,11 @@
+Job #1592.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into support-images
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2033)
+Commit:        4df6fd6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2033
+Duration:      14 sec
+Started:       2013-12-12 01:23:57
+Finished:      2013-12-12 01:24:11
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

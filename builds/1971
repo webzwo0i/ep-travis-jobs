@@ -1,0 +1,11 @@
+Job #1971.1:  re-apply roomsize
+State:         passed
+Type:          push
+Branch:        socket-io-1
+Commit:        8391f90
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a6cbb4af409b...8391f902fbda
+Duration:      8 min 13 sec
+Started:       2014-11-04 23:36:00
+Finished:      2014-11-04 23:44:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

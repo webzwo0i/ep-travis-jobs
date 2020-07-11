@@ -1,0 +1,11 @@
+Job #2216.1:  docs
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2368)
+Commit:        f211870
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2368
+Duration:      8 min 57 sec
+Started:       2014-12-09 02:37:05
+Finished:      2014-12-09 02:46:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1773.1:  Allow --settings cli arg to be an absolute path
+State:         passed
+Type:          push
+Branch:        fix/settings-file-arg-absolute
+Commit:        440e804
+Compare URL:   https://github.com/ether/etherpad-lite/commit/440e8049b083
+Duration:      22 min 27 sec
+Started:       2014-03-30 14:33:33
+Finished:      2014-03-30 14:56:00
+Allow Failure: false
+Config:        node_js: 0.10

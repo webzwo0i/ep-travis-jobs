@@ -1,0 +1,11 @@
+Job #1802.1:  Fix #online_count
+State:         passed
+Type:          push
+Branch:        fix-user-icon-color-and-count
+Commit:        46ef83d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/706ee1f86628...46ef83d7106c
+Duration:      18 min 21 sec
+Started:       2014-04-30 22:32:56
+Finished:      2014-04-30 22:51:17
+Allow Failure: false
+Config:        node_js: 0.10

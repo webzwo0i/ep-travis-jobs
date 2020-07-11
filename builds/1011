@@ -1,0 +1,11 @@
+Job #1011.1:  expires was never defined
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1623)
+Commit:        4b311a9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1623
+Duration:      10 min 54 sec
+Started:       2013-03-23 19:03:38
+Finished:      2013-03-23 19:14:32
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

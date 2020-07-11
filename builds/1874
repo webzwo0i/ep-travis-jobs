@@ -1,0 +1,11 @@
+Job #1874.1:  Update Settings.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2184)
+Commit:        e4a2cb8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2184
+Duration:      10 min 56 sec
+Started:       2014-07-24 12:07:44
+Finished:      2014-07-24 12:18:40
+Allow Failure: false
+Config:        node_js: 0.10

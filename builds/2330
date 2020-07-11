@@ -1,0 +1,11 @@
+Job #2330.1:  working for all files
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2418)
+Commit:        424980c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2418
+Duration:      11 min 45 sec
+Started:       2014-12-29 21:36:08
+Finished:      2014-12-29 21:47:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

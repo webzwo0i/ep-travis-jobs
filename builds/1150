@@ -1,0 +1,11 @@
+Job #1150.1:  Merge pull request #1720 from ether/remove-draggable
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        99dff9c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/12bc98af7eaa...99dff9c4e504
+Duration:      2 min 28 sec
+Started:       2013-04-08 19:06:19
+Finished:      2013-04-08 19:08:47
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

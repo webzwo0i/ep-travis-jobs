@@ -1,0 +1,11 @@
+Job #1171.1:  Merge pull request #1693 from guyzmo/api_extension
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4a5e63f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7098ba49f3cf...4a5e63f10544
+Duration:      2 min 11 sec
+Started:       2013-04-09 23:50:32
+Finished:      2013-04-09 23:52:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

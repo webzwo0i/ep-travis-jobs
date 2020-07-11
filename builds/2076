@@ -1,0 +1,11 @@
+Job #2076.1:  whoops fix animation not to look broken
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ff9a2a6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/da824de5f177...ff9a2a687f8c
+Duration:      14 min 26 sec
+Started:       2014-11-19 19:36:08
+Finished:      2014-11-19 19:50:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

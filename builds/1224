@@ -1,0 +1,11 @@
+Job #1224.1:  better message for admins
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1753)
+Commit:        6f322f6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1753
+Duration:      11 min 49 sec
+Started:       2013-04-18 00:54:09
+Finished:      2013-04-18 01:05:58
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

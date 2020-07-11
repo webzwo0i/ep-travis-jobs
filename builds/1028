@@ -1,0 +1,11 @@
+Job #1028.1:  Silence npm when using npm.commands.search
+State:         failed
+Type:          push
+Branch:        feature/admin-plugins-revamp
+Commit:        5d7a8ad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9109bd206ee4...5d7a8adcb77e
+Duration:      7 min 9 sec
+Started:       2013-03-26 11:33:59
+Finished:      2013-03-26 11:41:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

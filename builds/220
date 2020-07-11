@@ -1,0 +1,11 @@
+Job #220.1:  character coding fix
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1279)
+Commit:        dccf167
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1279
+Duration:      12 min 56 sec
+Started:       2012-12-10 12:31:58
+Finished:      2012-12-10 12:44:54
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #1401.1:  Merge pull request #1925 from ether/move-padlist-init
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d86d99b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7663b2ec4942...d86d99bc16a8
+Duration:      16 min 2 sec
+Started:       2013-10-09 20:48:32
+Finished:      2013-10-09 21:04:34
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

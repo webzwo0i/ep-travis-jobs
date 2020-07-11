@@ -1,0 +1,11 @@
+Job #1247.1:  Let travis use sauce labs key of the etherpad user
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1770)
+Commit:        0aa6bd3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1770
+Duration:      10 min 56 sec
+Started:       2013-05-04 14:19:18
+Finished:      2013-05-04 14:30:14
+Allow Failure: false
+Config:        env: , jdk: oraclejdk6, node_js: 0.10

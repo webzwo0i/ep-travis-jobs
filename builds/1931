@@ -1,0 +1,11 @@
+Job #1931.1:  bump resolve
+State:         failed
+Type:          push
+Branch:        bump-swagger
+Commit:        226e0bf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9c2f8808bee8...226e0bf0e39f
+Duration:      21 min 59 sec
+Started:       2014-10-14 15:42:00
+Finished:      2014-10-14 16:03:59
+Allow Failure: false
+Config:        node_js: 0.10

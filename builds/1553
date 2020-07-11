@@ -1,0 +1,11 @@
+Job #1553.1:  dont assume formatting is on the start of any line
+State:         errored
+Type:          push
+Branch:        getAttributeOnSelection
+Commit:        30f577e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/95db100f1222...30f577e8f41e
+Duration:      27 min 57 sec
+Started:       2013-12-01 21:02:01
+Finished:      2013-12-01 21:29:58
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

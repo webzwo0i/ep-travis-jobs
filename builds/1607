@@ -1,0 +1,11 @@
+Job #1607.1:  Fix server side bug index overflow
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2038)
+Commit:        884ea2f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2038
+Duration:      11 min 13 sec
+Started:       2013-12-17 14:40:52
+Finished:      2013-12-17 14:52:05
+Allow Failure: false
+Config:        node_js: 0.10

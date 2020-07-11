@@ -1,0 +1,11 @@
+Job #1552.1:  remove white space
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2013)
+Commit:        83b2b0a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2013
+Duration:      30 min 42 sec
+Started:       2013-12-01 20:07:52
+Finished:      2013-12-01 20:38:34
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

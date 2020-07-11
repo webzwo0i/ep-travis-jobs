@@ -1,0 +1,11 @@
+Job #1615.1:  Merge pull request #2041 from ether/fix-get-attr
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        33ecd3d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/af5b8d3e24d2...33ecd3d52ffd
+Duration:      13 min 9 sec
+Started:       2013-12-17 21:57:31
+Finished:      2013-12-17 22:10:40
+Allow Failure: false
+Config:        node_js: 0.10

@@ -1,0 +1,11 @@
+Job #1386.1:  allow author manager to use custom error module
+State:         failed
+Type:          push
+Branch:        allow-err-msg-from-listpadsof-author
+Commit:        bf1e1c3
+Compare URL:   https://github.com/ether/etherpad-lite/commit/bf1e1c3007c2
+Duration:      16 min 34 sec
+Started:       2013-10-03 15:46:56
+Finished:      2013-10-03 16:03:30
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10

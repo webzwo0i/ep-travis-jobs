@@ -1,0 +1,11 @@
+Job #1942.1:  Fix for MySQL issues
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f104644
+Compare URL:   https://github.com/ether/etherpad-lite/compare/45611561e63b...f1046442975f
+Duration:      17 min 29 sec
+Started:       2014-10-29 13:17:07
+Finished:      2014-10-29 13:34:36
+Allow Failure: false
+Config:        node_js: 0.10

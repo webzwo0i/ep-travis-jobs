@@ -1,0 +1,11 @@
+Job #1589.1:  more sensible naming
+State:         passed
+Type:          push
+Branch:        support-images
+Commit:        887c242
+Compare URL:   https://github.com/ether/etherpad-lite/compare/63ab85aeb24b...887c242b6c59
+Duration:      8 min 34 sec
+Started:       2013-12-12 01:09:59
+Finished:      2013-12-12 01:18:33
+Allow Failure: false
+Config:        jdk: oraclejdk6, node_js: 0.10
