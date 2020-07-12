@@ -1,0 +1,11 @@
+Job #974.1:  make sure the sessionID target is right
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1607)
+Commit:        6bfab68
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1607
+Duration:      11 min 53 sec
+Started:       2013-03-19 17:23:58
+Finished:      2013-03-19 17:35:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #2527.1:  Update hooks_client-side.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2497)
+Commit:        dbb195a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2497
+Duration:      8 sec
+Started:       2015-01-26 17:10:16
+Finished:      2015-01-26 17:10:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

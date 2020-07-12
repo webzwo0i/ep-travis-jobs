@@ -1,0 +1,11 @@
+Job #632.1:  kinda brutal way of stopping plugins being able to pass *s instead of attributes
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1491)
+Commit:        a7320aa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1491
+Duration:      10 min 53 sec
+Started:       2013-02-10 20:38:00
+Finished:      2013-02-10 20:48:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8
