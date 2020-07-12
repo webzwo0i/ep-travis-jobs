@@ -1,0 +1,14 @@
+Build #5644:  frontend tests: 6 sessions in parallel, add OSX 10.14-safari and Windows7-firefox, pin all browsers instead of use latest
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4161)
+Commit:        5943ae5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4161
+Duration:      17 min 26 sec
+Started:       2020-07-12 16:47:29
+Finished:      2020-07-12 16:58:36
+
+#5644.1 passed:  11 min 7 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5644.2 passed:  1 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5644.3 failed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5644.4 passed:  2 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

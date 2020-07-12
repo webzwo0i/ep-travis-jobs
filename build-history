@@ -1,3 +1,7 @@
+#5646 failed:    develop (PR #4161) typo
+#5645 failed:    remoterunner-fix typo
+#5644 failed:    develop (PR #4161) frontend tests: 6 sessions in parallel, add OSX 10.14-safari and Windows7-firefox, pin all browsers instead of use latest
+#5643 failed:    remoterunner-fix frontend tests: 6 sessions in parallel, add OSX 10.14-safari and Windows7-firefox, pin all browsers instead of use latest
 #5642 failed:    saucelabs-parallel temporarely disable very slow timeslider_revision test
 #5641 failed:    develop (PR #4161) time is in test.duration, not test.speed
 #5640 failed:    remoterunner-fix time is in test.duration, not test.speed
@@ -3094,7 +3098,6 @@
 #2551 failed:    chat-users-flow-css and even mroe polish
 #2551 failed:    develop (PR #2510) and even mroe polish
 #2550 failed:    develop (PR #2510) more styling stuff
-#2550 failed:    chat-users-flow-css more styling stuff
 #2549 errored:   develop (PR #2510) better css
 #2548 failed:    chat-users-flow-css better css
 #2547 errored:   develop (PR #2509) Adding api call for appending a chat message.
@@ -3823,6 +3826,8 @@
 #1847 passed:    develop Merge pull request #1619 from ether/stricter-transport
 #1846 passed:    develop Localisation updates from https://translatewiki.net.
 #1845 errored:   develop (PR #1619) Enable HSTS for TLS connections
+#1845 passed:    stricter-transport Enable HSTS for TLS connections
+#1845 errored:   develop (PR #1619) Enable HSTS for TLS connections
 #1844 failed:    develop Merge pull request #2150 from ether/export-file-name-hook
 #1843 errored:   develop (PR #2180) Added function to switch to a different pad without having to reload the whole page.
 #1842 failed:    develop Merge pull request #2175 from ether/fix-handleMessage
@@ -4223,6 +4228,7 @@
 #1461 errored:   develop (PR #1963) Added a better way of detecting when a url does not have a protocol specified
 #1460 errored:   develop Merge branch 'release/1.3'
 #1459 errored:   master Merge branch 'release/1.3'
+#1459 passed:    1.3.0 Merge branch 'release/1.3'
 #1458 passed:    master (PR #1956) Update changelog and bump version
 #1457 passed:    release/1.3 Update changelog and bump version
 #1456 failed:    master (PR #1955) update package.json
@@ -4242,7 +4248,6 @@
 #1443 failed:    develop Localisation updates from http://translatewiki.net.
 #1442 failed:    develop Merge pull request #1943 from ether/fix/listAllPads-fix
 #1441 failed:    fix/listAllPads-fix Pad list cache: You can't change the cache if it's not initiated
-#1441 passed:    develop (PR #1943) Pad list cache: You can't change the cache if it's not initiated
 #1440 failed:    develop Consistent spelling style
 #1439 passed:    develop Localisation updates from http://translatewiki.net.
 #1438 failed:    develop Merge pull request #1940 from piratenfraktion-nrw/fix_readonly_if_require_session
@@ -4522,6 +4527,7 @@
 #1171 passed:    develop Merge pull request #1693 from guyzmo/api_extension
 #1170 passed:    handleClientMessageTimesliderHook remove console log
 #1169 passed:    handleClientMessageTimesliderHook add hook
+#1168 errored:   develop (PR #1723) no need to declare var twice
 #1168 errored:   develop (PR #1723) no need to declare var twice
 #1167 passed:    expose-broadcastslider no need to declare var twice
 #1166 passed:    expose-broadcastslider expose broadcast slider so plugins can interact with it
@@ -4923,6 +4929,7 @@
 #772 errored:    develop (PR #1545) only show clients on this pad resolves issue #1544
 #771 failed:     fix-clients-conn-count only show clients on this pad resolves issue #1544
 #770 errored:    develop (PR #1523) dont reset head count, use the one we should :)
+#770 failed:     store-sessions-in-db dont reset head count, use the one we should :)
 #769 errored:    develop (PR #1538) timeslider init hook
 #768 failed:     timeslider-init-hook timeslider init hook
 #767 errored:    develop (PR #1537) a different approach

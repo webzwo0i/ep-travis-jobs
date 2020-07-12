@@ -1,0 +1,14 @@
+Build #5646:  typo
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4161)
+Commit:        cc8d98e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4161
+Duration:      16 min 6 sec
+Started:       2020-07-12 17:01:52
+Finished:      2020-07-12 17:12:14
+
+#5646.1 passed:  10 min 22 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5646.2 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5646.3 failed:  2 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5646.4 failed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
