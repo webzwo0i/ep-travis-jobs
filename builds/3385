@@ -1,0 +1,11 @@
+Job #3385.1:  Add undocumented API function restoreRevision to doc
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3080)
+Commit:        e1c5755
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3080
+Duration:      10 min 58 sec
+Started:       2016-11-16 10:39:06
+Finished:      2016-11-16 10:50:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

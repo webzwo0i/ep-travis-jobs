@@ -1,0 +1,11 @@
+Job #3285.1:  Use fs.statSync instead of fs.existsSync (deprecated)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2986)
+Commit:        9fbad21
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2986
+Duration:      11 min 14 sec
+Started:       2016-05-16 16:52:52
+Finished:      2016-05-16 17:04:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

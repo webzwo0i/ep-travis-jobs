@@ -1,0 +1,11 @@
+Job #3109.1:  Update the bowser.js to the new version
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2848)
+Commit:        354d123
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2848
+Duration:      10 min 45 sec
+Started:       2015-12-01 16:02:02
+Finished:      2015-12-01 16:12:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

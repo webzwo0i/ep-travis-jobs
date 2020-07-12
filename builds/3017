@@ -1,0 +1,11 @@
+Job #3017.1:  Merge pull request #2 from CodeMichael/patch-1
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2748)
+Commit:        6da2290
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2748
+Duration:      11 min 8 sec
+Started:       2015-08-07 15:37:12
+Finished:      2015-08-07 15:48:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

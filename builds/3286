@@ -1,0 +1,11 @@
+Job #3286.1:  Fix error if whitespace in etherpad path
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2987)
+Commit:        efcf782
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2987
+Duration:      11 min 48 sec
+Started:       2016-05-16 17:00:53
+Finished:      2016-05-16 17:12:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

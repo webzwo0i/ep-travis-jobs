@@ -1,0 +1,11 @@
+Job #2541.1:  remove console logs
+State:         failed
+Type:          push
+Branch:        fix-chat-scroll
+Commit:        fe4dd98
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4c667ecef63b...fe4dd98a6e4d
+Duration:      21 min 57 sec
+Started:       2015-02-08 00:25:13
+Finished:      2015-02-08 00:47:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

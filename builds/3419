@@ -1,0 +1,11 @@
+Job #3419.1:  Merge pull request #3122 from tpltnt/freebsd-pkg-fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d65ab4d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/deed74c8c848...d65ab4d80b8b
+Duration:      5 min 50 sec
+Started:       2017-01-12 21:22:30
+Finished:      2017-01-12 21:28:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

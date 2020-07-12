@@ -1,0 +1,11 @@
+Job #3035.1:  Merge pull request #2774 from ether/timeslider-fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        442f2a0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c215795ab5da...442f2a08f7bd
+Duration:      5 min 40 sec
+Started:       2015-09-16 16:08:46
+Finished:      2015-09-16 16:14:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

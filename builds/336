@@ -1,0 +1,11 @@
+Job #336.1:  fix #1341 by adding css to stop highlighting
+State:         failed
+Type:          push
+Branch:        drag-timeslider
+Commit:        7302662
+Compare URL:   https://github.com/ether/etherpad-lite/commit/730266256c97
+Duration:      6 min 37 sec
+Started:       2013-01-10 16:15:17
+Finished:      2013-01-10 16:21:54
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

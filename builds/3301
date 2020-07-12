@@ -1,0 +1,11 @@
+Job #3301.1:  UI
+State:         passed
+Type:          push
+Branch:        export-author-color
+Commit:        d408575
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec093c9c8592...d408575d604f
+Duration:      9 min 1 sec
+Started:       2016-05-31 00:24:49
+Finished:      2016-05-31 00:33:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

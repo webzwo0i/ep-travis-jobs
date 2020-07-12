@@ -1,0 +1,11 @@
+Job #3184.1:  fix typo
+State:         passed
+Type:          push
+Branch:        some-documentation
+Commit:        d7854ed
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3b9c32199107^...d7854edeb2d3
+Duration:      6 min 5 sec
+Started:       2016-02-02 13:02:23
+Finished:      2016-02-02 13:08:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

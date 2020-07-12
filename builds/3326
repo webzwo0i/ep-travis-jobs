@@ -1,0 +1,11 @@
+Job #3326.1:  Include usage example for aceRegisterNonScrollableEditEvents
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2944)
+Commit:        f0214f7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2944
+Duration:      11 min 5 sec
+Started:       2016-06-20 11:33:05
+Finished:      2016-06-20 11:44:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

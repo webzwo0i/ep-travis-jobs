@@ -1,0 +1,11 @@
+Job #3186.1:  Merge pull request #2890 from bhldev/languageTimesliderUrlParameter
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        32d9041
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5f5d8cada8f7...32d90418ca78
+Duration:      4 min 59 sec
+Started:       2016-02-06 22:39:38
+Finished:      2016-02-06 22:44:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

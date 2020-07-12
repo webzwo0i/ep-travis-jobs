@@ -1,0 +1,11 @@
+Job #3182.1:  Highlight and link more URI schemes: about, geo, tel
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2898)
+Commit:        338177d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2898
+Duration:      10 min 31 sec
+Started:       2016-01-30 19:08:01
+Finished:      2016-01-30 19:18:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

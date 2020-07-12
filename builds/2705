@@ -1,0 +1,11 @@
+Job #2705.1:  fix timeslider title issues
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        f6b4b56
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fef746e80e01...f6b4b5603dfe
+Duration:      21 min 57 sec
+Started:       2015-04-02 01:07:51
+Finished:      2015-04-02 01:29:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

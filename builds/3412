@@ -1,0 +1,11 @@
+Job #3412.1:  minor changes in docs
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3106)
+Commit:        4dd1fbc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3106
+Duration:      12 min 55 sec
+Started:       2016-12-26 20:29:04
+Finished:      2016-12-26 20:41:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

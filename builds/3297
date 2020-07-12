@@ -1,0 +1,11 @@
+Job #3297.1:  heh whoops
+State:         errored
+Type:          push
+Branch:        export-author-color
+Commit:        f55bb2b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/248ec967e549...f55bb2b6b3f8
+Duration:      28 min 59 sec
+Started:       2016-05-30 10:05:34
+Finished:      2016-05-30 10:34:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

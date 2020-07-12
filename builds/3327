@@ -1,0 +1,11 @@
+Job #3327.1:  Merge pull request #2944 from storytouch/aceRegisterNonScrollableEditEvents
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        f09e10b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3f4c8d35d654...f09e10b122e1
+Duration:      11 min 49 sec
+Started:       2016-06-20 11:38:06
+Finished:      2016-06-20 11:49:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3132.1:  Merge pull request #2860 from tiblu/documentation_add_postToolbarInit_and_usage_examples
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        34d757f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e98821cef745...34d757ff7ffb
+Duration:      5 min 7 sec
+Started:       2015-12-21 10:51:10
+Finished:      2015-12-21 10:56:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

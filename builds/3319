@@ -1,0 +1,11 @@
+Job #3319.1:  nano dep fix
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3004)
+Commit:        03ac901
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3004
+Duration:      23 min 2 sec
+Started:       2016-06-14 16:29:44
+Finished:      2016-06-14 16:52:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

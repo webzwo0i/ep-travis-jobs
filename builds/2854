@@ -1,0 +1,11 @@
+Job #2854.1:  first attempt at fixing dead keys, it cant be this easy can it?
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2621)
+Commit:        6f53ccb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2621
+Duration:      12 min 20 sec
+Started:       2015-04-17 18:07:35
+Finished:      2015-04-17 18:19:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

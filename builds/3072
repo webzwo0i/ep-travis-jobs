@@ -1,0 +1,11 @@
+Job #3072.1:  Merge pull request #2797 from ypid/rebuild-better-error
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fa46f0b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3aff0001a1ea...fa46f0b613c8
+Duration:      15 min 12 sec
+Started:       2015-10-22 17:26:20
+Finished:      2015-10-22 17:41:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

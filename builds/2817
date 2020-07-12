@@ -1,0 +1,11 @@
+Job #2817.1:  Removed some more minify stuff
+State:         failed
+Type:          push
+Branch:        requirejs
+Commit:        2f12fc0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6cbf8a62458f...2f12fc02297b
+Duration:      10 min 37 sec
+Started:       2015-04-12 14:25:12
+Finished:      2015-04-12 14:35:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

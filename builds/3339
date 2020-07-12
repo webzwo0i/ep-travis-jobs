@@ -1,0 +1,11 @@
+Job #3339.1:  Merge pull request #3026 from storytouch/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        81b11be
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3fcc7aa19017...81b11be54a58
+Duration:      8 min 38 sec
+Started:       2016-07-21 20:43:32
+Finished:      2016-07-21 20:52:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

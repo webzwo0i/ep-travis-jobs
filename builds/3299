@@ -1,0 +1,11 @@
+Job #3299.1:  clean up
+State:         passed
+Type:          push
+Branch:        export-author-color
+Commit:        ec093c9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f55bb2b6b3f8...ec093c9c8592
+Duration:      22 min 29 sec
+Started:       2016-05-30 10:06:18
+Finished:      2016-05-30 10:28:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

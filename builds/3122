@@ -1,0 +1,11 @@
+Job #3122.1:  working logic
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2851)
+Commit:        4de4732
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2851
+Duration:      7 sec
+Started:       2015-12-02 12:56:05
+Finished:      2015-12-02 12:56:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3418.1:  added curl as dependency
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3122)
+Commit:        901d36c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3122
+Duration:      10 min 49 sec
+Started:       2017-01-12 20:53:25
+Finished:      2017-01-12 21:04:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

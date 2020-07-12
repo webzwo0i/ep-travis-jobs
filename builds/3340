@@ -1,0 +1,11 @@
+Job #3340.1:  Download JQuery over HTTPS
+State:         errored
+Type:          pull request
+Branch:        master (PR #3027)
+Commit:        322cb63
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3027
+Duration:      11 min 16 sec
+Started:       2016-07-23 17:01:14
+Finished:      2016-07-23 17:12:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

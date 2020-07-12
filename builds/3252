@@ -1,0 +1,11 @@
+Job #3252.1:  Merge pull request #2940 from ether/extend-getAttributesOnSelection
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        282b1cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7637b0cd199c...282b1cdcfec9
+Duration:      7 min 38 sec
+Started:       2016-04-06 00:00:10
+Finished:      2016-04-06 00:07:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

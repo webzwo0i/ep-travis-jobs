@@ -1,0 +1,11 @@
+Job #3170.1:  Use exec to switch to node process
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2889)
+Commit:        a50d07d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2889
+Duration:      11 min 23 sec
+Started:       2016-01-20 00:25:43
+Finished:      2016-01-20 00:37:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

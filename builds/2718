@@ -1,0 +1,11 @@
+Job #2718.1:  Update installDeps.sh
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2576)
+Commit:        d32b07d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2576
+Duration:      10 min 48 sec
+Started:       2015-04-04 17:17:33
+Finished:      2015-04-04 17:28:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

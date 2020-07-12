@@ -1,0 +1,11 @@
+Job #2534.1:  Change git-core to git
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2500)
+Commit:        2dc8ba7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2500
+Duration:      11 min 7 sec
+Started:       2015-01-28 18:46:12
+Finished:      2015-01-28 18:57:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

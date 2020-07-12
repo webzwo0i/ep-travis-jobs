@@ -1,0 +1,11 @@
+Job #3440.1:  Remove an extra space
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3149)
+Commit:        9acf0cf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3149
+Duration:      11 min 2 sec
+Started:       2017-03-12 03:32:14
+Finished:      2017-03-12 03:43:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

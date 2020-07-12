@@ -1,0 +1,11 @@
+Job #2744.1:  fix vulnerability
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2584)
+Commit:        c3a63e8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2584
+Duration:      10 min 46 sec
+Started:       2015-04-10 13:18:00
+Finished:      2015-04-10 13:28:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

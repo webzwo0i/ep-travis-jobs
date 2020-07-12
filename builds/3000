@@ -1,0 +1,11 @@
+Job #3000.1:  clientReady Hook - pass entire message, updated doc
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2730)
+Commit:        0905984
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2730
+Duration:      10 min 58 sec
+Started:       2015-07-20 17:36:11
+Finished:      2015-07-20 17:47:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

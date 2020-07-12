@@ -1,0 +1,11 @@
+Job #3202.1:  Typos and spaces
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2914)
+Commit:        ecd8139
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2914
+Duration:      18 min 21 sec
+Started:       2016-03-08 22:39:40
+Finished:      2016-03-08 22:58:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

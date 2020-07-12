@@ -1,0 +1,11 @@
+Job #3093.1:  paste hook and class for editorcontainer
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f774c25
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ed37f6efe302...f774c2584f9d
+Duration:      5 min 37 sec
+Started:       2015-11-06 14:24:04
+Finished:      2015-11-06 14:29:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

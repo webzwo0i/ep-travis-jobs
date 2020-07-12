@@ -1,0 +1,11 @@
+Job #2546.1:  Merge pull request #2508 from ether/fix-chat-scroll
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5c31d1f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4e3c10619210...5c31d1f52834
+Duration:      10 min 16 sec
+Started:       2015-02-08 15:36:40
+Finished:      2015-02-08 15:46:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

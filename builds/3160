@@ -1,0 +1,11 @@
+Job #3160.1:  tidy up
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2876)
+Commit:        d15a128
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2876
+Duration:      19 min 57 sec
+Started:       2016-01-10 15:41:18
+Finished:      2016-01-10 16:01:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

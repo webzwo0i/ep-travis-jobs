@@ -1,0 +1,11 @@
+Job #3007.1:  Merge pull request #2741 from thomasrussellmurphy/issue-2727
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        63c836a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5c531eebc5db...63c836ad55cc
+Duration:      6 min 13 sec
+Started:       2015-08-04 22:11:47
+Finished:      2015-08-04 22:18:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

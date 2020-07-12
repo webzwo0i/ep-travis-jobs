@@ -1,0 +1,11 @@
+Job #2888.1:  Merge pull request #2650 from ether/iframe-issues
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a1893ec
+Compare URL:   https://github.com/ether/etherpad-lite/compare/363d5d06b79c...a1893ec6293e
+Duration:      6 min 9 sec
+Started:       2015-05-06 02:04:11
+Finished:      2015-05-06 02:10:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

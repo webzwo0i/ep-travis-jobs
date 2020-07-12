@@ -1,0 +1,11 @@
+Job #3354.1:  Tidy up the whitespace a little bit more.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3045)
+Commit:        359876f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3045
+Duration:      12 min 4 sec
+Started:       2016-08-24 20:27:34
+Finished:      2016-08-24 20:39:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

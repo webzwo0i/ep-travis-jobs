@@ -1,0 +1,11 @@
+Job #2934.1:  Add iconv to solve curl errors on api request, hopefully
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2646)
+Commit:        87e6460
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2646
+Duration:      10 min 58 sec
+Started:       2015-06-04 15:00:36
+Finished:      2015-06-04 15:11:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

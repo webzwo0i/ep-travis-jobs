@@ -1,0 +1,11 @@
+Job #3324.1:  Fixed path check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3008)
+Commit:        0a7efb5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3008
+Duration:      10 min 55 sec
+Started:       2016-06-20 00:25:09
+Finished:      2016-06-20 00:36:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

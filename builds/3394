@@ -1,0 +1,11 @@
+Job #3394.1:  Merge pull request #3085 from Gared/fix_socketio_options
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        da5ae8b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d3f5781ebbd...da5ae8b1f783
+Duration:      6 min
+Started:       2016-12-12 23:41:27
+Finished:      2016-12-12 23:47:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

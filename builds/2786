@@ -1,0 +1,11 @@
+Job #2786.1:  Merge pull request #2302 from Gared/create_pad_special_characters
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5ef22e6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/27aa71f3a408...5ef22e649b66
+Duration:      22 min 7 sec
+Started:       2015-04-11 15:57:34
+Finished:      2015-04-11 16:19:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

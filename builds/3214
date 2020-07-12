@@ -1,0 +1,11 @@
+Job #3214.1:  Remove support for io.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2931)
+Commit:        d0a3cd7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2931
+Duration:      10 min 56 sec
+Started:       2016-03-20 15:25:00
+Finished:      2016-03-20 15:35:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

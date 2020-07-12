@@ -1,0 +1,11 @@
+Job #3127.1:  include event on paste and drrororororop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bf6e225
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b3d44b6956a9...bf6e225aa29a
+Duration:      5 min 19 sec
+Started:       2015-12-05 20:07:43
+Finished:      2015-12-05 20:13:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

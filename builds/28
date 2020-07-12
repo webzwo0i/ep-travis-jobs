@@ -1,0 +1,13 @@
+Job #28.1:  fix tiny error of missing space
+State:         failed
+Type:          push
+Branch:        fix-installdeps-line-error
+Commit:        cefbd83
+Compare URL:   https://github.com/ether/etherpad-lite/commit/cefbd8354d4f
+Duration:      14 min 54 sec
+Started:       2012-11-16 22:15:04
+Finished:      2012-11-16 22:29:58
+Allow Failure: false
+Config:        env: SECURE oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

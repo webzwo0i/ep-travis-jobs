@@ -1,0 +1,11 @@
+Job #3169.1:  Fix for 2844 and 2812
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2887)
+Commit:        c4e26e4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2887
+Duration:      10 min 35 sec
+Started:       2016-01-19 05:59:48
+Finished:      2016-01-19 06:10:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3424.1:  Merge pull request #3131 from Sjord/remove-outdated-comment
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        40f54fe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f2a22f197db1...40f54fed3834
+Duration:      5 min 38 sec
+Started:       2017-01-29 12:55:01
+Finished:      2017-01-29 13:00:39
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

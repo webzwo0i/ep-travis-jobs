@@ -1,0 +1,11 @@
+Job #3205.1:  Merge pull request #2889 from reedacartwright/reedacartwright-patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c5c2b0a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b6ab6f2b132c...c5c2b0a82b9d
+Duration:      5 min 21 sec
+Started:       2016-03-13 23:46:32
+Finished:      2016-03-13 23:51:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

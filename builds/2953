@@ -1,0 +1,11 @@
+Job #2953.1:  extend pad files so they are prefetched on each page
+State:         errored
+Type:          push
+Branch:        prefetch
+Commit:        99cc915
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1118cc56eb43...99cc915d9146
+Duration:      11 min 21 sec
+Started:       2015-06-21 12:09:19
+Finished:      2015-06-21 12:20:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

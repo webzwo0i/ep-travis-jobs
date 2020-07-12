@@ -1,0 +1,11 @@
+Job #319.1:  fixed 'client implementations'-link in README.md
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1333)
+Commit:        3e8d74b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1333
+Duration:      13 min 35 sec
+Started:       2013-01-07 16:31:34
+Finished:      2013-01-07 16:45:09
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

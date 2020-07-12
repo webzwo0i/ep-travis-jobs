@@ -1,0 +1,11 @@
+Job #2941.1:  Merge pull request #2690 from lpagliari/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a0aa947
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5a5d245c06fd...a0aa9470a383
+Duration:      5 min 30 sec
+Started:       2015-06-11 12:48:29
+Finished:      2015-06-11 12:53:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

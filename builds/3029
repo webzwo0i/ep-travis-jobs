@@ -1,0 +1,11 @@
+Job #3029.1:  Fix #2772. Create new hook 'aceRegisterLineAttributes' to have a list of all line attributes used by Etherpad and the plugins
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2773)
+Commit:        0c7e30e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2773
+Duration:      10 min 45 sec
+Started:       2015-09-03 22:58:56
+Finished:      2015-09-03 23:09:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

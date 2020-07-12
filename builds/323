@@ -1,0 +1,11 @@
+Job #323.1:  Moved console existence check before the variable is used.  This was causing a crash in Internet Explorer when the console was not enabled (console is off by default).
+State:         failed
+Type:          pull request
+Branch:        master (PR #1335)
+Commit:        92feecb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1335
+Duration:      13 min 25 sec
+Started:       2013-01-07 19:35:37
+Finished:      2013-01-07 19:49:02
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

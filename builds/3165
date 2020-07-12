@@ -1,0 +1,11 @@
+Job #3165.1:  Add appendText API (from #2810) to docs.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2881)
+Commit:        a9b9938
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2881
+Duration:      10 min 43 sec
+Started:       2016-01-13 13:28:53
+Finished:      2016-01-13 13:39:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

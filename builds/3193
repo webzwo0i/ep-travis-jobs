@@ -1,0 +1,11 @@
+Job #3193.1:  callback to stop further processing in async.series
+State:         passed
+Type:          push
+Branch:        fix-export-regressions
+Commit:        4e21c16
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bf92ba0f9d9b...4e21c1679426
+Duration:      5 min 7 sec
+Started:       2016-02-15 04:02:30
+Finished:      2016-02-15 04:07:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

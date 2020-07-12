@@ -1,0 +1,11 @@
+Job #33.1:  Load l10n.js first but asynchronusly
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1177)
+Commit:        1793325
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1177
+Duration:      13 min 1 sec
+Started:       2012-11-17 15:34:51
+Finished:      2012-11-17 15:47:52
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

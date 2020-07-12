@@ -1,0 +1,11 @@
+Job #3020.1:  Fix API call appendChatMessage to send new message to all connected clients
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2756)
+Commit:        c2947ad
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2756
+Duration:      10 min 48 sec
+Started:       2015-08-15 22:08:33
+Finished:      2015-08-15 22:19:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3322.1:  latest npm breaks stuff, yay
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3004)
+Commit:        f34b363
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3004
+Duration:      9 min 50 sec
+Started:       2016-06-15 07:48:55
+Finished:      2016-06-15 07:58:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

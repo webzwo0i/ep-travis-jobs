@@ -1,0 +1,11 @@
+Job #3298.1:  heh whoops
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2994)
+Commit:        3f2e81b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2994
+Duration:      9 min 11 sec
+Started:       2016-05-30 10:05:27
+Finished:      2016-05-30 10:14:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

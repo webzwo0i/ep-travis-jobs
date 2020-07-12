@@ -1,0 +1,11 @@
+Job #3049.1:  Get git commit hash even if the repo only points to a bare repo.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2798)
+Commit:        a500b39
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2798
+Duration:      10 min 50 sec
+Started:       2015-10-07 15:46:33
+Finished:      2015-10-07 15:57:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

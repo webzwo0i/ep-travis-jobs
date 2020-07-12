@@ -1,0 +1,11 @@
+Job #2771.1:  Release version 1.5.4
+State:         errored
+Type:          pull request
+Branch:        master (PR #2595)
+Commit:        327555a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2595
+Duration:      7 sec
+Started:       2015-04-11 10:28:33
+Finished:      2015-04-11 10:28:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

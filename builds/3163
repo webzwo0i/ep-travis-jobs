@@ -1,0 +1,11 @@
+Job #3163.1:  Merge pull request #2876 from ether/drag-and-drop-between-frames-sandbox
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        eeab7e8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/638757fdb5df...eeab7e8958a4
+Duration:      14 min 30 sec
+Started:       2016-01-10 15:50:05
+Finished:      2016-01-10 16:04:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

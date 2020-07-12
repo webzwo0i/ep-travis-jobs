@@ -1,0 +1,11 @@
+Job #3318.1:  bump ueberdb
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3004)
+Commit:        8521cc8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3004
+Duration:      13 min 50 sec
+Started:       2016-06-14 16:20:07
+Finished:      2016-06-14 16:33:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

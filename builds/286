@@ -1,0 +1,11 @@
+Job #286.1:  Merge pull request #1308 from marcelklehr/fix/console-log-html10n-chrome
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d9ef9f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f894d9b8f4c5...d9ef9f564803
+Duration:      6 min 42 sec
+Started:       2012-12-30 15:54:20
+Finished:      2012-12-30 16:01:02
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

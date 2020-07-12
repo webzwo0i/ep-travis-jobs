@@ -1,0 +1,11 @@
+Job #3363.1:  Merge pull request #3045 from danfuzz/extract-export-css
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7dd252f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5022912895a4...7dd252f76305
+Duration:      6 min 49 sec
+Started:       2016-09-09 00:16:09
+Finished:      2016-09-09 00:22:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3335.1:  Make express-session cookie scheme dependent
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3000)
+Commit:        f41d2c1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3000
+Duration:      11 min 24 sec
+Started:       2016-07-10 12:45:43
+Finished:      2016-07-10 12:57:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

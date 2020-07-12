@@ -1,0 +1,11 @@
+Job #3126.1:  remove con log
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b3d44b6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa492dc92614...b3d44b6956a9
+Duration:      5 min 6 sec
+Started:       2015-12-05 19:52:24
+Finished:      2015-12-05 19:57:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2962.1:  use correct plugin path
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2697)
+Commit:        afb2894
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2697
+Duration:      11 min 45 sec
+Started:       2015-06-21 13:47:41
+Finished:      2015-06-21 13:59:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

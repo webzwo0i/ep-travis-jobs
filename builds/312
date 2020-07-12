@@ -1,0 +1,11 @@
+Job #312.1:  Merge pull request #1330 from mluto/fix-extractPadData
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1e723d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2a89dc5913c5...1e723d02b1c9
+Duration:      7 min 28 sec
+Started:       2013-01-06 21:07:02
+Finished:      2013-01-06 21:14:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

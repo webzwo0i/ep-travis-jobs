@@ -1,0 +1,11 @@
+Job #3244.1:  allow greater than or equal to v 4
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e1999d8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6f2e155668fe...e1999d826cd5
+Duration:      5 min 19 sec
+Started:       2016-03-27 07:31:56
+Finished:      2016-03-27 07:37:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

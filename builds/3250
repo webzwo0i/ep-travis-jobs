@@ -1,0 +1,11 @@
+Job #3250.1:  Use authorID instead of authorMapper
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2914)
+Commit:        430343b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2914
+Duration:      10 min 53 sec
+Started:       2016-04-02 17:26:38
+Finished:      2016-04-02 17:37:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

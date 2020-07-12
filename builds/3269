@@ -1,0 +1,11 @@
+Job #3269.1:  Add version 1.6.0 changelogs
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2953)
+Commit:        4bcf24f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2953
+Duration:      24 sec
+Started:       2016-04-24 21:33:47
+Finished:      2016-04-24 21:34:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

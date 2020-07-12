@@ -1,0 +1,11 @@
+Job #3284.1:  Merge pull request #2961 from xiemaisi/fix-2951
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        f49de0b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b24e62f90a79...f49de0b61b91
+Duration:      11 min 5 sec
+Started:       2016-05-14 15:11:21
+Finished:      2016-05-14 15:22:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3234.1:  docs w/ improved method
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2939)
+Commit:        86f5c23
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2939
+Duration:      5 min 19 sec
+Started:       2016-03-26 04:05:08
+Finished:      2016-03-26 04:10:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3308.1:  Fix module paths for db migration script
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2998)
+Commit:        9faa780
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2998
+Duration:      12 min 7 sec
+Started:       2016-06-08 19:46:03
+Finished:      2016-06-08 19:58:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

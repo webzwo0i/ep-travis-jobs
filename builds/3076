@@ -1,0 +1,11 @@
+Job #3076.1:  Update installOnWindows.bat
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        02f88aa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c337a0585c7c...02f88aafff66
+Duration:      22 min 3 sec
+Started:       2015-10-22 17:39:54
+Finished:      2015-10-22 18:01:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

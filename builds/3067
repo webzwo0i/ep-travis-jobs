@@ -1,0 +1,11 @@
+Job #3067.1:  Merge pull request #2810 from luser/append-text
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5df580d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f57aaa62fc31...5df580ddee70
+Duration:      12 min 16 sec
+Started:       2015-10-22 17:11:58
+Finished:      2015-10-22 17:24:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

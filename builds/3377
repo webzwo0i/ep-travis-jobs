@@ -1,0 +1,11 @@
+Job #3377.1:  Allow setting the length of time the gritter notification appears when new chat message arrives.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3064)
+Commit:        8f8430e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3064
+Duration:      10 min 50 sec
+Started:       2016-10-08 03:31:40
+Finished:      2016-10-08 03:42:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

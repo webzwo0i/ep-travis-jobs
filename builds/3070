@@ -1,0 +1,11 @@
+Job #3070.1:  Merge pull request #2805 from storytouch/indentationSetting
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        50171a4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5652adb4eb3d...50171a4c3c3a
+Duration:      11 min 37 sec
+Started:       2015-10-22 17:13:11
+Finished:      2015-10-22 17:24:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

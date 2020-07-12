@@ -1,0 +1,11 @@
+Job #3406.1:  Release version 1.6.1
+State:         passed
+Type:          push
+Branch:        release/1.6.1
+Commit:        6dc808a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/release/1.6.1
+Duration:      8 min 52 sec
+Started:       2016-12-23 22:01:30
+Finished:      2016-12-23 22:10:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

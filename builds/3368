@@ -1,0 +1,11 @@
+Job #3368.1:  Merge branch 'fix-typos' into danfuzz-rollup
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3058)
+Commit:        2adeb1d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3058
+Duration:      12 min 32 sec
+Started:       2016-09-13 19:45:36
+Finished:      2016-09-13 19:58:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

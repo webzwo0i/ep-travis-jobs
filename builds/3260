@@ -1,0 +1,11 @@
+Job #3260.1:  Disable output buffering for curl requests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2646)
+Commit:        d48e1ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2646
+Duration:      11 min 2 sec
+Started:       2016-04-24 20:26:51
+Finished:      2016-04-24 20:37:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

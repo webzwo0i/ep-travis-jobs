@@ -1,0 +1,11 @@
+Job #327.1:  Merge pull request #1317 from ether/enter-on-plugins
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e6d523b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2a142a01e996...e6d523ba1cc4
+Duration:      5 min 6 sec
+Started:       2013-01-07 19:49:17
+Finished:      2013-01-07 19:54:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

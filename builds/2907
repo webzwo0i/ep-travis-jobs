@@ -1,0 +1,11 @@
+Job #2907.1:  Fixing documentation of collectContentPre
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2665)
+Commit:        4f58379
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2665
+Duration:      10 min 44 sec
+Started:       2015-05-15 16:24:12
+Finished:      2015-05-15 16:34:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3181.1:  - fix handling of insertions when there is nothing left in the lines
+State:         passed
+Type:          push
+Branch:        fix-textLinesMutator
+Commit:        662ef59
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b382a75e379^...662ef5908457
+Duration:      5 min 29 sec
+Started:       2016-01-27 17:13:19
+Finished:      2016-01-27 17:18:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

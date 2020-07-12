@@ -1,0 +1,11 @@
+Job #3435.1:  [fix] Remove extra whitespace on helper tests for IE
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3141)
+Commit:        2ba585e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3141
+Duration:      5 min 36 sec
+Started:       2017-02-20 11:26:32
+Finished:      2017-02-20 11:32:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

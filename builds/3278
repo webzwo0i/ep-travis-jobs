@@ -1,0 +1,11 @@
+Job #3278.1:  Fix useless comparison in sussonsAndGroups test.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2961)
+Commit:        6523ea7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2961
+Duration:      11 min 20 sec
+Started:       2016-05-05 12:52:53
+Finished:      2016-05-05 13:04:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

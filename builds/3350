@@ -1,0 +1,11 @@
+Job #3350.1:  Merge pull request #3042 from storytouch/fix_dnd
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        45266f9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bd20d44e895c...45266f90a3c7
+Duration:      6 min 56 sec
+Started:       2016-08-22 23:52:52
+Finished:      2016-08-22 23:59:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

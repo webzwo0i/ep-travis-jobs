@@ -1,0 +1,11 @@
+Job #3103.1:  clean up
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2840)
+Commit:        8d7a291
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2840
+Duration:      7 sec
+Started:       2015-11-24 15:04:42
+Finished:      2015-11-24 15:04:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3312.1:  Merge pull request #2999 from Gared/readme_change_supported_versions
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7b28120
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6ee10f4ebed0...7b2812050ded
+Duration:      8 min 9 sec
+Started:       2016-06-12 17:06:40
+Finished:      2016-06-12 17:14:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

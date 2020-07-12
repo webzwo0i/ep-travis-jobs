@@ -1,0 +1,11 @@
+Job #3068.1:  Merge pull request #2808 from lukeroge/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        928df3c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5df580ddee70...928df3c6cb3d
+Duration:      16 min 43 sec
+Started:       2015-10-22 17:12:00
+Finished:      2015-10-22 17:28:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

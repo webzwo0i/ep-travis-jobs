@@ -1,0 +1,11 @@
+Job #339.1:  Merge pull request #1348 from ether/drag-timeslider
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9f92b21
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7a6266170596...9f92b2156f4a
+Duration:      4 min
+Started:       2013-01-10 16:16:10
+Finished:      2013-01-10 16:20:10
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

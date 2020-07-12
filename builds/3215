@@ -1,0 +1,11 @@
+Job #3215.1:  Fix a possible xss attack in iframe link
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2932)
+Commit:        d32ff99
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2932
+Duration:      22 sec
+Started:       2016-03-20 16:30:04
+Finished:      2016-03-20 16:30:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

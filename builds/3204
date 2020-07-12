@@ -1,0 +1,11 @@
+Job #3204.1:  Added server side check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2894)
+Commit:        88a8b6c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2894
+Duration:      10 min 52 sec
+Started:       2016-03-13 23:30:03
+Finished:      2016-03-13 23:40:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

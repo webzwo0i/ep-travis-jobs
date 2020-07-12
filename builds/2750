@@ -1,0 +1,11 @@
+Job #2750.1:  Log version number and git-sha on server start
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2589)
+Commit:        e0453f9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2589
+Duration:      10 min 42 sec
+Started:       2015-04-11 00:14:40
+Finished:      2015-04-11 00:25:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

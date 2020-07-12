@@ -1,0 +1,11 @@
+Job #2827.1:  proper targeting of css rules
+State:         errored
+Type:          push
+Branch:        iframes-must-die
+Commit:        5f71c89
+Compare URL:   https://github.com/ether/etherpad-lite/compare/06aa9e4db680...5f71c899ab2a
+Duration:      12 min 16 sec
+Started:       2015-04-12 20:24:09
+Finished:      2015-04-12 20:36:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

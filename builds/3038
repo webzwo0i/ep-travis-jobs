@@ -1,0 +1,11 @@
+Job #3038.1:  WIP: Pandoc support, manage docx
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2783)
+Commit:        ad16558
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2783
+Duration:      10 min 43 sec
+Started:       2015-09-17 22:26:01
+Finished:      2015-09-17 22:36:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

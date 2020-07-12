@@ -1,0 +1,11 @@
+Job #3291.1:  Issue #2960 - deactivate settings.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2991)
+Commit:        5c9dbaf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2991
+Duration:      11 min 8 sec
+Started:       2016-05-22 17:48:14
+Finished:      2016-05-22 17:59:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

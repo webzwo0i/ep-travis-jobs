@@ -1,0 +1,11 @@
+Job #3136.1:  set charset for mysql connection in settings.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2862)
+Commit:        6c921ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2862
+Duration:      11 min 18 sec
+Started:       2015-12-21 21:09:14
+Finished:      2015-12-21 21:20:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

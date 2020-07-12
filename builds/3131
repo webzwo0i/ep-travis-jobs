@@ -1,0 +1,11 @@
+Job #3131.1:  Add postToolbarInit documentation and usage examples
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2860)
+Commit:        2a6e75b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2860
+Duration:      10 min 35 sec
+Started:       2015-12-18 12:42:49
+Finished:      2015-12-18 12:53:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

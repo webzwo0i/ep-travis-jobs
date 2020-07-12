@@ -1,0 +1,11 @@
+Job #2933.1:  Merge pull request #2689 from luin/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fd20c5e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d11c92cbf98f...fd20c5ef79dd
+Duration:      5 min 47 sec
+Started:       2015-06-03 14:04:10
+Finished:      2015-06-03 14:09:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

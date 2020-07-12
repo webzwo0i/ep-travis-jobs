@@ -1,0 +1,11 @@
+Job #3251.1:  Increase version of node for windows to 4.4.2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7637b0c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/474e5c42d147...7637b0cd199c
+Duration:      5 min 43 sec
+Started:       2016-04-03 16:58:46
+Finished:      2016-04-03 17:04:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

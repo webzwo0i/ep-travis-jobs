@@ -1,0 +1,11 @@
+Job #3134.1:  license
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        577102b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/41ced5e2390a...577102b025a1
+Duration:      5 min 47 sec
+Started:       2015-12-21 17:30:37
+Finished:      2015-12-21 17:36:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

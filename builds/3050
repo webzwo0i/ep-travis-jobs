@@ -1,0 +1,11 @@
+Job #3050.1:  Fix decode error if pad name contains special characters and is sanitized
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2799)
+Commit:        47410b2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2799
+Duration:      10 min 53 sec
+Started:       2015-10-08 20:49:30
+Finished:      2015-10-08 21:00:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

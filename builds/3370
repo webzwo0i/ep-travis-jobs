@@ -1,0 +1,11 @@
+Job #3370.1:  Added LibreJS support
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3059)
+Commit:        adf03e0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3059
+Duration:      12 min 6 sec
+Started:       2016-09-20 09:35:38
+Finished:      2016-09-20 09:47:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

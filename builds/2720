@@ -1,0 +1,11 @@
+Job #2720.1:  Merge pull request #2576 from rdubigny/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b26956b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/900595355f30...b26956be4b7c
+Duration:      11 min 11 sec
+Started:       2015-04-04 19:08:05
+Finished:      2015-04-04 19:19:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

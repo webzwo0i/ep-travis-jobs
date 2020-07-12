@@ -1,0 +1,11 @@
+Job #3246.1:  Fix document.domain error in frontend tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2942)
+Commit:        46d05db
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2942
+Duration:      11 min 11 sec
+Started:       2016-03-29 16:25:10
+Finished:      2016-03-29 16:36:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

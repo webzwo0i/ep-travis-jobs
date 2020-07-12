@@ -1,0 +1,11 @@
+Job #3336.1:  Merge pull request #3009 from storytouch/selectMultipleLinesOnFESpecs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a2ee1d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/728ab9307ed9...a2ee1d0b3f0b
+Duration:      7 min 53 sec
+Started:       2016-07-15 20:07:20
+Finished:      2016-07-15 20:15:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

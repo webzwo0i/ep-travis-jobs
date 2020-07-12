@@ -1,0 +1,11 @@
+Job #2779.1:  FF middle click fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        14fab9f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2ca021466135...14fab9f441bb
+Duration:      16 min 14 sec
+Started:       2015-04-11 11:46:59
+Finished:      2015-04-11 12:03:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

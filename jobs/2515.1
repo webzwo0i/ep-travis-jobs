@@ -1,0 +1,312 @@
+Using worker: worker-linux-f45a1419-2.bb.travis-ci.org:travis-linux-18
+
+travis_fold:start:system_infoBuild system information
+Build language: node_js
+Build image provisioning date and time
+Fri Dec 26 15:36:46 UTC 2014
+lsb_release -a
+Distributor ID:Ubuntu
+Description:Ubuntu 12.04 LTS
+Release:12.04
+Codename:precise
+Cookbooks Version
+984d1aa https://github.com/travis-ci/travis-cookbooks/tree/984d1aa
+GCC version
+gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.4 (tags/RELEASE_34/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+ruby-1.9.3-p551
+Pre-installed Node.js versions
+v0.10
+v0.10.18
+v0.10.33
+v0.10.35
+v0.11.14
+v0.6.21
+v0.8.27
+Pre-installed Go versions
+go1.4
+Redis version
+redis-server 2.8.18
+riak version
+1.4.12
+MongoDB version
+MongoDB 2.4.12
+CouchDB version
+couchdb 1.6.1
+Neo4j version
+1.9.4
+Cassandra version
+2.0.9
+RabbitMQ Version
+3.4.2
+ElasticSearch version
+1.4.0
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.4
+Default Sphinx version
+2.1.9
+Installed Firefox version
+firefox 31.0esr
+PhantomJS version
+1.9.8
+ant -version
+Apache Ant(TM) version 1.8.2 compiled on December 3 2011
+mvn -version
+Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-11T20:58:10+00:00)
+Maven home: /usr/local/maven
+Java version: 1.7.0_72, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "2.6.32-042stab090.5", arch: "amd64", family: "unix"
+travis_fold:end:system_infoe:start:1c15dec6aster git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 11632, done.ote: Compressing objects:   0% (1/3784)   ote: Compressing objects:   1% (38/3784)   ote: Compressing objects:   2% (76/3784)   ote: Compressing objects:   3% (114/3784)   ote: Compressing objects:   4% (152/3784)   ote: Compressing objects:   5% (190/3784)   ote: Compressing objects:   6% (228/3784)   ote: Compressing objects:   7% (265/3784)   ote: Compressing objects:   8% (303/3784)   ote: Compressing objects:   9% (341/3784)   ote: Compressing objects:  10% (379/3784)   ote: Compressing objects:  11% (417/3784)   ote: Compressing objects:  12% (455/3784)   ote: Compressing objects:  13% (492/3784)   ote: Compressing objects:  14% (530/3784)   ote: Compressing objects:  15% (568/3784)   ote: Compressing objects:  16% (606/3784)   ote: Compressing objects:  17% (644/3784)   ote: Compressing objects:  18% (682/3784)   ote: Compressing objects:  19% (719/3784)   ote: Compressing objects:  20% (757/3784)   ote: Compressing objects:  21% (795/3784)   ote: Compressing objects:  22% (833/3784)   ote: Compressing objects:  23% (871/3784)   ote: Compressing objects:  24% (909/3784)   ote: Compressing objects:  25% (946/3784)   ote: Compressing objects:  26% (984/3784)   ote: Compressing objects:  27% (1022/3784)   ote: Compressing objects:  28% (1060/3784)   ote: Compressing objects:  29% (1098/3784)   ote: Compressing objects:  30% (1136/3784)   ote: Compressing objects:  31% (1174/3784)   ote: Compressing objects:  32% (1211/3784)   ote: Compressing objects:  33% (1249/3784)   ote: Compressing objects:  34% (1287/3784)   ote: Compressing objects:  35% (1325/3784)   ote: Compressing objects:  36% (1363/3784)   ote: Compressing objects:  37% (1401/3784)   ote: Compressing objects:  38% (1438/3784)   ote: Compressing objects:  39% (1476/3784)   ote: Compressing objects:  40% (1514/3784)   ote: Compressing objects:  41% (1552/3784)   ote: Compressing objects:  42% (1590/3784)   ote: Compressing objects:  43% (1628/3784)   ote: Compressing objects:  44% (1665/3784)   ote: Compressing objects:  45% (1703/3784)   ote: Compressing objects:  46% (1741/3784)   ote: Compressing objects:  47% (1779/3784)   ote: Compressing objects:  48% (1817/3784)   ote: Compressing objects:  49% (1855/3784)   ote: Compressing objects:  50% (1892/3784)   ote: Compressing objects:  51% (1930/3784)   ote: Compressing objects:  52% (1968/3784)   ote: Compressing objects:  53% (2006/3784)   ote: Compressing objects:  54% (2044/3784)   ote: Compressing objects:  55% (2082/3784)   ote: Compressing objects:  56% (2120/3784)   ote: Compressing objects:  57% (2157/3784)   ote: Compressing objects:  58% (2195/3784)   ote: Compressing objects:  59% (2233/3784)   ote: Compressing objects:  60% (2271/3784)   ote: Compressing objects:  61% (2309/3784)   ote: Compressing objects:  62% (2347/3784)   ote: Compressing objects:  63% (2384/3784)   ote: Compressing objects:  64% (2422/3784)   ote: Compressing objects:  65% (2460/3784)   ote: Compressing objects:  66% (2498/3784)   ote: Compressing objects:  67% (2536/3784)   ote: Compressing objects:  68% (2574/3784)   ote: Compressing objects:  69% (2611/3784)   ote: Compressing objects:  70% (2649/3784)   ote: Compressing objects:  71% (2687/3784)   ote: Compressing objects:  72% (2725/3784)   ote: Compressing objects:  73% (2763/3784)   ote: Compressing objects:  74% (2801/3784)   ote: Compressing objects:  75% (2838/3784)   ote: Compressing objects:  76% (2876/3784)   ote: Compressing objects:  77% (2914/3784)   ote: Compressing objects:  78% (2952/3784)   ote: Compressing objects:  79% (2990/3784)   ote: Compressing objects:  80% (3028/3784)   ote: Compressing objects:  81% (3066/3784)   ote: Compressing objects:  82% (3103/3784)   ote: Compressing objects:  83% (3141/3784)   ote: Compressing objects:  84% (3179/3784)   ote: Compressing objects:  85% (3217/3784)   ote: Compressing objects:  86% (3255/3784)   ote: Compressing objects:  87% (3293/3784)   ote: Compressing objects:  88% (3330/3784)   ote: Compressing objects:  89% (3368/3784)   ote: Compressing objects:  90% (3406/3784)   ote: Compressing objects:  91% (3444/3784)   ote: Compressing objects:  92% (3482/3784)   ote: Compressing objects:  93% (3520/3784)   ote: Compressing objects:  94% (3557/3784)   ote: Compressing objects:  95% (3595/3784)   ote: Compressing objects:  96% (3633/3784)   ote: Compressing objects:  97% (3671/3784)   ote: Compressing objects:  98% (3709/3784)   ote: Compressing objects:  99% (3747/3784)   ote: Compressing objects: 100% (3784/3784)   ote: Compressing objects: 100% (3784/3784), done.ote: Total 11632 (delta 8202), reused 11026 (delta 7701)e:end:1c15dec6:start=1422220701180971955,finish=1422220702276652142,duration=1095680187Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:start:01096aa9 install 0.10
+v0.10.35 is already installed.
+Now using node v0.10.35
+travis_time:end:01096aa9:start=1422220702330574342,finish=1422220702570865484,duration=240291142 --version
+1.4.28
+$ nvm --version
+0.20.0
+travis_fold:start:install.1e:start:03d95bdcplate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+
+> ws@0.5.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+
+> microtime@0.4.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime
+> node-gyp rebuild
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+  CXX(target) Release/obj.target/microtime/src/microtime.o
+  SOLINK_MODULE(target) Release/obj.target/microtime.node
+  SOLINK_MODULE(target) Release/obj.target/microtime.node: Finished
+  COPY Release/microtime.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+slide@1.1.6 node_modules/slide
+
+graceful-fs@3.0.5 node_modules/graceful-fs
+
+tinycon@0.0.1 node_modules/tinycon
+
+formidable@1.0.16 node_modules/formidable
+
+async@0.9.0 node_modules/async
+
+underscore@1.5.1 node_modules/underscore
+
+etherpad-require-kernel@1.0.7 node_modules/etherpad-require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.3.3 node_modules/unorm
+
+measured@0.1.6 node_modules/measured
+
+semver@4.2.0 node_modules/semver
+
+ejs@1.0.0 node_modules/ejs
+
+resolve@1.0.0 node_modules/resolve
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+etherpad-yajsml@0.0.2 node_modules/etherpad-yajsml
+
+supertest@0.15.0 node_modules/supertest
+├── methods@1.1.1
+└── superagent@0.21.0 (extend@1.2.1, methods@1.0.1, cookiejar@2.0.1, component-emitter@1.1.2, reduce-component@1.0.1, qs@1.2.0, debug@2.1.1, readable-stream@1.0.27-1, form-data@0.1.3, mime@1.2.11, formidable@1.0.14)
+
+request@2.51.0 node_modules/request
+├── caseless@0.8.0
+├── json-stringify-safe@5.0.0
+├── forever-agent@0.5.2
+├── aws-sign2@0.5.0
+├── stringstream@0.0.4
+├── oauth-sign@0.5.0
+├── tunnel-agent@0.4.0
+├── node-uuid@1.4.2
+├── qs@2.3.3
+├── mime-types@1.0.2
+├── combined-stream@0.0.7 (delayed-stream@0.0.5)
+├── http-signature@0.10.1 (assert-plus@0.1.5, asn1@0.1.11, ctype@0.5.3)
+├── form-data@0.2.0 (mime-types@2.0.7)
+├── bl@0.9.4 (readable-stream@1.0.33)
+├── tough-cookie@0.12.1 (punycode@1.3.2)
+└── hawk@1.1.1 (cryptiles@0.2.2, sntp@0.2.4, boom@0.4.2, hoek@0.9.1)
+
+log4js@0.6.22 node_modules/log4js
+├── semver@1.1.4
+├── async@0.2.10
+└── readable-stream@1.0.33 (isarray@0.0.1, string_decoder@0.10.31, core-util-is@1.0.1, inherits@2.0.1)
+
+uglify-js@2.4.16 node_modules/uglify-js
+├── uglify-to-browserify@1.0.2
+├── async@0.2.10
+├── optimist@0.3.7 (wordwrap@0.0.2)
+└── source-map@0.1.34 (amdefine@0.1.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── buffer-crc32@0.2.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── cookie@0.0.5
+├── debug@2.1.1 (ms@0.6.2)
+├── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+└── formidable@1.0.14
+
+mocha@2.1.0 node_modules/mocha
+├── escape-string-regexp@1.0.2
+├── diff@1.0.8
+├── growl@1.8.1
+├── commander@2.3.0
+├── debug@2.0.0 (ms@0.6.2)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+├── glob@3.2.3 (inherits@2.0.1, graceful-fs@2.0.3, minimatch@0.2.14)
+└── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── simplesmtp@0.3.34 (xoauth2@0.1.8, rai@0.1.11)
+├── optimist@0.6.1 (wordwrap@0.0.2, minimist@0.0.10)
+└── mailcomposer@0.2.12 (follow-redirects@0.0.3, mime@1.2.11, he@0.3.6, dkim-signer@0.1.2, mimelib@0.2.18)
+
+jsonminify@0.2.3 node_modules/jsonminify
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── async@0.1.22
+├── underscore@1.4.4
+└── request@2.12.0
+
+cheerio@0.18.0 node_modules/cheerio
+├── entities@1.1.1
+├── dom-serializer@0.0.1 (domelementtype@1.1.3)
+├── htmlparser2@3.8.2 (domelementtype@1.1.3, domutils@1.5.0, entities@1.0.0, domhandler@2.3.0, readable-stream@1.1.13)
+├── CSSselect@0.4.1 (domutils@1.4.3, CSSwhat@0.4.7)
+└── lodash@2.4.1
+
+swagger-node-express@2.1.3 node_modules/swagger-node-express
+└── lodash@1.3.1
+
+express@3.8.1 node_modules/express
+├── parseurl@1.0.1
+├── merge-descriptors@0.0.2
+├── cookie@0.1.2
+├── debug@0.8.1
+├── cookie-signature@1.0.3
+├── range-parser@1.0.0
+├── fresh@0.2.2
+├── methods@1.0.0
+├── buffer-crc32@0.2.1
+├── commander@1.3.2 (keypress@0.1.0)
+├── proxy-addr@1.0.0 (ipaddr.js@0.1.2)
+├── send@0.3.0 (debug@0.8.0, mime@1.2.11)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+└── connect@2.17.3 (response-time@1.0.0, pause@0.0.1, method-override@1.0.2, connect-timeout@1.1.0, vhost@1.0.0, qs@0.6.6, on-headers@0.0.0, basic-auth-connect@1.0.0, bytes@1.0.0, morgan@1.1.1, serve-favicon@2.0.0, errorhandler@1.0.1, serve-static@1.1.0, cookie-parser@1.1.0, body-parser@1.2.2, csurf@1.2.0, express-session@1.2.1, compression@1.0.2, type-is@1.2.0, serve-index@1.0.3, multiparty@2.2.0)
+
+npm@2.2.0 node_modules/npm
+
+socket.io@1.3.2 node_modules/socket.io
+├── debug@2.1.0 (ms@0.6.2)
+├── has-binary-data@0.1.3 (isarray@0.0.1)
+├── socket.io-adapter@0.3.1 (object-keys@1.0.1, debug@1.0.2)
+├── socket.io-parser@2.2.2 (debug@0.7.4, component-emitter@1.1.2, isarray@0.0.1, benchmark@1.0.0, json3@3.2.6)
+├── engine.io@1.5.1 (base64id@0.1.0, debug@1.0.3, engine.io-parser@1.2.1, ws@0.5.0)
+└── socket.io-client@1.3.2 (to-array@0.1.3, indexof@0.0.1, debug@0.7.4, component-bind@1.0.0, backo2@1.0.2, object-component@0.0.3, component-emitter@1.1.2, has-binary@0.1.5, parseuri@0.0.2, engine.io-client@1.5.1)
+
+ueberDB@0.2.11 node_modules/ueberDB
+├── channels@0.0.2
+├── felix-couchdb@1.0.7
+├── redis@0.12.1
+├── dirty@0.9.9
+├── async@0.1.15
+├── mysql@2.5.4 (require-all@0.0.8, bignumber.js@1.4.1, readable-stream@1.1.13)
+├── pg@4.2.0 (packet-reader@0.2.0, pg-connection-string@0.1.3, buffer-writer@1.0.0, generic-pool@2.1.1, pg-types@1.6.0, pgpass@0.0.3)
+└── helenus@0.6.10 (node-uuid@1.3.3, helenus-thrift@0.7.4, microtime@0.4.0)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+Ensure custom css/js files are created...
+travis_time:end:03d95bdc:start=1422220703326449077,finish=1422220726319604195,duration=22993155118e:start:11790ff8e:end:11790ff8:start=1422220726329727509,finish=1422220726342988599,duration=13261090e:start:1bcf5f60e    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 29.8M    2  636k    0     0   638k      0  0:00:47 --:--:--  0:00:47  715k  7 29.8M    7 2148k    0     0  1053k      0  0:00:28  0:00:02  0:00:26 1112k  9 29.8M    9 2828k    0     0   943k      0  0:00:32  0:00:02  0:00:30  977k 12 29.8M   12 3723k    0     0   905k      0  0:00:33  0:00:04  0:00:29  929k 13 29.8M   13 4218k    0     0   843k      0  0:00:36  0:00:05  0:00:31  861k 15 29.8M   15 4853k    0     0   809k      0  0:00:37  0:00:05  0:00:32  843k 17 29.8M   17 5404k    0     0   772k      0  0:00:39  0:00:06  0:00:33  656k 19 29.8M   19 5905k    0     0   738k      0  0:00:41  0:00:08  0:00:33  615k 21 29.8M   21 6518k    0     0   724k      0  0:00:42  0:00:08  0:00:34  572k 23 29.8M   23 7121k    0     0   712k      0  0:00:42  0:00:09  0:00:33  580k 24 29.8M   24 7634k    0     0   694k      0  0:00:43  0:00:10  0:00:33  557k 26 29.8M   26 8120k    0     0   677k      0  0:00:45  0:00:11  0:00:34  544k 28 29.8M   28 8641k    0     0   665k      0  0:00:45  0:00:12  0:00:33  549k 30 29.8M   30 9235k    0     0   660k      0  0:00:46  0:00:13  0:00:33  544k 32 29.8M   32 9910k    0     0   661k      0  0:00:46  0:00:14  0:00:32  560k 34 29.8M   34 10.1M    0     0   653k      0  0:00:46  0:00:15  0:00:31  561k 36 29.8M   36 10.9M    0     0   656k      0  0:00:46  0:00:17  0:00:29  607k 38 29.8M   38 11.4M    0     0   651k      0  0:00:46  0:00:17  0:00:29  616k 40 29.8M   40 12.0M    0     0   647k      0  0:00:47  0:00:18  0:00:29  611k 42 29.8M   42 12.5M    0     0   643k      0  0:00:47  0:00:19  0:00:28  588k 43 29.8M   43 13.1M    0     0   640k      0  0:00:47  0:00:20  0:00:27  598k 46 29.8M   46 13.7M    0     0   640k      0  0:00:47  0:00:21  0:00:26  586k 48 29.8M   48 14.3M    0     0   641k      0  0:00:47  0:00:22  0:00:25  603k 50 29.8M   50 15.1M    0     0   645k      0  0:00:47  0:00:23  0:00:24  635k 52 29.8M   52 15.7M    0     0   645k      0  0:00:47  0:00:24  0:00:23  653k 54 29.8M   54 16.3M    0     0   641k      0  0:00:47  0:00:26  0:00:21  649k 56 29.8M   56 16.8M    0     0   639k      0  0:00:47  0:00:26  0:00:21  632k 57 29.8M   57 17.2M    0     0   632k      0  0:00:48  0:00:28  0:00:20  591k 59 29.8M   59 17.7M    0     0   628k      0  0:00:48  0:00:28  0:00:20  548k 61 29.8M   61 18.3M    0     0   626k      0  0:00:48  0:00:29  0:00:19  530k 63 29.8M   63 18.9M    0     0   626k      0  0:00:48  0:00:30  0:00:18  545k 65 29.8M   65 19.6M    0     0   628k      0  0:00:48  0:00:31  0:00:17  571k 68 29.8M   68 20.5M    0     0   637k      0  0:00:47  0:00:32  0:00:15  664k 73 29.8M   73 21.8M    0     0   659k      0  0:00:46  0:00:33  0:00:13  841k 79 29.8M   79 23.8M    0     0   698k      0  0:00:43  0:00:34  0:00:09 1131k 88 29.8M   88 26.5M    0     0   755k      0  0:00:40  0:00:36  0:00:04 1548k 96 29.8M   96 28.9M    0     0   799k      0  0:00:38  0:00:37  0:00:01 1876k100 29.8M  100 29.8M    0     0   804k      0  0:00:37  0:00:37 --:--:-- 1911k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2015-01-25 21:19:38.922:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-25 21:19:38.962:INFO::Started SelectChannelConnector@0.0.0.0:58463
+2015-01-25 21:19:55.627:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-25 21:19:55.631:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_time:end:1bcf5f60:start=1422220726353151108,finish=1422220796847028440,duration=70493877332e:start:077a3000npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"rotatable": false, "takesScreenshot": true, "acceptSslCerts": true, "cssSelectorsEnabled": true, "javascriptEnabled": true, "nativeEvents": false, "databaseEnabled": true, "locationContextEnabled": true, "platform": "LINUX", "browserName": "firefox", "webdriver.remote.sessionid": "021e284cd0b1438d907006d7f8844ea7", "hasMetadata": true, "version": "35.0", "applicationCacheEnabled": true, "webStorageEnabled": true, "handlesAlerts": true}, "sessionId": "021e284cd0b1438d907006d7f8844ea7", "hCode": 32319460, "class": "org.openqa.selenium.remote.Response"}' }
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"takesScreenshot": true, "webdriver.remote.sessionid": "2800558da0a242fdab38d2444852a8e5", "unexpectedAlertBehaviour": "dismiss", "ie.browserCommandLineSwitches": "", "browserAttachTimeout": 0, "ie.ensureCleanSession": false, "ignoreProtectedModeSettings": false, "platform": "WINDOWS", "version": "8", "ignoreZoomSetting": false, "nativeEvents": true, "handlesAlerts": true, "javascriptEnabled": true, "requireWindowFocus": false, "ie.usePerProcessProxy": false, "hasMetadata": true, "proxy": {"proxyAutoconfigUrl": "http://127.0.0.1:19876/proxy.pac", "proxyType": "pac"}, "initialBrowserUrl": "about:blank", "enableElementCacheCleanup": true, "cssSelectorsEnabled": true, "browserName": "internet explorer", "elementScrollBehavior": 0, "enablePersistentHover": true, "ie.forceCreateProcessApi": false}, "sessionId": "2800558da0a242fdab38d2444852a8e5", "hCode": 10977945, "class": "org.openqa.selenium.remote.Response"}' }
+Remote sauce test 'fb98003 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/6ad6806d0f6b4bd0b1cae7568617780d
+Remote sauce test 'fb98003 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/527bf1dccf644de1bbbde15a96d0a99d
+Remote sauce test 'fb98003 - googlechrome , Linux' started! https://saucelabs.com/jobs/301d442065a24a32baa4b0347cd51d84
+[iexplore 9] 
+Remote sauce test 'fb98003 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/6ad6806d0f6b4bd0b1cae7568617780d
+[iexplore 10] 
+Remote sauce test 'fb98003 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/527bf1dccf644de1bbbde15a96d0a99d
+a function in your .chain() failed: {"message":"Unexpected data in simpleCallback.","data":"ERROR The test with session id 6ad6806d0f6b4bd0b1cae7568617780d has already finished, and can't receive further commands\nYou can learn more at https://saucelabs.com/jobs/6ad6806d0f6b4bd0b1cae7568617780d\nFor help, please check https://docs.saucelabs.com/reference/troubleshooting-common-error-messages/"}
+a function in your .chain() failed: {"message":"Unexpected data in simpleCallback.","data":"ERROR The test with session id 527bf1dccf644de1bbbde15a96d0a99d has already finished, and can't receive further commands\nYou can learn more at https://saucelabs.com/jobs/527bf1dccf644de1bbbde15a96d0a99d\nFor help, please check https://docs.saucelabs.com/reference/troubleshooting-common-error-messages/"}
+[googlechrome] 
+Remote sauce test 'fb98003 - googlechrome , Linux' finished! https://saucelabs.com/jobs/301d442065a24a32baa4b0347cd51d84
+a function in your .chain() failed: {"message":"Unexpected data in simpleCallback.","data":"ERROR The test with session id 301d442065a24a32baa4b0347cd51d84 has already finished, and can't receive further commands\nYou can learn more at https://saucelabs.com/jobs/301d442065a24a32baa4b0347cd51d84\nFor help, please check https://docs.saucelabs.com/reference/troubleshooting-common-error-messages/"}
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+travis_time:end:077a3000:start=1422220796854876835,finish=1422221793540835744,duration=996685958909The command "tests/frontend/travis/runner.sh" exited with 0.
+
+Done. Your build exited with 0.

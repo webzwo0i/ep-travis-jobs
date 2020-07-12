@@ -1,0 +1,11 @@
+Job #3162.1:  more tidy
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2876)
+Commit:        bd2a6c3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2876
+Duration:      6 sec
+Started:       2016-01-10 15:49:02
+Finished:      2016-01-10 15:49:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3314.1:  Merge pull request #2991 from LokeshN/deactivate-settings
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b3b17c2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/25fd24609139...b3b17c21901b
+Duration:      5 min 29 sec
+Started:       2016-06-13 08:42:22
+Finished:      2016-06-13 08:47:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

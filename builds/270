@@ -1,0 +1,11 @@
+Job #270.1:  Merge pull request #1297 from marcelklehr/migrate-to-html10n
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        369e246
+Compare URL:   https://github.com/ether/etherpad-lite/compare/746396951d66...369e24682b79
+Duration:      7 min 32 sec
+Started:       2012-12-27 17:00:31
+Finished:      2012-12-27 17:08:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

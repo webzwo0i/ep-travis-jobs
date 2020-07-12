@@ -1,0 +1,11 @@
+Job #3019.1:  Create variable NODEJS to abstract the nodejs binary.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2752)
+Commit:        fdce862
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2752
+Duration:      10 min 59 sec
+Started:       2015-08-11 14:25:17
+Finished:      2015-08-11 14:36:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

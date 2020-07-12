@@ -1,0 +1,11 @@
+Job #332.1:  Added comments
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1342)
+Commit:        363fc86
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1342
+Duration:      13 min 26 sec
+Started:       2013-01-08 20:50:10
+Finished:      2013-01-08 21:03:36
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

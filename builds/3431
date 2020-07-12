@@ -1,0 +1,11 @@
+Job #3431.1:  Refactor code
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3136)
+Commit:        31eaf11
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3136
+Duration:      11 min 4 sec
+Started:       2017-02-07 18:28:25
+Finished:      2017-02-07 18:39:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

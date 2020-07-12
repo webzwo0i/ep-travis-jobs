@@ -1,0 +1,11 @@
+Job #329.1:  changelog and package file
+State:         failed
+Type:          pull request
+Branch:        master (PR #1337)
+Commit:        0c741c5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1337
+Duration:      13 min 28 sec
+Started:       2013-01-07 20:50:12
+Finished:      2013-01-07 21:03:40
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

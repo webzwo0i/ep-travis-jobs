@@ -1,0 +1,11 @@
+Job #3097.1:  Added variables for APIKEY, SESSIONKEY and plugin initialization file into settings.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2834)
+Commit:        ee1651f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2834
+Duration:      10 min 51 sec
+Started:       2015-11-16 07:26:01
+Finished:      2015-11-16 07:36:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #297.1:  stop enter reloading new page on search result request
+State:         failed
+Type:          push
+Branch:        enter-on-plugins
+Commit:        c370f77
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c370f779cc8f
+Duration:      6 min 51 sec
+Started:       2013-01-02 15:02:18
+Finished:      2013-01-02 15:09:09
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3321.1:  latest npm breaks stuff, yay
+State:         passed
+Type:          push
+Branch:        dep-bump
+Commit:        4d2c9e6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/357aeeb0b5ed...4d2c9e638524
+Duration:      5 min 40 sec
+Started:       2016-06-15 07:49:11
+Finished:      2016-06-15 07:54:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

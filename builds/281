@@ -1,0 +1,11 @@
+Job #281.1:  Fix docs: Correct API version for listAllGroups endpoint
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b31563e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/187ee21b8ebe...b31563ea0754
+Duration:      6 min 44 sec
+Started:       2012-12-28 15:38:05
+Finished:      2012-12-28 15:44:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

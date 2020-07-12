@@ -1,0 +1,11 @@
+Job #3154.1:  herp
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2876)
+Commit:        786019d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2876
+Duration:      11 min 23 sec
+Started:       2016-01-08 14:50:49
+Finished:      2016-01-08 15:02:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

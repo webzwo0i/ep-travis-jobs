@@ -1,0 +1,11 @@
+Job #3446.1:  Merge branch 'develop' into chat-bubble
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3064)
+Commit:        697ee9e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3064
+Duration:      13 min 51 sec
+Started:       2017-03-29 17:33:34
+Finished:      2017-03-29 17:47:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2702.1:  reintroduce removed api points that were removed by mistake
+State:         failed
+Type:          push
+Branch:        append-chat-api
+Commit:        27ae486
+Compare URL:   https://github.com/ether/etherpad-lite/compare/32a09ff46103...27ae48686d43
+Duration:      21 min 54 sec
+Started:       2015-04-01 14:59:04
+Finished:      2015-04-01 15:20:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

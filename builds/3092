@@ -1,0 +1,11 @@
+Job #3092.1:  Merge pull request #2828 from Komasa/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ed37f6e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/062e6f308fe3...ed37f6efe302
+Duration:      6 min 20 sec
+Started:       2015-11-05 00:26:01
+Finished:      2015-11-05 00:32:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

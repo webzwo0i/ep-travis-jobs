@@ -1,0 +1,11 @@
+Job #3087.1:  Merge pull request #2819 from bradarv90/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d05fa6d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c575c8b4472f...d05fa6d97e2e
+Duration:      8 min 46 sec
+Started:       2015-11-02 14:10:41
+Finished:      2015-11-02 14:19:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

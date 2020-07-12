@@ -1,0 +1,11 @@
+Job #3046.1:  Merge pull request #2791 from fread/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a09044a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/77496b357cd0...a09044a6f3fa
+Duration:      5 min 35 sec
+Started:       2015-10-04 23:17:46
+Finished:      2015-10-04 23:23:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

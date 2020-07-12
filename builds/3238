@@ -1,0 +1,11 @@
+Job #3238.1:  forgot this one
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2940)
+Commit:        4ccbefe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2940
+Duration:      8 min 33 sec
+Started:       2016-03-26 15:02:35
+Finished:      2016-03-26 15:11:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

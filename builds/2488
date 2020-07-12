@@ -1,0 +1,11 @@
+Job #2488.1:  beginning of a hook, needs docs etc
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2487)
+Commit:        46e4bb1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2487
+Duration:      20 min 40 sec
+Started:       2015-01-24 05:10:33
+Finished:      2015-01-24 05:31:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2822.1:  some more css fixes
+State:         failed
+Type:          push
+Branch:        iframes-must-die
+Commit:        ea7f407
+Compare URL:   https://github.com/ether/etherpad-lite/compare/99a6e2ab8f80...ea7f4079fba1
+Duration:      23 min 12 sec
+Started:       2015-04-12 18:31:00
+Finished:      2015-04-12 18:54:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

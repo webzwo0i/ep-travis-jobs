@@ -1,0 +1,11 @@
+Job #3268.1:  Add version 1.6.0 changelogs
+State:         passed
+Type:          push
+Branch:        master
+Commit:        5ed9f27
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dcfb28799035...5ed9f2736a47
+Duration:      6 min 43 sec
+Started:       2016-04-24 21:33:02
+Finished:      2016-04-24 21:39:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

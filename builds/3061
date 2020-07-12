@@ -1,0 +1,11 @@
+Job #3061.1:  Merge pull request #2762 from storytouch/exportTagsAsArrays
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        504cc10
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0ab3f3133e45...504cc102a023
+Duration:      5 min 18 sec
+Started:       2015-10-17 18:25:23
+Finished:      2015-10-17 18:30:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

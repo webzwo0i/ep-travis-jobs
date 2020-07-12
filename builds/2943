@@ -1,0 +1,11 @@
+Job #2943.1:  Merge pull request #2695 from goldquest/dev_overallImportBug
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8af8c37
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a0aa9470a383...8af8c3789605
+Duration:      6 min 9 sec
+Started:       2015-06-17 19:29:46
+Finished:      2015-06-17 19:35:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

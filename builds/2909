@@ -1,0 +1,11 @@
+Job #2909.1:  Merge branch 'develop' of github.com:tudorilisoi/etherpad-lite into develop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2666)
+Commit:        6f0eba0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2666
+Duration:      10 min 50 sec
+Started:       2015-05-16 09:59:46
+Finished:      2015-05-16 10:10:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3043.1:  Support version 4 of node.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2787)
+Commit:        854788b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2787
+Duration:      10 min 54 sec
+Started:       2015-09-26 16:34:20
+Finished:      2015-09-26 16:45:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

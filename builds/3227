@@ -1,0 +1,11 @@
+Job #3227.1:  extending get attribute on selection
+State:         passed
+Type:          push
+Branch:        getATtriuteOnSelection-extend
+Commit:        62be430
+Compare URL:   https://github.com/ether/etherpad-lite/commit/62be43020324
+Duration:      7 min 57 sec
+Started:       2016-03-26 02:21:34
+Finished:      2016-03-26 02:29:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

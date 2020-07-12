@@ -1,0 +1,11 @@
+Job #3276.1:  Updated several dependencies to latest version
+State:         passed
+Type:          push
+Branch:        dependency_updates
+Commit:        2c177f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/14e1f3bf2229...2c177f553a94
+Duration:      5 min 40 sec
+Started:       2016-05-03 07:42:49
+Finished:      2016-05-03 07:48:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

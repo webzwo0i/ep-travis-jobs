@@ -1,0 +1,11 @@
+Job #3374.1:  Merge https://github.com/ether/etherpad-lite into patch-3
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3044)
+Commit:        5aa13a1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3044
+Duration:      11 min 2 sec
+Started:       2016-09-30 19:23:07
+Finished:      2016-09-30 19:34:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

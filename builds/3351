@@ -1,0 +1,11 @@
+Job #3351.1:  Index: No-referrer
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3044)
+Commit:        d1070ad
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3044
+Duration:      11 min 56 sec
+Started:       2016-08-23 22:15:49
+Finished:      2016-08-23 22:27:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

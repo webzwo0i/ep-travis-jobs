@@ -1,0 +1,11 @@
+Job #3311.1:  Merge pull request #2998 from Gared/fix_db_migrate_script
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6ee10f4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/44370f11be18...6ee10f4ebed0
+Duration:      12 min 27 sec
+Started:       2016-06-12 17:05:51
+Finished:      2016-06-12 17:18:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

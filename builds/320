@@ -1,0 +1,11 @@
+Job #320.1:  Merge pull request #1333 from mluto/fix-readme-link
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        042c1c0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1782c68d4d86...042c1c0c98ea
+Duration:      8 min 26 sec
+Started:       2013-01-07 17:25:30
+Finished:      2013-01-07 17:33:56
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3172.1:  Merge pull request #2886 from bhldev/padOptionsLang
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d994bae
+Compare URL:   https://github.com/ether/etherpad-lite/compare/13d9bdf03acd...d994baeefaee
+Duration:      5 min 28 sec
+Started:       2016-01-20 00:52:42
+Finished:      2016-01-20 00:58:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

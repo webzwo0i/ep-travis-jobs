@@ -1,0 +1,11 @@
+Job #3191.1:  log failing export request as a warning
+State:         passed
+Type:          push
+Branch:        export-regressions
+Commit:        2ab7d75
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83d8080748a0^...2ab7d758593e
+Duration:      4 min 56 sec
+Started:       2016-02-15 00:35:32
+Finished:      2016-02-15 00:40:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

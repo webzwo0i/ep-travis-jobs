@@ -1,0 +1,11 @@
+Job #3083.1:  Add callstack to aceSelectionChanged context
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2823)
+Commit:        206fe93
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2823
+Duration:      10 min 39 sec
+Started:       2015-10-30 15:15:25
+Finished:      2015-10-30 15:26:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

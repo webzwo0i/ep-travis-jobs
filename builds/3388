@@ -1,0 +1,11 @@
+Job #3388.1:  Updated npm to 4.0.2 and removed recursive searching for ep-plugins
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3084)
+Commit:        cf6644b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3084
+Duration:      11 min 2 sec
+Started:       2016-11-20 11:53:27
+Finished:      2016-11-20 12:04:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

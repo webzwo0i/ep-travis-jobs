@@ -1,0 +1,11 @@
+Job #341.1:  Added listAllPads api docu
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1342)
+Commit:        ea915fa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1342
+Duration:      21 sec
+Started:       2013-01-11 13:13:26
+Finished:      2013-01-11 13:13:47
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

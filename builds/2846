@@ -1,0 +1,11 @@
+Job #2846.1:  Merge pull request #2618 from Gared/win_node_version
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        70d338c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ee10a21d829c...70d338c7d5bd
+Duration:      6 min 45 sec
+Started:       2015-04-16 23:00:07
+Finished:      2015-04-16 23:06:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

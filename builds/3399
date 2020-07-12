@@ -1,0 +1,11 @@
+Job #3399.1:  Try to init cookies before testing if it exists
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3000)
+Commit:        acf89e8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3000
+Duration:      10 min 52 sec
+Started:       2016-12-20 21:59:04
+Finished:      2016-12-20 22:09:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

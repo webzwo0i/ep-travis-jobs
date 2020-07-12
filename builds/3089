@@ -1,0 +1,11 @@
+Job #3089.1:  Create hook exportHtmlAdditionalTagsWithData
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2827)
+Commit:        5503f80
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2827
+Duration:      10 min 51 sec
+Started:       2015-11-03 10:27:24
+Finished:      2015-11-03 10:38:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

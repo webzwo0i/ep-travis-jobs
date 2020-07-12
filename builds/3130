@@ -1,0 +1,11 @@
+Job #3130.1:  Use new exportAvailable() check to include check for SOffice along with Abiword in importexport hook
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2859)
+Commit:        9dad6c4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2859
+Duration:      10 min 33 sec
+Started:       2015-12-18 07:15:41
+Finished:      2015-12-18 07:26:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

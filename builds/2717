@@ -1,0 +1,11 @@
+Job #2717.1:  title for chat
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2566)
+Commit:        dc9e85d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2566
+Duration:      10 min 17 sec
+Started:       2015-04-03 14:07:26
+Finished:      2015-04-03 14:17:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

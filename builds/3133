@@ -1,0 +1,11 @@
+Job #3133.1:  Merge pull request #2859 from cmbirk/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        41ced5e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34d757ff7ffb...41ced5e2390a
+Duration:      5 min 9 sec
+Started:       2015-12-21 17:13:43
+Finished:      2015-12-21 17:18:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

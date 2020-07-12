@@ -1,0 +1,11 @@
+Job #3357.1:  Account for any top margin on the first line.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3048)
+Commit:        34adc66
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3048
+Duration:      12 min 15 sec
+Started:       2016-08-30 20:21:53
+Finished:      2016-08-30 20:34:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

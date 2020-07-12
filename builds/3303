@@ -1,0 +1,11 @@
+Job #3303.1:  working colors
+State:         passed
+Type:          push
+Branch:        export-author-color
+Commit:        5cd781d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d408575d604f...5cd781d09fd4
+Duration:      8 min 37 sec
+Started:       2016-05-31 00:50:51
+Finished:      2016-05-31 00:59:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2764.1:  fix an issue in the path handling that allowed directory traversal
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2593)
+Commit:        d74280a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2593
+Duration:      10 min 46 sec
+Started:       2015-04-11 03:04:24
+Finished:      2015-04-11 03:15:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

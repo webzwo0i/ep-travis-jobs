@@ -1,0 +1,11 @@
+Job #3199.1:  Backend testing
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2914)
+Commit:        f8eb5c2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2914
+Duration:      11 min 10 sec
+Started:       2016-03-04 19:03:04
+Finished:      2016-03-04 19:14:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

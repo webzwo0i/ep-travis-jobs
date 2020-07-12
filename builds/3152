@@ -1,0 +1,11 @@
+Job #3152.1:  removal
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        ae61109
+Compare URL:   https://github.com/ether/etherpad-lite/compare/793b34d17bb0...ae6110919f02
+Duration:      14 min 32 sec
+Started:       2016-01-08 14:41:12
+Finished:      2016-01-08 14:55:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3051.1:  if granularity is negative, endNum is negative and loop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2801)
+Commit:        b3fc2d2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2801
+Duration:      7 sec
+Started:       2015-10-09 15:02:33
+Finished:      2015-10-09 15:02:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

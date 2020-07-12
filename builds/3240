@@ -1,0 +1,11 @@
+Job #3240.1:  Merge pull request #2931 from Gared/improve_node_version_check
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b698927
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9b1598d50c22...b69892747485
+Duration:      11 min 2 sec
+Started:       2016-03-26 15:10:52
+Finished:      2016-03-26 15:21:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

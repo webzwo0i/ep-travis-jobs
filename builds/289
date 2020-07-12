@@ -1,0 +1,11 @@
+Job #289.1:  release v1.2.3
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1310)
+Commit:        d94558b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1310
+Duration:      13 min 21 sec
+Started:       2012-12-31 15:32:08
+Finished:      2012-12-31 15:45:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

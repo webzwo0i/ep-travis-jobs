@@ -1,0 +1,11 @@
+Job #325.1:  Merge pull request #1336 from poscar/ie_console_fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5453764
+Compare URL:   https://github.com/ether/etherpad-lite/compare/042c1c0c98ea...5453764e31ec
+Duration:      8 min 45 sec
+Started:       2013-01-07 19:49:03
+Finished:      2013-01-07 19:57:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

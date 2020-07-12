@@ -1,0 +1,11 @@
+Job #3157.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into drag-and-drop-between-frames-sandbox
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        ef9cf97
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f80407c6ffab...ef9cf974a260
+Duration:      8 min 19 sec
+Started:       2016-01-10 15:39:44
+Finished:      2016-01-10 15:48:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

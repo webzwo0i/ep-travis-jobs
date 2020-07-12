@@ -1,0 +1,11 @@
+Job #3216.1:  Merge pull request #2932 from Gared/fix_xss_iframe_link
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fb7856f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/175c29ff66a0...fb7856fc8f60
+Duration:      5 min 9 sec
+Started:       2016-03-20 16:30:37
+Finished:      2016-03-20 16:35:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

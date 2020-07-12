@@ -1,0 +1,11 @@
+Job #3233.1:  docs w/ improved method
+State:         passed
+Type:          push
+Branch:        getATtriuteOnSelection-extend
+Commit:        375ac50
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1d1354e2127a...375ac50e141c
+Duration:      9 min 16 sec
+Started:       2016-03-26 04:05:03
+Finished:      2016-03-26 04:14:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

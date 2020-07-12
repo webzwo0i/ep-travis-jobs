@@ -1,0 +1,11 @@
+Job #3025.1:  Merge pull request #2756 from Gared/fix_append_chat_message_handle
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9e68744
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7170a6a8cb9d...9e68744ec985
+Duration:      5 min 55 sec
+Started:       2015-08-30 18:16:33
+Finished:      2015-08-30 18:22:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

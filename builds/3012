@@ -1,0 +1,11 @@
+Job #3012.1:  Release version 1.5.7 (changelog)
+State:         passed
+Type:          push
+Branch:        release/1.5.7
+Commit:        6fae670
+Compare URL:   https://github.com/ether/etherpad-lite/compare/93fd05ba0222...6fae670476cd
+Duration:      9 min 33 sec
+Started:       2015-08-05 19:27:19
+Finished:      2015-08-05 19:36:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

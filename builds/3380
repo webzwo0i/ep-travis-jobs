@@ -1,0 +1,11 @@
+Job #3380.1:  Add additional link for demoing
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3067)
+Commit:        4a992db
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3067
+Duration:      10 min 54 sec
+Started:       2016-10-28 06:16:13
+Finished:      2016-10-28 06:27:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #342.1:  Modified pad list manager to return an ordered list.
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1342)
+Commit:        07d31a2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1342
+Duration:      13 min 33 sec
+Started:       2013-01-11 19:01:42
+Finished:      2013-01-11 19:15:15
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

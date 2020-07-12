@@ -1,0 +1,11 @@
+Job #2533.1:  better variable name
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0216a10
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a9910c741ef7...0216a10a1292
+Duration:      8 min 5 sec
+Started:       2015-01-27 21:14:45
+Finished:      2015-01-27 21:22:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

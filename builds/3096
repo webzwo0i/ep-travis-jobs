@@ -1,0 +1,11 @@
+Job #3096.1:  Protects against a null atext in cloneAText
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2831)
+Commit:        c81ac6d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2831
+Duration:      11 min 3 sec
+Started:       2015-11-10 16:51:56
+Finished:      2015-11-10 17:02:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

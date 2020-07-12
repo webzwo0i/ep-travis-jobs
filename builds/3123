@@ -1,0 +1,11 @@
+Job #3123.1:  Merge pull request #2851 from ether/plugin-hook-for-settings-earlier
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        01335bc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1a303f06b642...01335bcf8dc0
+Duration:      21 min 42 sec
+Started:       2015-12-02 12:56:33
+Finished:      2015-12-02 13:18:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

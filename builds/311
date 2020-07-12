@@ -1,0 +1,11 @@
+Job #311.1:  Added error-handling for npm
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1330)
+Commit:        b3c72cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1330
+Duration:      13 min 36 sec
+Started:       2013-01-06 20:21:11
+Finished:      2013-01-06 20:34:47
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

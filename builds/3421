@@ -1,0 +1,11 @@
+Job #3421.1:  Merge pull request #3123 from Sjord/fix-hook-called-from
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f2a22f1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d65ab4d80b8b...f2a22f197db1
+Duration:      5 min 57 sec
+Started:       2017-01-17 15:20:12
+Finished:      2017-01-17 15:26:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

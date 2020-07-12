@@ -1,0 +1,11 @@
+Job #3274.1:  Check if author has attributes for pad yet
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2914)
+Commit:        fbca583
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2914
+Duration:      11 min 4 sec
+Started:       2016-05-01 19:11:28
+Finished:      2016-05-01 19:22:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

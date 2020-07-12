@@ -1,0 +1,11 @@
+Job #2784.1:  IE list fixes
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        27aa71f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34c5441392f8...27aa71f3a408
+Duration:      9 min 18 sec
+Started:       2015-04-11 14:17:50
+Finished:      2015-04-11 14:27:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

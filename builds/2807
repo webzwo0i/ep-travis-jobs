@@ -1,0 +1,11 @@
+Job #2807.1:  Merge pull request #2604 from ether/pad-options
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e3f95d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4a70837de914...e3f95d0c9cdf
+Duration:      9 min 28 sec
+Started:       2015-04-11 23:34:51
+Finished:      2015-04-11 23:44:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

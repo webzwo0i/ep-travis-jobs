@@ -1,0 +1,11 @@
+Job #284.1:  Fix #1307: Chrome needs console.log to be called on console obj
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1308)
+Commit:        f700fa6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1308
+Duration:      13 min 22 sec
+Started:       2012-12-30 11:00:40
+Finished:      2012-12-30 11:14:02
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

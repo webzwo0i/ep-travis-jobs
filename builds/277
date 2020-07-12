@@ -1,0 +1,11 @@
+Job #277.1:  Merge pull request #1304 from ether/release/releases-1.2.2
+State:         failed
+Type:          push
+Branch:        master
+Commit:        6a65a47
+Compare URL:   https://github.com/ether/etherpad-lite/compare/110620696eeb...6a65a4744401
+Duration:      8 min 28 sec
+Started:       2012-12-27 22:16:46
+Finished:      2012-12-27 22:25:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3174.1:  Timeslider Not Translated Issue 2885
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2890)
+Commit:        c7321f6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2890
+Duration:      11 min 12 sec
+Started:       2016-01-20 08:33:42
+Finished:      2016-01-20 08:44:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

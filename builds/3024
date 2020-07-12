@@ -1,0 +1,11 @@
+Job #3024.1:  Revert "Adding missing code to make toolbar be fixed on top/bottom of the screen for iOS devices."
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2767)
+Commit:        b4fc2aa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2767
+Duration:      10 min 51 sec
+Started:       2015-08-28 23:28:51
+Finished:      2015-08-28 23:39:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

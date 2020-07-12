@@ -1,0 +1,11 @@
+Job #2823.1:  some more css fixes
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2607)
+Commit:        07974eb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2607
+Duration:      12 min 9 sec
+Started:       2015-04-12 18:30:58
+Finished:      2015-04-12 18:43:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

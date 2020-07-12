@@ -1,0 +1,11 @@
+Job #3218.1:  Update german translation from translatewiki
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2935)
+Commit:        694c2dd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2935
+Duration:      11 min 35 sec
+Started:       2016-03-23 12:58:58
+Finished:      2016-03-23 13:10:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

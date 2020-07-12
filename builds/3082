@@ -1,0 +1,11 @@
+Job #3082.1:  Allow plugins handle "esc" key event
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2822)
+Commit:        eca0169
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2822
+Duration:      10 min 48 sec
+Started:       2015-10-29 20:02:37
+Finished:      2015-10-29 20:13:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

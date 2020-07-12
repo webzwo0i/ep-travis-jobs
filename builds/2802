@@ -1,0 +1,11 @@
+Job #2802.1:  cache template data in memory, unless eejs.NO_CACHE = true
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2603)
+Commit:        b06e636
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2603
+Duration:      10 min 47 sec
+Started:       2015-04-11 22:29:28
+Finished:      2015-04-11 22:40:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

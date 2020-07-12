@@ -1,0 +1,11 @@
+Job #3306.1:  Merge pull request #2986 from Gared/fix_existssync_deprecated
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5a86825
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3ea27d26132e...5a868254e3e3
+Duration:      9 min 10 sec
+Started:       2016-06-07 21:31:49
+Finished:      2016-06-07 21:40:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3016.1:  Merge pull request #2745 from ether/master
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        02c022a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a0ca051801ba...02c022aab14f
+Duration:      6 min 43 sec
+Started:       2015-08-05 20:20:44
+Finished:      2015-08-05 20:27:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

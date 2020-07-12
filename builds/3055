@@ -1,0 +1,11 @@
+Job #3055.1:  Merge pull request #2730 from emilyxxie/clientready_hook
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9d29b15
+Compare URL:   https://github.com/ether/etherpad-lite/compare/22bf9c929796...9d29b15def15
+Duration:      5 min 50 sec
+Started:       2015-10-10 13:31:25
+Finished:      2015-10-10 13:37:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3161.1:  more tidy
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        935b921
+Compare URL:   https://github.com/ether/etherpad-lite/compare/50c6b5ed6153...935b921c2b1a
+Duration:      21 min 52 sec
+Started:       2016-01-10 15:42:06
+Finished:      2016-01-10 16:03:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

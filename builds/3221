@@ -1,0 +1,11 @@
+Job #3221.1:  notes
+State:         passed
+Type:          push
+Branch:        remove-sessions-script
+Commit:        459f252
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f725e36523f3^...459f252db909
+Duration:      8 min 27 sec
+Started:       2016-03-25 08:30:09
+Finished:      2016-03-25 08:38:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

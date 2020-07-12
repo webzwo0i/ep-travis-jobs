@@ -1,0 +1,11 @@
+Job #3279.1:  Pass through the "item" parameter to registerAceCommand callbacks.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2929)
+Commit:        5bbd38e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2929
+Duration:      11 min 20 sec
+Started:       2016-05-07 03:56:39
+Finished:      2016-05-07 04:07:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

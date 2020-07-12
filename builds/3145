@@ -1,0 +1,11 @@
+Job #3145.1:  Use require("ueberdb2") for requiring new version of ueberDB. Fixes #2869
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2872)
+Commit:        079d156
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2872
+Duration:      10 min 51 sec
+Started:       2016-01-05 22:55:08
+Finished:      2016-01-05 23:05:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

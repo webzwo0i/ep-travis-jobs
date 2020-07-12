@@ -1,0 +1,11 @@
+Job #2743.1:  fix minify route path; update deprecated calls
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2584)
+Commit:        997032f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2584
+Duration:      10 min 43 sec
+Started:       2015-04-10 12:54:30
+Finished:      2015-04-10 13:05:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

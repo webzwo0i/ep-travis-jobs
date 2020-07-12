@@ -1,0 +1,11 @@
+Job #3355.1:  Use an EEJS template for HTML export instead of inlining it in the JS code.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3045)
+Commit:        bf43567
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3045
+Duration:      12 min 19 sec
+Started:       2016-08-25 01:27:02
+Finished:      2016-08-25 01:39:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

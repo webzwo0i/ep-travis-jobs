@@ -1,0 +1,11 @@
+Job #2924.1:  Merge pull request #2678 from shimaore/patch-2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bfb34ff
+Compare URL:   https://github.com/ether/etherpad-lite/compare/757ad765d3d7...bfb34ff8060b
+Duration:      9 min 14 sec
+Started:       2015-05-22 12:30:55
+Finished:      2015-05-22 12:40:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

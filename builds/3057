@@ -1,0 +1,11 @@
+Job #3057.1:  Create setting to control if a new line will be indented or not
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2805)
+Commit:        c28b46b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2805
+Duration:      10 min 46 sec
+Started:       2015-10-13 23:51:58
+Finished:      2015-10-14 00:02:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

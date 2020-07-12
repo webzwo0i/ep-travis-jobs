@@ -1,0 +1,11 @@
+Job #3272.1:  Add author attributes
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2914)
+Commit:        46bca71
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2914
+Duration:      11 min 39 sec
+Started:       2016-04-27 23:31:32
+Finished:      2016-04-27 23:43:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

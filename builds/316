@@ -1,0 +1,11 @@
+Job #316.1:  use .val() instead of [0]
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1317)
+Commit:        c4f1e0f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1317
+Duration:      13 min 20 sec
+Started:       2013-01-07 12:28:14
+Finished:      2013-01-07 12:41:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

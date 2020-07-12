@@ -1,0 +1,11 @@
+Job #3124.1:  whoops
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e2a0e3c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/01335bcf8dc0...e2a0e3cd7fea
+Duration:      6 min 4 sec
+Started:       2015-12-02 13:11:31
+Finished:      2015-12-02 13:17:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3410.1:  Update CHANGELOG.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3103)
+Commit:        c77b79d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3103
+Duration:      19 sec
+Started:       2016-12-23 23:19:39
+Finished:      2016-12-23 23:19:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

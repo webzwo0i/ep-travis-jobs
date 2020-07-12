@@ -1,0 +1,11 @@
+Job #3105.1:  added setting to make author text colored in read only
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2841)
+Commit:        2ccdf36
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2841
+Duration:      11 min 11 sec
+Started:       2015-11-25 22:35:11
+Finished:      2015-11-25 22:46:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

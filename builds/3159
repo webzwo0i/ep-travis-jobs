@@ -1,0 +1,11 @@
+Job #3159.1:  tidy up
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        50c6b5e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ef9cf974a260...50c6b5ed6153
+Duration:      14 min 49 sec
+Started:       2016-01-10 15:40:42
+Finished:      2016-01-10 15:55:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3077.1:  Fix flaky tests introduced by #2805
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2817)
+Commit:        8bdad49
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2817
+Duration:      10 min 41 sec
+Started:       2015-10-26 13:36:51
+Finished:      2015-10-26 13:47:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

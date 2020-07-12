@@ -1,0 +1,11 @@
+Job #3345.1:  Fix value to be valid JSON.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3035)
+Commit:        465d2e6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3035
+Duration:      11 min 52 sec
+Started:       2016-08-12 20:37:10
+Finished:      2016-08-12 20:49:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

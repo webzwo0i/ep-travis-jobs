@@ -1,0 +1,11 @@
+Job #287.1:  release v1.2.3
+State:         failed
+Type:          push
+Branch:        release/releases-1.2.3
+Commit:        e2602ab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/21668361a3ee^...e2602ab74041
+Duration:      7 min 14 sec
+Started:       2012-12-31 15:35:03
+Finished:      2012-12-31 15:42:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

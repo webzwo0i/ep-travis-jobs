@@ -1,0 +1,11 @@
+Job #3117.1:  Update aceEditorCSS hook documentation
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2850)
+Commit:        97a580f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2850
+Duration:      10 min 45 sec
+Started:       2015-12-02 12:17:12
+Finished:      2015-12-02 12:27:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

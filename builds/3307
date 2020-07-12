@@ -1,0 +1,11 @@
+Job #3307.1:  Merge pull request #2957 from ether/dependency_updates
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        44370f1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5a868254e3e3...44370f11be18
+Duration:      9 min 48 sec
+Started:       2016-06-07 21:33:39
+Finished:      2016-06-07 21:43:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

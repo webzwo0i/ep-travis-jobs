@@ -1,0 +1,11 @@
+Job #2945.1:  Allow a return keypress in a list on the last line of a pad to create a new
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2696)
+Commit:        84b3cf7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2696
+Duration:      10 min 46 sec
+Started:       2015-06-19 20:31:17
+Finished:      2015-06-19 20:42:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

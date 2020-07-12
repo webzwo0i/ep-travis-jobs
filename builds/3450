@@ -1,0 +1,11 @@
+Job #3450.1:  Localisation updates from https://translatewiki.net.
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        cf6b246
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ed029b599ee8...cf6b246688ea
+Duration:      11 min 7 sec
+Started:       2017-04-03 07:26:13
+Finished:      2017-04-03 07:37:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

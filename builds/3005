@@ -1,0 +1,11 @@
+Job #3005.1:  Fix link to etherpad-lite on GitHub
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2741)
+Commit:        29811d9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2741
+Duration:      10 min 50 sec
+Started:       2015-08-04 04:56:03
+Finished:      2015-08-04 05:06:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

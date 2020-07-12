@@ -1,0 +1,11 @@
+Job #331.1:  Merge branch 'master' of github.com:ether/etherpad-lite
+State:         failed
+Type:          push
+Branch:        master
+Commit:        344e8be
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1f37475ae8c2...344e8be32829
+Duration:      6 min 37 sec
+Started:       2013-01-07 20:56:09
+Finished:      2013-01-07 21:02:46
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

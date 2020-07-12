@@ -1,0 +1,11 @@
+Job #3405.1:  Merge pull request #3101 from Gared/fix_crash_on_invalid_export
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b8a4648
+Compare URL:   https://github.com/ether/etherpad-lite/compare/caabb4d8f71a...b8a4648d6dbe
+Duration:      5 min 29 sec
+Started:       2016-12-23 21:15:55
+Finished:      2016-12-23 21:21:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

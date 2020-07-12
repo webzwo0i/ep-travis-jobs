@@ -1,0 +1,11 @@
+Job #3413.1:  Merge pull request #3106 from alxlo/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        087d4ad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/423d8e584eaf...087d4ad95c45
+Duration:      5 min 39 sec
+Started:       2016-12-27 13:12:49
+Finished:      2016-12-27 13:18:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

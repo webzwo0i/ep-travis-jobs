@@ -1,0 +1,11 @@
+Job #3139.1:  Bump ueberDB version
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2865)
+Commit:        1e81c28
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2865
+Duration:      7 sec
+Started:       2015-12-25 21:40:33
+Finished:      2015-12-25 21:40:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

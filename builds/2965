@@ -1,0 +1,11 @@
+Job #2965.1:  attempt to add hooks, socket and color utils but doesnt seem to work?
+State:         passed
+Type:          push
+Branch:        prefetch
+Commit:        26ba5ef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0f46f04dee1c...26ba5efd2548
+Duration:      17 min 32 sec
+Started:       2015-06-21 14:09:46
+Finished:      2015-06-21 14:27:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

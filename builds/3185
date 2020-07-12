@@ -1,0 +1,11 @@
+Job #3185.1:  Merge pull request #2862 from Gared/set_mysql_connection_charset
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5f5d8ca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/319ebb29fd4c...5f5d8cada8f7
+Duration:      5 min 33 sec
+Started:       2016-02-02 21:17:52
+Finished:      2016-02-02 21:23:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

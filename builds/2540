@@ -1,0 +1,11 @@
+Job #2540.1:  fix scroll issue where focus is not well managed
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2507)
+Commit:        a27f735
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2507
+Duration:      11 min 24 sec
+Started:       2015-02-08 00:25:04
+Finished:      2015-02-08 00:36:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

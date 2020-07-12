@@ -1,0 +1,11 @@
+Job #343.1:  Fix broken relative paths
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2786807
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9f92b2156f4a...2786807f2f2b
+Duration:      3 min 46 sec
+Started:       2013-01-12 18:42:27
+Finished:      2013-01-12 18:46:13
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

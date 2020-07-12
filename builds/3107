@@ -1,0 +1,11 @@
+Job #3107.1:  Make use of proper ellipsis
+State:         errored
+Type:          pull request
+Branch:        master (PR #2847)
+Commit:        eda44da
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2847
+Duration:      10 min 45 sec
+Started:       2015-11-28 12:32:12
+Finished:      2015-11-28 12:42:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

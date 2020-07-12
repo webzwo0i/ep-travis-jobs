@@ -1,0 +1,11 @@
+Job #3063.1:  Allow LibreOffice to be used when exporting a pad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2813)
+Commit:        3fed814
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2813
+Duration:      11 min 5 sec
+Started:       2015-10-20 21:08:44
+Finished:      2015-10-20 21:19:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

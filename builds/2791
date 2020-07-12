@@ -1,0 +1,11 @@
+Job #2791.1:  fix: only match /javascript/* for caching middleware
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2600)
+Commit:        461429e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2600
+Duration:      10 min 42 sec
+Started:       2015-04-11 16:59:16
+Finished:      2015-04-11 17:09:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

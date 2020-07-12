@@ -1,0 +1,11 @@
+Job #3271.1:  testing
+State:         passed
+Type:          push
+Branch:        deb-package-builder
+Commit:        67832cb
+Compare URL:   https://github.com/ether/etherpad-lite/commit/67832cb46396
+Duration:      7 min
+Started:       2016-04-27 18:51:08
+Finished:      2016-04-27 18:58:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

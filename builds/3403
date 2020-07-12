@@ -1,0 +1,11 @@
+Job #3403.1:  Fixed crash on invalid export url
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3101)
+Commit:        fac016e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3101
+Duration:      10 min 51 sec
+Started:       2016-12-22 23:06:46
+Finished:      2016-12-22 23:17:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

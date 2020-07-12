@@ -1,0 +1,11 @@
+Job #3302.1:  UI
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2994)
+Commit:        4f304f2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2994
+Duration:      12 min 14 sec
+Started:       2016-05-31 00:25:06
+Finished:      2016-05-31 00:37:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

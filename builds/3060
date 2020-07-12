@@ -1,0 +1,11 @@
+Job #3060.1:  Pedantic Space
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2808)
+Commit:        9c0f6ac
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2808
+Duration:      10 min 44 sec
+Started:       2015-10-15 03:03:40
+Finished:      2015-10-15 03:14:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

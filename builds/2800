@@ -1,0 +1,11 @@
+Job #2800.1:  Merge pull request #2602 from devoidfury/fix/import-large-etherpad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4a70837
+Compare URL:   https://github.com/ether/etherpad-lite/compare/43687f6e8b35...4a70837de914
+Duration:      9 min 29 sec
+Started:       2015-04-11 21:10:05
+Finished:      2015-04-11 21:19:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

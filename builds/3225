@@ -1,0 +1,11 @@
+Job #3225.1:  bump ueber for a version that supports remove in couch
+State:         passed
+Type:          push
+Branch:        remove-sessions-script
+Commit:        47f43e7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e2914831cad...47f43e709451
+Duration:      9 min 22 sec
+Started:       2016-03-25 08:42:58
+Finished:      2016-03-25 08:52:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3069.1:  Merge pull request #2813 from simong/export-libreoffice
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5652adb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/928df3c6cb3d...5652adb4eb3d
+Duration:      22 min 15 sec
+Started:       2015-10-22 17:12:42
+Finished:      2015-10-22 17:34:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

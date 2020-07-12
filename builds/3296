@@ -1,0 +1,11 @@
+Job #3296.1:  first ditch, test still not working but hitting API URL working
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2994)
+Commit:        58a93a3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2994
+Duration:      12 min 42 sec
+Started:       2016-05-30 10:04:45
+Finished:      2016-05-30 10:17:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

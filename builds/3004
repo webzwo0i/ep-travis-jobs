@@ -1,0 +1,11 @@
+Job #3004.1:  Avoid space removal when pasting text from word processor.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2739)
+Commit:        310d6cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2739
+Duration:      11 min 2 sec
+Started:       2015-07-27 17:03:40
+Finished:      2015-07-27 17:14:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3149.1:  hrm, removal
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        793b34d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f16616d23bbb...793b34d17bb0
+Duration:      14 min 38 sec
+Started:       2016-01-08 14:41:19
+Finished:      2016-01-08 14:55:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2891.1:  Bugfix. Description of bug at https://github.com/tm-linkwerk/ep_linebreak/blob/WR-72-linebreak-cursorverhalten/static/hooks.js#L94
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2655)
+Commit:        8152e0f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2655
+Duration:      10 min 51 sec
+Started:       2015-05-07 17:00:42
+Finished:      2015-05-07 17:11:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

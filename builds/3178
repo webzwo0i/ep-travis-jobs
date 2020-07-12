@@ -1,0 +1,11 @@
+Job #3178.1:  Feature: Read Only Chat Issue 2672
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2894)
+Commit:        ab8c9b4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2894
+Duration:      10 min 50 sec
+Started:       2016-01-25 05:02:49
+Finished:      2016-01-25 05:13:39
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

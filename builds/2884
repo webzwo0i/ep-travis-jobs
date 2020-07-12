@@ -1,0 +1,11 @@
+Job #2884.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        363d5d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a5872f536b59...363d5d06b79c
+Duration:      6 min 15 sec
+Started:       2015-05-05 21:58:55
+Finished:      2015-05-05 22:05:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

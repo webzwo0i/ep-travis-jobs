@@ -1,0 +1,11 @@
+Job #3320.1:  nano dep fix
+State:         passed
+Type:          push
+Branch:        dep-bump
+Commit:        357aeeb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/173992e67498...357aeeb0b5ed
+Duration:      14 min 32 sec
+Started:       2016-06-14 16:29:44
+Finished:      2016-06-14 16:44:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

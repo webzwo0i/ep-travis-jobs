@@ -1,0 +1,11 @@
+Job #3209.1:  Update author when removing line attribute from line
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2926)
+Commit:        09350fc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2926
+Duration:      11 min 40 sec
+Started:       2016-03-15 19:48:31
+Finished:      2016-03-15 20:00:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3407.1:  Merge new release into master branch!
+State:         passed
+Type:          push
+Branch:        master
+Commit:        8992dd6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d6da6b3c637c...8992dd665a37
+Duration:      12 min 12 sec
+Started:       2016-12-23 22:01:37
+Finished:      2016-12-23 22:13:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

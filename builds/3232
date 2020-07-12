@@ -1,0 +1,11 @@
+Job #3232.1:  extend it further so it's exposed to DAM
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2939)
+Commit:        f98f31e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2939
+Duration:      5 min 33 sec
+Started:       2016-03-26 03:39:51
+Finished:      2016-03-26 03:45:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

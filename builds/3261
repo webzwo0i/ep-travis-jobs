@@ -1,0 +1,11 @@
+Job #3261.1:  Remove node version output on start
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8aa297f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/15c9041f129c...8aa297fb40d6
+Duration:      5 min 38 sec
+Started:       2016-04-24 20:30:04
+Finished:      2016-04-24 20:35:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

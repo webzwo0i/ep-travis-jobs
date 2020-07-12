@@ -1,0 +1,11 @@
+Job #2542.1:  remove console logs
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2507)
+Commit:        ab9652d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2507
+Duration:      11 min 21 sec
+Started:       2015-02-08 00:25:10
+Finished:      2015-02-08 00:36:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

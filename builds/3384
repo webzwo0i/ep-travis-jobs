@@ -1,0 +1,11 @@
+Job #3384.1:  Merge pull request #3077 from pcarver/typo-fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0497e12
+Compare URL:   https://github.com/ether/etherpad-lite/compare/223127bf39d2...0497e12d7bef
+Duration:      5 min 32 sec
+Started:       2016-11-14 13:51:46
+Finished:      2016-11-14 13:57:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

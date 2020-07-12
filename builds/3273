@@ -1,0 +1,11 @@
+Job #3273.1:  Update socket.io to version 1.4.5
+State:         passed
+Type:          push
+Branch:        dependency_updates
+Commit:        14e1f3b
+Compare URL:   https://github.com/ether/etherpad-lite/commit/14e1f3bf2229
+Duration:      6 min 7 sec
+Started:       2016-04-29 18:59:30
+Finished:      2016-04-29 19:05:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

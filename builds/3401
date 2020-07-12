@@ -1,0 +1,11 @@
+Job #3401.1:  Merge pull request #3053 from danfuzz/fix-timeslider-lists
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a1ec061
+Compare URL:   https://github.com/ether/etherpad-lite/compare/db21a25eff5d...a1ec06101747
+Duration:      12 min 7 sec
+Started:       2016-12-20 22:08:02
+Finished:      2016-12-20 22:20:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

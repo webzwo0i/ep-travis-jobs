@@ -1,0 +1,11 @@
+Job #3146.1:  Update DB.js
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        638757f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dbc777dd13f7...638757fdb5df
+Duration:      5 min 24 sec
+Started:       2016-01-06 01:03:10
+Finished:      2016-01-06 01:08:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

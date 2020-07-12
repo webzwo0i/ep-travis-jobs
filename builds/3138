@@ -1,0 +1,11 @@
+Job #3138.1:  should be clean enough to push
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        34a46d6
+Compare URL:   https://github.com/ether/etherpad-lite/commit/34a46d631836
+Duration:      5 min 9 sec
+Started:       2015-12-23 15:37:29
+Finished:      2015-12-23 15:42:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

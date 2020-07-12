@@ -1,0 +1,11 @@
+Job #3236.1:  extend attributesonselection method
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2940)
+Commit:        43c8630
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2940
+Duration:      6 min 3 sec
+Started:       2016-03-26 15:01:48
+Finished:      2016-03-26 15:07:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

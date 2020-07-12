@@ -1,0 +1,11 @@
+Job #3416.1:  redirect /admin properly (fix #3114)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3115)
+Commit:        fac8203
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3115
+Duration:      10 min 54 sec
+Started:       2017-01-06 18:22:12
+Finished:      2017-01-06 18:33:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

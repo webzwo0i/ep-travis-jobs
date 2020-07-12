@@ -1,0 +1,11 @@
+Job #295.1:  Merge branch 'master' into develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1d5dbd4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b6c9b4ec3052...1d5dbd45ca88
+Duration:      6 min 49 sec
+Started:       2012-12-31 16:37:29
+Finished:      2012-12-31 16:44:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

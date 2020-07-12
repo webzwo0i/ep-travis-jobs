@@ -1,0 +1,11 @@
+Job #2752.1:  Merge branch 'develop' of git://github.com/ether/etherpad-lite into release/1.5.3
+State:         failed
+Type:          push
+Branch:        release/1.5.3
+Commit:        d47e201
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d3277deafcf7^...d47e20123245
+Duration:      16 min 53 sec
+Started:       2015-04-11 00:52:17
+Finished:      2015-04-11 01:09:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

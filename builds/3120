@@ -1,0 +1,11 @@
+Job #3120.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into plugin-hook-for-settings-earlier
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2851)
+Commit:        b3e3533
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2851
+Duration:      7 sec
+Started:       2015-12-02 12:55:20
+Finished:      2015-12-02 12:55:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3006.1:  Removing style that makes editor scroll to the top on iOS without any action from the user
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2743)
+Commit:        eaf828c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2743
+Duration:      11 min 4 sec
+Started:       2015-08-04 17:00:59
+Finished:      2015-08-04 17:12:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

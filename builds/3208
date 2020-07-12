@@ -1,0 +1,11 @@
+Job #3208.1:  Update windows build:
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2924)
+Commit:        1ea9c5d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2924
+Duration:      11 min 20 sec
+Started:       2016-03-14 22:03:01
+Finished:      2016-03-14 22:14:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3281.1:  Improve french clearcolors message
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2972)
+Commit:        a9ea019
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2972
+Duration:      11 min 14 sec
+Started:       2016-05-09 09:05:48
+Finished:      2016-05-09 09:17:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

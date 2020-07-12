@@ -1,0 +1,11 @@
+Job #3045.1:  Fix off-by-one: The chatHead is in fact a valid message index.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2791)
+Commit:        9d0cd31
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2791
+Duration:      10 min 48 sec
+Started:       2015-09-30 00:48:44
+Finished:      2015-09-30 00:59:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

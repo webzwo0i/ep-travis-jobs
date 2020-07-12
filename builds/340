@@ -1,0 +1,11 @@
+Job #340.1:  Edited getPads function to be able to work without callback
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1342)
+Commit:        d8a3e4f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1342
+Duration:      12 min 57 sec
+Started:       2013-01-11 04:45:29
+Finished:      2013-01-11 04:58:26
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

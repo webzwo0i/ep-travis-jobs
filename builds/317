@@ -1,0 +1,11 @@
+Job #317.1:  dont run timeslider test for now
+State:         failed
+Type:          push
+Branch:        dont-run-timeslider-test
+Commit:        7a2f16f
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7a2f16f28801
+Duration:      6 min 59 sec
+Started:       2013-01-07 12:53:52
+Finished:      2013-01-07 13:00:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3099.1:  Merge pull request #2839 from Blake-jne/faster-migration
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a419a3a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f774c2584f9d...a419a3a87d34
+Duration:      5 min 52 sec
+Started:       2015-11-24 14:49:12
+Finished:      2015-11-24 14:55:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

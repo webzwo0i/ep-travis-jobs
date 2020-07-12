@@ -1,0 +1,11 @@
+Job #3448.1:  if abiword immediately exists stdoutCallback is not defined yet
+State:         errored
+Type:          push
+Branch:        fix-#3157
+Commit:        f95502d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f95502daaf7b
+Duration:      28 sec
+Started:       2017-04-01 21:44:44
+Finished:      2017-04-01 21:45:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

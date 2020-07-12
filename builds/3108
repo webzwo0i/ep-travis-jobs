@@ -1,0 +1,11 @@
+Job #3108.1:  Updating sq translation
+State:         errored
+Type:          pull request
+Branch:        master (PR #2847)
+Commit:        344aecf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2847
+Duration:      10 min 40 sec
+Started:       2015-11-28 12:34:35
+Finished:      2015-11-28 12:45:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

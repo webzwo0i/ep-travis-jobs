@@ -1,0 +1,11 @@
+Job #3331.1:  Add a frontend test for URLs followed by a ].
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2970)
+Commit:        df285ff
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2970
+Duration:      11 min 49 sec
+Started:       2016-06-27 22:21:35
+Finished:      2016-06-27 22:33:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2725.1:  support for open dyslexic font
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        41bb4ef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e49bb4017c5c...41bb4ef094eb
+Duration:      9 min 56 sec
+Started:       2015-04-05 15:04:11
+Finished:      2015-04-05 15:14:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

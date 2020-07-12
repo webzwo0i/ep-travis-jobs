@@ -1,0 +1,11 @@
+Job #280.1:  Make loading settings a bit more async to cope with loading settings.json from the command line
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1299)
+Commit:        4c33b61
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1299
+Duration:      13 min 25 sec
+Started:       2012-12-28 13:59:18
+Finished:      2012-12-28 14:12:43
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

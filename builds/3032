@@ -1,0 +1,11 @@
+Job #3032.1:  Generating pad HTML with tags like <span data-TAG="VALUE"> instead of <TAG:VALUE>
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2762)
+Commit:        e455a3d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2762
+Duration:      10 min 47 sec
+Started:       2015-09-07 12:57:33
+Finished:      2015-09-07 13:08:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

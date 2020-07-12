@@ -1,0 +1,11 @@
+Job #302.1:  Show current date when hovering the time of a chat-message
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1322)
+Commit:        c088239
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1322
+Duration:      13 min 41 sec
+Started:       2013-01-04 17:30:21
+Finished:      2013-01-04 17:44:02
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

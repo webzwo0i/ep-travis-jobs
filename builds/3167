@@ -1,0 +1,11 @@
+Job #3167.1:  Set language cookie on initial load
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2886)
+Commit:        25dab6f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2886
+Duration:      10 min 52 sec
+Started:       2016-01-18 03:48:23
+Finished:      2016-01-18 03:59:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

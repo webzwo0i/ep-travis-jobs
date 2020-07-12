@@ -1,0 +1,11 @@
+Job #3071.1:  Merge pull request #2798 from ypid/fixed_get_git_hash
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3aff000
+Compare URL:   https://github.com/ether/etherpad-lite/compare/50171a4c3c3a...3aff0001a1ea
+Duration:      15 min 13 sec
+Started:       2015-10-22 17:23:38
+Finished:      2015-10-22 17:38:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

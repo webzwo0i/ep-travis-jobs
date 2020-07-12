@@ -1,0 +1,11 @@
+Job #3114.1:  Merge pull request #2849 from ether/exportConvert-hook
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        11ab89d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8a79ae6e0229...11ab89d8971e
+Duration:      12 min 38 sec
+Started:       2015-12-01 18:48:06
+Finished:      2015-12-01 19:00:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

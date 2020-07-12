@@ -1,0 +1,11 @@
+Job #3247.1:  Create hook to register events that won't scroll editor after aceEditEvt
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2944)
+Commit:        c6f1d80
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2944
+Duration:      14 min 19 sec
+Started:       2016-03-30 17:02:59
+Finished:      2016-03-30 17:17:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

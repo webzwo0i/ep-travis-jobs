@@ -1,0 +1,11 @@
+Job #3041.1:  Initial pandoc support
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2783)
+Commit:        9b4395a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2783
+Duration:      10 min 46 sec
+Started:       2015-09-17 22:45:55
+Finished:      2015-09-17 22:56:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

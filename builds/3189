@@ -1,0 +1,11 @@
+Job #3189.1:  Merge pull request #2893 from bhldev/cssFontColors
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6df7ff2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b8811c7ad2e...6df7ff2d081c
+Duration:      5 min 4 sec
+Started:       2016-02-14 14:55:17
+Finished:      2016-02-14 15:00:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

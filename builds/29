@@ -1,0 +1,13 @@
+Job #29.1:  fix tiny error of missing space
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1174)
+Commit:        5b75765
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1174
+Duration:      14 min 31 sec
+Started:       2012-11-16 22:15:42
+Finished:      2012-11-16 22:30:13
+Allow Failure: false
+Config:        env: oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

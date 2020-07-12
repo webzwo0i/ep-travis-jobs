@@ -1,0 +1,11 @@
+Job #2514.1:  Revert 'asyncLineHTMLForExport' hook
+State:         passed
+Type:          pull request
+Branch:        master (PR #2495)
+Commit:        75d9485
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2495
+Duration:      20 min 33 sec
+Started:       2015-01-25 22:16:41
+Finished:      2015-01-25 22:37:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

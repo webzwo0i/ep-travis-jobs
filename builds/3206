@@ -1,0 +1,11 @@
+Job #3206.1:  Save only on first revision
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2923)
+Commit:        67a0714
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2923
+Duration:      11 min 10 sec
+Started:       2016-03-14 01:19:09
+Finished:      2016-03-14 01:30:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

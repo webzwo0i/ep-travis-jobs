@@ -1,0 +1,11 @@
+Job #3190.1:  docs for AttributePool
+State:         passed
+Type:          push
+Branch:        some-documentation
+Commit:        379689c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d7854edeb2d3...379689c79439
+Duration:      5 min 40 sec
+Started:       2016-02-14 16:50:22
+Finished:      2016-02-14 16:56:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

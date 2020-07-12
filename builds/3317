@@ -1,0 +1,11 @@
+Job #3317.1:  bump ueberdb
+State:         passed
+Type:          push
+Branch:        dep-bump
+Commit:        173992e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f652fdfc426c...173992e67498
+Duration:      23 min 15 sec
+Started:       2016-06-14 16:20:06
+Finished:      2016-06-14 16:43:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

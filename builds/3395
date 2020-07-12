@@ -1,0 +1,11 @@
+Job #3395.1:  Merge pull request #2929 from xavidotron/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        01d23b1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/da5ae8b1f783...01d23b1f6a24
+Duration:      5 min 40 sec
+Started:       2016-12-13 09:13:56
+Finished:      2016-12-13 09:19:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

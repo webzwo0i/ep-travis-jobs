@@ -1,0 +1,11 @@
+Job #3441.1:  Fix typo
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3150)
+Commit:        60e5240
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3150
+Duration:      11 min 5 sec
+Started:       2017-03-12 04:12:45
+Finished:      2017-03-12 04:23:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

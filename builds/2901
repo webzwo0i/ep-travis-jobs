@@ -1,0 +1,11 @@
+Job #2901.1:  Merge pull request #2657 from simong/cookie-parser
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9e9207d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3b91b46baa69...9e9207d8b609
+Duration:      6 min
+Started:       2015-05-11 16:55:23
+Finished:      2015-05-11 17:01:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

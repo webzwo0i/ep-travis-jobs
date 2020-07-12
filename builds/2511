@@ -1,0 +1,11 @@
+Job #2511.1:  async version of export html hook
+State:         passed
+Type:          push
+Branch:        html-e-hook
+Commit:        2ed1d32
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c798a27ad80e...2ed1d328a8f3
+Duration:      8 min 36 sec
+Started:       2015-01-25 17:44:33
+Finished:      2015-01-25 17:53:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

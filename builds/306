@@ -1,0 +1,11 @@
+Job #306.1:  Added --root argument to run.sh to bypass the root-check, fix for #1324
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1328)
+Commit:        26f4eaa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1328
+Duration:      13 min 19 sec
+Started:       2013-01-06 12:49:29
+Finished:      2013-01-06 13:02:48
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

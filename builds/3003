@@ -1,0 +1,11 @@
+Job #3003.1:  Applied the fix from pad.js for issue #2327 to plugins.js and settings.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2735)
+Commit:        cbd5964
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2735
+Duration:      10 min 48 sec
+Started:       2015-07-24 09:52:32
+Finished:      2015-07-24 10:03:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

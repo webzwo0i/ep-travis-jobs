@@ -1,0 +1,11 @@
+Job #3106.1:  regex incoming colors
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8a79ae6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a913f5799493...8a79ae6e0229
+Duration:      5 min 30 sec
+Started:       2015-11-26 16:56:45
+Finished:      2015-11-26 17:02:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

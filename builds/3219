@@ -1,0 +1,11 @@
+Job #3219.1:  Fix check in backend tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2937)
+Commit:        c19aa8f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2937
+Duration:      15 min 33 sec
+Started:       2016-03-23 16:53:58
+Finished:      2016-03-23 17:09:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

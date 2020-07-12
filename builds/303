@@ -1,0 +1,11 @@
+Job #303.1:  i18nized date-format on chat messages
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1322)
+Commit:        5c0c741
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1322
+Duration:      13 min 37 sec
+Started:       2013-01-04 20:21:01
+Finished:      2013-01-04 20:34:38
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

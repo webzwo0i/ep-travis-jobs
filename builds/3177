@@ -1,0 +1,11 @@
+Job #3177.1:  Merge pull request #2863 from gutobenn/padname-size
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fbe3710
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9335ae00d0c8...fbe3710dda52
+Duration:      5 min 36 sec
+Started:       2016-01-23 13:52:51
+Finished:      2016-01-23 13:58:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

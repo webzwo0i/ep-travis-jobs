@@ -1,0 +1,11 @@
+Job #3135.1:  include req and res in export convert hook
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b519f9f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/577102b025a1...b519f9f15660
+Duration:      5 min 48 sec
+Started:       2015-12-21 18:33:15
+Finished:      2015-12-21 18:39:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3052.1:  Merge pull request #2801 from webzwo0i/fix-issue-2796
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        06c4a06
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a09044a6f3fa...06c4a066f76c
+Duration:      5 min 58 sec
+Started:       2015-10-09 15:03:06
+Finished:      2015-10-09 15:09:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

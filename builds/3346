@@ -1,0 +1,11 @@
+Job #3346.1:  Merge pull request #3035 from danfuzz/fix-docs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9fc7219
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2996f0fad710...9fc72194d9a4
+Duration:      6 min 28 sec
+Started:       2016-08-12 22:48:00
+Finished:      2016-08-12 22:54:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

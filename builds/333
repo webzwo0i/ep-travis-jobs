@@ -1,0 +1,11 @@
+Job #333.1:  fix egils fix of time delta resolves #1345
+State:         failed
+Type:          push
+Branch:        fix-timeslider-date-not-changing
+Commit:        ac44893
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ac448937abd4
+Duration:      7 min 19 sec
+Started:       2013-01-10 01:05:20
+Finished:      2013-01-10 01:12:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3258.1:  Merge branch 'develop' of https://github.com/ether/etherpad-lite into api-typing
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2950)
+Commit:        36790ee
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2950
+Duration:      12 min 15 sec
+Started:       2016-04-19 18:54:51
+Finished:      2016-04-19 19:07:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

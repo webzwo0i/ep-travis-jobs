@@ -1,0 +1,11 @@
+Job #3064.1:  add classes for bootstrap targeting, pew pew
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        82c7ca4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/504cc102a023...82c7ca4ac353
+Duration:      6 min 24 sec
+Started:       2015-10-22 02:33:16
+Finished:      2015-10-22 02:39:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3338.1:  Fix #2918. Re-enable editor after user is reconnected to server
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3026)
+Commit:        5ac158b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3026
+Duration:      12 min 13 sec
+Started:       2016-07-21 20:28:22
+Finished:      2016-07-21 20:40:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

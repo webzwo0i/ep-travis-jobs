@@ -1,0 +1,11 @@
+Job #3116.1:  Merge pull request #2831 from fcassin/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f44c444
+Compare URL:   https://github.com/ether/etherpad-lite/compare/16bb28a0ffe1...f44c44472001
+Duration:      13 min 13 sec
+Started:       2015-12-01 18:54:13
+Finished:      2015-12-01 19:07:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

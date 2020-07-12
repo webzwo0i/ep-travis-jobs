@@ -1,0 +1,11 @@
+Job #326.1:  Merge pull request #1332 from ether/dont-run-timeslider-test
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2a142a0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5453764e31ec...2a142a01e996
+Duration:      9 min 26 sec
+Started:       2013-01-07 19:46:45
+Finished:      2013-01-07 19:56:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

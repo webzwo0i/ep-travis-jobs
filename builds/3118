@@ -1,0 +1,11 @@
+Job #3118.1:  Merge pull request #2850 from tiblu/aceEditorCSS_allow_external_css
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        1a303f0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f44c44472001...1a303f06b642
+Duration:      5 min 53 sec
+Started:       2015-12-02 12:27:42
+Finished:      2015-12-02 12:33:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

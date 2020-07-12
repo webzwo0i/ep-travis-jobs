@@ -1,0 +1,11 @@
+Job #3237.1:  forgot this one
+State:         passed
+Type:          push
+Branch:        extend-getAttributesOnSelection
+Commit:        97b9717
+Compare URL:   https://github.com/ether/etherpad-lite/compare/484679852893...97b971747f19
+Duration:      13 min 2 sec
+Started:       2016-03-26 15:02:32
+Finished:      2016-03-26 15:15:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

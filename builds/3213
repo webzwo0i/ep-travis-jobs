@@ -1,0 +1,11 @@
+Job #3213.1:  Do not include absolute path in windows zip
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2924)
+Commit:        344373a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2924
+Duration:      10 min 54 sec
+Started:       2016-03-20 14:15:01
+Finished:      2016-03-20 14:25:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

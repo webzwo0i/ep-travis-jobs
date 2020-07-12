@@ -1,0 +1,11 @@
+Job #3143.1:  Add usersOnline function to pad_userlist, fix a bug where several occurances of current user were pushed to users list.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2871)
+Commit:        fac0724
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2871
+Duration:      10 min 56 sec
+Started:       2016-01-05 17:33:07
+Finished:      2016-01-05 17:44:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

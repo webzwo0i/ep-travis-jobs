@@ -1,0 +1,11 @@
+Job #3400.1:  Merge pull request #3000 from Gared/improve_cookies
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        db21a25
+Compare URL:   https://github.com/ether/etherpad-lite/compare/368bbe48368b...db21a25eff5d
+Duration:      5 min 31 sec
+Started:       2016-12-20 22:01:10
+Finished:      2016-12-20 22:06:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #2728.1:  hacky fix for opendyslexic
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2566)
+Commit:        6d86a67
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2566
+Duration:      9 min 56 sec
+Started:       2015-04-05 15:51:54
+Finished:      2015-04-05 16:01:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

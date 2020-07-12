@@ -1,0 +1,11 @@
+Job #2819.1:  dont allow directory traversal #2
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2606)
+Commit:        835e4f2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2606
+Duration:      10 min 47 sec
+Started:       2015-04-12 17:14:17
+Finished:      2015-04-12 17:25:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

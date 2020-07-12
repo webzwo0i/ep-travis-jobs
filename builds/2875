@@ -1,0 +1,11 @@
+Job #2875.1:  Merge pull request #2643 from AlexanderS/fix-timeslider-export
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4b4a121
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ac41d150c00e...4b4a121f081a
+Duration:      5 min 45 sec
+Started:       2015-04-29 16:54:17
+Finished:      2015-04-29 17:00:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

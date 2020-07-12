@@ -1,0 +1,11 @@
+Job #3243.1:  Merge pull request #2898 from rohieb/feature/more-uri-schemes
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6f2e155
+Compare URL:   https://github.com/ether/etherpad-lite/compare/75cd4b3333c9...6f2e155668fe
+Duration:      12 min 20 sec
+Started:       2016-03-26 15:21:08
+Finished:      2016-03-26 15:33:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

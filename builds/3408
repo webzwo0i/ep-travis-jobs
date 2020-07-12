@@ -1,0 +1,11 @@
+Job #3408.1:  Update CHANGELOG.md
+State:         passed
+Type:          push
+Branch:        master
+Commit:        9f51432
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8992dd665a37...9f51432175c5
+Duration:      5 min 41 sec
+Started:       2016-12-23 22:13:15
+Finished:      2016-12-23 22:18:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

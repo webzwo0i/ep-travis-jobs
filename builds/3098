@@ -1,0 +1,11 @@
+Job #3098.1:  Improve DB migration performance.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2839)
+Commit:        94ee3c8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2839
+Duration:      11 min 43 sec
+Started:       2015-11-22 08:20:07
+Finished:      2015-11-22 08:31:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

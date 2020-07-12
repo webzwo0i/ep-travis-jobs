@@ -1,0 +1,11 @@
+Job #3254.1:  include the padId
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6b6a028
+Compare URL:   https://github.com/ether/etherpad-lite/compare/21372c93a352...6b6a0283554e
+Duration:      5 min 26 sec
+Started:       2016-04-09 21:02:39
+Finished:      2016-04-09 21:08:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

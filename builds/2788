@@ -1,0 +1,11 @@
+Job #2788.1:  comment out import tests as they fail in IE
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        07efa42
+Compare URL:   https://github.com/ether/etherpad-lite/compare/84b3f1728f0c...07efa4246b9f
+Duration:      22 min 22 sec
+Started:       2015-04-11 15:58:57
+Finished:      2015-04-11 16:21:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #272.1:  bump version # in package and update CHANGELOG
+State:         failed
+Type:          pull request
+Branch:        master (PR #1304)
+Commit:        8d8cda6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1304
+Duration:      13 min 19 sec
+Started:       2012-12-27 21:12:46
+Finished:      2012-12-27 21:26:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

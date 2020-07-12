@@ -1,0 +1,11 @@
+Job #3241.1:  Merge pull request #2926 from storytouch/addAuthorOnRemoveAttributeOnLine
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8df8228
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b69892747485...8df8228a3660
+Duration:      20 min 15 sec
+Started:       2016-03-26 15:12:02
+Finished:      2016-03-26 15:32:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #321.1:  only load 20 messages when pressing the load-link, fixed whitespace
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1334)
+Commit:        e4bbc36
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1334
+Duration:      13 min 26 sec
+Started:       2013-01-07 17:55:27
+Finished:      2013-01-07 18:08:53
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

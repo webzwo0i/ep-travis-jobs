@@ -1,0 +1,11 @@
+Job #3427.1:  Merge pull request #3119 from storytouch/fix_3118
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a6436ac
+Compare URL:   https://github.com/ether/etherpad-lite/compare/40f54fed3834...a6436ac8d293
+Duration:      5 min 40 sec
+Started:       2017-02-02 21:00:19
+Finished:      2017-02-02 21:05:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

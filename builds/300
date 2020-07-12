@@ -1,0 +1,11 @@
+Job #300.1:  corrected a documentation glitch for checkToken - clarified which token is validated
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1318)
+Commit:        40ab605
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1318
+Duration:      13 min 24 sec
+Started:       2013-01-02 15:24:24
+Finished:      2013-01-02 15:37:48
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

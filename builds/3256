@@ -1,0 +1,11 @@
+Job #3256.1:  Added new API call to get all comments from a pad and a new error to throw if plugin is not installed
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2947)
+Commit:        ab8999d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2947
+Duration:      11 min
+Started:       2016-04-14 15:27:15
+Finished:      2016-04-14 15:38:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

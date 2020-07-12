@@ -1,0 +1,11 @@
+Job #3404.1:  Update nodejs for windows to 6.9.2
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        caabb4d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/efb25f417a72...caabb4d8f71a
+Duration:      11 min
+Started:       2016-12-22 23:17:18
+Finished:      2016-12-22 23:28:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

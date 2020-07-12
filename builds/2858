@@ -1,0 +1,11 @@
+Job #2858.1:  fix docs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b4163fc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d7c7c961458b...b4163fc8626a
+Duration:      6 min 13 sec
+Started:       2015-04-23 18:32:31
+Finished:      2015-04-23 18:38:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

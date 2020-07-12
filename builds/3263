@@ -1,0 +1,11 @@
+Job #3263.1:  Release version 1.6.0
+State:         passed
+Type:          push
+Branch:        release/1.6.0
+Commit:        ebe44b0
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ebe44b0eabe8
+Duration:      5 min 45 sec
+Started:       2016-04-24 21:05:05
+Finished:      2016-04-24 21:10:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

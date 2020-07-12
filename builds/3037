@@ -1,0 +1,11 @@
+Job #3037.1:  Fixing ed52626. It was closing the span with </span data-TAG=VALUE>, not </span>
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2762)
+Commit:        4d1482d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2762
+Duration:      10 min 47 sec
+Started:       2015-09-17 20:31:41
+Finished:      2015-09-17 20:42:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

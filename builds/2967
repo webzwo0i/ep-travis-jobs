@@ -1,0 +1,11 @@
+Job #2967.1:  Update documentation for the updatePad and createPad hooks to include 'author'
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2699)
+Commit:        10fccce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2699
+Duration:      10 min 42 sec
+Started:       2015-06-21 17:45:25
+Finished:      2015-06-21 17:56:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3287.1:  Merge pull request #2987 from Gared/fix_space_in_path
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cd459bf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f49de0b61b91...cd459bfde34a
+Duration:      6 min 7 sec
+Started:       2016-05-16 17:17:30
+Finished:      2016-05-16 17:23:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

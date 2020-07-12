@@ -1,0 +1,11 @@
+Job #3080.1:  No absolute paths.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2752)
+Commit:        e3213b7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2752
+Duration:      10 min 36 sec
+Started:       2015-10-28 21:33:52
+Finished:      2015-10-28 21:44:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

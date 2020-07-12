@@ -1,0 +1,11 @@
+Job #2955.1:  logic for getting client paths from plugins
+State:         passed
+Type:          push
+Branch:        prefetch
+Commit:        58c011c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/99cc915d9146...58c011ca1c55
+Duration:      6 min 35 sec
+Started:       2015-06-21 12:38:50
+Finished:      2015-06-21 12:45:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

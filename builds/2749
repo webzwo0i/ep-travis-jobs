@@ -1,0 +1,11 @@
+Job #2749.1:  Add version number to plugins-info page
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2589)
+Commit:        6ea0f35
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2589
+Duration:      10 min 44 sec
+Started:       2015-04-10 23:54:59
+Finished:      2015-04-11 00:05:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

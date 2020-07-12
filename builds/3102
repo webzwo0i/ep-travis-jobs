@@ -1,0 +1,11 @@
+Job #3102.1:  clean up
+State:         passed
+Type:          push
+Branch:        applySettings
+Commit:        a8c2833
+Compare URL:   https://github.com/ether/etherpad-lite/compare/039a761eaf0d...a8c2833759c1
+Duration:      7 min 50 sec
+Started:       2015-11-24 15:04:46
+Finished:      2015-11-24 15:12:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

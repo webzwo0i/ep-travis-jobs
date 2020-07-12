@@ -1,0 +1,11 @@
+Job #3249.1:  Merge pull request #2942 from Gared/fix_frontend_tests
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        474e5c4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8f2f01dff81d...474e5c42d147
+Duration:      5 min 46 sec
+Started:       2016-04-01 21:52:39
+Finished:      2016-04-01 21:58:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

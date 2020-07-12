@@ -1,0 +1,11 @@
+Job #2549.1:  better css
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2510)
+Commit:        8a1ac9c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2510
+Duration:      12 min 14 sec
+Started:       2015-02-09 18:39:25
+Finished:      2015-02-09 18:51:39
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

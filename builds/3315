@@ -1,0 +1,11 @@
+Job #3315.1:  bump some deps that have warnings from deps
+State:         passed
+Type:          push
+Branch:        dep-bump
+Commit:        f652fdf
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f652fdfc426c
+Duration:      13 min 12 sec
+Started:       2016-06-14 16:07:59
+Finished:      2016-06-14 16:21:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

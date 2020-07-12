@@ -1,0 +1,11 @@
+Job #3171.1:  Merge pull request #2887 from bhldev/editorListIndentOutdent
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        13d9bdf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b521f652846...13d9bdf03acd
+Duration:      17 min 44 sec
+Started:       2016-01-20 00:52:36
+Finished:      2016-01-20 01:10:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

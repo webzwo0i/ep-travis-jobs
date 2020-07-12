@@ -1,0 +1,11 @@
+Job #3316.1:  bump some deps that have warnings from deps
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3004)
+Commit:        280c743
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3004
+Duration:      20 min 23 sec
+Started:       2016-06-14 16:10:49
+Finished:      2016-06-14 16:31:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

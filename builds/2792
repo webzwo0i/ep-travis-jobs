@@ -1,0 +1,11 @@
+Job #2792.1:  Merge pull request #2600 from devoidfury/fix/junk-binary-files
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        25092fc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1d44490dc491...25092fcb903c
+Duration:      9 min 33 sec
+Started:       2015-04-11 17:01:08
+Finished:      2015-04-11 17:10:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

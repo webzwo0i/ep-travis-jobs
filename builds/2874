@@ -1,0 +1,11 @@
+Job #2874.1:  timeslider: Fix export links
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2643)
+Commit:        a5192ee
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2643
+Duration:      7 sec
+Started:       2015-04-29 16:49:45
+Finished:      2015-04-29 16:49:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

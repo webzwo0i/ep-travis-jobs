@@ -1,0 +1,11 @@
+Job #3074.1:  Merge pull request #2739 from otetard/bugfix/fix_space_removal
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        08c6e3e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0d769632df42...08c6e3e29f26
+Duration:      21 min 51 sec
+Started:       2015-10-22 17:29:47
+Finished:      2015-10-22 17:51:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

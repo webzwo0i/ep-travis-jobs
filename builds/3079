@@ -1,0 +1,11 @@
+Job #3079.1:  Fix for #2809
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2819)
+Commit:        dcd09bc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2819
+Duration:      10 min 41 sec
+Started:       2015-10-28 18:31:25
+Finished:      2015-10-28 18:42:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

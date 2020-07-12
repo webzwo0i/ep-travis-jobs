@@ -1,0 +1,11 @@
+Job #3389.1:  Updated option parameters for socket.io to work with latest version
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3085)
+Commit:        a90b509
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3085
+Duration:      10 min 48 sec
+Started:       2016-11-20 12:29:25
+Finished:      2016-11-20 12:40:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

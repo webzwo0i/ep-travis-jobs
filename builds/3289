@@ -1,0 +1,11 @@
+Job #3289.1:  client Var value for disabling scripts
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a8487dd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/94920e5552b8...a8487dd5dc4f
+Duration:      13 min 11 sec
+Started:       2016-05-20 15:43:14
+Finished:      2016-05-20 15:56:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

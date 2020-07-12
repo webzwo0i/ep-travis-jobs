@@ -1,0 +1,11 @@
+Job #3375.1:  Merge pull request #3044 from rugk/patch-3
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        428e0cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f289611ba93a...428e0cdbc2ed
+Duration:      6 min 37 sec
+Started:       2016-09-30 23:51:07
+Finished:      2016-09-30 23:57:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

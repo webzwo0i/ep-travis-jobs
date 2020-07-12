@@ -1,0 +1,11 @@
+Job #2852.1:  Update hooks_server-side.md
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d31523a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/29ab7b902694...d31523aa08d1
+Duration:      6 min 19 sec
+Started:       2015-04-17 17:01:52
+Finished:      2015-04-17 17:08:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

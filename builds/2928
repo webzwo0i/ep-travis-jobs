@@ -1,0 +1,11 @@
+Job #2928.1:  Use current mysql client API
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2684)
+Commit:        5453528
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2684
+Duration:      10 min 44 sec
+Started:       2015-05-30 15:17:43
+Finished:      2015-05-30 15:28:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3150.1:  hrm, removal
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2876)
+Commit:        bb544cb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2876
+Duration:      8 min 36 sec
+Started:       2016-01-08 14:41:22
+Finished:      2016-01-08 14:49:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

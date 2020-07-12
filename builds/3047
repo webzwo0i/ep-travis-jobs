@@ -1,0 +1,11 @@
+Job #3047.1:  Guarding against null forwards from composed changesets
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2796)
+Commit:        1ab8045
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2796
+Duration:      10 min 49 sec
+Started:       2015-10-06 16:24:07
+Finished:      2015-10-06 16:34:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

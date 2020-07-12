@@ -1,0 +1,11 @@
+Job #3373.1:  Merge pull request #3059 from paper-pauper/librejs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f289611
+Compare URL:   https://github.com/ether/etherpad-lite/compare/93ca44f00593...f289611ba93a
+Duration:      7 min 18 sec
+Started:       2016-09-29 00:04:23
+Finished:      2016-09-29 00:11:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

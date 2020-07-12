@@ -1,0 +1,11 @@
+Job #2767.1:  clearer comments about the path handling behavior
+State:         failed
+Type:          push
+Branch:        master
+Commit:        0b0a349
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b95395a13094...0b0a34908197
+Duration:      22 min
+Started:       2015-04-11 10:07:17
+Finished:      2015-04-11 10:29:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

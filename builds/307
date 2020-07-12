@@ -1,0 +1,11 @@
+Job #307.1:  Merge pull request #1327 from mluto/order-styles-script
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2a89dc5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6e7b6942430c...2a89dc5913c5
+Duration:      6 min 48 sec
+Started:       2013-01-06 18:51:11
+Finished:      2013-01-06 18:57:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

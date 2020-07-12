@@ -1,0 +1,11 @@
+Job #2716.1:  title for chat
+State:         failed
+Type:          push
+Branch:        editbar-accessibility
+Commit:        c65ddad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9090d76dcf65...c65ddad7d672
+Duration:      13 min 58 sec
+Started:       2015-04-03 14:07:27
+Finished:      2015-04-03 14:21:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

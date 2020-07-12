@@ -1,0 +1,11 @@
+Job #34.1:  Make language frontend test pass
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1178)
+Commit:        466b1ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1178
+Duration:      13 min 31 sec
+Started:       2012-11-17 16:32:51
+Finished:      2012-11-17 16:46:22
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

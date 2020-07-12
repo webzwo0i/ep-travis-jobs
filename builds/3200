@@ -1,0 +1,11 @@
+Job #3200.1:  Make lineNum required
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2914)
+Commit:        54f51fc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2914
+Duration:      10 min 51 sec
+Started:       2016-03-06 19:02:32
+Finished:      2016-03-06 19:13:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

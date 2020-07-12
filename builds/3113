@@ -1,0 +1,11 @@
+Job #3113.1:  remove unused variable
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2849)
+Commit:        8f80f86
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2849
+Duration:      17 min 31 sec
+Started:       2015-12-01 18:42:21
+Finished:      2015-12-01 18:59:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

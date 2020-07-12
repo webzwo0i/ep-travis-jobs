@@ -1,0 +1,11 @@
+Job #2899.1:  Merge pull request #2656 from stefanmintert/20150507-innertext-bugfix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f5ccd3c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/74071dc0668a...f5ccd3ce6dff
+Duration:      6 min 10 sec
+Started:       2015-05-08 00:35:31
+Finished:      2015-05-08 00:41:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

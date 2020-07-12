@@ -1,0 +1,11 @@
+Job #3022.1:  Merge pull request #2749 from installgen2/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7170a6a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/02c022aab14f...7170a6a8cb9d
+Duration:      5 min 48 sec
+Started:       2015-08-15 23:15:29
+Finished:      2015-08-15 23:21:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3433.1:  [refactor] Use better way to select a single line
+State:         passed
+Type:          push
+Branch:        fix_ie10_test
+Commit:        15cda0f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/92be6561137b^...15cda0fde6b3
+Duration:      5 min 35 sec
+Started:       2017-02-20 10:06:48
+Finished:      2017-02-20 10:12:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

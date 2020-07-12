@@ -1,0 +1,11 @@
+Job #3283.1:  Fix not-loading of Font Awesome
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2977)
+Commit:        694e87b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2977
+Duration:      11 min 27 sec
+Started:       2016-05-13 22:26:50
+Finished:      2016-05-13 22:38:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

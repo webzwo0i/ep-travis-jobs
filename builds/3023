@@ -1,0 +1,11 @@
+Job #3023.1:  Accepting Arrays on 'exportHtmlAdditionalTags' to handle attributes stored as ['key', 'value'] (and not only ['key', 'true'])
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2762)
+Commit:        78dbda6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2762
+Duration:      12 min 46 sec
+Started:       2015-08-24 17:13:07
+Finished:      2015-08-24 17:25:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

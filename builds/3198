@@ -1,0 +1,11 @@
+Job #3198.1:  jsdoc Changeset.js
+State:         passed
+Type:          push
+Branch:        some-documentation
+Commit:        82368f4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/379689c79439...82368f45328d
+Duration:      6 min 45 sec
+Started:       2016-02-25 16:01:14
+Finished:      2016-02-25 16:07:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3398.1:  Merge pull request #3084 from Gared/fix_npm_node7
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        368bbe4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/db94ce9413f0...368bbe48368b
+Duration:      5 min 38 sec
+Started:       2016-12-20 00:08:07
+Finished:      2016-12-20 00:13:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

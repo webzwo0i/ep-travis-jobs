@@ -1,0 +1,11 @@
+Job #3229.1:  removing this
+State:         passed
+Type:          push
+Branch:        getATtriuteOnSelection-extend
+Commit:        0e0d040
+Compare URL:   https://github.com/ether/etherpad-lite/compare/62be43020324...0e0d040108b3
+Duration:      8 min 54 sec
+Started:       2016-03-26 02:24:07
+Finished:      2016-03-26 02:33:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

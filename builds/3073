@@ -1,0 +1,11 @@
+Job #3073.1:  Merge pull request #2748 from CodeMichael/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0d76963
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa46f0b613c8...0d769632df42
+Duration:      22 min 13 sec
+Started:       2015-10-22 17:26:51
+Finished:      2015-10-22 17:49:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

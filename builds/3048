@@ -1,0 +1,11 @@
+Job #3048.1:  Give better error message when rebuildPad.js hits a non-existing rev.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2797)
+Commit:        1c32c14
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2797
+Duration:      11 min 1 sec
+Started:       2015-10-07 12:45:24
+Finished:      2015-10-07 12:56:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

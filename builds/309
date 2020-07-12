@@ -1,0 +1,11 @@
+Job #309.1:  Fixed extractPadData.js, #1320
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1330)
+Commit:        0f92be0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1330
+Duration:      13 min 48 sec
+Started:       2013-01-06 19:33:44
+Finished:      2013-01-06 19:47:32
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

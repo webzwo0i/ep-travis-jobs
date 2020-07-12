@@ -1,0 +1,11 @@
+Job #2528.1:  Merge pull request #2497 from ether/image-support-hook
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        4de42da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2ad4c96c4b5d...4de42da2e3e0
+Duration:      31 min 56 sec
+Started:       2015-01-26 17:09:59
+Finished:      2015-01-26 17:41:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

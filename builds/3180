@@ -1,0 +1,11 @@
+Job #3180.1:  alternative translation into german.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2896)
+Commit:        551e597
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2896
+Duration:      11 min 32 sec
+Started:       2016-01-26 21:32:10
+Finished:      2016-01-26 21:43:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

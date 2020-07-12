@@ -1,0 +1,11 @@
+Job #3425.1:  This WA is not longer required in the newest browser see comments in the issue: ether#2078
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3134)
+Commit:        df927dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3134
+Duration:      10 min 52 sec
+Started:       2017-02-02 10:53:25
+Finished:      2017-02-02 11:04:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

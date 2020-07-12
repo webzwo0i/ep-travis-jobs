@@ -1,0 +1,11 @@
+Job #3008.1:  Fix broken switchToPad method
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2744)
+Commit:        d4f8f27
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2744
+Duration:      11 min 25 sec
+Started:       2015-08-05 18:27:10
+Finished:      2015-08-05 18:38:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

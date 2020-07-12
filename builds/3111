@@ -1,0 +1,11 @@
+Job #3111.1:  Hook for export ocnvert control
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2849)
+Commit:        e09120a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2849
+Duration:      12 min 2 sec
+Started:       2015-12-01 18:40:41
+Finished:      2015-12-01 18:52:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

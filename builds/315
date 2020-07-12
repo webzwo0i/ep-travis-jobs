@@ -1,0 +1,11 @@
+Job #315.1:  use .val() instead of [0]
+State:         failed
+Type:          push
+Branch:        enter-on-plugins
+Commit:        8e366da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c370f779cc8f...8e366da82ed6
+Duration:      6 min 56 sec
+Started:       2013-01-07 12:32:23
+Finished:      2013-01-07 12:39:19
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

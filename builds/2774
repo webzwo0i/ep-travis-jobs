@@ -1,0 +1,11 @@
+Job #2774.1:  use latest ejs
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        acc1a06
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d3baf24ce1ab...acc1a0626a71
+Duration:      16 min 31 sec
+Started:       2015-04-11 10:54:36
+Finished:      2015-04-11 11:11:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

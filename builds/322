@@ -1,0 +1,11 @@
+Job #322.1:  converted load-more-link to button, added loading-gif, fixed typo
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1334)
+Commit:        f8f8137
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1334
+Duration:      13 min 20 sec
+Started:       2013-01-07 19:20:24
+Finished:      2013-01-07 19:33:44
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

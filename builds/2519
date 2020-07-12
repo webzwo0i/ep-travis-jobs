@@ -1,0 +1,11 @@
+Job #2519.1:  clean support for image hook
+State:         passed
+Type:          push
+Branch:        image-support-hook
+Commit:        8156930
+Compare URL:   https://github.com/ether/etherpad-lite/commit/8156930208c0
+Duration:      16 min
+Started:       2015-01-26 02:45:25
+Finished:      2015-01-26 03:01:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

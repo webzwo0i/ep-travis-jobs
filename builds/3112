@@ -1,0 +1,11 @@
+Job #3112.1:  remove unused variable
+State:         passed
+Type:          push
+Branch:        exportConvert-hook
+Commit:        1a8462f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4ae88b2ee756...1a8462fb4fc3
+Duration:      12 min 33 sec
+Started:       2015-12-01 18:41:34
+Finished:      2015-12-01 18:54:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

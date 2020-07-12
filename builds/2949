@@ -1,0 +1,11 @@
+Job #2949.1:  indentation
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2697)
+Commit:        0fb1d70
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2697
+Duration:      6 min 48 sec
+Started:       2015-06-20 13:27:26
+Finished:      2015-06-20 13:34:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

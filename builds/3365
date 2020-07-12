@@ -1,0 +1,11 @@
+Job #3365.1:  Handle relative paths properly, when `@import`ing.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3053)
+Commit:        a4dbf33
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3053
+Duration:      11 min 50 sec
+Started:       2016-09-09 22:14:11
+Finished:      2016-09-09 22:26:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

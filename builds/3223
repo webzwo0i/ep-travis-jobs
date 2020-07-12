@@ -1,0 +1,11 @@
+Job #3223.1:  remove sessions script
+State:         passed
+Type:          push
+Branch:        remove-sessions-script
+Commit:        3e29148
+Compare URL:   https://github.com/ether/etherpad-lite/compare/459f252db909...3e2914831cad
+Duration:      12 min 9 sec
+Started:       2016-03-25 08:34:34
+Finished:      2016-03-25 08:46:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

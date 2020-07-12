@@ -1,0 +1,11 @@
+Job #255.1:  Fix html10n usage in code that wouldn't allow lang switching
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        3c4e0a7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      13 min
+Started:       2012-12-20 11:20:15
+Finished:      2012-12-20 11:33:15
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

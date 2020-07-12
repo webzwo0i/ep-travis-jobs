@@ -1,0 +1,11 @@
+Job #3436.1:  Merge pull request #3141 from ether/fix_ie10_test
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e95395a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/203a48b42d98...e95395a88fe2
+Duration:      5 min 39 sec
+Started:       2017-02-20 11:59:24
+Finished:      2017-02-20 12:05:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

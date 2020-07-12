@@ -1,0 +1,11 @@
+Job #3231.1:  extend it further so it's exposed to DAM
+State:         passed
+Type:          push
+Branch:        getATtriuteOnSelection-extend
+Commit:        1d1354e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0e0d040108b3...1d1354e2127a
+Duration:      8 min 44 sec
+Started:       2016-03-26 03:39:51
+Finished:      2016-03-26 03:48:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

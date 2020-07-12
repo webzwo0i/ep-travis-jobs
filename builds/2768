@@ -1,0 +1,11 @@
+Job #2768.1:  disabling import export tests for now as they are reporting false positives...  at some point they will need properly fixing
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d3baf24
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f5d1cd175127...d3baf24ce1ab
+Duration:      17 min 37 sec
+Started:       2015-04-11 10:14:12
+Finished:      2015-04-11 10:31:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

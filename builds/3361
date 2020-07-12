@@ -1,0 +1,11 @@
+Job #3361.1:  Remove the `noDocType` argument, which was only ever passed as `false`.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3045)
+Commit:        d2e5dfb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3045
+Duration:      11 min 42 sec
+Started:       2016-09-08 18:43:06
+Finished:      2016-09-08 18:54:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

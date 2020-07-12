@@ -1,0 +1,11 @@
+Job #3018.1:  Fix typo in comment
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2749)
+Commit:        159a8d9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2749
+Duration:      10 min 48 sec
+Started:       2015-08-08 07:57:33
+Finished:      2015-08-08 08:08:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

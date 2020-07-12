@@ -1,0 +1,11 @@
+Job #3166.1:  fix drop event on last char
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f993734
+Compare URL:   https://github.com/ether/etherpad-lite/compare/855bd270bd9c...f9937343c795
+Duration:      5 min 9 sec
+Started:       2016-01-17 16:13:01
+Finished:      2016-01-17 16:18:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

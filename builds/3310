@@ -1,0 +1,11 @@
+Job #3310.1:  Add secure flag to express-session cookies
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3000)
+Commit:        39e29c8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3000
+Duration:      12 min 17 sec
+Started:       2016-06-08 21:21:05
+Finished:      2016-06-08 21:33:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

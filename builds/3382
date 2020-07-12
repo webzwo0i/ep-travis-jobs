@@ -1,0 +1,11 @@
+Job #3382.1:  Click on link event
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3076)
+Commit:        ac48259
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3076
+Duration:      14 min 25 sec
+Started:       2016-11-09 23:52:18
+Finished:      2016-11-10 00:06:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

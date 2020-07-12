@@ -1,0 +1,11 @@
+Job #3147.1:  seems to work
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        f16616d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34a46d631836...f16616d23bbb
+Duration:      4 min 53 sec
+Started:       2016-01-08 14:28:28
+Finished:      2016-01-08 14:33:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

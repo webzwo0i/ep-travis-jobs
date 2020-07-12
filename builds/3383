@@ -1,0 +1,11 @@
+Job #3383.1:  Correct the spelling of occured to occurred
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3077)
+Commit:        2ed9ef3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3077
+Duration:      11 min 3 sec
+Started:       2016-11-11 18:49:57
+Finished:      2016-11-11 19:01:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

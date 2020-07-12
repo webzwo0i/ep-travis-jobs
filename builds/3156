@@ -1,0 +1,11 @@
+Job #3156.1:  removal
+State:         passed
+Type:          pull request
+Branch:        develop (PR #2876)
+Commit:        192e6ab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2876
+Duration:      5 min 4 sec
+Started:       2016-01-08 14:59:51
+Finished:      2016-01-08 15:04:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

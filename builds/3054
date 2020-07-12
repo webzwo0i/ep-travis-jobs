@@ -1,0 +1,11 @@
+Job #3054.1:  Merge pull request #2799 from Gared/fix_url_location_error
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        22bf9c9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3b45b4833b1a...22bf9c929796
+Duration:      5 min 47 sec
+Started:       2015-10-10 13:22:36
+Finished:      2015-10-10 13:28:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

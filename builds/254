@@ -1,0 +1,11 @@
+Job #254.1:  Don't break if a plugin hasn't got a locales dir
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1297)
+Commit:        64f51dd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1297
+Duration:      12 min 56 sec
+Started:       2012-12-19 21:46:55
+Finished:      2012-12-19 21:59:51
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

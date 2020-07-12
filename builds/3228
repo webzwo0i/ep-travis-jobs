@@ -1,0 +1,11 @@
+Job #3228.1:  extending get attribute on selection
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2939)
+Commit:        bcab895
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2939
+Duration:      21 sec
+Started:       2016-03-26 02:23:21
+Finished:      2016-03-26 02:23:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

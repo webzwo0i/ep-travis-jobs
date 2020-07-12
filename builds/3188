@@ -1,0 +1,11 @@
+Job #3188.1:  Added URI encoding to new padname
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2909)
+Commit:        6e9cf6e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2909
+Duration:      11 min 6 sec
+Started:       2016-02-09 20:24:19
+Finished:      2016-02-09 20:35:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3153.1:  herp
+State:         passed
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        cb874b6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ae6110919f02...cb874b695b35
+Duration:      11 min 41 sec
+Started:       2016-01-08 14:44:37
+Finished:      2016-01-08 14:56:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

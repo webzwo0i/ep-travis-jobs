@@ -1,0 +1,11 @@
+Job #3417.1:  [chore] Use helper plugin when running tests on Travis
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3119)
+Commit:        75d86f3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3119
+Duration:      10 min 55 sec
+Started:       2017-01-12 17:52:32
+Finished:      2017-01-12 18:03:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

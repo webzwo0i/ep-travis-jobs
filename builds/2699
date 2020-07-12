@@ -1,0 +1,11 @@
+Job #2699.1:  Merge branch 'feature/append-chat-api' of github.com:derosm2/etherpad-lite into append-chat-api
+State:         failed
+Type:          pull request
+Branch:        develop (PR #2573)
+Commit:        b1dce6a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2573
+Duration:      15 min 55 sec
+Started:       2015-04-01 14:33:56
+Finished:      2015-04-01 14:49:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

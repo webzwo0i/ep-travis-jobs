@@ -1,0 +1,11 @@
+Job #2857.1:  Merge pull request #2636 from andreassolberg/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d7c7c96
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d31523aa08d1...d7c7c961458b
+Duration:      6 min 24 sec
+Started:       2015-04-22 21:41:51
+Finished:      2015-04-22 21:48:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

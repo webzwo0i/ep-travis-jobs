@@ -1,0 +1,11 @@
+Job #3201.1:  Add authorMapper
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2914)
+Commit:        932ffbe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2914
+Duration:      11 min 4 sec
+Started:       2016-03-07 14:23:01
+Finished:      2016-03-07 14:34:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

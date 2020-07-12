@@ -1,0 +1,11 @@
+Job #3033.1:  Fix 2772. Skipping line marker when applying attribs to a range
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2777)
+Commit:        a019aeb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2777
+Duration:      10 min 42 sec
+Started:       2015-09-08 18:59:47
+Finished:      2015-09-08 19:10:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

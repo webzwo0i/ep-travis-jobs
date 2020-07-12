@@ -1,0 +1,11 @@
+Job #3328.1:  Select beginning of end line when offset is 0 on frontend tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3009)
+Commit:        5565589
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3009
+Duration:      11 min 38 sec
+Started:       2016-06-21 16:11:40
+Finished:      2016-06-21 16:23:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

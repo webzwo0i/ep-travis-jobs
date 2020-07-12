@@ -1,0 +1,11 @@
+Job #2845.1:  Update node version for windows build to 0.12.2
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2618)
+Commit:        d4d3bc9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2618
+Duration:      7 sec
+Started:       2015-04-16 22:58:46
+Finished:      2015-04-16 22:58:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

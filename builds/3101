@@ -1,0 +1,11 @@
+Job #3101.1:  allow settings to be applied from the filesystem
+State:         errored
+Type:          pull request
+Branch:        develop (PR #2840)
+Commit:        1eea33e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/2840
+Duration:      7 sec
+Started:       2015-11-24 15:04:14
+Finished:      2015-11-24 15:04:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

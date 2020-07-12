@@ -1,0 +1,11 @@
+Job #328.1:  changelog and package file
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fadfa67
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e6d523ba1cc4...fadfa6772e47
+Duration:      7 min 10 sec
+Started:       2013-01-07 20:36:14
+Finished:      2013-01-07 20:43:24
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8
