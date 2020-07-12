@@ -3,6 +3,7 @@
 travis=~/.gem/ruby/2.5.0/bin/travis
 repo=ether/etherpad-lite
 
+#TODO: find out if it is possible to only download new builds
 #get all build number
 echo "getting build history"
 $travis history --repo ether/etherpad-lite --limit 20000 >build-history
