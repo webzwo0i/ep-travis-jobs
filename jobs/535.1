@@ -1,0 +1,157 @@
+Using worker: bluebox-jvm-otp.worker.travis-ci.org:travis-jvm-16
+
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git fetch origin +refs/pull/1443/merge: 
+remote: Counting objects: 105, done.ote: Compressing objects:   3% (1/33)   ote: Compressing objects:   6% (2/33)   ote: Compressing objects:   9% (3/33)   ote: Compressing objects:  12% (4/33)   ote: Compressing objects:  15% (5/33)   ote: Compressing objects:  18% (6/33)   ote: Compressing objects:  21% (7/33)   ote: Compressing objects:  24% (8/33)   ote: Compressing objects:  27% (9/33)   ote: Compressing objects:  30% (10/33)   ote: Compressing objects:  33% (11/33)   ote: Compressing objects:  36% (12/33)   ote: Compressing objects:  39% (13/33)   ote: Compressing objects:  42% (14/33)   ote: Compressing objects:  45% (15/33)   ote: Compressing objects:  48% (16/33)   ote: Compressing objects:  51% (17/33)   ote: Compressing objects:  54% (18/33)   ote: Compressing objects:  57% (19/33)   ote: Compressing objects:  60% (20/33)   ote: Compressing objects:  63% (21/33)   ote: Compressing objects:  66% (22/33)   ote: Compressing objects:  69% (23/33)   ote: Compressing objects:  72% (24/33)   ote: Compressing objects:  75% (25/33)   ote: Compressing objects:  78% (26/33)   ote: Compressing objects:  81% (27/33)   ote: Compressing objects:  84% (28/33)   ote: Compressing objects:  87% (29/33)   ote: Compressing objects:  90% (30/33)   ote: Compressing objects:  93% (31/33)   ote: Compressing objects:  96% (32/33)   ote: Compressing objects: 100% (33/33)   ote: Compressing objects: 100% (33/33), done.ote: Total 59 (delta 45), reused 40 (delta 26) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1443/merge -> FETCH_HEAD
+$ git checkout -qf 3ae5cc09dce6397e097c06a8ef4d22a37b7a5141
+$ nvm use 0.8
+Now using node v0.8.17
+$ node --version
+v0.8.17
+$ npm --version
+1.2.0
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...
+npm WARN package.json ep_etherpad-lite@1.2.7 No README.md file found!
+npm WARN package.json node-redis@0.1.3 No README.md file found!
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+npm WARN prefer global jshint@0.9.1 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.3 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+unorm@1.0.0 node_modules/unorm
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+semver@1.0.13 node_modules/semver
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+wd@0.0.26 node_modules/wd
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.6 node_modules/log4js
+└── async@0.1.15
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── semver@1.1.2
+├── retry@0.6.0
+├── mkdirp@0.3.4
+├── couch-login@0.1.15
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+ueberDB@0.1.9 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.3
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.0
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+npm@1.1.71 node_modules/npm
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── commander@0.6.1
+├── debug@0.7.0
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+jshint@0.9.1 node_modules/jshint
+├── minimatch@0.0.5 (lru-cache@1.0.6)
+└── cli@0.4.3 (glob@3.1.17)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  7 29.0M    7 2108k    0     0  1930k      0  0:00:15  0:00:01  0:00:14 2583k 18 29.0M   18 5622k    0     0  2687k      0  0:00:11  0:00:02  0:00:09 3095k 26 29.0M   26 8026k    0     0  2597k      0  0:00:11  0:00:03  0:00:08 2852k 38 29.0M   38 11.2M    0     0  2815k      0  0:00:10  0:00:04  0:00:06 3019k 49 29.0M   49 14.4M    0     0  2889k      0  0:00:10  0:00:05  0:00:05 3054k 60 29.0M   60 17.6M    0     0  2967k      0  0:00:10  0:00:06  0:00:04 3194k 71 29.0M   71 20.8M    0     0  3009k      0  0:00:09  0:00:07  0:00:02 3143k 81 29.0M   81 23.8M    0     0  3012k      0  0:00:09  0:00:08  0:00:01 3269k 92 29.0M   92 26.7M    0     0  3014k      0  0:00:09  0:00:09 --:--:-- 3176k100 29.0M  100 29.0M    0     0  3005k      0  0:00:09  0:00:09 --:--:-- 3128k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+Missing required argument API_KEY
+
+
+
+No output has been received in the last 10 minutes, this potentially indicates a stalled build or something wrong with the build itself.
+
+The build has been terminated
+

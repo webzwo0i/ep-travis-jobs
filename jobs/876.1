@@ -1,0 +1,565 @@
+Using worker: bluebox-linux-3.worker.travis-ci.org:travis-linux-7
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=chrome-linux-indent git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+cd ether/etherpad-lite
+$ git checkout -qf 26a6765b50ffdb4c2739d7c5ec3e24bdd9e7dc9f
+$ nvm use 0.8
+Now using node v0.8.21
+$ node --version
+v0.8.21
+$ npm --version
+1.2.11
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+semver@1.0.13 node_modules/semver
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.7 node_modules/log4js
+├── dequeue@1.0.3
+└── async@0.1.15
+
+npm@1.1.71 node_modules/npm
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── fresh@0.1.0
+├── debug@0.7.2
+├── connect@2.7.2 (bytes@0.1.0, pause@0.0.1, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── graceful-fs@1.1.14
+├── chownr@0.0.1
+├── rimraf@2.0.3
+├── retry@0.6.0
+├── mkdirp@0.3.5
+├── couch-login@0.1.15
+├── semver@1.1.4
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@1.1.1)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+ueberDB@0.1.94 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.0M    0  5792    0     0  16258      0  0:31:16 --:--:--  0:31:16 81577  5 29.0M    5 1525k    0     0  1103k      0  0:00:26  0:00:01  0:00:25 1390k 10 29.0M   10 3183k    0     0  1348k      0  0:00:22  0:00:02  0:00:20 1534k 18 29.0M   18 5418k    0     0  1603k      0  0:00:18  0:00:03  0:00:15 1751k 24 29.0M   24 7275k    0     0  1667k      0  0:00:17  0:00:04  0:00:13 1784k 29 29.0M   29 8744k    0     0  1629k      0  0:00:18  0:00:05  0:00:13 1744k 32 29.0M   32 9638k    0     0  1509k      0  0:00:19  0:00:06  0:00:13 1622k 36 29.0M   36 10.6M    0     0  1476k      0  0:00:20  0:00:07  0:00:13 1537k 41 29.0M   41 11.9M    0     0  1455k      0  0:00:20  0:00:08  0:00:12 1356k 48 29.0M   48 13.9M    0     0  1529k      0  0:00:19  0:00:09  0:00:10 1409k 55 29.0M   55 16.2M    0     0  1605k      0  0:00:18  0:00:10  0:00:08 1578k 63 29.0M   63 18.6M    0     0  1678k      0  0:00:17  0:00:11  0:00:06 1894k 73 29.0M   73 21.3M    0     0  1766k      0  0:00:16  0:00:12  0:00:04 2193k 84 29.0M   84 24.4M    0     0  1873k      0  0:00:15  0:00:13  0:00:02 2588k 95 29.0M   95 27.6M    0     0  1969k      0  0:00:15  0:00:14  0:00:01 2793k100 29.0M  100 29.0M    0     0  1986k      0  0:00:15  0:00:15 --:--:-- 2839k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-03-08 17:08:41.300:INFO::jetty-7.x.y-SNAPSHOT
+2013-03-08 17:08:41.353:INFO::Started SelectChannelConnector@0.0.0.0:54613
+2013-03-08 17:09:02.804:INFO::jetty-7.x.y-SNAPSHOT
+2013-03-08 17:09:02.807:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_fold:end:before_script$ tests/frontend/travis/runner.sh
+Remote sauce test '26a6765 - firefox , Linux' started! https://saucelabs.com/jobs/e2e5b32accfa409bbf6117fed50451cf
+Remote sauce test '26a6765 - googlechrome , Linux' started! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+Remote sauce test '26a6765 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/b73ed62cac3349b8a746db23c79f97b1
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+org.eclipse.jetty.io.EofException
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:912)
+at org.eclipse.jetty.http.AbstractGenerator.blockForOutput(AbstractGenerator.java:505)
+at org.eclipse.jetty.http.AbstractGenerator.flush(AbstractGenerator.java:436)
+at org.eclipse.jetty.server.HttpOutput.flush(HttpOutput.java:90)
+at org.eclipse.jetty.server.HttpConnection$Output.flush(HttpConnection.java:1143)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:171)
+at org.eclipse.jetty.server.HttpOutput.write(HttpOutput.java:98)
+at com.saucelabs.sauceconnect.proxy.IOProxy$$anonfun$proxy$1.apply$mcV$sp(IOProxy.scala:59)
+at scala.util.control.Breaks.breakable(Breaks.scala:39)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:50)
+at com.saucelabs.sauceconnect.proxy.IOProxy$.proxy(IOProxy.scala:35)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:484)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:113)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:722)
+Caused by: java.io.IOException: Connection reset by peer
+at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:94)
+at sun.nio.ch.IOUtil.write(IOUtil.java:51)
+at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:450)
+at org.eclipse.jetty.io.nio.ChannelEndPoint.flush(ChannelEndPoint.java:187)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.flush(SelectChannelEndPoint.java:277)
+at org.eclipse.jetty.http.HttpGenerator.flushBuffer(HttpGenerator.java:856)
+... 24 more
+[firefox] button_bold.js
+[firefox]   bold button
+[firefox]     -> FAILED : "before each" hook timeout of 60000ms exceeded
+[firefox]     (0)@http://localhost:9001/tests/frontend/lib/mocha.js:3552
+[firefox]     FINISHED - no test started since 3 minutes, tests stopped
+[firefox] 
+Remote sauce test '26a6765 - firefox , Linux' finished! https://saucelabs.com/jobs/e2e5b32accfa409bbf6117fed50451cf
+Remote sauce test '26a6765 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/6138c3e9bd354ef6b39ff79c7b6786f5
+Remote sauce test '26a6765 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/d1a3c0e9388e4346bbc52a7ebdf31ea8
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '26a6765 - googlechrome , Linux' finished! https://saucelabs.com/jobs/1fc0eb2e692542a8b7ff09c10f8a6b1d
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

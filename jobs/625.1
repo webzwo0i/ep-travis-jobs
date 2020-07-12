@@ -1,0 +1,181 @@
+Using worker: bluebox-linux-1.worker.travis-ci.org:travis-linux-16
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=dep-cleanup git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf 69a6d5468e0a15b183d63dbaf7fa1cbe74036bde
+$ nvm use 0.8
+Now using node v0.8.18
+$ node --version
+v0.8.18
+$ npm --version
+1.2.2
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...
+npm WARN package.json node-redis@0.1.3 No README.md file found!
+npm WARN package.json methods@0.0.1 No README.md file found!
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.3 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+semver@1.0.13 node_modules/semver
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.6 node_modules/log4js
+└── async@0.1.15
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── retry@0.6.0
+├── mkdirp@0.3.4
+├── couch-login@0.1.15
+├── request@2.9.203
+├── semver@1.1.3
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+ueberDB@0.1.9 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.3
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.3M    0 11584    0     0   8639      0  0:59:22  0:00:01  0:59:21 17658  8 29.3M    8 2635k    0     0  1109k      0  0:00:27  0:00:02  0:00:25 1558k 18 29.3M   18 5434k    0     0  1616k      0  0:00:18  0:00:03  0:00:15 2029k 26 29.3M   26 7913k    0     0  1824k      0  0:00:16  0:00:04  0:00:12 2166k 34 29.3M   34 10.1M    0     0  1937k      0  0:00:15  0:00:05  0:00:10 2221k 41 29.3M   41 12.2M    0     0  1979k      0  0:00:15  0:00:06  0:00:09 2508k 50 29.3M   50 14.7M    0     0  2052k      0  0:00:14  0:00:07  0:00:07 2501k 57 29.3M   57 16.8M    0     0  2069k      0  0:00:14  0:00:08  0:00:06 2374k 63 29.3M   63 18.7M    0     0  1954k      0  0:00:15  0:00:09  0:00:06 2057k 69 29.3M   69 20.2M    0     0  1981k      0  0:00:15  0:00:10  0:00:05 2026k 71 29.3M   71 20.8M    0     0  1879k      0  0:00:15  0:00:11  0:00:04 1752k 77 29.3M   77 22.8M    0     0  1897k      0  0:00:15  0:00:12  0:00:03 1669k 86 29.3M   86 25.2M    0     0  1933k      0  0:00:15  0:00:13  0:00:02 1707k 91 29.3M   91 26.7M    0     0  1906k      0  0:00:15  0:00:14  0:00:01 1802k 99 29.3M   99 29.1M    0     0  1941k      0  0:00:15  0:00:15 --:--:-- 1855k100 29.3M  100 29.3M    0     0  1939k      0  0:00:15  0:00:15 --:--:-- 2104k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-02-10 17:56:20.399:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-10 17:56:20.458:INFO::Started SelectChannelConnector@0.0.0.0:41579
+2013-02-10 17:56:40.401:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-10 17:56:40.405:INFO::Started SelectChannelConnector@0.0.0.0:4445
+$ tests/frontend/travis/runner.sh
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module 'npm/lib/npm.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/home/travis/build/ether/etherpad-lite/src/node/server.js:34:11)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.runMain (module.js:492:10)
+Remote sauce test '69a6d54 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/b902246efd9a4e749b820ec9412780e7
+Remote sauce test '69a6d54 - googlechrome , Linux' started! https://saucelabs.com/jobs/4669a25718bd4cea8dc401b4ab1a63af
+Remote sauce test '69a6d54 - firefox , Linux' started! https://saucelabs.com/jobs/f41bdbbb4ac946989862f38b2e3117e2
+Remote sauce test '69a6d54 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/a3e5013347d7411082f7034a703a0e26
+Remote sauce test '69a6d54 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/1305345f441b4b6c993be4fcf35cc340
+[iexplore 8] 
+Remote sauce test '69a6d54 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/b902246efd9a4e749b820ec9412780e7
+[googlechrome] 
+Remote sauce test '69a6d54 - googlechrome , Linux' finished! https://saucelabs.com/jobs/4669a25718bd4cea8dc401b4ab1a63af
+[firefox] 
+Remote sauce test '69a6d54 - firefox , Linux' finished! https://saucelabs.com/jobs/f41bdbbb4ac946989862f38b2e3117e2
+[iexplore 9] 
+Remote sauce test '69a6d54 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/a3e5013347d7411082f7034a703a0e26
+[iexplore 10] 
+Remote sauce test '69a6d54 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/1305345f441b4b6c993be4fcf35cc340
+tests/frontend/travis/runner.sh: 14: kill: No such process
+
+
+Done. Build script exited with 1

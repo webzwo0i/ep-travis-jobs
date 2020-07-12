@@ -1,0 +1,12 @@
+Using worker: bluebox-linux-4.worker.travis-ci.org:travis-linux-14
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=update-ueber git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf 6199c545e99b8ac9f09e0dec2e75100af03f15c5
+fatal: reference is not a tree: 6199c545e99b8ac9f09e0dec2e75100af03f15c5
+
+The command "git checkout -qf 6199c545e99b8ac9f09e0dec2e75100af03f15c5" failed and exited with 128 during checkout.
+
+Your build has been stopped.

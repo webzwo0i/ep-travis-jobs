@@ -1,0 +1,308 @@
+Using worker: worker-linux-12-1.bb.travis-ci.org:travis-linux-8
+
+travis_fold:start:system_infoBuild system information
+Build language: node_js
+Build image provisioning date and time
+Fri Dec 26 15:36:46 UTC 2014
+lsb_release -a
+Distributor ID:Ubuntu
+Description:Ubuntu 12.04 LTS
+Release:12.04
+Codename:precise
+Cookbooks Version
+984d1aa https://github.com/travis-ci/travis-cookbooks/tree/984d1aa
+GCC version
+gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.4 (tags/RELEASE_34/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+ruby-1.9.3-p551
+Pre-installed Node.js versions
+v0.10
+v0.10.18
+v0.10.33
+v0.10.35
+v0.11.14
+v0.6.21
+v0.8.27
+Pre-installed Go versions
+go1.4
+Redis version
+redis-server 2.8.18
+riak version
+1.4.12
+MongoDB version
+MongoDB 2.4.12
+CouchDB version
+couchdb 1.6.1
+Neo4j version
+1.9.4
+Cassandra version
+2.0.9
+RabbitMQ Version
+3.4.2
+ElasticSearch version
+1.4.0
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.4
+Default Sphinx version
+2.1.9
+Installed Firefox version
+firefox 31.0esr
+PhantomJS version
+1.9.8
+ant -version
+Apache Ant(TM) version 1.8.2 compiled on December 3 2011
+mvn -version
+Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-11T20:58:10+00:00)
+Maven home: /usr/local/maven
+Java version: 1.7.0_72, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "2.6.32-042stab090.5", arch: "amd64", family: "unix"
+travis_fold:end:system_infoe:start:0ca3e6f2/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 8298, done.ote: Compressing objects:   0% (1/3004)   ote: Compressing objects:   1% (31/3004)   ote: Compressing objects:   2% (61/3004)   ote: Compressing objects:   3% (91/3004)   ote: Compressing objects:   4% (121/3004)   ote: Compressing objects:   5% (151/3004)   ote: Compressing objects:   6% (181/3004)   ote: Compressing objects:   7% (211/3004)   ote: Compressing objects:   8% (241/3004)   ote: Compressing objects:   9% (271/3004)   ote: Compressing objects:  10% (301/3004)   ote: Compressing objects:  11% (331/3004)   ote: Compressing objects:  12% (361/3004)   ote: Compressing objects:  13% (391/3004)   ote: Compressing objects:  14% (421/3004)   ote: Compressing objects:  15% (451/3004)   ote: Compressing objects:  16% (481/3004)   ote: Compressing objects:  17% (511/3004)   ote: Compressing objects:  18% (541/3004)   ote: Compressing objects:  19% (571/3004)   ote: Compressing objects:  20% (601/3004)   ote: Compressing objects:  21% (631/3004)   ote: Compressing objects:  22% (661/3004)   ote: Compressing objects:  23% (691/3004)   ote: Compressing objects:  24% (721/3004)   ote: Compressing objects:  25% (751/3004)   ote: Compressing objects:  26% (782/3004)   ote: Compressing objects:  27% (812/3004)   ote: Compressing objects:  28% (842/3004)   ote: Compressing objects:  29% (872/3004)   ote: Compressing objects:  30% (902/3004)   ote: Compressing objects:  31% (932/3004)   ote: Compressing objects:  32% (962/3004)   ote: Compressing objects:  33% (992/3004)   ote: Compressing objects:  34% (1022/3004)   ote: Compressing objects:  35% (1052/3004)   ote: Compressing objects:  36% (1082/3004)   ote: Compressing objects:  37% (1112/3004)   ote: Compressing objects:  38% (1142/3004)   ote: Compressing objects:  39% (1172/3004)   ote: Compressing objects:  40% (1202/3004)   ote: Compressing objects:  41% (1232/3004)   ote: Compressing objects:  42% (1262/3004)   ote: Compressing objects:  43% (1292/3004)   ote: Compressing objects:  44% (1322/3004)   ote: Compressing objects:  45% (1352/3004)   ote: Compressing objects:  46% (1382/3004)   ote: Compressing objects:  47% (1412/3004)   ote: Compressing objects:  48% (1442/3004)   ote: Compressing objects:  49% (1472/3004)   ote: Compressing objects:  50% (1502/3004)   ote: Compressing objects:  51% (1533/3004)   ote: Compressing objects:  52% (1563/3004)   ote: Compressing objects:  53% (1593/3004)   ote: Compressing objects:  54% (1623/3004)   ote: Compressing objects:  55% (1653/3004)   ote: Compressing objects:  56% (1683/3004)   ote: Compressing objects:  57% (1713/3004)   ote: Compressing objects:  58% (1743/3004)   ote: Compressing objects:  59% (1773/3004)   ote: Compressing objects:  60% (1803/3004)   ote: Compressing objects:  61% (1833/3004)   ote: Compressing objects:  62% (1863/3004)   ote: Compressing objects:  63% (1893/3004)   ote: Compressing objects:  64% (1923/3004)   ote: Compressing objects:  65% (1953/3004)   ote: Compressing objects:  66% (1983/3004)   ote: Compressing objects:  67% (2013/3004)   ote: Compressing objects:  68% (2043/3004)   ote: Compressing objects:  69% (2073/3004)   ote: Compressing objects:  70% (2103/3004)   ote: Compressing objects:  71% (2133/3004)   ote: Compressing objects:  72% (2163/3004)   ote: Compressing objects:  73% (2193/3004)   ote: Compressing objects:  74% (2223/3004)   ote: Compressing objects:  75% (2253/3004)   ote: Compressing objects:  76% (2284/3004)   ote: Compressing objects:  77% (2314/3004)   ote: Compressing objects:  78% (2344/3004)   ote: Compressing objects:  79% (2374/3004)   ote: Compressing objects:  80% (2404/3004)   ote: Compressing objects:  81% (2434/3004)   ote: Compressing objects:  82% (2464/3004)   ote: Compressing objects:  83% (2494/3004)   ote: Compressing objects:  84% (2524/3004)   ote: Compressing objects:  85% (2554/3004)   ote: Compressing objects:  86% (2584/3004)   ote: Compressing objects:  87% (2614/3004)   ote: Compressing objects:  88% (2644/3004)   ote: Compressing objects:  89% (2674/3004)   ote: Compressing objects:  90% (2704/3004)   ote: Compressing objects:  91% (2734/3004)   ote: Compressing objects:  92% (2764/3004)   ote: Compressing objects:  93% (2794/3004)   ote: Compressing objects:  94% (2824/3004)   ote: Compressing objects:  95% (2854/3004)   ote: Compressing objects:  96% (2884/3004)   ote: Compressing objects:  97% (2914/3004)   ote: Compressing objects:  98% (2944/3004)   ote: Compressing objects:  99% (2974/3004)   ote: Compressing objects: 100% (3004/3004)   ote: Compressing objects: 100% (3004/3004), done.ote: Total 8298 (delta 5743), reused 7582 (delta 5182)e:end:0ca3e6f2:start=1421611994205003359,finish=1421611994998861671,duration=793858312Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:start:0cda416e install 0.10
+v0.10.35 is already installed.
+Now using node v0.10.35
+travis_time:end:0cda416e:start=1421611995047474187,finish=1421611995258270458,duration=210796271 --version
+1.4.28
+$ nvm --version
+0.20.0
+travis_fold:start:install.1e:start:18688a24plate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+
+> ws@0.5.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+
+> microtime@0.4.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime
+> node-gyp rebuild
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+  CXX(target) Release/obj.target/microtime/src/microtime.o
+  SOLINK_MODULE(target) Release/obj.target/microtime.node
+  SOLINK_MODULE(target) Release/obj.target/microtime.node: Finished
+  COPY Release/microtime.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+slide@1.1.6 node_modules/slide
+
+graceful-fs@3.0.5 node_modules/graceful-fs
+
+tinycon@0.0.1 node_modules/tinycon
+
+formidable@1.0.16 node_modules/formidable
+
+async@0.9.0 node_modules/async
+
+underscore@1.5.1 node_modules/underscore
+
+etherpad-require-kernel@1.0.7 node_modules/etherpad-require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.3.3 node_modules/unorm
+
+measured@0.1.6 node_modules/measured
+
+semver@4.2.0 node_modules/semver
+
+ejs@1.0.0 node_modules/ejs
+
+resolve@1.0.0 node_modules/resolve
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+etherpad-yajsml@0.0.1 node_modules/etherpad-yajsml
+
+supertest@0.15.0 node_modules/supertest
+├── methods@1.1.1
+└── superagent@0.21.0 (extend@1.2.1, methods@1.0.1, cookiejar@2.0.1, component-emitter@1.1.2, reduce-component@1.0.1, qs@1.2.0, mime@1.2.11, debug@2.1.1, readable-stream@1.0.27-1, form-data@0.1.3, formidable@1.0.14)
+
+log4js@0.6.22 node_modules/log4js
+├── semver@1.1.4
+├── async@0.2.10
+└── readable-stream@1.0.33 (isarray@0.0.1, inherits@2.0.1, string_decoder@0.10.31, core-util-is@1.0.1)
+
+request@2.51.0 node_modules/request
+├── caseless@0.8.0
+├── json-stringify-safe@5.0.0
+├── forever-agent@0.5.2
+├── aws-sign2@0.5.0
+├── stringstream@0.0.4
+├── oauth-sign@0.5.0
+├── tunnel-agent@0.4.0
+├── node-uuid@1.4.2
+├── qs@2.3.3
+├── mime-types@1.0.2
+├── combined-stream@0.0.7 (delayed-stream@0.0.5)
+├── http-signature@0.10.1 (assert-plus@0.1.5, asn1@0.1.11, ctype@0.5.3)
+├── form-data@0.2.0 (mime-types@2.0.7)
+├── bl@0.9.3 (readable-stream@1.0.33)
+├── tough-cookie@0.12.1 (punycode@1.3.2)
+└── hawk@1.1.1 (cryptiles@0.2.2, sntp@0.2.4, boom@0.4.2, hoek@0.9.1)
+
+uglify-js@2.4.16 node_modules/uglify-js
+├── uglify-to-browserify@1.0.2
+├── async@0.2.10
+├── optimist@0.3.7 (wordwrap@0.0.2)
+└── source-map@0.1.34 (amdefine@0.1.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── buffer-crc32@0.2.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── cookie@0.0.5
+├── debug@2.1.1 (ms@0.6.2)
+├── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+└── formidable@1.0.14
+
+mocha@2.1.0 node_modules/mocha
+├── escape-string-regexp@1.0.2
+├── diff@1.0.8
+├── growl@1.8.1
+├── commander@2.3.0
+├── debug@2.0.0 (ms@0.6.2)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+├── glob@3.2.3 (graceful-fs@2.0.3, inherits@2.0.1, minimatch@0.2.14)
+└── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── simplesmtp@0.3.34 (xoauth2@0.1.8, rai@0.1.11)
+├── optimist@0.6.1 (wordwrap@0.0.2, minimist@0.0.10)
+└── mailcomposer@0.2.12 (follow-redirects@0.0.3, he@0.3.6, mime@1.2.11, dkim-signer@0.1.2, mimelib@0.2.18)
+
+jsonminify@0.2.3 node_modules/jsonminify
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── async@0.1.22
+├── underscore@1.4.4
+└── request@2.12.0
+
+cheerio@0.18.0 node_modules/cheerio
+├── dom-serializer@0.0.1 (domelementtype@1.1.3)
+├── entities@1.1.1
+├── htmlparser2@3.8.2 (domelementtype@1.1.3, domutils@1.5.0, entities@1.0.0, domhandler@2.3.0, readable-stream@1.1.13)
+├── CSSselect@0.4.1 (domutils@1.4.3, CSSwhat@0.4.7)
+└── lodash@2.4.1
+
+swagger-node-express@2.1.3 node_modules/swagger-node-express
+└── lodash@1.3.1
+
+express@3.8.1 node_modules/express
+├── parseurl@1.0.1
+├── merge-descriptors@0.0.2
+├── cookie@0.1.2
+├── debug@0.8.1
+├── cookie-signature@1.0.3
+├── fresh@0.2.2
+├── range-parser@1.0.0
+├── methods@1.0.0
+├── buffer-crc32@0.2.1
+├── commander@1.3.2 (keypress@0.1.0)
+├── proxy-addr@1.0.0 (ipaddr.js@0.1.2)
+├── send@0.3.0 (debug@0.8.0, mime@1.2.11)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+└── connect@2.17.3 (response-time@1.0.0, pause@0.0.1, method-override@1.0.2, connect-timeout@1.1.0, vhost@1.0.0, qs@0.6.6, on-headers@0.0.0, basic-auth-connect@1.0.0, bytes@1.0.0, morgan@1.1.1, serve-favicon@2.0.0, errorhandler@1.0.1, serve-static@1.1.0, cookie-parser@1.1.0, body-parser@1.2.2, csurf@1.2.0, express-session@1.2.1, compression@1.0.2, type-is@1.2.0, serve-index@1.0.3, multiparty@2.2.0)
+
+npm@2.2.0 node_modules/npm
+
+socket.io@1.2.1 node_modules/socket.io
+├── debug@0.7.4
+├── has-binary-data@0.1.3 (isarray@0.0.1)
+├── socket.io-adapter@0.3.1 (object-keys@1.0.1, debug@1.0.2)
+├── socket.io-parser@2.2.2 (isarray@0.0.1, component-emitter@1.1.2, benchmark@1.0.0, json3@3.2.6)
+├── engine.io@1.4.3 (base64id@0.1.0, debug@1.0.3, engine.io-parser@1.1.0, ws@0.5.0)
+└── socket.io-client@1.2.1 (to-array@0.1.3, indexof@0.0.1, component-bind@1.0.0, object-component@0.0.3, component-emitter@1.1.2, has-binary@0.1.5, parseuri@0.0.2, engine.io-client@1.4.3)
+
+ueberDB@0.2.10 node_modules/ueberDB
+├── channels@0.0.2
+├── felix-couchdb@1.0.7
+├── redis@0.12.1
+├── dirty@0.9.9
+├── async@0.1.15
+├── mysql@2.5.4 (require-all@0.0.8, bignumber.js@1.4.1, readable-stream@1.1.13)
+├── pg@4.2.0 (packet-reader@0.2.0, pg-connection-string@0.1.3, buffer-writer@1.0.0, generic-pool@2.1.1, pg-types@1.6.0, pgpass@0.0.3)
+└── helenus@0.6.10 (node-uuid@1.3.3, helenus-thrift@0.7.4, microtime@0.4.0)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+Ensure custom css/js files are created...
+travis_time:end:18688a24:start=1421611995954442748,finish=1421612015492303512,duration=19537860764e:start:157f11e0e:end:157f11e0:start=1421612015501441615,finish=1421612015511040863,duration=9599248e:start:12628488e    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 29.8M    1  511k    0     0   654k      0  0:00:46 --:--:--  0:00:46  749k 10 29.8M   10 3132k    0     0  1772k      0  0:00:17  0:00:01  0:00:16 1878k 13 29.8M   13 4247k    0     0  1521k      0  0:00:20  0:00:02  0:00:18 1577k 20 29.8M   20 6153k    0     0  1628k      0  0:00:18  0:00:03  0:00:15 1673k 23 29.8M   23 7188k    0     0  1497k      0  0:00:20  0:00:04  0:00:16 1529k 28 29.8M   28 8816k    0     0  1521k      0  0:00:20  0:00:05  0:00:15 1657k 31 29.8M   31 9636k    0     0  1314k      0  0:00:23  0:00:07  0:00:16 1168k 31 29.8M   31 9636k    0     0  1156k      0  0:00:26  0:00:08  0:00:18  972k 31 29.8M   31 9642k    0     0  1096k      0  0:00:27  0:00:08  0:00:19  695k 35 29.8M   35 10.5M    0     0  1101k      0  0:00:27  0:00:09  0:00:18  718k 42 29.8M   42 12.6M    0     0  1198k      0  0:00:25  0:00:10  0:00:15  821k 46 29.8M   46 13.8M    0     0  1197k      0  0:00:25  0:00:11  0:00:14 1008k 49 29.8M   49 14.8M    0     0  1193k      0  0:00:25  0:00:12  0:00:13 1262k 53 29.8M   53 15.9M    0     0  1187k      0  0:00:25  0:00:13  0:00:12 1347k 56 29.8M   56 16.9M    0     0  1170k      0  0:00:26  0:00:14  0:00:12 1304k 59 29.8M   59 17.8M    0     0  1161k      0  0:00:26  0:00:15  0:00:11 1081k 63 29.8M   63 18.8M    0     0  1151k      0  0:00:26  0:00:16  0:00:10 1040k 66 29.8M   66 19.8M    0     0  1139k      0  0:00:26  0:00:17  0:00:09 1002k 67 29.8M   67 20.2M    0     0  1072k      0  0:00:28  0:00:19  0:00:09  789k 67 29.8M   67 20.2M    0     0  1020k      0  0:00:29  0:00:20  0:00:09  617k 68 29.8M   68 20.4M    0     0  1004k      0  0:00:30  0:00:20  0:00:10  512k 71 29.8M   71 21.3M    0     0  1004k      0  0:00:30  0:00:21  0:00:09  509k 74 29.8M   74 22.3M    0     0  1004k      0  0:00:30  0:00:22  0:00:08  516k 78 29.8M   78 23.3M    0     0  1005k      0  0:00:30  0:00:23  0:00:07  713k 80 29.8M   80 23.9M    0     0   989k      0  0:00:30  0:00:24  0:00:06  850k 81 29.8M   81 24.3M    0     0   967k      0  0:00:31  0:00:25  0:00:06  814k 82 29.8M   82 24.7M    0     0   946k      0  0:00:32  0:00:26  0:00:06  694k 84 29.8M   84 25.2M    0     0   930k      0  0:00:32  0:00:27  0:00:05  593k 86 29.8M   86 25.7M    0     0   916k      0  0:00:33  0:00:28  0:00:05  494k 88 29.8M   88 26.3M    0     0   906k      0  0:00:33  0:00:29  0:00:04  495k 90 29.8M   90 27.0M    0     0   900k      0  0:00:33  0:00:30  0:00:03  555k 94 29.8M   94 28.0M    0     0   905k      0  0:00:33  0:00:31  0:00:02  683k 99 29.8M   99 29.6M    0     0   925k      0  0:00:33  0:00:32  0:00:01  900k100 29.8M  100 29.8M    0     0   928k      0  0:00:32  0:00:32 --:--:-- 1015k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2015-01-18 20:14:21.677:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-18 20:14:21.709:INFO::Started SelectChannelConnector@0.0.0.0:37835
+2015-01-18 20:14:28.277:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-18 20:14:28.280:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_time:end:12628488:start=1421612015518959532,finish=1421612068894436351,duration=53375476819e:start:129cdba7npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"rotatable": false, "takesScreenshot": true, "acceptSslCerts": true, "cssSelectorsEnabled": true, "javascriptEnabled": true, "nativeEvents": false, "databaseEnabled": true, "locationContextEnabled": true, "platform": "LINUX", "browserName": "firefox", "webdriver.remote.sessionid": "973492c6a9d94595825f7782c43a6bda", "hasMetadata": true, "version": "34.0.5", "applicationCacheEnabled": true, "webStorageEnabled": true, "handlesAlerts": true}, "sessionId": "973492c6a9d94595825f7782c43a6bda", "hCode": 23383006, "class": "org.openqa.selenium.remote.Response"}' }
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"takesScreenshot": true, "webdriver.remote.sessionid": "d57829f8ae2440b5ac00cac2de72d1b8", "unexpectedAlertBehaviour": "dismiss", "ie.browserCommandLineSwitches": "", "browserAttachTimeout": 0, "ie.ensureCleanSession": false, "ignoreProtectedModeSettings": false, "platform": "WINDOWS", "version": "10", "ignoreZoomSetting": false, "nativeEvents": true, "handlesAlerts": true, "javascriptEnabled": true, "requireWindowFocus": false, "ie.usePerProcessProxy": false, "hasMetadata": true, "initialBrowserUrl": "http://localhost:44498/", "enableElementCacheCleanup": true, "cssSelectorsEnabled": true, "browserName": "internet explorer", "elementScrollBehavior": 0, "enablePersistentHover": true, "ie.forceCreateProcessApi": false}, "sessionId": "d57829f8ae2440b5ac00cac2de72d1b8", "hCode": 1169336, "class": "org.openqa.selenium.remote.Response"}' }
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"takesScreenshot": true, "webdriver.remote.sessionid": "9e2bf755dbbd4dc989e884be0146808f", "unexpectedAlertBehaviour": "dismiss", "ie.browserCommandLineSwitches": "", "browserAttachTimeout": 0, "ie.ensureCleanSession": false, "ignoreProtectedModeSettings": false, "platform": "WINDOWS", "version": "9", "ignoreZoomSetting": false, "nativeEvents": true, "handlesAlerts": true, "javascriptEnabled": true, "requireWindowFocus": false, "ie.usePerProcessProxy": false, "hasMetadata": true, "proxy": {"proxyAutoconfigUrl": "http://127.0.0.1:19876/proxy.pac", "proxyType": "pac"}, "initialBrowserUrl": "http://localhost:27977/", "enableElementCacheCleanup": true, "cssSelectorsEnabled": true, "browserName": "internet explorer", "elementScrollBehavior": 0, "enablePersistentHover": true, "ie.forceCreateProcessApi": false}, "sessionId": "9e2bf755dbbd4dc989e884be0146808f", "hCode": 23700834, "class": "org.openqa.selenium.remote.Response"}' }
+Remote sauce test 'c0a4051 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/9aeac434c5c14b8c8103dca374758898
+Remote sauce test 'c0a4051 - googlechrome , Linux' started! https://saucelabs.com/jobs/caef253d619b46f596e6b2787f859b15
+[iexplore 8] 
+Remote sauce test 'c0a4051 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/9aeac434c5c14b8c8103dca374758898
+[googlechrome] 
+Remote sauce test 'c0a4051 - googlechrome , Linux' finished! https://saucelabs.com/jobs/caef253d619b46f596e6b2787f859b15
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+travis_time:end:129cdba7:start=1421612068902308574,finish=1421612825178896826,duration=756276588252The command "tests/frontend/travis/runner.sh" exited with 0.
+
+Done. Your build exited with 0.

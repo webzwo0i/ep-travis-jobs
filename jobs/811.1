@@ -1,0 +1,923 @@
+Using worker: bluebox-linux-2.worker.travis-ci.org:travis-linux-13
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=develop git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf 22bfe78c4fc7b7b839f78976e836e655d847e448
+$ nvm use 0.8
+Now using node v0.8.18
+$ node --version
+v0.8.18
+$ npm --version
+1.2.2
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+security@1.0.0 node_modules/security
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+ejs@0.6.1 node_modules/ejs
+
+resolve@0.2.8 node_modules/resolve
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+semver@1.0.13 node_modules/semver
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.7 node_modules/log4js
+├── dequeue@1.0.3
+└── async@0.1.15
+
+npm@1.1.71 node_modules/npm
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── retry@0.6.0
+├── mkdirp@0.3.5
+├── couch-login@0.1.15
+├── semver@1.1.3
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+ueberDB@0.1.92 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  7 29.0M    7 2224k    0     0  1904k      0  0:00:15  0:00:01  0:00:14 2455k 18 29.0M   18 5560k    0     0  2543k      0  0:00:11  0:00:02  0:00:09 2889k 27 29.0M   27 8053k    0     0  2377k      0  0:00:12  0:00:03  0:00:09 2577k 37 29.0M   37 10.9M    0     0  2684k      0  0:00:11  0:00:04  0:00:07 2864k 47 29.0M   47 13.6M    0     0  2701k      0  0:00:11  0:00:05  0:00:06 2845k 55 29.0M   55 16.1M    0     0  2682k      0  0:00:11  0:00:06  0:00:05 2864k 64 29.0M   64 18.7M    0     0  2679k      0  0:00:11  0:00:07  0:00:04 2739k 72 29.0M   72 21.0M    0     0  2639k      0  0:00:11  0:00:08  0:00:03 2824k 81 29.0M   81 23.7M    0     0  2650k      0  0:00:11  0:00:09  0:00:02 2622k 89 29.0M   89 26.1M    0     0  2633k      0  0:00:11  0:00:10  0:00:01 2563k 98 29.0M   98 28.7M    0     0  2630k      0  0:00:11  0:00:11 --:--:-- 2565k100 29.0M  100 29.0M    0     0  2626k      0  0:00:11  0:00:11 --:--:-- 2533k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-02-27 16:22:27.647:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-27 16:22:27.692:INFO::Started SelectChannelConnector@0.0.0.0:57064
+2013-02-27 16:22:51.217:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-27 16:22:51.220:INFO::Started SelectChannelConnector@0.0.0.0:4445
+$ tests/frontend/travis/runner.sh
+Remote sauce test '22bfe78 - firefox , Linux' started! https://saucelabs.com/jobs/f2a3a27994b14ea0827aaedc41d25a53
+Remote sauce test '22bfe78 - googlechrome , Linux' started! https://saucelabs.com/jobs/8f67558f1c5c4532a6d6022f78606bd1
+Remote sauce test '22bfe78 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/40c4d667d2dd4a68827570b7ae1a925a
+Remote sauce test '22bfe78 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/0ed6ac94bb9841e7b475842c036f4fc3
+Remote sauce test '22bfe78 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/f8772ea3dd0940bcad42c95b04c86679
+[iexplore 9] button_bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> PASSED : makes text bold
+[iexplore 9] 
+[iexplore 9] button_clear_authorship_colors.js
+[iexplore 9]   clear authorship colors button
+[iexplore 9]     -> PASSED : makes text clear authorship colors
+[iexplore 9] 
+[iexplore 9] button_indentation.js
+[iexplore 9]   indentation button
+[iexplore 9]     -> PASSED : indent text
+[iexplore 9]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 9] 
+[iexplore 9] button_italic.js
+[iexplore 9]   italic button
+[iexplore 9]     -> PASSED : makes text italic
+[iexplore 9] 
+[iexplore 9] button_ordered_list.js
+[iexplore 9]   assign ordered list
+[iexplore 9]     -> PASSED : insert ordered list text
+[iexplore 9]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 9]     PASTING INTO A PAD
+[iexplore 9] 
+[iexplore 9] button_redo.js
+[iexplore 9]   undo button then redo button
+[iexplore 9]     -> PASSED : undo some typing
+[iexplore 9] 
+[iexplore 9] button_strikethrough.js
+[iexplore 9]   strikethrough button
+[iexplore 9]     -> PASSED : makes text strikethrough
+[iexplore 9] 
+[iexplore 9] button_timeslider.js
+[iexplore 9]   timeslider button takes you to the timeslider of a pad
+[iexplore 9]     -> PENDING: timeslider contained in URL
+[iexplore 9] 
+[iexplore 9] button_undo.js
+[iexplore 9]   undo button
+[iexplore 9]     -> PASSED : undo some typing
+[iexplore 9] 
+[iexplore 9] change_user_name.js
+[iexplore 9]   change username value
+[iexplore 9]     -> PASSED : Remembers the user name after a refresh
+[iexplore 9]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 9] 
+[iexplore 9] chat_always_on_screen.js
+[iexplore 9]   chat always ons creen select
+[iexplore 9]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 9] 
+[iexplore 9] chat_load_messages.js
+[iexplore 9]   chat-load-messages
+[iexplore 9]     -> PASSED : creates a pad
+[iexplore 9]     -> PASSED : adds a lot of messages
+[iexplore 9]     -> PASSED : checks initial message count
+[iexplore 9]     -> PASSED : loads more messages
+[iexplore 9]     -> PASSED : checks for button vanishing
+[iexplore 9] 
+[iexplore 9] embed_value.js
+[iexplore 9]   embed links
+[iexplore 9]     read and write
+[iexplore 9]       the share link
+[iexplore 9]         -> PASSED : is the actual pad url
+[iexplore 9]       the embed as iframe code
+[iexplore 9]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 9]     when read only option is set
+[iexplore 9]       the share link
+[iexplore 9]         -> FAILED : shows a read only url Error: expected false to equal true
+[iexplore 9]       the embed as iframe code
+[iexplore 9]         -> FAILED : is an iframe with the the correct url parameters and correct size Error: exp
+[iexplore 9]         ected 'embed_readwrite' to equal 'embed_readonly'
+[iexplore 9] 
+[iexplore 9] font_type.js
+[iexplore 9]   font select
+[iexplore 9]     -> PASSED : makes text monospace
+[iexplore 9] 
+[iexplore 9] helper.js
+[iexplore 9]   the test helper
+[iexplore 9]     the newPad method
+[iexplore 9]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 9]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 9]     the waitFor method
+[iexplore 9]       -> PASSED : takes a timeout and waits long enough
+[iexplore 9]       -> PASSED : takes an interval and checks on every interval
+[iexplore 9]       returns a deferred object
+[iexplore 9]         -> PASSED : it calls done after success
+[iexplore 9]         -> PASSED : calls fail after failure
+[iexplore 9]         -> PENDING: throws if you don't listen for fails
+[iexplore 9] 
+[iexplore 9] keystroke_alphabet.js
+[iexplore 9]   All the alphabet works n stuff
+[iexplore 9]     -> PASSED : when you enter any char it appears right
+[iexplore 9] 
+[iexplore 9] keystroke_chat.js
+[iexplore 9]   send chat message
+[iexplore 9]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 9]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 9] 
+[iexplore 9] keystroke_delete.js
+[iexplore 9]   delete keystroke
+[iexplore 9]     -> PASSED : makes text delete
+[iexplore 9] 
+[iexplore 9] keystroke_enter.js
+[iexplore 9]   enter keystroke
+[iexplore 9]     -> PASSED : creates a enw line & puts cursor onto a new line
+[iexplore 9] 
+[iexplore 9] keystroke_urls_become_clickable.js
+[iexplore 9]   urls
+[iexplore 9]     -> PASSED : when you enter an url, it becomes clickable
+[iexplore 9]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[iexplore 9]      whole URL
+[iexplore 9] 
+[iexplore 9] language.js
+[iexplore 9]   Language select and change
+[iexplore 9]     -> PASSED : makes text german
+[iexplore 9]     -> PASSED : makes text English
+[iexplore 9]     -> PASSED : changes direction when picking an rtl lang
+[iexplore 9] 
+[iexplore 9] timeslider_labels.js
+[iexplore 9]   timeslider
+[iexplore 9]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[iexplore 9]     aN
+[iexplore 9] 
+[iexplore 9] timeslider_revisions.js
+[iexplore 9]   timeslider
+[iexplore 9]     -> FAILED : loads adds a hundred revisions Error: timeout of 100000ms exceeded
+[iexplore 9]     -> FAILED : changes the url when clicking on the timeslider Error: the string "expected 
+[iexplore 9]     '' to sort of not equal ''" was thrown, throw an Error :)
+[iexplore 9]     -> FAILED : "before each" hook Error: the string "Can't execute code from a freed script
+[iexplore 9]     " was thrown, throw an Error :)
+[iexplore 9]     -> PASSED : jumps to a revision given in the url
+[iexplore 9]     -> PASSED : checks the export url
+[iexplore 9] 
+[iexplore 9] FINISHED - 38 tests passed, 5 tests failed, duration: 3:14
+[iexplore 9] 
+Remote sauce test '22bfe78 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/0ed6ac94bb9841e7b475842c036f4fc3
+[firefox] button_bold.js
+[firefox]   bold button
+[firefox]     -> PASSED : makes text bold
+[firefox] 
+[firefox] button_clear_authorship_colors.js
+[firefox]   clear authorship colors button
+[firefox]     -> PASSED : makes text clear authorship colors
+[firefox] 
+[firefox] button_indentation.js
+[firefox]   indentation button
+[firefox]     -> PASSED : indent text
+[firefox]     -> PASSED : keeps the indent on enter for the new line
+[firefox] 
+[firefox] button_italic.js
+[firefox]   italic button
+[firefox]     -> PASSED : makes text italic
+[firefox] 
+[firefox] button_ordered_list.js
+[firefox]   assign ordered list
+[firefox]     -> PASSED : insert ordered list text
+[firefox]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[firefox]     PASTING INTO A PAD
+[firefox] 
+[firefox] button_redo.js
+[firefox]   undo button then redo button
+[firefox]     -> PASSED : undo some typing
+[firefox] 
+[firefox] button_strikethrough.js
+[firefox]   strikethrough button
+[firefox]     -> PASSED : makes text strikethrough
+[firefox] 
+[firefox] button_timeslider.js
+[firefox]   timeslider button takes you to the timeslider of a pad
+[firefox]     -> PENDING: timeslider contained in URL
+[firefox] 
+[firefox] button_undo.js
+[firefox]   undo button
+[firefox]     -> PASSED : undo some typing
+[firefox] 
+[firefox] change_user_name.js
+[firefox]   change username value
+[firefox]     -> PASSED : Remembers the user name after a refresh
+[firefox]     -> PASSED : Own user name is shown when you enter a chat
+[firefox] 
+[firefox] chat_always_on_screen.js
+[firefox]   chat always ons creen select
+[firefox]     -> PASSED : makes chat stick to right side of the screen
+[firefox] 
+[firefox] chat_load_messages.js
+[firefox]   chat-load-messages
+[firefox]     -> PASSED : creates a pad
+[firefox]     -> PASSED : adds a lot of messages
+[firefox]     -> PASSED : checks initial message count
+[firefox]     -> PASSED : loads more messages
+[firefox]     -> PASSED : checks for button vanishing
+[firefox] 
+[firefox] embed_value.js
+[firefox]   embed links
+[firefox]     read and write
+[firefox]       the share link
+[firefox]         -> PASSED : is the actual pad url
+[firefox]       the embed as iframe code
+[firefox]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[firefox]     when read only option is set
+[firefox]       the share link
+[firefox]         -> FAILED : shows a read only url expected false to equal true
+[firefox]         (false,(function () {return "expected " + i(this.obj) + " to equal " + i(obj);}),(function () {retur
+[firefox]         n "expected " + i(this.obj) + " to not equal " + i(obj);}))@http://localhost:9001/tests/frontend/lib
+[firefox]         /expect.js:99
+[firefox]         (true)@http://localhost:9001/tests/frontend/lib/expect.js:203
+[firefox]         (true)@http://localhost:9001/tests/frontend/lib/expect.js:73
+[firefox]         ((function (err) {if (err instanceof Error) {return done(err);}if (null != err) {return done(new Err
+[firefox]         or("done() invoked with non-Error: " + err));}done();}))@http://localhost:9001/static/js/jquery.js:1
+[firefox]         09
+[firefox]         ((function (err) {test = self.test;if (err) {self.fail(test, err);self.emit("test end", test);return
+[firefox]          self.hookUp("afterEach", next);}test.state = "passed";self.emit("pass", test);self.emit("test end",
+[firefox]          test);self.hookUp("afterEach", next);}))@http://localhost:9001/tests/frontend/lib/mocha.js:3608
+[firefox]         ((function (err) {test = self.test;if (err) {self.fail(test, err);self.emit("test end", test);return
+[firefox]          self.hookUp("afterEach", next);}test.state = "passed";self.emit("pass", test);self.emit("test end",
+[firefox]          test);self.hookUp("afterEach", next);}))@http://localhost:9001/tests/frontend/lib/mocha.js:3940
+[firefox]         ()@http://localhost:9001/tests/frontend/lib/mocha.js:3986
+[firefox]         next((void 0))@http://localhost:9001/tests/frontend/lib/mocha.js:3868
+[firefox]         ()@http://localhost:9001/tests/frontend/lib/mocha.js:3877
+[firefox]         next(0)@http://localhost:9001/tests/frontend/lib/mocha.js:3825
+[firefox]         ()@http://localhost:9001/tests/frontend/lib/mocha.js:3845
+[firefox]         ([object MessageEvent])@http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[firefox]       the embed as iframe code
+[firefox]         -> FAILED : is an iframe with the the correct url parameters and correct size expected '
+[firefox]         embed_readwrite' to equal 'embed_readonly'
+[firefox]         (false,(function () {return "expected " + i(this.obj) + " to equal " + i(obj);}),(function () {retur
+[firefox]         n "expected " + i(this.obj) + " to not equal " + i(obj);}))@http://localhost:9001/tests/frontend/lib
+[firefox]         /expect.js:99
+[firefox]         ("embed_readonly")@http://localhost:9001/tests/frontend/lib/expect.js:203
+[firefox]         ("embed_readonly")@http://localhost:9001/tests/frontend/lib/expect.js:73
+[firefox]         ("<iframe name='embed_readwrite' src='http://localhost:9001/p/FRONTEND_TEST_ucyJCsDYu8vd2KNVguOF?sho
+[firefox]         wControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false' width=600 height=400></ifr
+[firefox]         ame>",true)@http://localhost:9001/static/js/jquery.js:24
+[firefox]         ((function (err) {if (err instanceof Error) {return done(err);}if (null != err) {return done(new Err
+[firefox]         or("done() invoked with non-Error: " + err));}done();}))@http://localhost:9001/static/js/jquery.js:1
+[firefox]         27
+[firefox]         ((function (err) {test = self.test;if (err) {self.fail(test, err);self.emit("test end", test);return
+[firefox]          self.hookUp("afterEach", next);}test.state = "passed";self.emit("pass", test);self.emit("test end",
+[firefox]          test);self.hookUp("afterEach", next);}))@http://localhost:9001/tests/frontend/lib/mocha.js:3608
+[firefox]         ((function (err) {test = self.test;if (err) {self.fail(test, err);self.emit("test end", test);return
+[firefox]          self.hookUp("afterEach", next);}test.state = "passed";self.emit("pass", test);self.emit("test end",
+[firefox]          test);self.hookUp("afterEach", next);}))@http://localhost:9001/tests/frontend/lib/mocha.js:3940
+[firefox]         ()@http://localhost:9001/tests/frontend/lib/mocha.js:3986
+[firefox]         next((void 0))@http://localhost:9001/tests/frontend/lib/mocha.js:3868
+[firefox]         ()@http://localhost:9001/tests/frontend/lib/mocha.js:3877
+[firefox]         next(0)@http://localhost:9001/tests/frontend/lib/mocha.js:3825
+[firefox]         ()@http://localhost:9001/tests/frontend/lib/mocha.js:3845
+[firefox]         ([object MessageEvent])@http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[firefox] 
+[firefox] font_type.js
+[firefox]   font select
+[firefox]     -> PASSED : makes text monospace
+[firefox] 
+[firefox] helper.js
+[firefox]   the test helper
+[firefox]     the newPad method
+[firefox]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[firefox]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[firefox]     the waitFor method
+[firefox]       -> PASSED : takes a timeout and waits long enough
+[firefox]       -> PASSED : takes an interval and checks on every interval
+[firefox]       returns a deferred object
+[firefox]         -> PASSED : it calls done after success
+[firefox]         -> PASSED : calls fail after failure
+[firefox]         -> PENDING: throws if you don't listen for fails
+[firefox] 
+[firefox] keystroke_alphabet.js
+[firefox]   All the alphabet works n stuff
+[firefox]     -> PASSED : when you enter any char it appears right
+[firefox] 
+[firefox] keystroke_chat.js
+[firefox]   send chat message
+[firefox]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[firefox]     -> PASSED : makes sure that an empty message can't be sent
+[firefox] 
+[firefox] keystroke_delete.js
+[firefox]   delete keystroke
+[firefox]     -> PASSED : makes text delete
+[firefox] 
+[firefox] keystroke_enter.js
+[firefox]   enter keystroke
+[firefox]     -> PASSED : creates a enw line & puts cursor onto a new line
+[firefox] 
+[firefox] keystroke_urls_become_clickable.js
+[firefox]   urls
+[firefox]     -> PASSED : when you enter an url, it becomes clickable
+[firefox]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[firefox]      whole URL
+[firefox] 
+[firefox] language.js
+[firefox]   Language select and change
+[firefox]     -> PASSED : makes text german
+[firefox]     -> PASSED : makes text English
+[firefox]     -> PASSED : changes direction when picking an rtl lang
+[firefox] 
+[firefox] timeslider_labels.js
+[firefox]   timeslider
+[firefox]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[firefox]     aN
+[firefox] 
+[firefox] timeslider_revisions.js
+[firefox]   timeslider
+[firefox]     -> PASSED : loads adds a hundred revisions
+[firefox]     -> PASSED : changes the url when clicking on the timeslider
+[firefox]     -> PASSED : jumps to a revision given in the url
+[firefox]     -> PASSED : checks the export url
+[firefox] 
+[firefox] FINISHED - 40 tests passed, 2 tests failed, duration: 3:41
+[firefox] 
+Remote sauce test '22bfe78 - firefox , Linux' finished! https://saucelabs.com/jobs/f2a3a27994b14ea0827aaedc41d25a53
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold
+[googlechrome] 
+[googlechrome] button_clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] button_indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] button_italic.js
+[googlechrome]   italic button
+[googlechrome]     -> PASSED : makes text italic
+[googlechrome] 
+[googlechrome] button_ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] button_redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] button_strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] button_timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] button_undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat_always_on_screen.js
+[googlechrome]   chat always ons creen select
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : adds a lot of messages
+[googlechrome]     -> PASSED : checks initial message count
+[googlechrome]     -> PASSED : loads more messages
+[googlechrome]     -> PASSED : checks for button vanishing
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : is the actual pad url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome]     when read only option is set
+[googlechrome]       the share link
+[googlechrome]         -> FAILED : shows a read only url Error: expected false to equal true
+[googlechrome]             at Assertion.assert (http://localhost:9001/tests/frontend/lib/expect.js:99:13)
+[googlechrome]             at Assertion.be.Assertion.equal (http://localhost:9001/tests/frontend/lib/expect.js:200:10)
+[googlechrome]             at Assertion.(anonymous function) [as be] (http://localhost:9001/tests/frontend/lib/expect.js:73
+[googlechrome]         :24)
+[googlechrome]             at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:15681), <anony
+[googlechrome]         mous>:109:41)
+[googlechrome]             at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]             at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]             at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]             at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]             at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]             at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> FAILED : is an iframe with the the correct url parameters and correct size Error: exp
+[googlechrome]         ected 'embed_readwrite' to equal 'embed_readonly'
+[googlechrome]             at Assertion.assert (http://localhost:9001/tests/frontend/lib/expect.js:99:13)
+[googlechrome]             at Assertion.be.Assertion.equal (http://localhost:9001/tests/frontend/lib/expect.js:200:10)
+[googlechrome]             at Assertion.(anonymous function) [as be] (http://localhost:9001/tests/frontend/lib/expect.js:73
+[googlechrome]         :24)
+[googlechrome]             at checkiFrameCode (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:15681), <an
+[googlechrome]         onymous>:24:21)
+[googlechrome]             at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:15681), <anony
+[googlechrome]         mous>:127:9)
+[googlechrome]             at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]             at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]             at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]             at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]             at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome] 
+[googlechrome] font_type.js
+[googlechrome]   font select
+[googlechrome]     -> FAILED : makes text monospace Error: expected 'arial, sans-serif' to equal 'monospace
+[googlechrome]     '
+[googlechrome]         at Assertion.assert (http://localhost:9001/tests/frontend/lib/expect.js:99:13)
+[googlechrome]         at Assertion.be.Assertion.equal (http://localhost:9001/tests/frontend/lib/expect.js:200:10)
+[googlechrome]         at Assertion.(anonymous function) [as be] (http://localhost:9001/tests/frontend/lib/expect.js:73
+[googlechrome]     :24)
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:15681), <anony
+[googlechrome]     mous>:26:27)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome] 
+[googlechrome] helper.js
+[googlechrome]   the test helper
+[googlechrome]     the newPad method
+[googlechrome]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[googlechrome]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[googlechrome]     the waitFor method
+[googlechrome]       -> PASSED : takes a timeout and waits long enough
+[googlechrome]       -> PASSED : takes an interval and checks on every interval
+[googlechrome]       returns a deferred object
+[googlechrome]         -> PASSED : it calls done after success
+[googlechrome]         -> PASSED : calls fail after failure
+[googlechrome]         -> PENDING: throws if you don't listen for fails
+[googlechrome] 
+[googlechrome] keystroke_alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] keystroke_chat.js
+[googlechrome]   send chat message
+[googlechrome]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[googlechrome]     -> PASSED : makes sure that an empty message can't be sent
+[googlechrome] 
+[googlechrome] keystroke_delete.js
+[googlechrome]   delete keystroke
+[googlechrome]     -> PASSED : makes text delete
+[googlechrome] 
+[googlechrome] keystroke_enter.js
+[googlechrome]   enter keystroke
+[googlechrome]     -> PASSED : creates a enw line & puts cursor onto a new line
+[googlechrome] 
+[googlechrome] keystroke_urls_become_clickable.js
+[googlechrome]   urls
+[googlechrome]     -> PASSED : when you enter an url, it becomes clickable
+[googlechrome]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[googlechrome]      whole URL
+[googlechrome] 
+[googlechrome] language.js
+[googlechrome]   Language select and change
+[googlechrome]     -> PASSED : makes text german
+[googlechrome]     -> FAILED : makes text English Error: the string "Uncaught Error: wait for condition nev
+[googlechrome]     er became true function () { return $boldButton[0]["title"] != "Fett (Strg-B)";}" was thrown, throw 
+[googlechrome]     an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     -> PASSED : changes direction when picking an rtl lang
+[googlechrome] 
+[googlechrome] timeslider_labels.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[googlechrome]     aN
+[googlechrome] 
+[googlechrome] timeslider_revisions.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : loads adds a hundred revisions
+[googlechrome]     -> PASSED : changes the url when clicking on the timeslider
+[googlechrome]     -> PASSED : jumps to a revision given in the url
+[googlechrome]     -> PASSED : checks the export url
+[googlechrome] 
+[googlechrome] FINISHED - 38 tests passed, 4 tests failed, duration: 3:43
+[googlechrome] 
+Remote sauce test '22bfe78 - googlechrome , Linux' finished! https://saucelabs.com/jobs/8f67558f1c5c4532a6d6022f78606bd1
+[iexplore 10] button_bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold
+[iexplore 10] 
+[iexplore 10] button_clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> PASSED : makes text clear authorship colors
+[iexplore 10] 
+[iexplore 10] button_indentation.js
+[iexplore 10]   indentation button
+[iexplore 10]     -> PASSED : indent text
+[iexplore 10]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 10] 
+[iexplore 10] button_italic.js
+[iexplore 10]   italic button
+[iexplore 10]     -> PASSED : makes text italic
+[iexplore 10] 
+[iexplore 10] button_ordered_list.js
+[iexplore 10]   assign ordered list
+[iexplore 10]     -> PASSED : insert ordered list text
+[iexplore 10]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 10]     PASTING INTO A PAD
+[iexplore 10] 
+[iexplore 10] button_redo.js
+[iexplore 10]   undo button then redo button
+[iexplore 10]     -> PASSED : undo some typing
+[iexplore 10] 
+[iexplore 10] button_strikethrough.js
+[iexplore 10]   strikethrough button
+[iexplore 10]     -> PASSED : makes text strikethrough
+[iexplore 10] 
+[iexplore 10] button_timeslider.js
+[iexplore 10]   timeslider button takes you to the timeslider of a pad
+[iexplore 10]     -> PENDING: timeslider contained in URL
+[iexplore 10] 
+[iexplore 10] button_undo.js
+[iexplore 10]   undo button
+[iexplore 10]     -> PASSED : undo some typing
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> PASSED : Remembers the user name after a refresh
+[iexplore 10]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 10] 
+[iexplore 10] chat_always_on_screen.js
+[iexplore 10]   chat always ons creen select
+[iexplore 10]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 10] 
+[iexplore 10] chat_load_messages.js
+[iexplore 10]   chat-load-messages
+[iexplore 10]     -> PASSED : creates a pad
+[iexplore 10]     -> PASSED : adds a lot of messages
+[iexplore 10]     -> PASSED : checks initial message count
+[iexplore 10]     -> PASSED : loads more messages
+[iexplore 10]     -> PASSED : checks for button vanishing
+[iexplore 10] 
+[iexplore 10] embed_value.js
+[iexplore 10]   embed links
+[iexplore 10]     read and write
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : is the actual pad url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10]     when read only option is set
+[iexplore 10]       the share link
+[iexplore 10]         -> FAILED : shows a read only url Error: expected false to equal true
+[iexplore 10]            at assert (http://localhost:9001/tests/frontend/lib/expect.js:99:7)
+[iexplore 10]            at equal (http://localhost:9001/tests/frontend/lib/expect.js:200:5)
+[iexplore 10]            at Anonymous function (http://localhost:9001/tests/frontend/lib/expect.js:73:13)
+[iexplore 10]            at Anonymous function (Unknown script code:109:9)
+[iexplore 10]            at run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:7)
+[iexplore 10]            at runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:5)
+[iexplore 10]            at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:3986:7)
+[iexplore 10]            at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:7)
+[iexplore 10]            at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:3877:7)
+[iexplore 10]            at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:16)
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> FAILED : is an iframe with the the correct url parameters and correct size Error: exp
+[iexplore 10]         ected 'embed_readwrite' to equal 'embed_readonly'
+[iexplore 10]            at assert (http://localhost:9001/tests/frontend/lib/expect.js:99:7)
+[iexplore 10]            at equal (http://localhost:9001/tests/frontend/lib/expect.js:200:5)
+[iexplore 10]            at Anonymous function (http://localhost:9001/tests/frontend/lib/expect.js:73:13)
+[iexplore 10]            at checkiFrameCode (Unknown script code:24:5)
+[iexplore 10]            at Anonymous function (Unknown script code:127:9)
+[iexplore 10]            at run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:7)
+[iexplore 10]            at runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:5)
+[iexplore 10]            at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:3986:7)
+[iexplore 10]            at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:7)
+[iexplore 10]            at Anonymous function (http://localhost:9001/tests/frontend/lib/mocha.js:3877:7)
+[iexplore 10] 
+[iexplore 10] font_type.js
+[iexplore 10]   font select
+[iexplore 10]     -> PASSED : makes text monospace
+[iexplore 10] 
+[iexplore 10] helper.js
+[iexplore 10]   the test helper
+[iexplore 10]     the newPad method
+[iexplore 10]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 10]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 10]     the waitFor method
+[iexplore 10]       -> PASSED : takes a timeout and waits long enough
+[iexplore 10]       -> PASSED : takes an interval and checks on every interval
+[iexplore 10]       returns a deferred object
+[iexplore 10]         -> PASSED : it calls done after success
+[iexplore 10]         -> PASSED : calls fail after failure
+[iexplore 10]         -> PENDING: throws if you don't listen for fails
+[iexplore 10] 
+[iexplore 10] keystroke_alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] keystroke_chat.js
+[iexplore 10]   send chat message
+[iexplore 10]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 10]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 10] 
+[iexplore 10] keystroke_delete.js
+[iexplore 10]   delete keystroke
+[iexplore 10]     -> PASSED : makes text delete
+[iexplore 10] 
+[iexplore 10] keystroke_enter.js
+[iexplore 10]   enter keystroke
+[iexplore 10]     -> PASSED : creates a enw line & puts cursor onto a new line
+[iexplore 10] 
+[iexplore 10] keystroke_urls_become_clickable.js
+[iexplore 10]   urls
+[iexplore 10]     -> PASSED : when you enter an url, it becomes clickable
+[iexplore 10]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[iexplore 10]      whole URL
+[iexplore 10] 
+[iexplore 10] language.js
+[iexplore 10]   Language select and change
+[iexplore 10]     -> PASSED : makes text german
+[iexplore 10]     -> PASSED : makes text English
+[iexplore 10]     -> PASSED : changes direction when picking an rtl lang
+[iexplore 10] 
+[iexplore 10] timeslider_labels.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[iexplore 10]     aN
+[iexplore 10] 
+[iexplore 10] timeslider_revisions.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : loads adds a hundred revisions
+[iexplore 10]     -> PASSED : changes the url when clicking on the timeslider
+[iexplore 10]     -> PASSED : jumps to a revision given in the url
+[iexplore 10]     -> PASSED : checks the export url
+[iexplore 10] 
+[iexplore 10] FINISHED - 40 tests passed, 2 tests failed, duration: 3:42
+[iexplore 10] 
+Remote sauce test '22bfe78 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/f8772ea3dd0940bcad42c95b04c86679
+[iexplore 8] button_bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> PASSED : makes text bold
+[iexplore 8] 
+[iexplore 8] button_clear_authorship_colors.js
+[iexplore 8]   clear authorship colors button
+[iexplore 8]     -> PASSED : makes text clear authorship colors
+[iexplore 8] 
+[iexplore 8] button_indentation.js
+[iexplore 8]   indentation button
+[iexplore 8]     -> PASSED : indent text
+[iexplore 8]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 8] 
+[iexplore 8] button_italic.js
+[iexplore 8]   italic button
+[iexplore 8]     -> PASSED : makes text italic
+[iexplore 8] 
+[iexplore 8] button_ordered_list.js
+[iexplore 8]   assign ordered list
+[iexplore 8]     -> PASSED : insert ordered list text
+[iexplore 8]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 8]     PASTING INTO A PAD
+[iexplore 8] 
+[iexplore 8] button_redo.js
+[iexplore 8]   undo button then redo button
+[iexplore 8]     -> PASSED : undo some typing
+[iexplore 8] 
+[iexplore 8] button_strikethrough.js
+[iexplore 8]   strikethrough button
+[iexplore 8]     -> PASSED : makes text strikethrough
+[iexplore 8] 
+[iexplore 8] button_timeslider.js
+[iexplore 8]   timeslider button takes you to the timeslider of a pad
+[iexplore 8]     -> PENDING: timeslider contained in URL
+[iexplore 8] 
+[iexplore 8] button_undo.js
+[iexplore 8]   undo button
+[iexplore 8]     -> PASSED : undo some typing
+[iexplore 8] 
+[iexplore 8] change_user_name.js
+[iexplore 8]   change username value
+[iexplore 8]     -> PASSED : Remembers the user name after a refresh
+[iexplore 8]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 8] 
+[iexplore 8] chat_always_on_screen.js
+[iexplore 8]   chat always ons creen select
+[iexplore 8]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 8] 
+[iexplore 8] chat_load_messages.js
+[iexplore 8]   chat-load-messages
+[iexplore 8]     -> PASSED : creates a pad
+[iexplore 8]     -> PASSED : adds a lot of messages
+[iexplore 8]     -> PASSED : checks initial message count
+[iexplore 8]     -> PASSED : loads more messages
+[iexplore 8]     -> PASSED : checks for button vanishing
+[iexplore 8] 
+[iexplore 8] embed_value.js
+[iexplore 8]   embed links
+[iexplore 8]     read and write
+[iexplore 8]       the share link
+[iexplore 8]         -> PASSED : is the actual pad url
+[iexplore 8]       the embed as iframe code
+[iexplore 8]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 8]     when read only option is set
+[iexplore 8]       the share link
+[iexplore 8]         -> FAILED : shows a read only url Error: expected false to equal true
+[iexplore 8]       the embed as iframe code
+[iexplore 8]         -> FAILED : is an iframe with the the correct url parameters and correct size Error: exp
+[iexplore 8]         ected 'embed_readwrite' to equal 'embed_readonly'
+[iexplore 8] 
+[iexplore 8] font_type.js
+[iexplore 8]   font select
+[iexplore 8]     -> PASSED : makes text monospace
+[iexplore 8] 
+[iexplore 8] helper.js
+[iexplore 8]   the test helper
+[iexplore 8]     the newPad method
+[iexplore 8]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 8]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 8]     the waitFor method
+[iexplore 8]       -> PASSED : takes a timeout and waits long enough
+[iexplore 8]       -> PASSED : takes an interval and checks on every interval
+[iexplore 8]       returns a deferred object
+[iexplore 8]         -> PASSED : it calls done after success
+[iexplore 8]         -> PASSED : calls fail after failure
+[iexplore 8]         -> PENDING: throws if you don't listen for fails
+[iexplore 8] 
+[iexplore 8] keystroke_alphabet.js
+[iexplore 8]   All the alphabet works n stuff
+[iexplore 8]     -> PASSED : when you enter any char it appears right
+[iexplore 8] 
+[iexplore 8] keystroke_chat.js
+[iexplore 8]   send chat message
+[iexplore 8]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 8]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 8] 
+[iexplore 8] keystroke_delete.js
+[iexplore 8]   delete keystroke
+[iexplore 8]     -> PASSED : makes text delete
+[iexplore 8] 
+[iexplore 8] keystroke_enter.js
+[iexplore 8]   enter keystroke
+[iexplore 8]     -> PASSED : creates a enw line & puts cursor onto a new line
+[iexplore 8] 
+[iexplore 8] keystroke_urls_become_clickable.js
+[iexplore 8]   urls
+[iexplore 8]     -> PASSED : when you enter an url, it becomes clickable
+[iexplore 8]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[iexplore 8]      whole URL
+[iexplore 8] 
+[iexplore 8] language.js
+[iexplore 8]   Language select and change
+[iexplore 8]     -> PASSED : makes text german
+[iexplore 8]     -> PASSED : makes text English
+[iexplore 8]     -> PASSED : changes direction when picking an rtl lang
+[iexplore 8] 
+[iexplore 8] timeslider_labels.js
+[iexplore 8]   timeslider
+[iexplore 8]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[iexplore 8]     aN
+[iexplore 8] 
+[iexplore 8] timeslider_revisions.js
+[iexplore 8]   timeslider
+[iexplore 8]     -> PASSED : loads adds a hundred revisions
+[iexplore 8]     -> PASSED : changes the url when clicking on the timeslider
+[iexplore 8]     -> PASSED : jumps to a revision given in the url
+[iexplore 8]     -> PASSED : checks the export url
+[iexplore 8] 
+[iexplore 8] FINISHED - 40 tests passed, 2 tests failed, duration: 4:5
+[iexplore 8] 
+Remote sauce test '22bfe78 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/40c4d667d2dd4a68827570b7ae1a925a
+
+The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

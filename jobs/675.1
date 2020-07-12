@@ -1,0 +1,231 @@
+Using worker: bluebox-linux-2.worker.travis-ci.org:travis-linux-5
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=export-txt-with-indent git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf 0b5c948549a03e858302bb9740529741c3be4e22
+$ nvm use 0.8
+Now using node v0.8.18
+$ node --version
+v0.8.18
+$ npm --version
+1.2.2
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...
+npm WARN package.json ep_etherpad-lite@1.2.7 No README.md file found!
+npm WARN package.json node-redis@0.1.3 No README.md file found!
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+npm WARN prefer global jshint@0.9.1 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+semver@1.0.13 node_modules/semver
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.3 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+wd@0.0.26 node_modules/wd
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.6 node_modules/log4js
+└── async@0.1.15
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── mkdirp@0.3.4
+├── retry@0.6.0
+├── couch-login@0.1.15
+├── semver@1.1.3
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+npm@1.1.71 node_modules/npm
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+ueberDB@0.1.9 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.3
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+jshint@0.9.1 node_modules/jshint
+├── minimatch@0.0.5 (lru-cache@1.0.6)
+└── cli@0.4.3 (glob@3.1.20)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.0M    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0 29.0M    0 27512    0     0  10866      0  0:46:47  0:00:02  0:46:45 15116  0 29.0M    0  107k    0     0  31687      0  0:16:02  0:00:03  0:15:59 39858  0 29.0M    0  271k    0     0  62716      0  0:08:06  0:00:04  0:08:02 74715  2 29.0M    2  625k    0     0   114k      0  0:04:19  0:00:05  0:04:14  132k  4 29.0M    4 1225k    0     0   198k      0  0:02:30  0:00:06  0:02:24  244k 10 29.0M   10 3037k    0     0   423k      0  0:01:10  0:00:07  0:01:03  648k 19 29.0M   19 5716k    0     0   681k      0  0:00:43  0:00:08  0:00:35 1142k 30 29.0M   30 8976k    0     0   977k      0  0:00:30  0:00:09  0:00:21 1832k 41 29.0M   41 12.0M    0     0  1215k      0  0:00:24  0:00:10  0:00:14 2483k 52 29.0M   52 15.4M    0     0  1411k      0  0:00:21  0:00:11  0:00:10 2911k 64 29.0M   64 18.6M    0     0  1569k      0  0:00:18  0:00:12  0:00:06 3217k 75 29.0M   75 21.9M    0     0  1708k      0  0:00:17  0:00:13  0:00:04 3511k 86 29.0M   86 25.2M    0     0  1828k      0  0:00:16  0:00:14  0:00:02 3394k 98 29.0M   98 28.6M    0     0  1933k      0  0:00:15  0:00:15 --:--:-- 3391k100 29.0M  100 29.0M    0     0  1947k      0  0:00:15  0:00:15 --:--:-- 3403k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-02-12 19:48:23.673:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-12 19:48:23.730:INFO::Started SelectChannelConnector@0.0.0.0:56568
+2013-02-12 19:48:40.504:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-12 19:48:40.507:INFO::Started SelectChannelConnector@0.0.0.0:4445
+$ tests/frontend/travis/runner.sh
+npm WARN package.json ep_etherpad-lite@1.2.7 No README.md file found!
+Remote sauce test '0b5c948 - googlechrome , Linux' started! https://saucelabs.com/jobs/4910bedba82847ed8530d4ee169d14b7
+Remote sauce test '0b5c948 - firefox , Linux' started! https://saucelabs.com/jobs/3075c58312dd473fbcd991ab76a3c59e
+Remote sauce test '0b5c948 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/cbf560fbab244a408a43ee6b4c95413e
+Remote sauce test '0b5c948 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/dc7f0f2bb1ab41879158ae00a6b1f013
+Remote sauce test '0b5c948 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/8421d9d763bb43cf8ea0f0051bc34f17
+2013-02-12 19:50:18.820:WARN::2 threads could not be stopped
+[iexplore 9] button_bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 9]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test '0b5c948 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/8421d9d763bb43cf8ea0f0051bc34f17
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '0b5c948 - googlechrome , Linux' finished! https://saucelabs.com/jobs/4910bedba82847ed8530d4ee169d14b7
+[iexplore 8] button_bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 8]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 8] 
+Remote sauce test '0b5c948 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/cbf560fbab244a408a43ee6b4c95413e
+[iexplore 10] button_bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test '0b5c948 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/dc7f0f2bb1ab41879158ae00a6b1f013
+[firefox] button_bold.js
+[firefox]   bold button
+[firefox]     -> PASSED : makes text bold
+[firefox] 
+[firefox] button_clear_authorship_colors.js
+[firefox]   clear authorship colors button
+[firefox]     -> PASSED : makes text clear authorship colors
+[firefox] 
+[firefox] button_indentation.js
+[firefox]   indentation button
+[firefox]     -> PASSED : indent text
+[firefox]     -> PASSED : keeps the indent on enter for the new line
+[firefox] 
+[firefox] button_italic.js
+[firefox]   italic button
+[firefox]     -> PASSED : makes text italic
+[firefox] 
+[firefox] button_ordered_list.js
+[firefox]   assign ordered list
+[firefox]     -> PASSED : insert ordered list text
+[firefox]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[firefox]     PASTING INTO A PAD
+[firefox] 
+[firefox] button_redo.js
+[firefox]   undo button then redo button
+[firefox]     -> PASSED : undo some typing
+[firefox] 
+[firefox] button_strikethrough.js
+[firefox]   strikethrough button
+[firefox]     -> PASSED : makes text strikethrough
+[firefox] 
+[firefox] button_timeslider.js
+[firefox]   timeslider button takes you to the timeslider of a pad
+[firefox]     -> PENDING: timeslider contained in URL
+[firefox] 
+[firefox] button_undo.js
+[firefox]   undo button
+[firefox]     -> PASSED : undo some typing
+[firefox] 
+[firefox] change_user_name.js
+[firefox]   change username value
+[firefox] 
+Remote sauce test '0b5c948 - firefox , Linux' finished! https://saucelabs.com/jobs/3075c58312dd473fbcd991ab76a3c59e
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+Done. Build script exited with 1

@@ -1,0 +1,278 @@
+Using worker: bluebox-linux-4.worker.travis-ci.org:travis-linux-8
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=store-sessions-in-db git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf 6e46a532884c5a15ee6e06a6d27b910ce2cad119
+$ nvm use 0.8
+Now using node v0.8.18
+$ node --version
+v0.8.18
+$ npm --version
+1.2.2
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+security@1.0.0 node_modules/security
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.3 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+request@2.9.100 node_modules/request
+
+formidable@1.0.9 node_modules/formidable
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+semver@1.0.13 node_modules/semver
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.6 node_modules/log4js
+└── async@0.1.15
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── retry@0.6.0
+├── mkdirp@0.3.4
+├── request@2.9.203
+├── couch-login@0.1.15
+├── semver@1.1.3
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+express@3.1.0 node_modules/express
+├── fresh@0.1.0
+├── methods@0.0.1
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+npm@1.1.71 node_modules/npm
+
+ueberDB@0.1.92 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.0M    0  154k    0     0   294k      0  0:01:41 --:--:--  0:01:41  606k 12 29.0M   12 3751k    0     0  2453k      0  0:00:12  0:00:01  0:00:11 2977k 21 29.0M   21 6418k    0     0  2546k      0  0:00:11  0:00:02  0:00:09 2851k 33 29.0M   33  9.8M    0     0  2829k      0  0:00:10  0:00:03  0:00:07 3061k 45 29.0M   45 13.2M    0     0  2981k      0  0:00:09  0:00:04  0:00:05 3169k 56 29.0M   56 16.5M    0     0  3070k      0  0:00:09  0:00:05  0:00:04 3361k 68 29.0M   68 20.0M    0     0  3138k      0  0:00:09  0:00:06  0:00:03 3347k 80 29.0M   80 23.4M    0     0  3180k      0  0:00:09  0:00:07  0:00:02 3499k 92 29.0M   92 26.7M    0     0  3213k      0  0:00:09  0:00:08  0:00:01 3487k100 29.0M  100 29.0M    0     0  3231k      0  0:00:09  0:00:09 --:--:-- 3473k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-02-18 00:38:25.399:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-18 00:38:25.449:INFO::Started SelectChannelConnector@0.0.0.0:53308
+2013-02-18 00:38:45.318:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-18 00:38:45.321:INFO::Started SelectChannelConnector@0.0.0.0:4445
+$ tests/frontend/travis/runner.sh
+Remote sauce test '6e46a53 - firefox , Linux' started! https://saucelabs.com/jobs/3cbd205ceaf2494dbd6d666f956ca8b0
+Remote sauce test '6e46a53 - googlechrome , Linux' started! https://saucelabs.com/jobs/f2f45ad39717494cafdcab9ff14ab184
+Remote sauce test '6e46a53 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/ccb5b3a611a441b9bcea71cf572be884
+Remote sauce test '6e46a53 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/b8bc030113b64092a3728adf891b984e
+Remote sauce test '6e46a53 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/0d3407a68b1945ebac07dd299c78e6dd
+[iexplore 9] button_bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> PASSED : makes text bold
+[iexplore 9] 
+[iexplore 9] button_clear_authorship_colors.js
+[iexplore 9]   clear authorship colors button
+[iexplore 9]     -> PASSED : makes text clear authorship colors
+[iexplore 9] 
+[iexplore 9] button_indentation.js
+[iexplore 9]   indentation button
+[iexplore 9]     -> PASSED : indent text
+[iexplore 9]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 9] 
+[iexplore 9] button_italic.js
+[iexplore 9]   italic button
+[iexplore 9]     -> PASSED : makes text italic
+[iexplore 9] 
+[iexplore 9] button_ordered_list.js
+[iexplore 9]   assign ordered list
+[iexplore 9]     -> PASSED : insert ordered list text
+[iexplore 9]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 9]     PASTING INTO A PAD
+[iexplore 9] 
+[iexplore 9] button_redo.js
+[iexplore 9]   undo button then redo button
+[iexplore 9]     -> PASSED : undo some typing
+[iexplore 9] 
+[iexplore 9] button_strikethrough.js
+[iexplore 9]   strikethrough button
+[iexplore 9]     -> PASSED : makes text strikethrough
+[iexplore 9] 
+[iexplore 9] button_timeslider.js
+[iexplore 9]   timeslider button takes you to the timeslider of a pad
+[iexplore 9]     -> PENDING: timeslider contained in URL
+[iexplore 9] 
+[iexplore 9] button_undo.js
+[iexplore 9]   undo button
+[iexplore 9]     -> PASSED : undo some typing
+[iexplore 9] 
+[iexplore 9] change_user_name.js
+[iexplore 9]   change username value
+[iexplore 9]     -> PASSED : Remembers the user name after a refresh
+[iexplore 9]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 9] 
+[iexplore 9] chat_always_on_screen.js
+[iexplore 9]   chat always ons creen select
+[iexplore 9]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 9] 
+[iexplore 9] chat_load_messages.js
+[iexplore 9]   chat-load-messages
+[iexplore 9]     -> PASSED : creates a pad
+[iexplore 9]     -> FAILED : adds a lot of messages Error: the string "Unable to get value of the propert
+[iexplore 9]     y 'contentWindow': object is null or undefined" was thrown, throw an Error :)
+[iexplore 9]     -> FAILED : checks initial message count Error: the string "expected 0 to equal 101" was
+[iexplore 9]      thrown, throw an Error :)
+[iexplore 9]     -> FAILED : loads more messages Error: the string "expected 0 to equal 122" was thrown, 
+[iexplore 9]     throw an Error :)
+[iexplore 9]     -> FAILED : checks for button vanishing Error: the string "expected undefined to equal '
+[iexplore 9]     none'" was thrown, throw an Error :)
+[iexplore 9] 
+[iexplore 9] embed_value.js
+[iexplore 9]   embed links
+[iexplore 9]     read and write
+[iexplore 9]       the share link
+[iexplore 9]         -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 9]         FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test '6e46a53 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/b8bc030113b64092a3728adf891b984e
+[iexplore 8] button_bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 8]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 8] 
+Remote sauce test '6e46a53 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/ccb5b3a611a441b9bcea71cf572be884
+[firefox] button_bold.js
+[firefox]   bold button
+[firefox]     -> PASSED : makes text bold
+[firefox] 
+[firefox] button_clear_authorship_colors.js
+[firefox]   clear authorship colors button
+[firefox]     -> FAILED : "before each" hook the string "Pad never loaded" was thrown, throw an Error 
+[firefox]     :)
+[firefox]     ([object Object],"Pad never loaded")@http://localhost:9001/tests/frontend/lib/mocha.js:3786
+[firefox]     ("Pad never loaded")@http://localhost:9001/tests/frontend/lib/mocha.js:4059
+[firefox]     uncaught("Pad never loaded","http://localhost:9001/tests/frontend/helper.js",98)@http://localhost:90
+[firefox]     01/tests/frontend/lib/mocha.js:4089
+[firefox]     FINISHED - no test started since 3 minutes, tests stopped
+[firefox] 
+Remote sauce test '6e46a53 - firefox , Linux' finished! https://saucelabs.com/jobs/3cbd205ceaf2494dbd6d666f956ca8b0
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold
+[googlechrome] 
+[googlechrome] button_clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] button_indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> FAILED : "before each" hook Error: the string "Uncaught Error: Pad never loaded" was 
+[googlechrome]     thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '6e46a53 - googlechrome , Linux' finished! https://saucelabs.com/jobs/f2f45ad39717494cafdcab9ff14ab184
+[iexplore 10] button_bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold
+[iexplore 10] 
+[iexplore 10] button_clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 10]      Error :)
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test '6e46a53 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/0d3407a68b1945ebac07dd299c78e6dd
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

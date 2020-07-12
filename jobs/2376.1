@@ -1,0 +1,142 @@
+Using worker: worker-linux-10-2.bb.travis-ci.org:travis-linux-6
+
+travis_fold:start:system_infoBuild system information
+Build language: node_js
+Build image provisioning date and time
+Fri Dec 26 15:36:46 UTC 2014
+lsb_release -a
+Distributor ID:Ubuntu
+Description:Ubuntu 12.04 LTS
+Release:12.04
+Codename:precise
+Cookbooks Version
+984d1aa https://github.com/travis-ci/travis-cookbooks/tree/984d1aa
+GCC version
+gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.4 (tags/RELEASE_34/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+ruby-1.9.3-p551
+Pre-installed Node.js versions
+v0.10
+v0.10.18
+v0.10.33
+v0.10.35
+v0.11.14
+v0.6.21
+v0.8.27
+Pre-installed Go versions
+go1.4
+Redis version
+redis-server 2.8.18
+riak version
+1.4.12
+MongoDB version
+MongoDB 2.4.12
+CouchDB version
+couchdb 1.6.1
+Neo4j version
+1.9.4
+Cassandra version
+2.0.9
+RabbitMQ Version
+3.4.2
+ElasticSearch version
+1.4.0
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.4
+Default Sphinx version
+2.1.9
+Installed Firefox version
+firefox 31.0esr
+PhantomJS version
+1.9.8
+ant -version
+Apache Ant(TM) version 1.8.2 compiled on December 3 2011
+mvn -version
+Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-11T20:58:10+00:00)
+Maven home: /usr/local/maven
+Java version: 1.7.0_72, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "2.6.32-042stab090.5", arch: "amd64", family: "unix"
+travis_fold:end:system_infoe:start:16f9391e/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 10614, done.ote: Compressing objects:   0% (1/3559)   ote: Compressing objects:   1% (36/3559)   ote: Compressing objects:   2% (72/3559)   ote: Compressing objects:   3% (107/3559)   ote: Compressing objects:   4% (143/3559)   ote: Compressing objects:   5% (178/3559)   ote: Compressing objects:   6% (214/3559)   ote: Compressing objects:   7% (250/3559)   ote: Compressing objects:   8% (285/3559)   ote: Compressing objects:   9% (321/3559)   ote: Compressing objects:  10% (356/3559)   ote: Compressing objects:  11% (392/3559)   ote: Compressing objects:  12% (428/3559)   ote: Compressing objects:  13% (463/3559)   ote: Compressing objects:  14% (499/3559)   ote: Compressing objects:  15% (534/3559)   ote: Compressing objects:  16% (570/3559)   ote: Compressing objects:  17% (606/3559)   ote: Compressing objects:  18% (641/3559)   ote: Compressing objects:  19% (677/3559)   ote: Compressing objects:  20% (712/3559)   ote: Compressing objects:  21% (748/3559)   ote: Compressing objects:  22% (783/3559)   ote: Compressing objects:  23% (819/3559)   ote: Compressing objects:  24% (855/3559)   ote: Compressing objects:  25% (890/3559)   ote: Compressing objects:  26% (926/3559)   ote: Compressing objects:  27% (961/3559)   ote: Compressing objects:  28% (997/3559)   ote: Compressing objects:  29% (1033/3559)   ote: Compressing objects:  30% (1068/3559)   ote: Compressing objects:  31% (1104/3559)   ote: Compressing objects:  32% (1139/3559)   ote: Compressing objects:  33% (1175/3559)   ote: Compressing objects:  34% (1211/3559)   ote: Compressing objects:  35% (1246/3559)   ote: Compressing objects:  36% (1282/3559)   ote: Compressing objects:  37% (1317/3559)   ote: Compressing objects:  38% (1353/3559)   ote: Compressing objects:  39% (1389/3559)   ote: Compressing objects:  40% (1424/3559)   ote: Compressing objects:  41% (1460/3559)   ote: Compressing objects:  42% (1495/3559)   ote: Compressing objects:  43% (1531/3559)   ote: Compressing objects:  44% (1566/3559)   ote: Compressing objects:  45% (1602/3559)   ote: Compressing objects:  46% (1638/3559)   ote: Compressing objects:  47% (1673/3559)   ote: Compressing objects:  48% (1709/3559)   ote: Compressing objects:  49% (1744/3559)   ote: Compressing objects:  50% (1780/3559)   ote: Compressing objects:  51% (1816/3559)   ote: Compressing objects:  52% (1851/3559)   ote: Compressing objects:  53% (1887/3559)   ote: Compressing objects:  54% (1922/3559)   ote: Compressing objects:  55% (1958/3559)   ote: Compressing objects:  56% (1994/3559)   ote: Compressing objects:  57% (2029/3559)   ote: Compressing objects:  58% (2065/3559)   ote: Compressing objects:  59% (2100/3559)   ote: Compressing objects:  60% (2136/3559)   ote: Compressing objects:  61% (2171/3559)   ote: Compressing objects:  62% (2207/3559)   ote: Compressing objects:  63% (2243/3559)   ote: Compressing objects:  64% (2278/3559)   ote: Compressing objects:  65% (2314/3559)   ote: Compressing objects:  66% (2349/3559)   ote: Compressing objects:  67% (2385/3559)   ote: Compressing objects:  68% (2421/3559)   ote: Compressing objects:  69% (2456/3559)   ote: Compressing objects:  70% (2492/3559)   ote: Compressing objects:  71% (2527/3559)   ote: Compressing objects:  72% (2563/3559)   ote: Compressing objects:  73% (2599/3559)   ote: Compressing objects:  74% (2634/3559)   ote: Compressing objects:  75% (2670/3559)   ote: Compressing objects:  76% (2705/3559)   ote: Compressing objects:  77% (2741/3559)   ote: Compressing objects:  78% (2777/3559)   ote: Compressing objects:  79% (2812/3559)   ote: Compressing objects:  80% (2848/3559)   ote: Compressing objects:  81% (2883/3559)   ote: Compressing objects:  82% (2919/3559)   ote: Compressing objects:  83% (2954/3559)   ote: Compressing objects:  84% (2990/3559)   ote: Compressing objects:  85% (3026/3559)   ote: Compressing objects:  86% (3061/3559)   ote: Compressing objects:  87% (3097/3559)   ote: Compressing objects:  88% (3132/3559)   ote: Compressing objects:  89% (3168/3559)   ote: Compressing objects:  90% (3204/3559)   ote: Compressing objects:  91% (3239/3559)   ote: Compressing objects:  92% (3275/3559)   ote: Compressing objects:  93% (3310/3559)   ote: Compressing objects:  94% (3346/3559)   ote: Compressing objects:  95% (3382/3559)   ote: Compressing objects:  96% (3417/3559)   ote: Compressing objects:  97% (3453/3559)   ote: Compressing objects:  98% (3488/3559)   ote: Compressing objects:  99% (3524/3559)   ote: Compressing objects: 100% (3559/3559)   ote: Compressing objects: 100% (3559/3559), done.ote: Total 10614 (delta 7451), reused 9974 (delta 6920)ake experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b new_branch_name
+
+travis_time:end:16f9391e:start=1420222433320915192,finish=1420222434460163848,duration=1139248656Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:start:103dd8bb install 0.10
+v0.10.35 is already installed.
+Now using node v0.10.35
+travis_time:end:103dd8bb:start=1420222434532105612,finish=1420222434779939252,duration=247833640 --version
+1.4.28
+$ nvm --version
+0.20.0
+travis_fold:start:install.1e:start:20a1cc30plate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm ERR! fetch failed https://registry.npmjs.org/helenus/-/helenus-0.6.10.tgz
+
+> ws@0.5.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+npm ERR! Error: 400 Bad Request
+npm ERR!     at WriteStream.<anonymous> (/home/travis/.nvm/v0.10.35/lib/node_modules/npm/lib/utils/fetch.js:58:12)
+npm ERR!     at WriteStream.emit (events.js:117:20)
+npm ERR!     at evalmachine.<anonymous>:1610:14
+npm ERR!     at /home/travis/.nvm/v0.10.35/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:102:5
+npm ERR!     at Object.oncomplete (evalmachine.<anonymous>:108:15)
+npm ERR! If you need help, you may report this *entire* log,
+npm ERR! including the npm and node versions, at:
+npm ERR!     <http://github.com/npm/npm/issues>
+
+npm ERR! System Linux 2.6.32-042stab090.5
+npm ERR! command "/home/travis/.nvm/v0.10.35/bin/node" "/home/travis/.nvm/v0.10.35/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.10.35
+npm ERR! npm -v 1.4.28
+npm ERR! not ok code 0
+travis_time:end:20a1cc30:start=1420222435468588939,finish=1420222454092245587,duration=18623656648The command "bin/installDeps.sh" failed and exited with 1 during .
+
+Your build has been stopped.

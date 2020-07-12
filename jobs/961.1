@@ -1,0 +1,481 @@
+Using worker: bluebox-linux-5.worker.travis-ci.org:travis-linux-9
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=develop git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf e49620ea077117179d3e5faccf9974080cdbb5b3
+$ nvm use 0.8
+Now using node v0.8.21
+$ node --version
+v0.8.21
+$ npm --version
+1.2.11
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+
+> pg@0.14.1 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg
+> node-gyp rebuild || (exit 0)
+
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+  CXX(target) Release/obj.target/binding/src/binding.o
+  SOLINK_MODULE(target) Release/obj.target/binding.node
+  SOLINK_MODULE(target) Release/obj.target/binding.node: Finished
+  COPY Release/binding.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/pg/build'
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+semver@1.0.13 node_modules/semver
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.7 node_modules/log4js
+├── dequeue@1.0.3
+└── async@0.1.15
+
+npm@1.1.71 node_modules/npm
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── retry@0.6.0
+├── mkdirp@0.3.5
+├── couch-login@0.1.15
+├── semver@1.1.4
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@1.1.1)
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+ueberDB@0.1.95 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+├── mysql@0.9.5 (hashish@0.0.4)
+└── pg@0.14.1 (deprecate@0.1.0, generic-pool@2.0.3)
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.0M    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  6 29.0M    6 2046k    0     0  1598k      0  0:00:18  0:00:01  0:00:17 2009k 15 29.0M   15 4481k    0     0  1949k      0  0:00:15  0:00:02  0:00:13 2200k 22 29.0M   22 6684k    0     0  2043k      0  0:00:14  0:00:03  0:00:11 2221k 28 29.0M   28 8485k    0     0  1982k      0  0:00:15  0:00:04  0:00:11 2111k 34 29.0M   34  9.9M    0     0  1921k      0  0:00:15  0:00:05  0:00:10 2037k 39 29.0M   39 11.3M    0     0  1859k      0  0:00:16  0:00:06  0:00:10 1925k 44 29.0M   44 12.8M    0     0  1807k      0  0:00:16  0:00:07  0:00:09 1742k 48 29.0M   48 14.2M    0     0  1757k      0  0:00:16  0:00:08  0:00:08 1571k 54 29.0M   54 15.7M    0     0  1738k      0  0:00:17  0:00:09  0:00:08 1529k 59 29.0M   59 17.3M    0     0  1731k      0  0:00:17  0:00:10  0:00:07 1530k 65 29.0M   65 18.9M    0     0  1722k      0  0:00:17  0:00:11  0:00:06 1549k 73 29.0M   73 21.3M    0     0  1784k      0  0:00:16  0:00:12  0:00:04 1750k 82 29.0M   82 24.0M    0     0  1855k      0  0:00:16  0:00:13  0:00:03 2018k 92 29.0M   92 26.8M    0     0  1927k      0  0:00:15  0:00:14  0:00:01 2276k100 29.0M  100 29.0M    0     0  1982k      0  0:00:15  0:00:15 --:--:-- 2524k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-03-18 21:39:51.870:INFO::jetty-7.x.y-SNAPSHOT
+2013-03-18 21:39:51.944:INFO::Started SelectChannelConnector@0.0.0.0:58216
+2013-03-18 21:40:15.503:INFO::jetty-7.x.y-SNAPSHOT
+2013-03-18 21:40:15.506:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_fold:end:before_script$ tests/frontend/travis/runner.sh
+Remote sauce test 'e49620e - firefox , Linux' started! https://saucelabs.com/jobs/c12826c8aae44681a04c6a782dfd3480
+Remote sauce test 'e49620e - googlechrome , Linux' started! https://saucelabs.com/jobs/a963684ad64b46ac8d203cbd6d00d585
+Remote sauce test 'e49620e - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/ff045119eb2b49e19d572de9f93555c8
+Remote sauce test 'e49620e - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/b119936f608e4a00b07d860a3c36a5e4
+Remote sauce test 'e49620e - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/b3aae20eeb4b455abd164fbc7b42ab6b
+2013-03-18 21:42:05.860:WARN::7 threads could not be stopped
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> FAILED : "before each" hook Error: the string "Uncaught TypeError: Property 'eval' of
+[googlechrome]      object [object global] is not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test 'e49620e - googlechrome , Linux' finished! https://saucelabs.com/jobs/a963684ad64b46ac8d203cbd6d00d585
+[iexplore 9] alphabet.js
+[iexplore 9]   All the alphabet works n stuff
+[iexplore 9]     -> PASSED : when you enter any char it appears right
+[iexplore 9] 
+[iexplore 9] bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> PASSED : makes text bold on click
+[iexplore 9]     -> PASSED : makes text bold on keypress
+[iexplore 9] 
+[iexplore 9] change_user_name.js
+[iexplore 9]   change username value
+[iexplore 9]     -> PASSED : Remembers the user name after a refresh
+[iexplore 9]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 9] 
+[iexplore 9] chat.js
+[iexplore 9]   Chat messages and UI
+[iexplore 9]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 9]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 9]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 9] 
+[iexplore 9] chat_load_messages.js
+[iexplore 9]   chat-load-messages
+[iexplore 9]     -> PASSED : creates a pad
+[iexplore 9]     -> PASSED : adds a lot of messages
+[iexplore 9]     -> PASSED : checks initial message count
+[iexplore 9]     -> PASSED : loads more messages
+[iexplore 9]     -> PASSED : checks for button vanishing
+[iexplore 9] 
+[iexplore 9] clear_authorship_colors.js
+[iexplore 9]   clear authorship colors button
+[iexplore 9]     -> PASSED : makes text clear authorship colors
+[iexplore 9] 
+[iexplore 9] delete.js
+[iexplore 9]   delete keystroke
+[iexplore 9]     -> PASSED : makes text delete
+[iexplore 9] 
+[iexplore 9] embed_value.js
+[iexplore 9]   embed links
+[iexplore 9]     read and write
+[iexplore 9]       the share link
+[iexplore 9]         -> PASSED : is the actual pad url
+[iexplore 9]       the embed as iframe code
+[iexplore 9]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 9]     when read only option is set
+[iexplore 9]       the share link
+[iexplore 9]         -> PASSED : shows a read only url
+[iexplore 9]       the embed as iframe code
+[iexplore 9]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 9] 
+[iexplore 9] enter.js
+[iexplore 9]   enter keystroke
+[iexplore 9]     -> PASSED : creates a new line & puts cursor onto a new line
+[iexplore 9] 
+[iexplore 9] font_type.js
+[iexplore 9]   font select
+[iexplore 9]     -> PASSED : makes text monospace
+[iexplore 9] 
+[iexplore 9] helper.js
+[iexplore 9]   the test helper
+[iexplore 9]     the newPad method
+[iexplore 9]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 9]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 9]     the waitFor method
+[iexplore 9]       -> PASSED : takes a timeout and waits long enough
+[iexplore 9]       -> PASSED : takes an interval and checks on every interval
+[iexplore 9]       returns a deferred object
+[iexplore 9]         -> PASSED : it calls done after success
+[iexplore 9]         -> PASSED : calls fail after failure
+[iexplore 9]         -> PENDING: throws if you don't listen for fails
+[iexplore 9] 
+[iexplore 9] indentation.js
+[iexplore 9]   indentation button
+[iexplore 9]     -> PASSED : indent text with keypress
+[iexplore 9]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 9]      Error :)
+[iexplore 9]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test 'e49620e - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/b119936f608e4a00b07d860a3c36a5e4
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold on click
+[iexplore 10]     -> PASSED : makes text bold on keypress
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> PASSED : Remembers the user name after a refresh
+[iexplore 10]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 10] 
+[iexplore 10] chat.js
+[iexplore 10]   Chat messages and UI
+[iexplore 10]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 10]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 10]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 10] 
+[iexplore 10] chat_load_messages.js
+[iexplore 10]   chat-load-messages
+[iexplore 10]     -> PASSED : creates a pad
+[iexplore 10]     -> PASSED : adds a lot of messages
+[iexplore 10]     -> PASSED : checks initial message count
+[iexplore 10]     -> PASSED : loads more messages
+[iexplore 10]     -> PASSED : checks for button vanishing
+[iexplore 10] 
+[iexplore 10] clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> PASSED : makes text clear authorship colors
+[iexplore 10] 
+[iexplore 10] delete.js
+[iexplore 10]   delete keystroke
+[iexplore 10]     -> PASSED : makes text delete
+[iexplore 10] 
+[iexplore 10] embed_value.js
+[iexplore 10]   embed links
+[iexplore 10]     read and write
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : is the actual pad url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10]     when read only option is set
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : shows a read only url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10] 
+[iexplore 10] enter.js
+[iexplore 10]   enter keystroke
+[iexplore 10]     -> PASSED : creates a new line & puts cursor onto a new line
+[iexplore 10] 
+[iexplore 10] font_type.js
+[iexplore 10]   font select
+[iexplore 10]     -> PASSED : makes text monospace
+[iexplore 10] 
+[iexplore 10] helper.js
+[iexplore 10]   the test helper
+[iexplore 10]     the newPad method
+[iexplore 10]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 10]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 10]     the waitFor method
+[iexplore 10]       -> PASSED : takes a timeout and waits long enough
+[iexplore 10]       -> PASSED : takes an interval and checks on every interval
+[iexplore 10]       returns a deferred object
+[iexplore 10]         -> PASSED : it calls done after success
+[iexplore 10]         -> PASSED : calls fail after failure
+[iexplore 10]         -> PENDING: throws if you don't listen for fails
+[iexplore 10] 
+[iexplore 10] indentation.js
+[iexplore 10]   indentation button
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Unable to get property 'contentWindow'
+[iexplore 10]      of undefined or null reference" was thrown, throw an Error :)
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test 'e49620e - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/b3aae20eeb4b455abd164fbc7b42ab6b
+[iexplore 8] alphabet.js
+[iexplore 8]   All the alphabet works n stuff
+[iexplore 8]     -> PASSED : when you enter any char it appears right
+[iexplore 8] 
+[iexplore 8] bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> PASSED : makes text bold on click
+[iexplore 8]     -> PASSED : makes text bold on keypress
+[iexplore 8] 
+[iexplore 8] change_user_name.js
+[iexplore 8]   change username value
+[iexplore 8]     -> PASSED : Remembers the user name after a refresh
+[iexplore 8]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 8] 
+[iexplore 8] chat.js
+[iexplore 8]   Chat messages and UI
+[iexplore 8]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 8]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 8]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 8] 
+[iexplore 8] chat_load_messages.js
+[iexplore 8]   chat-load-messages
+[iexplore 8]     -> PASSED : creates a pad
+[iexplore 8]     -> PASSED : adds a lot of messages
+[iexplore 8]     -> PASSED : checks initial message count
+[iexplore 8]     -> PASSED : loads more messages
+[iexplore 8]     -> PASSED : checks for button vanishing
+[iexplore 8] 
+[iexplore 8] clear_authorship_colors.js
+[iexplore 8]   clear authorship colors button
+[iexplore 8]     -> PASSED : makes text clear authorship colors
+[iexplore 8] 
+[iexplore 8] delete.js
+[iexplore 8]   delete keystroke
+[iexplore 8]     -> PASSED : makes text delete
+[iexplore 8] 
+[iexplore 8] embed_value.js
+[iexplore 8]   embed links
+[iexplore 8]     read and write
+[iexplore 8]       the share link
+[iexplore 8]         -> PASSED : is the actual pad url
+[iexplore 8]       the embed as iframe code
+[iexplore 8]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 8]     when read only option is set
+[iexplore 8]       the share link
+[iexplore 8]         -> PASSED : shows a read only url
+[iexplore 8]       the embed as iframe code
+[iexplore 8]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 8] 
+[iexplore 8] enter.js
+[iexplore 8]   enter keystroke
+[iexplore 8]     -> PASSED : creates a new line & puts cursor onto a new line
+[iexplore 8] 
+[iexplore 8] font_type.js
+[iexplore 8]   font select
+[iexplore 8]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 8]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 8] 
+Remote sauce test 'e49620e - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/ff045119eb2b49e19d572de9f93555c8
+[firefox] alphabet.js
+[firefox]   All the alphabet works n stuff
+[firefox]     -> PASSED : when you enter any char it appears right
+[firefox] 
+[firefox] bold.js
+[firefox]   bold button
+[firefox]     -> PASSED : makes text bold on click
+[firefox]     -> PASSED : makes text bold on keypress
+[firefox] 
+[firefox] change_user_name.js
+[firefox]   change username value
+[firefox]     -> PASSED : Remembers the user name after a refresh
+[firefox]     -> PASSED : Own user name is shown when you enter a chat
+[firefox] 
+[firefox] chat.js
+[firefox]   Chat messages and UI
+[firefox]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[firefox]     -> PASSED : makes sure that an empty message can't be sent
+[firefox]     -> PASSED : makes chat stick to right side of the screen
+[firefox] 
+[firefox] chat_load_messages.js
+[firefox]   chat-load-messages
+[firefox]     -> PASSED : creates a pad
+[firefox]     -> PASSED : adds a lot of messages
+[firefox]     -> PASSED : checks initial message count
+[firefox]     -> PASSED : loads more messages
+[firefox]     -> PASSED : checks for button vanishing
+[firefox] 
+[firefox] clear_authorship_colors.js
+[firefox]   clear authorship colors button
+[firefox]     -> PASSED : makes text clear authorship colors
+[firefox] 
+[firefox] delete.js
+[firefox]   delete keystroke
+[firefox]     -> PASSED : makes text delete
+[firefox] 
+[firefox] embed_value.js
+[firefox]   embed links
+[firefox]     read and write
+[firefox]       the share link
+[firefox]         -> PASSED : is the actual pad url
+[firefox]       the embed as iframe code
+[firefox]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[firefox]     when read only option is set
+[firefox]       the share link
+[firefox]         -> PASSED : shows a read only url
+[firefox]       the embed as iframe code
+[firefox]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[firefox] 
+[firefox] enter.js
+[firefox]   enter keystroke
+[firefox]     -> PASSED : creates a new line & puts cursor onto a new line
+[firefox] 
+[firefox] font_type.js
+[firefox]   font select
+[firefox]     -> PASSED : makes text monospace
+[firefox] 
+[firefox] helper.js
+[firefox]   the test helper
+[firefox]     the newPad method
+[firefox]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[firefox]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[firefox]     the waitFor method
+[firefox]       -> PASSED : takes a timeout and waits long enough
+[firefox]       -> PASSED : takes an interval and checks on every interval
+[firefox]       returns a deferred object
+[firefox]         -> PASSED : it calls done after success
+[firefox]         -> PASSED : calls fail after failure
+[firefox]         -> PENDING: throws if you don't listen for fails
+[firefox] 
+[firefox] indentation.js
+[firefox]   indentation button
+[firefox]     -> PASSED : indent text with keypress
+[firefox]     -> PASSED : indent text with button
+[firefox]     -> PASSED : keeps the indent on enter for the new line
+[firefox] 
+[firefox] italic.js
+[firefox]   italic some text
+[firefox]     -> PASSED : makes text italic using button
+[firefox] 
+Remote sauce test 'e49620e - firefox , Linux' finished! https://saucelabs.com/jobs/c12826c8aae44681a04c6a782dfd3480
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

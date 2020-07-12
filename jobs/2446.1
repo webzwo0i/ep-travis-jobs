@@ -1,0 +1,380 @@
+Using worker: worker-linux-8-1.bb.travis-ci.org:travis-linux-13
+
+travis_fold:start:system_infoBuild system information
+Build language: node_js
+Build image provisioning date and time
+Fri Dec 26 15:36:46 UTC 2014
+lsb_release -a
+Distributor ID:Ubuntu
+Description:Ubuntu 12.04 LTS
+Release:12.04
+Codename:precise
+Cookbooks Version
+984d1aa https://github.com/travis-ci/travis-cookbooks/tree/984d1aa
+GCC version
+gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.4 (tags/RELEASE_34/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+ruby-1.9.3-p551
+Pre-installed Node.js versions
+v0.10
+v0.10.18
+v0.10.33
+v0.10.35
+v0.11.14
+v0.6.21
+v0.8.27
+Pre-installed Go versions
+go1.4
+Redis version
+redis-server 2.8.18
+riak version
+1.4.12
+MongoDB version
+MongoDB 2.4.12
+CouchDB version
+couchdb 1.6.1
+Neo4j version
+1.9.4
+Cassandra version
+2.0.9
+RabbitMQ Version
+3.4.2
+ElasticSearch version
+1.4.0
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.4
+Default Sphinx version
+2.1.9
+Installed Firefox version
+firefox 31.0esr
+PhantomJS version
+1.9.8
+ant -version
+Apache Ant(TM) version 1.8.2 compiled on December 3 2011
+mvn -version
+Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-11T20:58:10+00:00)
+Maven home: /usr/local/maven
+Java version: 1.7.0_72, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "2.6.32-042stab090.5", arch: "amd64", family: "unix"
+travis_fold:end:system_infoe:start:13339404/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 4838, done.ote: Compressing objects:   0% (1/2256)   ote: Compressing objects:   1% (23/2256)   ote: Compressing objects:   2% (46/2256)   ote: Compressing objects:   3% (68/2256)   ote: Compressing objects:   4% (91/2256)   ote: Compressing objects:   5% (113/2256)   ote: Compressing objects:   6% (136/2256)   ote: Compressing objects:   7% (158/2256)   ote: Compressing objects:   8% (181/2256)   ote: Compressing objects:   9% (204/2256)   ote: Compressing objects:  10% (226/2256)   ote: Compressing objects:  11% (249/2256)   ote: Compressing objects:  12% (271/2256)   ote: Compressing objects:  13% (294/2256)   ote: Compressing objects:  14% (316/2256)   ote: Compressing objects:  15% (339/2256)   ote: Compressing objects:  16% (361/2256)   ote: Compressing objects:  17% (384/2256)   ote: Compressing objects:  18% (407/2256)   ote: Compressing objects:  19% (429/2256)   ote: Compressing objects:  20% (452/2256)   ote: Compressing objects:  21% (474/2256)   ote: Compressing objects:  22% (497/2256)   ote: Compressing objects:  23% (519/2256)   ote: Compressing objects:  24% (542/2256)   ote: Compressing objects:  25% (564/2256)   ote: Compressing objects:  26% (587/2256)   ote: Compressing objects:  27% (610/2256)   ote: Compressing objects:  28% (632/2256)   ote: Compressing objects:  29% (655/2256)   ote: Compressing objects:  30% (677/2256)   ote: Compressing objects:  31% (700/2256)   ote: Compressing objects:  32% (722/2256)   ote: Compressing objects:  33% (745/2256)   ote: Compressing objects:  34% (768/2256)   ote: Compressing objects:  35% (790/2256)   ote: Compressing objects:  36% (813/2256)   ote: Compressing objects:  37% (835/2256)   ote: Compressing objects:  38% (858/2256)   ote: Compressing objects:  39% (880/2256)   ote: Compressing objects:  40% (903/2256)   ote: Compressing objects:  41% (925/2256)   ote: Compressing objects:  42% (948/2256)   ote: Compressing objects:  43% (971/2256)   ote: Compressing objects:  44% (993/2256)   ote: Compressing objects:  45% (1016/2256)   ote: Compressing objects:  46% (1038/2256)   ote: Compressing objects:  47% (1061/2256)   ote: Compressing objects:  48% (1083/2256)   ote: Compressing objects:  49% (1106/2256)   ote: Compressing objects:  50% (1128/2256)   ote: Compressing objects:  51% (1151/2256)   ote: Compressing objects:  52% (1174/2256)   ote: Compressing objects:  53% (1196/2256)   ote: Compressing objects:  54% (1219/2256)   ote: Compressing objects:  55% (1241/2256)   ote: Compressing objects:  56% (1264/2256)   ote: Compressing objects:  57% (1286/2256)   ote: Compressing objects:  58% (1309/2256)   ote: Compressing objects:  59% (1332/2256)   ote: Compressing objects:  60% (1354/2256)   ote: Compressing objects:  61% (1377/2256)   ote: Compressing objects:  62% (1399/2256)   ote: Compressing objects:  63% (1422/2256)   ote: Compressing objects:  64% (1444/2256)   ote: Compressing objects:  65% (1467/2256)   ote: Compressing objects:  66% (1489/2256)   ote: Compressing objects:  67% (1512/2256)   ote: Compressing objects:  68% (1535/2256)   ote: Compressing objects:  69% (1557/2256)   ote: Compressing objects:  70% (1580/2256)   ote: Compressing objects:  71% (1602/2256)   ote: Compressing objects:  72% (1625/2256)   ote: Compressing objects:  73% (1647/2256)   ote: Compressing objects:  74% (1670/2256)   ote: Compressing objects:  75% (1692/2256)   ote: Compressing objects:  76% (1715/2256)   ote: Compressing objects:  77% (1738/2256)   ote: Compressing objects:  78% (1760/2256)   ote: Compressing objects:  79% (1783/2256)   ote: Compressing objects:  80% (1805/2256)   ote: Compressing objects:  81% (1828/2256)   ote: Compressing objects:  82% (1850/2256)   ote: Compressing objects:  83% (1873/2256)   ote: Compressing objects:  84% (1896/2256)   ote: Compressing objects:  85% (1918/2256)   ote: Compressing objects:  86% (1941/2256)   ote: Compressing objects:  87% (1963/2256)   ote: Compressing objects:  88% (1986/2256)   ote: Compressing objects:  89% (2008/2256)   ote: Compressing objects:  90% (2031/2256)   ote: Compressing objects:  91% (2053/2256)   ote: Compressing objects:  92% (2076/2256)   ote: Compressing objects:  93% (2099/2256)   ote: Compressing objects:  94% (2121/2256)   ote: Compressing objects:  95% (2144/2256)   ote: Compressing objects:  96% (2166/2256)   ote: Compressing objects:  97% (2189/2256)   ote: Compressing objects:  98% (2211/2256)   ote: Compressing objects:  99% (2234/2256)   ote: Compressing objects: 100% (2256/2256)   ote: Compressing objects: 100% (2256/2256), done.ote: Total 4838 (delta 3383), reused 3815 (delta 2534)e:end:13339404:start=1421682033986227133,finish=1421682035125750605,duration=1139523472e:start:05940853erge:
+remote: Counting objects: 51, done.ote: Compressing objects:   2% (1/42)   ote: Compressing objects:   4% (2/42)   ote: Compressing objects:   7% (3/42)   ote: Compressing objects:   9% (4/42)   ote: Compressing objects:  11% (5/42)   ote: Compressing objects:  14% (6/42)   ote: Compressing objects:  16% (7/42)   ote: Compressing objects:  19% (8/42)   ote: Compressing objects:  21% (9/42)   ote: Compressing objects:  23% (10/42)   ote: Compressing objects:  26% (11/42)   ote: Compressing objects:  28% (12/42)   ote: Compressing objects:  30% (13/42)   ote: Compressing objects:  33% (14/42)   ote: Compressing objects:  35% (15/42)   ote: Compressing objects:  38% (16/42)   ote: Compressing objects:  40% (17/42)   ote: Compressing objects:  42% (18/42)   ote: Compressing objects:  45% (19/42)   ote: Compressing objects:  47% (20/42)   ote: Compressing objects:  50% (21/42)   ote: Compressing objects:  52% (22/42)   ote: Compressing objects:  54% (23/42)   ote: Compressing objects:  57% (24/42)   ote: Compressing objects:  59% (25/42)   ote: Compressing objects:  61% (26/42)   ote: Compressing objects:  64% (27/42)   ote: Compressing objects:  66% (28/42)   ote: Compressing objects:  69% (29/42)   ote: Compressing objects:  71% (30/42)   ote: Compressing objects:  73% (31/42)   ote: Compressing objects:  76% (32/42)   ote: Compressing objects:  78% (33/42)   ote: Compressing objects:  80% (34/42)   ote: Compressing objects:  83% (35/42)   ote: Compressing objects:  85% (36/42)   ote: Compressing objects:  88% (37/42)   ote: Compressing objects:  90% (38/42)   ote: Compressing objects:  92% (39/42)   ote: Compressing objects:  95% (40/42)   ote: Compressing objects:  97% (41/42)   ote: Compressing objects: 100% (42/42)   ote: Compressing objects: 100% (42/42), done.ote: Total 51 (delta 28), reused 20 (delta 1) git://github.com/ether/etherpad-lite
+ * branch            refs/pull/2469/merge -> FETCH_HEAD
+travis_time:end:05940853:start=1421682035137464209,finish=1421682035372973184,duration=235508975Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:start:2d5fe322 install 0.10
+v0.10.35 is already installed.
+Now using node v0.10.35
+travis_time:end:2d5fe322:start=1421682035431386756,finish=1421682035795222994,duration=363836238 --version
+1.4.28
+$ nvm --version
+0.20.0
+travis_fold:start:install.1e:start:0dc15c20plate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+
+> ws@0.5.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+
+> microtime@0.4.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime
+> node-gyp rebuild
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+  CXX(target) Release/obj.target/microtime/src/microtime.o
+  SOLINK_MODULE(target) Release/obj.target/microtime.node
+  SOLINK_MODULE(target) Release/obj.target/microtime.node: Finished
+  COPY Release/microtime.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+slide@1.1.6 node_modules/slide
+
+graceful-fs@3.0.5 node_modules/graceful-fs
+
+tinycon@0.0.1 node_modules/tinycon
+
+formidable@1.0.16 node_modules/formidable
+
+async@0.9.0 node_modules/async
+
+underscore@1.5.1 node_modules/underscore
+
+etherpad-require-kernel@1.0.7 node_modules/etherpad-require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.3.3 node_modules/unorm
+
+measured@0.1.6 node_modules/measured
+
+semver@4.2.0 node_modules/semver
+
+ejs@1.0.0 node_modules/ejs
+
+resolve@1.0.0 node_modules/resolve
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+etherpad-yajsml@0.0.2 node_modules/etherpad-yajsml
+
+supertest@0.15.0 node_modules/supertest
+├── methods@1.1.1
+└── superagent@0.21.0 (extend@1.2.1, methods@1.0.1, cookiejar@2.0.1, component-emitter@1.1.2, reduce-component@1.0.1, qs@1.2.0, debug@2.1.1, mime@1.2.11, form-data@0.1.3, readable-stream@1.0.27-1, formidable@1.0.14)
+
+request@2.51.0 node_modules/request
+├── caseless@0.8.0
+├── json-stringify-safe@5.0.0
+├── forever-agent@0.5.2
+├── aws-sign2@0.5.0
+├── stringstream@0.0.4
+├── oauth-sign@0.5.0
+├── tunnel-agent@0.4.0
+├── node-uuid@1.4.2
+├── qs@2.3.3
+├── mime-types@1.0.2
+├── combined-stream@0.0.7 (delayed-stream@0.0.5)
+├── http-signature@0.10.1 (assert-plus@0.1.5, asn1@0.1.11, ctype@0.5.3)
+├── bl@0.9.3 (readable-stream@1.0.33)
+├── form-data@0.2.0 (mime-types@2.0.7)
+├── tough-cookie@0.12.1 (punycode@1.3.2)
+└── hawk@1.1.1 (cryptiles@0.2.2, sntp@0.2.4, boom@0.4.2, hoek@0.9.1)
+
+log4js@0.6.22 node_modules/log4js
+├── semver@1.1.4
+├── async@0.2.10
+└── readable-stream@1.0.33 (isarray@0.0.1, inherits@2.0.1, string_decoder@0.10.31, core-util-is@1.0.1)
+
+uglify-js@2.4.16 node_modules/uglify-js
+├── uglify-to-browserify@1.0.2
+├── async@0.2.10
+├── optimist@0.3.7 (wordwrap@0.0.2)
+└── source-map@0.1.34 (amdefine@0.1.0)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── buffer-crc32@0.2.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── cookie@0.0.5
+├── debug@2.1.1 (ms@0.6.2)
+├── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+└── formidable@1.0.14
+
+mocha@2.1.0 node_modules/mocha
+├── escape-string-regexp@1.0.2
+├── diff@1.0.8
+├── growl@1.8.1
+├── commander@2.3.0
+├── debug@2.0.0 (ms@0.6.2)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+├── glob@3.2.3 (inherits@2.0.1, graceful-fs@2.0.3, minimatch@0.2.14)
+└── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── simplesmtp@0.3.34 (xoauth2@0.1.8, rai@0.1.11)
+├── optimist@0.6.1 (wordwrap@0.0.2, minimist@0.0.10)
+└── mailcomposer@0.2.12 (follow-redirects@0.0.3, he@0.3.6, dkim-signer@0.1.2, mime@1.2.11, mimelib@0.2.18)
+
+jsonminify@0.2.3 node_modules/jsonminify
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── async@0.1.22
+├── underscore@1.4.4
+└── request@2.12.0
+
+cheerio@0.18.0 node_modules/cheerio
+├── dom-serializer@0.0.1 (domelementtype@1.1.3)
+├── entities@1.1.1
+├── htmlparser2@3.8.2 (domelementtype@1.1.3, domutils@1.5.0, entities@1.0.0, domhandler@2.3.0, readable-stream@1.1.13)
+├── CSSselect@0.4.1 (domutils@1.4.3, CSSwhat@0.4.7)
+└── lodash@2.4.1
+
+swagger-node-express@2.1.3 node_modules/swagger-node-express
+└── lodash@1.3.1
+
+express@3.8.1 node_modules/express
+├── parseurl@1.0.1
+├── merge-descriptors@0.0.2
+├── cookie@0.1.2
+├── debug@0.8.1
+├── cookie-signature@1.0.3
+├── range-parser@1.0.0
+├── fresh@0.2.2
+├── methods@1.0.0
+├── buffer-crc32@0.2.1
+├── commander@1.3.2 (keypress@0.1.0)
+├── proxy-addr@1.0.0 (ipaddr.js@0.1.2)
+├── send@0.3.0 (debug@0.8.0, mime@1.2.11)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+└── connect@2.17.3 (response-time@1.0.0, pause@0.0.1, connect-timeout@1.1.0, method-override@1.0.2, vhost@1.0.0, qs@0.6.6, on-headers@0.0.0, basic-auth-connect@1.0.0, bytes@1.0.0, morgan@1.1.1, serve-favicon@2.0.0, errorhandler@1.0.1, serve-static@1.1.0, cookie-parser@1.1.0, body-parser@1.2.2, csurf@1.2.0, express-session@1.2.1, compression@1.0.2, type-is@1.2.0, serve-index@1.0.3, multiparty@2.2.0)
+
+npm@2.2.0 node_modules/npm
+
+ueberDB@0.2.10 node_modules/ueberDB
+├── channels@0.0.2
+├── felix-couchdb@1.0.7
+├── redis@0.12.1
+├── dirty@0.9.9
+├── async@0.1.15
+├── mysql@2.5.4 (require-all@0.0.8, bignumber.js@1.4.1, readable-stream@1.1.13)
+├── pg@4.2.0 (packet-reader@0.2.0, pg-connection-string@0.1.3, buffer-writer@1.0.0, generic-pool@2.1.1, pg-types@1.6.0, pgpass@0.0.3)
+└── helenus@0.6.10 (node-uuid@1.3.3, helenus-thrift@0.7.4, microtime@0.4.0)
+
+socket.io@1.3.2 node_modules/socket.io
+├── debug@2.1.0 (ms@0.6.2)
+├── has-binary-data@0.1.3 (isarray@0.0.1)
+├── socket.io-adapter@0.3.1 (object-keys@1.0.1, debug@1.0.2)
+├── socket.io-parser@2.2.2 (debug@0.7.4, component-emitter@1.1.2, isarray@0.0.1, benchmark@1.0.0, json3@3.2.6)
+├── engine.io@1.5.1 (base64id@0.1.0, debug@1.0.3, engine.io-parser@1.2.1, ws@0.5.0)
+└── socket.io-client@1.3.2 (indexof@0.0.1, to-array@0.1.3, debug@0.7.4, component-bind@1.0.0, backo2@1.0.2, object-component@0.0.3, component-emitter@1.1.2, parseuri@0.0.2, has-binary@0.1.5, engine.io-client@1.5.1)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+Ensure custom css/js files are created...
+travis_time:end:0dc15c20:start=1421682038901514297,finish=1421682065799138805,duration=26897624508e:start:089efd22e:end:089efd22:start=1421682065808832371,finish=1421682065819442745,duration=10610374e:start:1da93ee8e    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.8M    0  288k    0     0   441k      0  0:01:09 --:--:--  0:01:09  505k  8 29.8M    8 2470k    0     0  1484k      0  0:00:20  0:00:01  0:00:19 1561k 16 29.8M   16 4964k    0     0  1879k      0  0:00:16  0:00:02  0:00:14 1939k 24 29.8M   24 7621k    0     0  2098k      0  0:00:14  0:00:03  0:00:11 2148k 29 29.8M   29 8966k    0     0  1930k      0  0:00:15  0:00:04  0:00:11 1965k 35 29.8M   35 10.7M    0     0  1928k      0  0:00:15  0:00:05  0:00:10 2121k 43 29.8M   43 13.1M    0     0  2022k      0  0:00:15  0:00:06  0:00:09 2203k 48 29.8M   48 14.4M    0     0  1930k      0  0:00:15  0:00:07  0:00:08 1958k 52 29.8M   52 15.7M    0     0  1867k      0  0:00:16  0:00:08  0:00:08 1699k 57 29.8M   57 17.2M    0     0  1829k      0  0:00:16  0:00:09  0:00:07 1736k 60 29.8M   60 18.1M    0     0  1744k      0  0:00:17  0:00:10  0:00:07 1532k 63 29.8M   63 19.0M    0     0  1677k      0  0:00:18  0:00:11  0:00:07 1221k 67 29.8M   67 20.2M    0     0  1639k      0  0:00:18  0:00:12  0:00:06 1187k 71 29.8M   71 21.3M    0     0  1606k      0  0:00:19  0:00:13  0:00:06 1157k 75 29.8M   75 22.4M    0     0  1571k      0  0:00:19  0:00:14  0:00:05 1070k 79 29.8M   79 23.6M    0     0  1542k      0  0:00:19  0:00:15  0:00:04 1116k 82 29.8M   82 24.4M    0     0  1508k      0  0:00:20  0:00:16  0:00:04 1112k 85 29.8M   85 25.6M    0     0  1488k      0  0:00:20  0:00:17  0:00:03 1107k 90 29.8M   90 26.8M    0     0  1476k      0  0:00:20  0:00:18  0:00:02 1121k 94 29.8M   94 28.0M    0     0  1463k      0  0:00:20  0:00:19  0:00:01 1148k 97 29.8M   97 28.9M    0     0  1434k      0  0:00:21  0:00:20  0:00:01 1097k100 29.8M  100 29.8M    0     0  1446k      0  0:00:21  0:00:21 --:--:-- 1218k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2015-01-19 15:41:47.810:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-19 15:41:47.852:INFO::Started SelectChannelConnector@0.0.0.0:57270
+2015-01-19 15:42:00.726:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-19 15:42:00.730:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_time:end:1da93ee8:start=1421682065829233289,finish=1421682121841434344,duration=56012201055e:start:1e143c4cnpm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+Remote sauce test '88036f5 - googlechrome , Linux' started! https://saucelabs.com/jobs/6480c120636d4b779bf0e74c688f72a5
+Remote sauce test '88036f5 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/2de376190a3742bb85b3e2bd514c1876
+Remote sauce test '88036f5 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/1cec7d24a7c24850b7de744a962119fd
+[iexplore 8] alphabet.js
+[iexplore 8]   All the alphabet works n stuff
+[iexplore 8]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 8]      Error :)
+[iexplore 8]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 8] 
+Remote sauce test '88036f5 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/2de376190a3742bb85b3e2bd514c1876
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 10]      Error :)
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test '88036f5 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/1cec7d24a7c24850b7de744a962119fd
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> FAILED : "before each" hook Error: the string "Uncaught Error: Pad never loaded" was 
+[googlechrome]     thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '88036f5 - googlechrome , Linux' finished! https://saucelabs.com/jobs/6480c120636d4b779bf0e74c688f72a5
+Remote sauce test '88036f5 - firefox , Linux' started! https://saucelabs.com/jobs/55265260293d4d2594afa89e1d91f851
+Remote sauce test '88036f5 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/fe0b46fde3364cf29122cabd9ed15607
+2015-01-19 15:48:31.349:WARN::9 threads could not be stopped
+[firefox] alphabet.js
+[firefox]   All the alphabet works n stuff
+[firefox]     -> PASSED : when you enter any char it appears right
+[firefox] 
+[firefox] bold.js
+[firefox]   bold button
+[firefox]     -> PASSED : makes text bold on click
+[firefox]     -> PASSED : makes text bold on keypress
+[firefox] 
+[firefox] change_user_name.js
+[firefox]   change username value
+[firefox]     -> PASSED : Remembers the user name after a refresh
+[firefox]     -> PASSED : Own user name is shown when you enter a chat
+[firefox] 
+[firefox] chat.js
+[firefox]   Chat messages and UI
+[firefox]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[firefox]     -> PASSED : makes sure that an empty message can't be sent
+[firefox]     -> PASSED : makes chat stick to right side of the screen
+[firefox]     -> PASSED : makes chat stick to right side of the screen then makes it one step smalle
+[firefox]     r
+[firefox] 
+[firefox] chat_load_messages.js
+[firefox]   chat-load-messages
+[firefox]     -> PASSED : creates a pad
+[firefox]     -> PASSED : adds a lot of messages
+[firefox]     -> PASSED : checks initial message count
+[firefox]     -> PASSED : loads more messages
+[firefox]     -> FAILED : checks for button vanishing the string "Error: expected 'block' to equal 'no
+[firefox]     ne'" was thrown, throw an Error :)
+[firefox]     Runner.prototype.fail@http://localhost:9001/tests/frontend/lib/mocha.js:3786:1
+[firefox]     Runner.prototype.uncaught@http://localhost:9001/tests/frontend/lib/mocha.js:4059:3
+[firefox]     uncaught@http://localhost:9001/tests/frontend/lib/mocha.js:4089:5
+[firefox] 
+[firefox] clear_authorship_colors.js
+[firefox]   clear authorship colors button
+[firefox]     -> FAILED : "before each" hook the string "Error: Permission denied to access property '
+[firefox]     document'" was thrown, throw an Error :)
+[firefox]     Runner.prototype.fail@http://localhost:9001/tests/frontend/lib/mocha.js:3786:1
+[firefox]     Runner.prototype.uncaught@http://localhost:9001/tests/frontend/lib/mocha.js:4059:3
+[firefox]     uncaught@http://localhost:9001/tests/frontend/lib/mocha.js:4089:5
+[firefox]     FINISHED - no test started since 3 minutes, tests stopped
+[firefox] 
+Remote sauce test '88036f5 - firefox , Linux' finished! https://saucelabs.com/jobs/55265260293d4d2594afa89e1d91f851
+[iexplore 9] alphabet.js
+[iexplore 9]   All the alphabet works n stuff
+[iexplore 9]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 9]      Error :)
+[iexplore 9]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test '88036f5 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/fe0b46fde3364cf29122cabd9ed15607
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+travis_time:end:1e143c4c:start=1421682121849696929,finish=1421682723028554835,duration=601178857906The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

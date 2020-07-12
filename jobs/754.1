@@ -1,0 +1,208 @@
+Using worker: bluebox-linux-1.worker.travis-ci.org:travis-linux-22
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=develop git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf 2ee3d0469e915c922ec3ca0309ebb8a2d5bc20a0
+$ nvm use 0.8
+Now using node v0.8.18
+$ node --version
+v0.8.18
+$ npm --version
+1.2.2
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+semver@1.0.13 node_modules/semver
+
+tinycon@0.0.1 node_modules/tinycon
+
+async@0.1.22 node_modules/async
+
+ejs@0.6.1 node_modules/ejs
+
+resolve@0.2.8 node_modules/resolve
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+request@2.9.100 node_modules/request
+
+formidable@1.0.9 node_modules/formidable
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+log4js@0.5.6 node_modules/log4js
+└── async@0.1.15
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── graceful-fs@1.1.14
+├── chownr@0.0.1
+├── retry@0.6.0
+├── rimraf@2.0.3
+├── mkdirp@0.3.4
+├── semver@1.1.3
+├── couch-login@0.1.15
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── bytes@0.1.0
+├── pause@0.0.1
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+ueberDB@0.1.92 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+npm@1.1.71 node_modules/npm
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  6 29.0M    6 2063k    0     0  1894k      0  0:00:15  0:00:01  0:00:14 2540k 18 29.0M   18 5499k    0     0  2670k      0  0:00:11  0:00:02  0:00:09 3086k 30 29.0M   30 9062k    0     0  2952k      0  0:00:10  0:00:03  0:00:07 3245k 41 29.0M   41 12.1M    0     0  3067k      0  0:00:09  0:00:04  0:00:05 3292k 53 29.0M   53 15.5M    0     0  3137k      0  0:00:09  0:00:05  0:00:04 3318k 65 29.0M   65 18.9M    0     0  3193k      0  0:00:09  0:00:06  0:00:03 3476k 75 29.0M   75 21.8M    0     0  3167k      0  0:00:09  0:00:07  0:00:02 3372k 85 29.0M   85 25.0M    0     0  3174k      0  0:00:09  0:00:08  0:00:01 3311k 97 29.0M   97 28.3M    0     0  3194k      0  0:00:09  0:00:09 --:--:-- 3297k100 29.0M  100 29.0M    0     0  3206k      0  0:00:09  0:00:09 --:--:-- 3291k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-02-18 19:28:12.148:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-18 19:28:12.209:INFO::Started SelectChannelConnector@0.0.0.0:39257
+2013-02-18 19:28:32.222:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-18 19:28:32.226:INFO::Started SelectChannelConnector@0.0.0.0:4445
+$ tests/frontend/travis/runner.sh
+Remote sauce test '2ee3d04 - firefox , Linux' started! https://saucelabs.com/jobs/0c208340d6d44e8e9478543bf00e86f8
+Remote sauce test '2ee3d04 - googlechrome , Linux' started! https://saucelabs.com/jobs/8a0c2f8497944c55a85d11edb023ca0f
+Remote sauce test '2ee3d04 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/67aea0f409ac44838617cdf3a476b354
+Remote sauce test '2ee3d04 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/026b708ca5ba429cb4b71b67c807b50f
+Remote sauce test '2ee3d04 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/d49d8483436947a799092c6eec5f4d7d
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold
+[googlechrome] 
+[googlechrome] button_clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] button_indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text
+[googlechrome]     -> FAILED : "before each" hook Error: the string "Uncaught TypeError: Property 'eval' of
+[googlechrome]      object [object Window] is not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '2ee3d04 - googlechrome , Linux' finished! https://saucelabs.com/jobs/8a0c2f8497944c55a85d11edb023ca0f
+[iexplore 9] button_bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 9]      Error :)
+[iexplore 9]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test '2ee3d04 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/026b708ca5ba429cb4b71b67c807b50f
+[firefox] button_bold.js
+[firefox]   bold button
+[firefox]     -> FAILED : "before each" hook timeout of 60000ms exceeded
+[firefox]     (0)@http://localhost:9001/tests/frontend/lib/mocha.js:3552
+[firefox]     FINISHED - no test started since 3 minutes, tests stopped
+[firefox] 
+Remote sauce test '2ee3d04 - firefox , Linux' finished! https://saucelabs.com/jobs/0c208340d6d44e8e9478543bf00e86f8
+[iexplore 8] button_bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> FAILED : "before each" hook Error: timeout of 60000ms exceeded
+[iexplore 8]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 8] 
+Remote sauce test '2ee3d04 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/67aea0f409ac44838617cdf3a476b354
+[iexplore 10] button_bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold
+[iexplore 10] 
+[iexplore 10] button_clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 10]      Error :)
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test '2ee3d04 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/d49d8483436947a799092c6eec5f4d7d
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+Done. Build script exited with 1

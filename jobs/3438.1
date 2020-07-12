@@ -1,0 +1,693 @@
+[googlechrome] Etherpad line attribute tests
+[googlechrome]   when user moves one line into the first position of another
+[googlechrome]     -> PASSED : processes each line without changing any of their types
+[googlechrome] 
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat.js
+[googlechrome]   Chat messages and UI
+[googlechrome]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[googlechrome]     -> PASSED : makes sure that an empty message can't be sent
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen then makes it one step smalle
+[googlechrome]     r
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> PASSED : adds a lot of messages
+[googlechrome]     -> PASSED : checks initial message count
+[googlechrome]     -> PASSED : loads more messages
+[googlechrome]     -> PASSED : checks for button vanishing
+[googlechrome] 
+[googlechrome] clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] delete.js
+[googlechrome]   delete keystroke
+[googlechrome]     -> PASSED : makes text delete
+[googlechrome] 
+[googlechrome] drag_and_drop.js
+[googlechrome]   drag and drop
+[googlechrome]     when user drags part of one line and drops it far form its original place
+[googlechrome]       and user triggers UNDO
+[googlechrome]         -> PASSED : moves text back to its original place
+[googlechrome]     when user drags some lines far form its original place
+[googlechrome]       and user triggers UNDO
+[googlechrome]         -> PASSED : moves text back to its original place
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : is the actual pad url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome]     when read only option is set
+[googlechrome]       the share link
+[googlechrome]         -> PASSED : shows a read only url
+[googlechrome]       the embed as iframe code
+[googlechrome]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[googlechrome] 
+[googlechrome] enter.js
+[googlechrome]   enter keystroke
+[googlechrome]     -> PASSED : creates a new line & puts cursor onto a new line
+[googlechrome] 
+[googlechrome] font_type.js
+[googlechrome]   font select
+[googlechrome]     -> PASSED : makes text monospace
+[googlechrome] 
+[googlechrome] helper.js
+[googlechrome]   the test helper
+[googlechrome]     the newPad method
+[googlechrome]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[googlechrome]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[googlechrome]     the waitFor method
+[googlechrome]       -> PASSED : takes a timeout and waits long enough
+[googlechrome]       -> PASSED : takes an interval and checks on every interval
+[googlechrome]       returns a deferred object
+[googlechrome]         -> PASSED : it calls done after success
+[googlechrome]         -> PASSED : calls fail after failure
+[googlechrome]         -> PENDING: throws if you don't listen for fails
+[googlechrome]     the selectLines method
+[googlechrome]       -> PASSED : changes editor selection to be between startOffset of $startLine and endOf
+[googlechrome]       fset of $endLine
+[googlechrome]       -> PASSED : ends selection at beginning of $endLine when it is an empty line
+[googlechrome]       -> PASSED : ends selection at beginning of $endLine when its offset is zero
+[googlechrome]       -> PASSED : selects full line when offset is longer than line content
+[googlechrome]       -> PASSED : selects all text between beginning of $startLine and end of $endLine when 
+[googlechrome]       no offset is provided
+[googlechrome] 
+[googlechrome] importexport.js
+[googlechrome]   import functionality
+[googlechrome]     -> PENDING: import a pad with newlines from txt
+[googlechrome]     -> PENDING: import a pad with newlines from html
+[googlechrome]     -> PENDING: import a pad with attributes from html
+[googlechrome]     -> PENDING: import a pad with bullets from html
+[googlechrome]     -> PENDING: import a pad with bullets and newlines from html
+[googlechrome]     -> PENDING: import a pad with bullets and newlines and attributes from html
+[googlechrome]     -> PENDING: import a pad with nested bullets from html
+[googlechrome]     -> PENDING: import a pad with 8 levels of bullets and newlines and attributes from ht
+[googlechrome]     ml
+[googlechrome]     -> PENDING: import a pad with ordered lists from html
+[googlechrome]     -> PENDING: import a pad with ordered lists and newlines from html
+[googlechrome]     -> PENDING: import a pad with nested ordered lists and attributes and newlines from h
+[googlechrome]     tml
+[googlechrome] 
+[googlechrome] importindents.js
+[googlechrome]   import indents functionality
+[googlechrome]     -> PENDING: import a pad with indents from html
+[googlechrome]     -> PENDING: import a pad with indented lists and newlines from html
+[googlechrome]     -> PENDING: import a pad with 8 levels of indents and newlines and attributes from ht
+[googlechrome]     ml
+[googlechrome] 
+[googlechrome] indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text with keypress
+[googlechrome]     -> PASSED : indent text with button
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome]     -> PASSED : indents text with spaces on enter if previous line ends with ':', '[', '('
+[googlechrome]     , or '{'
+[googlechrome]     -> PASSED : appends indentation to the indent of previous line if previous line ends w
+[googlechrome]     ith ':', '[', '(', or '{'
+[googlechrome]     -> PASSED : issue #2772 shows '*' when multiple indented lines receive a style and are
+[googlechrome]      outdented
+[googlechrome] 
+[googlechrome] italic.js
+[googlechrome]   italic some text
+[googlechrome]     -> PASSED : makes text italic using button
+[googlechrome]     -> PASSED : makes text italic using keypress
+[googlechrome] 
+[googlechrome] language.js
+[googlechrome]   Language select and change
+[googlechrome]     -> PASSED : makes text german
+[googlechrome]     -> PASSED : makes text English
+[googlechrome]     -> PASSED : changes direction when picking an rtl lang
+[googlechrome]     -> PASSED : changes direction when picking an ltr lang
+[googlechrome] 
+[googlechrome] ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> PASSED : redo some typing with button
+[googlechrome]     -> PASSED : redo some typing with keypress
+[googlechrome] 
+[googlechrome] responsiveness.js
+[googlechrome]   Responsiveness of Editor
+[googlechrome]     -> PENDING: Fast response to keypress in pad with large amount of contents
+[googlechrome] 
+[googlechrome] strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] timeslider_labels.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[googlechrome]     aN
+[googlechrome] 
+[googlechrome] timeslider_revisions.js
+[googlechrome]   timeslider
+[googlechrome]     -> PASSED : loads adds a hundred revisions
+[googlechrome]     -> PENDING: changes the url when clicking on the timeslider
+[googlechrome]     -> PASSED : jumps to a revision given in the url
+[googlechrome]     -> PASSED : checks the export url
+[googlechrome] 
+[googlechrome] undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing using a keypress
+[googlechrome] 
+[googlechrome] unordered_list.js
+[googlechrome]   assign unordered list
+[googlechrome]     -> PASSED : insert unordered list text then removes by outdent
+[googlechrome] 
+[googlechrome] urls_become_clickable.js
+[googlechrome]   urls
+[googlechrome]     -> PASSED : when you enter an url, it becomes clickable
+[googlechrome]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[googlechrome]      whole URL
+[googlechrome]     -> PASSED : when you enter a url followed by a ], the ] is not included in the URL
+[googlechrome] 
+[googlechrome] FINISHED - 60 tests passed, 0 tests failed, duration: 2:55
+[googlechrome] 
+Remote sauce test '9515109 - googlechrome , Linux' finished! https://saucelabs.com/jobs/c643b50fe5dc45bdb3a514496fb701a6
+[iexplore 10] Etherpad line attribute tests
+[iexplore 10]   when user moves one line into the first position of another
+[iexplore 10]     -> PASSED : processes each line without changing any of their types
+[iexplore 10] 
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold on click
+[iexplore 10]     -> PASSED : makes text bold on keypress
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> PASSED : Remembers the user name after a refresh
+[iexplore 10]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 10] 
+[iexplore 10] chat.js
+[iexplore 10]   Chat messages and UI
+[iexplore 10]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 10]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 10]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 10]     -> PASSED : makes chat stick to right side of the screen then makes it one step smalle
+[iexplore 10]     r
+[iexplore 10] 
+[iexplore 10] chat_load_messages.js
+[iexplore 10]   chat-load-messages
+[iexplore 10]     -> PASSED : creates a pad
+[iexplore 10]     -> PASSED : adds a lot of messages
+[iexplore 10]     -> PASSED : checks initial message count
+[iexplore 10]     -> PASSED : loads more messages
+[iexplore 10]     -> PASSED : checks for button vanishing
+[iexplore 10] 
+[iexplore 10] clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> PASSED : makes text clear authorship colors
+[iexplore 10] 
+[iexplore 10] delete.js
+[iexplore 10]   delete keystroke
+[iexplore 10]     -> PASSED : makes text delete
+[iexplore 10] 
+[iexplore 10] drag_and_drop.js
+[iexplore 10]   drag and drop
+[iexplore 10]     when user drags part of one line and drops it far form its original place
+[iexplore 10]       and user triggers UNDO
+[iexplore 10]         -> PASSED : moves text back to its original place
+[iexplore 10]     when user drags some lines far form its original place
+[iexplore 10]       and user triggers UNDO
+[iexplore 10]         -> PASSED : moves text back to its original place
+[iexplore 10] 
+[iexplore 10] embed_value.js
+[iexplore 10]   embed links
+[iexplore 10]     read and write
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : is the actual pad url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10]     when read only option is set
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : shows a read only url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10] 
+[iexplore 10] enter.js
+[iexplore 10]   enter keystroke
+[iexplore 10]     -> PASSED : creates a new line & puts cursor onto a new line
+[iexplore 10] 
+[iexplore 10] font_type.js
+[iexplore 10]   font select
+[iexplore 10]     -> PASSED : makes text monospace
+[iexplore 10] 
+[iexplore 10] helper.js
+[iexplore 10]   the test helper
+[iexplore 10]     the newPad method
+[iexplore 10]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 10]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 10]     the waitFor method
+[iexplore 10]       -> PASSED : takes a timeout and waits long enough
+[iexplore 10]       -> PASSED : takes an interval and checks on every interval
+[iexplore 10]       returns a deferred object
+[iexplore 10]         -> PASSED : it calls done after success
+[iexplore 10]         -> PASSED : calls fail after failure
+[iexplore 10]         -> PENDING: throws if you don't listen for fails
+[iexplore 10]     the selectLines method
+[iexplore 10]       -> PASSED : changes editor selection to be between startOffset of $startLine and endOf
+[iexplore 10]       fset of $endLine
+[iexplore 10]       -> PASSED : ends selection at beginning of $endLine when it is an empty line
+[iexplore 10]       -> PASSED : ends selection at beginning of $endLine when its offset is zero
+[iexplore 10]       -> PASSED : selects full line when offset is longer than line content
+[iexplore 10]       -> PASSED : selects all text between beginning of $startLine and end of $endLine when 
+[iexplore 10]       no offset is provided
+[iexplore 10] 
+[iexplore 10] importexport.js
+[iexplore 10]   import functionality
+[iexplore 10]     -> PENDING: import a pad with newlines from txt
+[iexplore 10]     -> PENDING: import a pad with newlines from html
+[iexplore 10]     -> PENDING: import a pad with attributes from html
+[iexplore 10]     -> PENDING: import a pad with bullets from html
+[iexplore 10]     -> PENDING: import a pad with bullets and newlines from html
+[iexplore 10]     -> PENDING: import a pad with bullets and newlines and attributes from html
+[iexplore 10]     -> PENDING: import a pad with nested bullets from html
+[iexplore 10]     -> PENDING: import a pad with 8 levels of bullets and newlines and attributes from ht
+[iexplore 10]     ml
+[iexplore 10]     -> PENDING: import a pad with ordered lists from html
+[iexplore 10]     -> PENDING: import a pad with ordered lists and newlines from html
+[iexplore 10]     -> PENDING: import a pad with nested ordered lists and attributes and newlines from h
+[iexplore 10]     tml
+[iexplore 10] 
+[iexplore 10] importindents.js
+[iexplore 10]   import indents functionality
+[iexplore 10]     -> PENDING: import a pad with indents from html
+[iexplore 10]     -> PENDING: import a pad with indented lists and newlines from html
+[iexplore 10]     -> PENDING: import a pad with 8 levels of indents and newlines and attributes from ht
+[iexplore 10]     ml
+[iexplore 10] 
+[iexplore 10] indentation.js
+[iexplore 10]   indentation button
+[iexplore 10]     -> PASSED : indent text with keypress
+[iexplore 10]     -> PASSED : indent text with button
+[iexplore 10]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 10]     -> PASSED : indents text with spaces on enter if previous line ends with ':', '[', '('
+[iexplore 10]     , or '{'
+[iexplore 10]     -> PASSED : appends indentation to the indent of previous line if previous line ends w
+[iexplore 10]     ith ':', '[', '(', or '{'
+[iexplore 10]     -> PASSED : issue #2772 shows '*' when multiple indented lines receive a style and are
+[iexplore 10]      outdented
+[iexplore 10] 
+[iexplore 10] italic.js
+[iexplore 10]   italic some text
+[iexplore 10]     -> PASSED : makes text italic using button
+[iexplore 10]     -> PASSED : makes text italic using keypress
+[iexplore 10] 
+[iexplore 10] language.js
+[iexplore 10]   Language select and change
+[iexplore 10]     -> PASSED : makes text german
+[iexplore 10]     -> PASSED : makes text English
+[iexplore 10]     -> PASSED : changes direction when picking an rtl lang
+[iexplore 10]     -> PASSED : changes direction when picking an ltr lang
+[iexplore 10] 
+[iexplore 10] ordered_list.js
+[iexplore 10]   assign ordered list
+[iexplore 10]     -> PASSED : insert ordered list text
+[iexplore 10]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 10]     PASTING INTO A PAD
+[iexplore 10] 
+[iexplore 10] redo.js
+[iexplore 10]   undo button then redo button
+[iexplore 10]     -> PASSED : redo some typing with button
+[iexplore 10]     -> PASSED : redo some typing with keypress
+[iexplore 10] 
+[iexplore 10] responsiveness.js
+[iexplore 10]   Responsiveness of Editor
+[iexplore 10]     -> PENDING: Fast response to keypress in pad with large amount of contents
+[iexplore 10] 
+[iexplore 10] strikethrough.js
+[iexplore 10]   strikethrough button
+[iexplore 10]     -> PASSED : makes text strikethrough
+[iexplore 10] 
+[iexplore 10] timeslider.js
+[iexplore 10]   timeslider button takes you to the timeslider of a pad
+[iexplore 10]     -> PENDING: timeslider contained in URL
+[iexplore 10] 
+[iexplore 10] timeslider_labels.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[iexplore 10]     aN
+[iexplore 10] 
+[iexplore 10] timeslider_revisions.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : loads adds a hundred revisions
+[iexplore 10]     -> PENDING: changes the url when clicking on the timeslider
+[iexplore 10]     -> PASSED : jumps to a revision given in the url
+[iexplore 10]     -> PASSED : checks the export url
+[iexplore 10] 
+[iexplore 10] undo.js
+[iexplore 10]   undo button
+[iexplore 10]     -> PASSED : undo some typing using a keypress
+[iexplore 10] 
+[iexplore 10] unordered_list.js
+[iexplore 10]   assign unordered list
+[iexplore 10]     -> PASSED : insert unordered list text then removes by outdent
+[iexplore 10] 
+[iexplore 10] urls_become_clickable.js
+[iexplore 10]   urls
+[iexplore 10]     -> PASSED : when you enter an url, it becomes clickable
+[iexplore 10]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[iexplore 10]      whole URL
+[iexplore 10]     -> PASSED : when you enter a url followed by a ], the ] is not included in the URL
+[iexplore 10] 
+[iexplore 10] FINISHED - 60 tests passed, 0 tests failed, duration: 3:9
+[iexplore 10] 
+Remote sauce test '9515109 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/72510528af5f45a88f3d1ba1a0205f92
+[firefox] Etherpad line attribute tests
+[firefox]   when user moves one line into the first position of another
+[firefox]     -> PASSED : processes each line without changing any of their types
+[firefox] 
+[firefox] alphabet.js
+[firefox]   All the alphabet works n stuff
+[firefox]     -> PASSED : when you enter any char it appears right
+[firefox] 
+[firefox] bold.js
+[firefox]   bold button
+[firefox]     -> PASSED : makes text bold on click
+[firefox]     -> PASSED : makes text bold on keypress
+[firefox] 
+[firefox] change_user_name.js
+[firefox]   change username value
+[firefox]     -> PASSED : Remembers the user name after a refresh
+[firefox]     -> PASSED : Own user name is shown when you enter a chat
+[firefox] 
+[firefox] chat.js
+[firefox]   Chat messages and UI
+[firefox]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[firefox]     -> PASSED : makes sure that an empty message can't be sent
+[firefox]     -> PASSED : makes chat stick to right side of the screen
+[firefox]     -> PASSED : makes chat stick to right side of the screen then makes it one step smalle
+[firefox]     r
+[firefox] 
+[firefox] chat_load_messages.js
+[firefox]   chat-load-messages
+[firefox]     -> PASSED : creates a pad
+[firefox]     -> PASSED : adds a lot of messages
+[firefox]     -> PASSED : checks initial message count
+[firefox]     -> PASSED : loads more messages
+[firefox]     -> PASSED : checks for button vanishing
+[firefox] 
+[firefox] clear_authorship_colors.js
+[firefox]   clear authorship colors button
+[firefox]     -> PASSED : makes text clear authorship colors
+[firefox] 
+[firefox] delete.js
+[firefox]   delete keystroke
+[firefox]     -> PASSED : makes text delete
+[firefox] 
+[firefox] drag_and_drop.js
+[firefox]   drag and drop
+[firefox]     when user drags part of one line and drops it far form its original place
+[firefox]       and user triggers UNDO
+[firefox]         -> PASSED : moves text back to its original place
+[firefox]     when user drags some lines far form its original place
+[firefox]       and user triggers UNDO
+[firefox]         -> PASSED : moves text back to its original place
+[firefox] 
+[firefox] embed_value.js
+[firefox]   embed links
+[firefox]     read and write
+[firefox]       the share link
+[firefox]         -> PASSED : is the actual pad url
+[firefox]       the embed as iframe code
+[firefox]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[firefox]     when read only option is set
+[firefox]       the share link
+[firefox]         -> PASSED : shows a read only url
+[firefox]       the embed as iframe code
+[firefox]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[firefox] 
+[firefox] enter.js
+[firefox]   enter keystroke
+[firefox]     -> PASSED : creates a new line & puts cursor onto a new line
+[firefox] 
+[firefox] font_type.js
+[firefox]   font select
+[firefox]     -> PASSED : makes text monospace
+[firefox] 
+[firefox] helper.js
+[firefox]   the test helper
+[firefox]     the newPad method
+[firefox]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[firefox]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[firefox]     the waitFor method
+[firefox]       -> PASSED : takes a timeout and waits long enough
+[firefox]       -> PASSED : takes an interval and checks on every interval
+[firefox]       returns a deferred object
+[firefox]         -> PASSED : it calls done after success
+[firefox]         -> PASSED : calls fail after failure
+[firefox]         -> PENDING: throws if you don't listen for fails
+[firefox]     the selectLines method
+[firefox]       -> PASSED : changes editor selection to be between startOffset of $startLine and endOf
+[firefox]       fset of $endLine
+[firefox]       -> PASSED : ends selection at beginning of $endLine when it is an empty line
+[firefox]       -> PASSED : ends selection at beginning of $endLine when its offset is zero
+[firefox]       -> PASSED : selects full line when offset is longer than line content
+[firefox]       -> PASSED : selects all text between beginning of $startLine and end of $endLine when 
+[firefox]       no offset is provided
+[firefox] 
+[firefox] importexport.js
+[firefox]   import functionality
+[firefox]     -> PENDING: import a pad with newlines from txt
+[firefox]     -> PENDING: import a pad with newlines from html
+[firefox]     -> PENDING: import a pad with attributes from html
+[firefox]     -> PENDING: import a pad with bullets from html
+[firefox]     -> PENDING: import a pad with bullets and newlines from html
+[firefox]     -> PENDING: import a pad with bullets and newlines and attributes from html
+[firefox]     -> PENDING: import a pad with nested bullets from html
+[firefox]     -> PENDING: import a pad with 8 levels of bullets and newlines and attributes from ht
+[firefox]     ml
+[firefox]     -> PENDING: import a pad with ordered lists from html
+[firefox]     -> PENDING: import a pad with ordered lists and newlines from html
+[firefox]     -> PENDING: import a pad with nested ordered lists and attributes and newlines from h
+[firefox]     tml
+[firefox] 
+[firefox] importindents.js
+[firefox]   import indents functionality
+[firefox]     -> PENDING: import a pad with indents from html
+[firefox]     -> PENDING: import a pad with indented lists and newlines from html
+[firefox]     -> PENDING: import a pad with 8 levels of indents and newlines and attributes from ht
+[firefox]     ml
+[firefox] 
+[firefox] indentation.js
+[firefox]   indentation button
+[firefox]     -> PASSED : indent text with keypress
+[firefox]     -> PASSED : indent text with button
+[firefox]     -> PASSED : keeps the indent on enter for the new line
+[firefox]     -> PASSED : indents text with spaces on enter if previous line ends with ':', '[', '('
+[firefox]     , or '{'
+[firefox]     -> PASSED : appends indentation to the indent of previous line if previous line ends w
+[firefox]     ith ':', '[', '(', or '{'
+[firefox]     -> PASSED : issue #2772 shows '*' when multiple indented lines receive a style and are
+[firefox]      outdented
+[firefox] 
+[firefox] italic.js
+[firefox]   italic some text
+[firefox]     -> PASSED : makes text italic using button
+[firefox]     -> PASSED : makes text italic using keypress
+[firefox] 
+[firefox] language.js
+[firefox]   Language select and change
+[firefox]     -> PASSED : makes text german
+[firefox]     -> PASSED : makes text English
+[firefox]     -> PASSED : changes direction when picking an rtl lang
+[firefox]     -> PASSED : changes direction when picking an ltr lang
+[firefox] 
+[firefox] ordered_list.js
+[firefox]   assign ordered list
+[firefox]     -> PASSED : insert ordered list text
+[firefox]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[firefox]     PASTING INTO A PAD
+[firefox] 
+[firefox] redo.js
+[firefox]   undo button then redo button
+[firefox]     -> PASSED : redo some typing with button
+[firefox]     -> PASSED : redo some typing with keypress
+[firefox] 
+[firefox] responsiveness.js
+[firefox]   Responsiveness of Editor
+[firefox]     -> PENDING: Fast response to keypress in pad with large amount of contents
+[firefox] 
+[firefox] strikethrough.js
+[firefox]   strikethrough button
+[firefox]     -> PASSED : makes text strikethrough
+[firefox] 
+[firefox] timeslider.js
+[firefox]   timeslider button takes you to the timeslider of a pad
+[firefox]     -> PENDING: timeslider contained in URL
+[firefox] 
+[firefox] timeslider_labels.js
+[firefox]   timeslider
+[firefox]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[firefox]     aN
+[firefox] 
+[firefox] timeslider_revisions.js
+[firefox]   timeslider
+[firefox]     -> PASSED : loads adds a hundred revisions
+[firefox]     -> PENDING: changes the url when clicking on the timeslider
+[firefox]     -> PASSED : jumps to a revision given in the url
+[firefox]     -> PASSED : checks the export url
+[firefox] 
+[firefox] undo.js
+[firefox]   undo button
+[firefox]     -> PASSED : undo some typing using a keypress
+[firefox] 
+[firefox] unordered_list.js
+[firefox]   assign unordered list
+[firefox]     -> PASSED : insert unordered list text then removes by outdent
+[firefox] 
+[firefox] urls_become_clickable.js
+[firefox]   urls
+[firefox]     -> PASSED : when you enter an url, it becomes clickable
+[firefox]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[firefox]      whole URL
+[firefox]     -> PASSED : when you enter a url followed by a ], the ] is not included in the URL
+[firefox] 
+[firefox] FINISHED - 60 tests passed, 0 tests failed, duration: 3:18
+[firefox] 
+Remote sauce test '9515109 - firefox , Linux' finished! https://saucelabs.com/jobs/7edc05c4b7884b45b13b7f85f644df2f
+java.net.SocketException: Connection reset
+at java.net.SocketInputStream.read(SocketInputStream.java:196)
+at java.net.SocketInputStream.read(SocketInputStream.java:122)
+at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+at java.io.BufferedInputStream.read1(BufferedInputStream.java:275)
+at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:690)
+at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:775)
+at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:468)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:450)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:141)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:745)
+java.net.SocketException: Connection reset
+at java.net.SocketInputStream.read(SocketInputStream.java:196)
+at java.net.SocketInputStream.read(SocketInputStream.java:122)
+at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+at java.io.BufferedInputStream.read1(BufferedInputStream.java:275)
+at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:690)
+at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:775)
+at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:468)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:450)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:141)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:745)
+java.net.SocketException: Connection reset by peer
+at java.net.PlainSocketImpl.socketConnect(Native Method)
+at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+at java.net.Socket.connect(Socket.java:579)
+at java.net.Socket.connect(Socket.java:528)
+at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:767)
+at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:468)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:450)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:141)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:745)
+java.net.SocketException: Connection reset by peer
+at java.net.PlainSocketImpl.socketConnect(Native Method)
+at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+at java.net.Socket.connect(Socket.java:579)
+at java.net.Socket.connect(Socket.java:528)
+at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:767)
+at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:468)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.proxyPlainTextRequest(ProxyHandler.scala:450)
+at com.saucelabs.sauceconnect.proxy.ProxyHandler.handle(ProxyHandler.scala:141)
+at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:114)
+at org.eclipse.jetty.server.Server.handle(Server.java:352)
+at org.eclipse.jetty.server.HttpConnection.handleRequest(HttpConnection.java:596)
+at org.eclipse.jetty.server.HttpConnection$RequestHandler.headerComplete(HttpConnection.java:1052)
+at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:590)
+at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:212)
+at org.eclipse.jetty.server.HttpConnection.handle(HttpConnection.java:426)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:510)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint.access$000(SelectChannelEndPoint.java:34)
+at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:40)
+at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:450)
+at java.lang.Thread.run(Thread.java:745)
+
+travis_time:end:22881651:start=1488178456981783884,finish=1488178710994445934,duration=254012662050The command "tests/frontend/travis/runner.sh" exited with 0.
+
+Done. Your build exited with 0.

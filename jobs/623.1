@@ -1,0 +1,77 @@
+Using worker: bluebox-linux-1.worker.travis-ci.org:travis-linux-13
+
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git fetch origin +refs/pull/1490/merge: 
+remote: Counting objects: 567, done.ote: Compressing objects:   0% (1/187)   ote: Compressing objects:   1% (2/187)   ote: Compressing objects:   2% (4/187)   ote: Compressing objects:   3% (6/187)   ote: Compressing objects:   4% (8/187)   ote: Compressing objects:   5% (10/187)   ote: Compressing objects:   6% (12/187)   ote: Compressing objects:   7% (14/187)   ote: Compressing objects:   8% (15/187)   ote: Compressing objects:   9% (17/187)   ote: Compressing objects:  10% (19/187)   ote: Compressing objects:  11% (21/187)   ote: Compressing objects:  12% (23/187)   ote: Compressing objects:  13% (25/187)   ote: Compressing objects:  14% (27/187)   ote: Compressing objects:  15% (29/187)   ote: Compressing objects:  16% (30/187)   ote: Compressing objects:  17% (32/187)   ote: Compressing objects:  18% (34/187)   ote: Compressing objects:  19% (36/187)   ote: Compressing objects:  20% (38/187)   ote: Compressing objects:  21% (40/187)   ote: Compressing objects:  22% (42/187)   ote: Compressing objects:  23% (44/187)   ote: Compressing objects:  24% (45/187)   ote: Compressing objects:  25% (47/187)   ote: Compressing objects:  26% (49/187)   ote: Compressing objects:  27% (51/187)   ote: Compressing objects:  28% (53/187)   ote: Compressing objects:  29% (55/187)   ote: Compressing objects:  30% (57/187)   ote: Compressing objects:  31% (58/187)   ote: Compressing objects:  32% (60/187)   ote: Compressing objects:  33% (62/187)   ote: Compressing objects:  34% (64/187)   ote: Compressing objects:  35% (66/187)   ote: Compressing objects:  36% (68/187)   ote: Compressing objects:  37% (70/187)   ote: Compressing objects:  38% (72/187)   ote: Compressing objects:  39% (73/187)   ote: Compressing objects:  40% (75/187)   ote: Compressing objects:  41% (77/187)   ote: Compressing objects:  42% (79/187)   ote: Compressing objects:  43% (81/187)   ote: Compressing objects:  44% (83/187)   ote: Compressing objects:  45% (85/187)   ote: Compressing objects:  46% (87/187)   ote: Compressing objects:  47% (88/187)   ote: Compressing objects:  48% (90/187)   ote: Compressing objects:  49% (92/187)   ote: Compressing objects:  50% (94/187)   ote: Compressing objects:  51% (96/187)   ote: Compressing objects:  52% (98/187)   ote: Compressing objects:  53% (100/187)   ote: Compressing objects:  54% (101/187)   ote: Compressing objects:  55% (103/187)   ote: Compressing objects:  56% (105/187)   ote: Compressing objects:  57% (107/187)   ote: Compressing objects:  58% (109/187)   ote: Compressing objects:  59% (111/187)   ote: Compressing objects:  60% (113/187)   ote: Compressing objects:  61% (115/187)   ote: Compressing objects:  62% (116/187)   ote: Compressing objects:  63% (118/187)   ote: Compressing objects:  64% (120/187)   ote: Compressing objects:  65% (122/187)   ote: Compressing objects:  66% (124/187)   ote: Compressing objects:  67% (126/187)   ote: Compressing objects:  68% (128/187)   ote: Compressing objects:  69% (130/187)   ote: Compressing objects:  70% (131/187)   ote: Compressing objects:  71% (133/187)   ote: Compressing objects:  72% (135/187)   ote: Compressing objects:  73% (137/187)   ote: Compressing objects:  74% (139/187)   ote: Compressing objects:  75% (141/187)   ote: Compressing objects:  76% (143/187)   ote: Compressing objects:  77% (144/187)   ote: Compressing objects:  78% (146/187)   ote: Compressing objects:  79% (148/187)   ote: Compressing objects:  80% (150/187)   ote: Compressing objects:  81% (152/187)   ote: Compressing objects:  82% (154/187)   ote: Compressing objects:  83% (156/187)   ote: Compressing objects:  84% (158/187)   ote: Compressing objects:  85% (159/187)   ote: Compressing objects:  86% (161/187)   ote: Compressing objects:  87% (163/187)   ote: Compressing objects:  88% (165/187)   ote: Compressing objects:  89% (167/187)   ote: Compressing objects:  90% (169/187)   ote: Compressing objects:  91% (171/187)   ote: Compressing objects:  92% (173/187)   ote: Compressing objects:  93% (174/187)   ote: Compressing objects:  94% (176/187)   ote: Compressing objects:  95% (178/187)   ote: Compressing objects:  96% (180/187)   ote: Compressing objects:  97% (182/187)   ote: Compressing objects:  98% (184/187)   ote: Compressing objects:  99% (186/187)   ote: Compressing objects: 100% (187/187)   ote: Compressing objects: 100% (187/187), done.ote: Total 466 (delta 352), reused 386 (delta 272)pleted with 55 local objects.
+From git://github.com/ether/etherpad-lite
+ * branch            refs/pull/1490/merge -> FETCH_HEAD
+$ git checkout -qf FETCH_HEAD
+$ nvm use 0.8
+Now using node v0.8.18
+$ node --version
+v0.8.18
+$ npm --version
+1.2.2
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! SyntaxError: Unexpected token H
+npm ERR! Host not found: registry.npmjs.org
+npm ERR!     at Object.parse (native)
+npm ERR!     at RegClient.<anonymous> (/home/travis/.nvm/v0.8.18/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:226:23)
+npm ERR!     at Request.init.self.callback (/home/travis/.nvm/v0.8.18/lib/node_modules/npm/node_modules/request/main.js:120:22)
+npm ERR!     at Request.EventEmitter.emit (events.js:99:17)
+npm ERR!     at Request.<anonymous> (/home/travis/.nvm/v0.8.18/lib/node_modules/npm/node_modules/request/main.js:648:16)
+npm ERR!     at Request.EventEmitter.emit (events.js:126:20)
+npm ERR!     at IncomingMessage.Request.start.self.req.self.httpModule.request.buffer (/home/travis/.nvm/v0.8.18/lib/node_modules/npm/node_modules/request/main.js:610:14)
+npm ERR!     at IncomingMessage.EventEmitter.emit (events.js:126:20)
+npm ERR!     at IncomingMessage._emitEnd (http.js:366:10)
+npm ERR!     at HTTPParser.parserOnMessageComplete [as onMessageComplete] (http.js:149:23)
+npm ERR! If you need help, you may report this log at:
+npm ERR!     <http://github.com/isaacs/npm/issues>
+npm ERR! or email it to:
+npm ERR!     <npm-@googlegroups.com>
+
+npm ERR! System Linux 2.6.32-042stab061.2
+npm ERR! command "/home/travis/.nvm/v0.8.18/bin/node" "/home/travis/.nvm/v0.8.18/bin/npm" "install" "--loglevel" "warn"
+npm ERR! cwd /home/travis/build/ether/etherpad-lite/src
+npm ERR! node -v v0.8.18
+npm ERR! npm -v 1.2.2
+npm ERR! type unexpected_token
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! registry error parsing json
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/travis/build/ether/etherpad-lite/src/npm-debug.log
+npm ERR! not ok code 0
+
+The command "bin/installDeps.sh" failed and exited with 1 during install.
+
+Your build has been stopped.

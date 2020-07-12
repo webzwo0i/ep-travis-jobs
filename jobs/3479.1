@@ -1,0 +1,330 @@
+travis_fold:start:worker_infoWorker information
+hostname: production-1-worker-org-c-1-gce:1e087379-841f-461e-bb87-43540cdf8956
+version: v2.7.0 https://github.com/travis-ci/worker/tree/66fc24311e055643710f4e0567f6888c927d3ab8
+instance: testing-gce-60c338ee-b108-4140-b23f-bfe8e4e1d753:travis-ci-nodejs-precise-1491943444
+startup: 21.741156859s
+travis_fold:end:worker_info_infoBuild system information
+Build language: node_js
+Build group: stable
+Build dist: precise
+Build id: 229899045
+Job id: 229899046
+travis-build version: 66bd59b85
+Build image provisioning date and time
+Tue Apr 11 21:39:22 UTC 2017
+Operating System Details
+Distributor ID:Ubuntu
+Description:Ubuntu 12.04.5 LTS
+Release:12.04
+Codename:precise
+Linux Version
+3.13.0-115-generic
+Cookbooks Version
+cc4eb5e https://github.com/travis-ci/travis-cookbooks/tree/cc4eb5e
+Git version
+git version 1.8.5.6
+bash version
+GNU bash, version 4.2.25(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2011 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+GCC version
+gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.4 (tags/RELEASE_34/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+ruby-2.2.6
+Pre-installed Node.js versions
+iojs-v1.1.0
+v0.10
+v0.10.18
+v0.10.36
+v0.11.15
+v0.6.21
+v0.8.27
+Pre-installed Go versions
+1.7.4
+mysql --version
+mysql  Ver 14.14 Distrib 5.5.54, for debian-linux-gnu (x86_64) using readline 6.2
+Pre-installed PostgreSQL versions
+9.1.24
+9.2.20
+9.3.16
+9.4.11
+9.5.6
+Redis version
+redis-server 3.0.7
+riak version
+2.0.2
+memcached version
+1.4.13
+MongoDB version
+MongoDB 2.4.14
+CouchDB version
+couchdb 1.6.1
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.6
+Default Sphinx version
+2.2.6
+Installed Firefox version
+firefox 38.4.0esr
+PhantomJS version
+1.9.8
+ant -version
+Apache Ant(TM) version 1.8.2 compiled on December 3 2011
+mvn -version
+Apache Maven 3.2.5 (12a6b3acb947671f09b81f49094c53f426d8cea1; 2014-12-14T17:29:23+00:00)
+Maven home: /usr/local/maven
+Java version: 1.7.0_80, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "3.13.0-115-generic", arch: "amd64", family: "unix"
+travis_fold:end:system_info/ubuntu/dists/precise-updates/InRelease: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: http://us-central1.gce.archive.ubuntu.com/ubuntu/dists/precise-backports/InRelease: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: http://us-central1.gce.archive.ubuntu.com/ubuntu/dists/precise/Release.gpg: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: The repository 'http://downloads-distro.mongodb.org/repo/debian-sysvinit dist Release' does not have a Release file.
+W: http://security.ubuntu.com/ubuntu/dists/precise-security/InRelease: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: Failed to fetch http://ppa.launchpad.net/chris-lea/redis-server/ubuntu/dists/precise/InRelease  Could not connect to ppa.launchpad.net:80 (91.189.95.83), connection timed out
+W: Failed to fetch http://ppa.launchpad.net/couchdb/stable/ubuntu/dists/precise/InRelease  Unable to connect to ppa.launchpad.net:http:
+W: Failed to fetch http://ppa.launchpad.net/git-core/v1.8/ubuntu/dists/precise/InRelease  Unable to connect to ppa.launchpad.net:http:
+W: Failed to fetch http://ppa.launchpad.net/pollinate/ppa/ubuntu/dists/precise/InRelease  Unable to connect to ppa.launchpad.net:http:
+W: Failed to fetch http://ppa.launchpad.net/travis-ci/zero-mq/ubuntu/dists/precise/InRelease  Unable to connect to ppa.launchpad.net:http:
+W: Failed to fetch http://ppa.launchpad.net/ubuntugis/ppa/ubuntu/dists/precise/InRelease  Unable to connect to ppa.launchpad.net:http:
+W: Failed to fetch http://ppa.launchpad.net/webupd8team/java/ubuntu/dists/precise/InRelease  Unable to connect to ppa.launchpad.net:http:
+W: Failed to fetch http://downloads-distro.mongodb.org/repo/debian-sysvinit/dists/dist/10gen/binary-amd64/Packages  Unable to connect to downloads-distro.mongodb.org:http:
+W: Failed to fetch http://downloads-distro.mongodb.org/repo/debian-sysvinit/dists/dist/10gen/binary-i386/Packages  Unable to connect to downloads-distro.mongodb.org:http:
+W: Some index files failed to download. They have been ignored, or old ones used instead.
+travis_fold:start:fix.CVE-2015-7547/ubuntu/dists/precise-updates/InRelease: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: http://us-central1.gce.archive.ubuntu.com/ubuntu/dists/precise-backports/InRelease: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: http://us-central1.gce.archive.ubuntu.com/ubuntu/dists/precise/Release.gpg: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: http://security.ubuntu.com/ubuntu/dists/precise-security/InRelease: Signature by key 630239CC130E1A7FD81A27B140976EAF437D05B5 uses weak digest algorithm (SHA1)
+W: http://downloads-distro.mongodb.org/repo/debian-sysvinit/dists/dist/Release.gpg: Signature by key 492EAFE8CD016A07919F1D2B9ECBEC467F0CEB10 uses weak digest algorithm (SHA1)
+W: http://ppa.launchpad.net/couchdb/stable/ubuntu/dists/precise/Release.gpg: Signature by key 15866BAFD9BCC4F3C1E0DFC7D69548E1C17EAB57 uses weak digest algorithm (SHA1)
+W: http://ppa.launchpad.net/git-core/v1.8/ubuntu/dists/precise/Release.gpg: Signature by key E1DD270288B4E6030699E45FA1715D88E1DF1F24 uses weak digest algorithm (SHA1)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libc6 is already the newest version (2.15-0ubuntu10.18).
+0 upgraded, 0 newly installed, 0 to remove and 23 not upgraded.
+travis_fold:end:fix.CVE-2015-7547e:start:03806628/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 3965, done.ote: Compressing objects:   0% (1/2145)   ote: Compressing objects:   1% (22/2145)   ote: Compressing objects:   2% (43/2145)   ote: Compressing objects:   3% (65/2145)   ote: Compressing objects:   4% (86/2145)   ote: Compressing objects:   5% (108/2145)   ote: Compressing objects:   6% (129/2145)   ote: Compressing objects:   7% (151/2145)   ote: Compressing objects:   8% (172/2145)   ote: Compressing objects:   9% (194/2145)   ote: Compressing objects:  10% (215/2145)   ote: Compressing objects:  11% (236/2145)   ote: Compressing objects:  12% (258/2145)   ote: Compressing objects:  13% (279/2145)   ote: Compressing objects:  14% (301/2145)   ote: Compressing objects:  15% (322/2145)   ote: Compressing objects:  16% (344/2145)   ote: Compressing objects:  17% (365/2145)   ote: Compressing objects:  18% (387/2145)   ote: Compressing objects:  19% (408/2145)   ote: Compressing objects:  20% (429/2145)   ote: Compressing objects:  21% (451/2145)   ote: Compressing objects:  22% (472/2145)   ote: Compressing objects:  23% (494/2145)   ote: Compressing objects:  24% (515/2145)   ote: Compressing objects:  25% (537/2145)   ote: Compressing objects:  26% (558/2145)   ote: Compressing objects:  27% (580/2145)   ote: Compressing objects:  28% (601/2145)   ote: Compressing objects:  29% (623/2145)   ote: Compressing objects:  30% (644/2145)   ote: Compressing objects:  31% (665/2145)   ote: Compressing objects:  32% (687/2145)   ote: Compressing objects:  33% (708/2145)   ote: Compressing objects:  34% (730/2145)   ote: Compressing objects:  35% (751/2145)   ote: Compressing objects:  36% (773/2145)   ote: Compressing objects:  37% (794/2145)   ote: Compressing objects:  38% (816/2145)   ote: Compressing objects:  39% (837/2145)   ote: Compressing objects:  40% (858/2145)   ote: Compressing objects:  41% (880/2145)   ote: Compressing objects:  42% (901/2145)   ote: Compressing objects:  43% (923/2145)   ote: Compressing objects:  44% (944/2145)   ote: Compressing objects:  45% (966/2145)   ote: Compressing objects:  46% (987/2145)   ote: Compressing objects:  47% (1009/2145)   ote: Compressing objects:  48% (1030/2145)   ote: Compressing objects:  49% (1052/2145)   ote: Compressing objects:  50% (1073/2145)   ote: Compressing objects:  51% (1094/2145)   ote: Compressing objects:  52% (1116/2145)   ote: Compressing objects:  53% (1137/2145)   ote: Compressing objects:  54% (1159/2145)   ote: Compressing objects:  55% (1180/2145)   ote: Compressing objects:  56% (1202/2145)   ote: Compressing objects:  57% (1223/2145)   ote: Compressing objects:  58% (1245/2145)   ote: Compressing objects:  59% (1266/2145)   ote: Compressing objects:  60% (1287/2145)   ote: Compressing objects:  61% (1309/2145)   ote: Compressing objects:  62% (1330/2145)   ote: Compressing objects:  63% (1352/2145)   ote: Compressing objects:  64% (1373/2145)   ote: Compressing objects:  65% (1395/2145)   ote: Compressing objects:  66% (1416/2145)   ote: Compressing objects:  67% (1438/2145)   ote: Compressing objects:  68% (1459/2145)   ote: Compressing objects:  69% (1481/2145)   ote: Compressing objects:  70% (1502/2145)   ote: Compressing objects:  71% (1523/2145)   ote: Compressing objects:  72% (1545/2145)   ote: Compressing objects:  73% (1566/2145)   ote: Compressing objects:  74% (1588/2145)   ote: Compressing objects:  75% (1609/2145)   ote: Compressing objects:  76% (1631/2145)   ote: Compressing objects:  77% (1652/2145)   ote: Compressing objects:  78% (1674/2145)   ote: Compressing objects:  79% (1695/2145)   ote: Compressing objects:  80% (1716/2145)   ote: Compressing objects:  81% (1738/2145)   ote: Compressing objects:  82% (1759/2145)   ote: Compressing objects:  83% (1781/2145)   ote: Compressing objects:  84% (1802/2145)   ote: Compressing objects:  85% (1824/2145)   ote: Compressing objects:  86% (1845/2145)   ote: Compressing objects:  87% (1867/2145)   ote: Compressing objects:  88% (1888/2145)   ote: Compressing objects:  89% (1910/2145)   ote: Compressing objects:  90% (1931/2145)   ote: Compressing objects:  91% (1952/2145)   ote: Compressing objects:  92% (1974/2145)   ote: Compressing objects:  93% (1995/2145)   ote: Compressing objects:  94% (2017/2145)   ote: Compressing objects:  95% (2038/2145)   ote: Compressing objects:  96% (2060/2145)   ote: Compressing objects:  97% (2081/2145)   ote: Compressing objects:  98% (2103/2145)   ote: Compressing objects:  99% (2124/2145)   ote: Compressing objects: 100% (2145/2145)   ote: Compressing objects: 100% (2145/2145), done.ote: Total 3965 (delta 2759), reused 2711 (delta 1770), pack-reused 0e:end:03806628:start=1494248600394133123,finish=1494248601796676821,duration=1402543698e:start:38828620erge:
+remote: Counting objects: 26, done.ote: Compressing objects:   6% (1/16)   ote: Compressing objects:  12% (2/16)   ote: Compressing objects:  18% (3/16)   ote: Compressing objects:  25% (4/16)   ote: Compressing objects:  31% (5/16)   ote: Compressing objects:  37% (6/16)   ote: Compressing objects:  43% (7/16)   ote: Compressing objects:  50% (8/16)   ote: Compressing objects:  56% (9/16)   ote: Compressing objects:  62% (10/16)   ote: Compressing objects:  68% (11/16)   ote: Compressing objects:  75% (12/16)   ote: Compressing objects:  81% (13/16)   ote: Compressing objects:  87% (14/16)   ote: Compressing objects:  93% (15/16)   ote: Compressing objects: 100% (16/16)   ote: Compressing objects: 100% (16/16), done.ote: Total 26 (delta 21), reused 14 (delta 10), pack-reused 0 https://github.com/ether/etherpad-lite
+ * branch            refs/pull/3187/merge -> FETCH_HEAD
+
+travis_time:end:38828620:start=1494248601801744953,finish=1494248602479745122,duration=678000169Updating nvm
+travis_fold:start:nvm.installe:start:01db681e install 0.10
+Downloading and installing node v0.10.48...
+Downloading https://nodejs.org/dist/v0.10.48/node-v0.10.48-linux-x64.tar.xz...
+                                                                           0.0%                                                                           0.0%                                                                           0.1%                                                                           0.1%                                                                           0.1%                                                                           0.2%                                                                           0.2%                                                                           0.2%                                                                           0.3%                                                                           0.3%                                                                           0.3%                                                                           0.3%                                                                           0.3%                                                                           0.4%                                                                           0.4%                                                                           0.4%                                                                           0.4%                                                                           0.4%                                                                           0.4%                                                                           0.5%                                                                           0.5%                                                                           0.5%                                                                           0.5%                                                                           0.6%                                                                           0.6%                                                                           0.6%                                                                           0.6%                                                                           0.7%                                                                           0.7%                                                                           0.7%                                                                           0.7%                                                                           0.8%                                                                           0.8%                                                                           0.8%                                                                           0.9%                                                                           0.9%                                                                           0.9%                                                                           0.9%                                                                           1.0%                                                                           1.0%                                                                           1.0%                                                                           1.1%                                                                           1.1%                                                                           1.1%                                                                           1.1%                                                                           1.2%                                                                           1.3%                                                                           1.4%                                                                           1.4%#                                                                          1.5%#                                                                          1.6%#                                                                          1.6%#                                                                          1.6%#                                                                          1.7%#                                                                          1.7%#                                                                          1.8%#                                                                          1.9%#                                                                          1.9%#                                                                          2.0%#                                                                          2.1%#                                                                          2.2%#                                                                          2.2%#                                                                          2.3%#                                                                          2.4%#                                                                          2.5%#                                                                          2.6%#                                                                          2.6%#                                                                          2.7%#                                                                          2.8%##                                                                         2.8%##                                                                         2.9%##                                                                         3.0%##                                                                         3.1%##                                                                         3.2%##                                                                         3.3%##                                                                         3.4%##                                                                         3.4%##                                                                         3.5%##                                                                         3.6%##                                                                         3.7%##                                                                         3.8%##                                                                         3.9%##                                                                         4.0%##                                                                         4.1%##                                                                         4.1%###                                                                        4.2%###                                                                        4.2%###                                                                        4.3%###                                                                        4.4%###                                                                        4.5%###                                                                        4.6%###                                                                        4.8%###                                                                        5.2%###                                                                        5.5%####                                                                       5.9%####                                                                       6.2%####                                                                       6.6%####                                                                       6.6%####                                                                       6.9%#####                                                                      7.2%#####                                                                      7.2%#####                                                                      7.2%#####                                                                      7.6%#####                                                                      7.9%#####                                                                      7.9%#####                                                                      8.3%######                                                                     8.6%######                                                                     8.6%######                                                                     8.6%######                                                                     9.0%######                                                                     9.0%######                                                                     9.3%######                                                                     9.7%#######                                                                   10.0%#######                                                                   10.3%#######                                                                   10.7%#######                                                                   11.0%########                                                                  11.4%########                                                                  11.4%########                                                                  11.7%########                                                                  11.7%########                                                                  12.1%########                                                                  12.1%########                                                                  12.4%#########                                                                 12.8%#########                                                                 13.1%#########                                                                 13.1%#########                                                                 13.5%#########                                                                 13.8%#########                                                                 13.8%##########                                                                14.1%##########                                                                14.5%##########                                                                14.8%##########                                                                15.2%##########                                                                15.2%###########                                                               15.5%###########                                                               15.9%###########                                                               15.9%###########                                                               16.2%###########                                                               16.6%###########                                                               16.6%###########                                                               16.6%############                                                              16.9%############                                                              16.9%############                                                              17.3%############                                                              17.6%############                                                              17.9%############                                                              17.9%#############                                                             18.3%#############                                                             18.3%#############                                                             18.3%#############                                                             18.6%#############                                                             19.0%#############                                                             19.3%##############                                                            19.7%##############                                                            20.0%##############                                                            20.4%##############                                                            20.7%###############                                                           21.0%###############                                                           21.4%###############                                                           21.4%###############                                                           21.7%###############                                                           22.1%################                                                          22.4%################                                                          22.4%################                                                          22.8%################                                                          23.1%################                                                          23.1%################                                                          23.5%#################                                                         23.8%#################                                                         24.2%#################                                                         24.2%#################                                                         24.5%#################                                                         24.8%#################                                                         24.8%##################                                                        25.2%##################                                                        25.5%##################                                                        25.9%##################                                                        25.9%##################                                                        26.2%##################                                                        26.2%###################                                                       26.6%###################                                                       26.9%###################                                                       27.3%###################                                                       27.3%###################                                                       27.6%###################                                                       27.6%####################                                                      28.0%####################                                                      28.0%####################                                                      28.3%####################                                                      28.6%####################                                                      28.6%####################                                                      29.0%####################                                                      29.0%#####################                                                     29.3%#####################                                                     29.7%#####################                                                     30.0%#####################                                                     30.0%#####################                                                     30.4%#####################                                                     30.4%######################                                                    30.7%######################                                                    31.1%######################                                                    31.4%######################                                                    31.4%######################                                                    31.7%######################                                                    31.7%#######################                                                   32.1%#######################                                                   32.4%#######################                                                   32.4%#######################                                                   32.8%#######################                                                   33.1%########################                                                  33.5%########################                                                  33.8%########################                                                  33.8%########################                                                  34.2%########################                                                  34.5%########################                                                  34.5%#########################                                                 34.9%#########################                                                 35.2%#########################                                                 35.2%#########################                                                 35.5%#########################                                                 35.5%#########################                                                 35.9%##########################                                                36.2%##########################                                                36.6%##########################                                                36.9%##########################                                                36.9%##########################                                                37.3%###########################                                               37.6%###########################                                               37.6%###########################                                               38.0%###########################                                               38.3%###########################                                               38.7%############################                                              39.0%############################                                              39.3%############################                                              39.7%############################                                              40.0%#############################                                             40.4%#############################                                             40.7%#############################                                             40.7%#############################                                             41.1%#############################                                             41.4%##############################                                            41.8%##############################                                            42.1%##############################                                            42.4%##############################                                            42.4%##############################                                            42.8%###############################                                           43.1%###############################                                           43.5%###############################                                           43.8%###############################                                           43.8%###############################                                           44.2%################################                                          44.5%################################                                          44.9%################################                                          45.2%################################                                          45.6%#################################                                         45.9%#################################                                         46.2%#################################                                         46.2%#################################                                         46.6%#################################                                         46.9%##################################                                        47.3%##################################                                        47.6%##################################                                        48.0%##################################                                        48.0%##################################                                        48.3%###################################                                       48.7%###################################                                       49.0%###################################                                       49.0%###################################                                       49.0%###################################                                       49.4%###################################                                       49.7%####################################                                      50.0%####################################                                      50.4%####################################                                      50.4%####################################                                      50.4%####################################                                      50.7%####################################                                      51.1%#####################################                                     51.4%#####################################                                     51.8%#####################################                                     51.8%#####################################                                     52.1%#####################################                                     52.5%######################################                                    52.8%######################################                                    52.8%######################################                                    53.1%######################################                                    53.5%######################################                                    53.8%#######################################                                   54.2%#######################################                                   54.5%#######################################                                   54.9%#######################################                                   55.2%########################################                                  55.6%########################################                                  55.9%########################################                                  56.3%########################################                                  56.6%########################################                                  56.9%########################################                                  56.9%#########################################                                 57.3%#########################################                                 57.6%#########################################                                 58.0%#########################################                                 58.3%##########################################                                58.7%##########################################                                58.7%##########################################                                59.0%##########################################                                59.4%##########################################                                59.7%##########################################                                59.7%###########################################                               60.0%###########################################                               60.4%###########################################                               60.7%###########################################                               61.1%###########################################                               61.1%############################################                              61.4%############################################                              61.8%############################################                              62.1%############################################                              62.5%#############################################                             62.8%#############################################                             62.8%#############################################                             63.2%#############################################                             63.5%#############################################                             63.8%##############################################                            64.2%##############################################                            64.5%##############################################                            64.9%##############################################                            65.2%##############################################                            65.2%###############################################                           65.6%###############################################                           65.9%###############################################                           66.3%###############################################                           66.6%################################################                          67.0%################################################                          67.3%################################################                          67.6%################################################                          68.0%################################################                          68.0%#################################################                         68.3%#################################################                         68.7%#################################################                         69.0%#################################################                         69.4%#################################################                         69.4%##################################################                        69.7%##################################################                        70.1%##################################################                        70.4%##################################################                        70.7%##################################################                        70.7%###################################################                       71.1%###################################################                       71.4%###################################################                       71.8%###################################################                       72.1%####################################################                      72.5%####################################################                      72.8%####################################################                      73.2%####################################################                      73.5%####################################################                      73.5%#####################################################                     73.9%#####################################################                     74.2%#####################################################                     74.5%#####################################################                     74.9%######################################################                    75.2%######################################################                    75.6%######################################################                    75.6%######################################################                    75.9%######################################################                    76.3%######################################################                    76.3%#######################################################                   76.6%#######################################################                   77.0%#######################################################                   77.3%#######################################################                   77.7%########################################################                  78.0%########################################################                  78.3%########################################################                  78.7%########################################################                  78.7%########################################################                  79.0%#########################################################                 79.4%#########################################################                 79.7%#########################################################                 80.1%#########################################################                 80.1%#########################################################                 80.4%##########################################################                80.8%##########################################################                81.1%##########################################################                81.4%##########################################################                81.4%##########################################################                81.8%###########################################################               82.1%###########################################################               82.5%###########################################################               82.8%###########################################################               83.2%############################################################              83.5%############################################################              83.9%############################################################              84.2%############################################################              84.6%#############################################################             84.9%#############################################################             85.2%#############################################################             85.6%#############################################################             85.6%#############################################################             85.9%##############################################################            86.3%##############################################################            86.6%##############################################################            87.0%##############################################################            87.3%###############################################################           87.7%###############################################################           88.0%###############################################################           88.4%###############################################################           88.7%################################################################          89.0%################################################################          89.4%################################################################          89.7%################################################################          90.1%#################################################################         90.4%#################################################################         90.8%#################################################################         91.1%#################################################################         91.5%##################################################################        91.8%##################################################################        92.1%##################################################################        92.5%##################################################################        92.8%###################################################################       93.2%###################################################################       93.5%###################################################################       93.9%###################################################################       94.2%####################################################################      94.6%####################################################################      94.9%####################################################################      94.9%####################################################################      95.3%####################################################################      95.6%#####################################################################     95.9%#####################################################################     96.3%#####################################################################     96.6%#####################################################################     97.0%######################################################################    97.3%######################################################################    97.7%######################################################################    98.0%######################################################################    98.4%#######################################################################   98.7%#######################################################################   98.7%#######################################################################   99.1%#######################################################################   99.4%#######################################################################   99.7%######################################################################## 100.0%######################################################################## 100.0%######################################################################## 100.0%
+Computing checksum with sha256sum
+Checksums matched!
+Now using node v0.10.48 (npm v2.15.1)
+
+travis_time:end:01db681e:start=1494248603609963905,finish=1494248605663648357,duration=2053684452.install --version
+2.15.1
+$ nvm --version
+0.33.2
+travis_fold:start:install.1e:start:138a7e04plate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN deprecated node-uuid@1.4.8: Use uuid module instead
+npm WARN deprecated jade@0.26.3: Jade has been renamed to pug, please install the latest version of pug instead of jade
+npm WARN deprecated graceful-fs@2.0.3: graceful-fs v3.0.0 and before will fail on node releases >= v7.0. Please update to graceful-fs@^4.0.0 as soon as possible. Use 'npm ls graceful-fs' to find it in the tree.
+npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN engine escodegen@1.8.1: wanted: {"node":">=0.12.0"} (current: {"node":"0.10.48","npm":"2.15.1"})
+npm WARN deprecated minimatch@1.0.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+slide@1.1.6 node_modules/slide
+
+graceful-fs@4.1.3 node_modules/graceful-fs
+
+tinycon@0.0.1 node_modules/tinycon
+
+formidable@1.0.17 node_modules/formidable
+
+async@0.9.0 node_modules/async
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+underscore@1.8.3 node_modules/underscore
+
+etherpad-require-kernel@1.0.9 node_modules/etherpad-require-kernel
+
+semver@5.1.0 node_modules/semver
+
+cookie-parser@1.3.4 node_modules/cookie-parser
+├── cookie-signature@1.0.6
+└── cookie@0.1.2
+
+unorm@1.4.1 node_modules/unorm
+
+measured@1.1.0 node_modules/measured
+└── inherits@2.0.3
+
+express-session@1.13.0 node_modules/express-session
+├── cookie-signature@1.0.6
+├── utils-merge@1.0.0
+├── on-headers@1.0.1
+├── parseurl@1.3.1
+├── cookie@0.2.3
+├── depd@1.1.0
+├── crc@3.4.0
+├── uid-safe@2.0.0 (base64-url@1.2.1)
+└── debug@2.2.0 (ms@0.7.1)
+
+resolve@1.1.7 node_modules/resolve
+
+etherpad-yajsml@0.0.2 node_modules/etherpad-yajsml
+
+ejs@2.4.1 node_modules/ejs
+
+express@4.13.4 node_modules/express
+├── utils-merge@1.0.0
+├── cookie-signature@1.0.6
+├── methods@1.1.2
+├── escape-html@1.0.3
+├── parseurl@1.3.1
+├── array-flatten@1.1.1
+├── merge-descriptors@1.0.1
+├── fresh@0.3.0
+├── range-parser@1.0.3
+├── vary@1.0.1
+├── path-to-regexp@0.1.7
+├── cookie@0.1.5
+├── etag@1.7.0
+├── content-type@1.0.2
+├── content-disposition@0.5.1
+├── depd@1.1.0
+├── qs@4.0.0
+├── on-finished@2.3.0 (ee-first@1.1.1)
+├── finalhandler@0.4.1 (unpipe@1.0.0)
+├── debug@2.2.0 (ms@0.7.1)
+├── proxy-addr@1.0.10 (forwarded@0.1.0, ipaddr.js@1.0.5)
+├── send@0.13.1 (ms@0.7.1, destroy@1.0.4, statuses@1.2.1, mime@1.3.4, http-errors@1.3.1)
+├── serve-static@1.10.3 (send@0.13.2)
+├── accepts@1.2.13 (negotiator@0.5.3, mime-types@2.1.15)
+└── type-is@1.6.15 (media-typer@0.3.0, mime-types@2.1.15)
+
+clean-css@3.4.19 node_modules/clean-css
+├── commander@2.8.1 (graceful-readlink@1.0.1)
+└── source-map@0.4.4 (amdefine@1.0.1)
+
+log4js@0.6.35 node_modules/log4js
+├── readable-stream@1.0.34 (inherits@2.0.3, isarray@0.0.1, string_decoder@0.10.31, core-util-is@1.0.2)
+└── semver@4.3.6
+
+request@2.55.0 node_modules/request
+├── caseless@0.9.0
+├── aws-sign2@0.5.0
+├── forever-agent@0.6.1
+├── tunnel-agent@0.4.3
+├── form-data@0.2.0
+├── stringstream@0.0.5
+├── oauth-sign@0.6.0
+├── isstream@0.1.2
+├── json-stringify-safe@5.0.1
+├── qs@2.4.2
+├── node-uuid@1.4.8
+├── combined-stream@0.0.7 (delayed-stream@0.0.5)
+├── mime-types@2.0.14 (mime-db@1.12.0)
+├── http-signature@0.10.1 (assert-plus@0.1.5, asn1@0.1.11, ctype@0.5.3)
+├── tough-cookie@2.3.2 (punycode@1.4.1)
+├── bl@0.9.5 (readable-stream@1.0.34)
+├── hawk@2.3.1 (cryptiles@2.0.5, sntp@1.0.9, boom@2.10.1, hoek@2.16.3)
+└── har-validator@1.8.0 (commander@2.9.0, chalk@1.1.3, is-my-json-valid@2.16.0, bluebird@2.11.0)
+
+supertest@1.2.0 node_modules/supertest
+├── methods@1.1.2
+└── superagent@1.8.5 (component-emitter@1.2.1, cookiejar@2.0.6, reduce-component@1.0.1, extend@3.0.0, mime@1.3.4, qs@2.3.3, readable-stream@1.0.27-1, debug@2.6.6, form-data@1.0.0-rc3)
+
+mocha@2.4.5 node_modules/mocha
+├── escape-string-regexp@1.0.2
+├── supports-color@1.2.0
+├── growl@1.8.1
+├── commander@2.3.0
+├── diff@1.4.0
+├── debug@2.2.0 (ms@0.7.1)
+├── mkdirp@0.5.1 (minimist@0.0.8)
+├── glob@3.2.3 (inherits@2.0.3, graceful-fs@2.0.3, minimatch@0.2.14)
+└── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)
+
+socket.io@1.6.0 node_modules/socket.io
+├── object-assign@4.1.0
+├── socket.io-adapter@0.5.0
+├── has-binary@0.1.7 (isarray@0.0.1)
+├── debug@2.3.3 (ms@0.7.2)
+├── socket.io-parser@2.3.1 (isarray@0.0.1, component-emitter@1.1.2, json3@3.3.2, debug@2.2.0)
+├── engine.io@1.8.0 (base64id@0.1.0, cookie@0.3.1, engine.io-parser@1.3.1, ws@1.1.1, accepts@1.3.3)
+└── socket.io-client@1.6.0 (to-array@0.1.4, indexof@0.0.1, component-emitter@1.2.1, object-component@0.0.3, component-bind@1.0.0, backo2@1.0.2, parseuri@0.0.5, engine.io-client@1.8.0)
+
+uglify-js@2.6.2 node_modules/uglify-js
+├── uglify-to-browserify@1.0.2
+├── async@0.2.10
+├── yargs@3.10.0 (decamelize@1.2.0, window-size@0.1.0, camelcase@1.2.1, cliui@2.1.0)
+└── source-map@0.5.6
+
+swagger-node-express@2.1.3 node_modules/swagger-node-express
+└── lodash@1.3.1
+
+wd@0.3.11 node_modules/wd
+├── vargs@0.1.0
+├── q@1.0.1
+├── underscore.string@2.3.3
+├── lodash@2.4.2
+├── request@2.46.0 (caseless@0.6.0, aws-sign2@0.5.0, tunnel-agent@0.4.3, stringstream@0.0.5, forever-agent@0.5.2, oauth-sign@0.4.0, json-stringify-safe@5.0.1, qs@1.2.2, node-uuid@1.4.8, mime-types@1.0.2, form-data@0.1.4, http-signature@0.10.1, bl@0.9.5, tough-cookie@2.3.2, hawk@1.1.1)
+└── archiver@0.12.0 (buffer-crc32@0.2.13, lazystream@0.1.0, readable-stream@1.0.34, tar-stream@1.0.2, zip-stream@0.4.1, glob@4.0.6)
+
+jsonminify@0.4.1 node_modules/jsonminify
+
+ueberdb2@0.3.0 node_modules/ueberdb2
+├── dirty@0.9.9
+├── async@0.1.15
+├── redis@2.7.1 (double-ended-queue@2.1.0-0, redis-parser@2.6.0, redis-commands@1.3.1)
+├── cassandra-driver@2.0.1 (async@0.9.2, long@2.4.0)
+├── mysql@2.6.1 (require-all@1.0.0, readable-stream@1.1.14, bignumber.js@2.0.5)
+├── pg@4.3.0 (packet-reader@0.2.0, pg-connection-string@0.1.3, buffer-writer@1.0.0, generic-pool@2.1.1, semver@4.3.6, pg-types@1.11.0, pgpass@0.0.3)
+├── nano@6.2.0 (errs@0.3.2, debug@2.6.6, follow@0.12.1)
+└── elasticsearch@4.0.2 (forever-agent@0.6.1, chalk@1.1.3, bluebird@2.11.0, lodash@3.10.1, lodash-compat@3.10.2)
+
+cheerio@0.20.0 node_modules/cheerio
+├── entities@1.1.1
+├── dom-serializer@0.1.0 (domelementtype@1.1.3)
+├── css-select@1.2.0 (boolbase@1.0.0, css-what@2.1.0, nth-check@1.0.1, domutils@1.5.1)
+├── htmlparser2@3.8.3 (domelementtype@1.3.0, domutils@1.5.1, entities@1.0.0, domhandler@2.3.0, readable-stream@1.1.14)
+├── jsdom@7.2.2 (acorn-globals@1.0.9, webidl-conversions@2.0.1, abab@1.0.3, xml-name-validator@2.0.1, sax@1.2.2, symbol-tree@3.2.2, cssom@0.3.2, nwmatcher@1.3.9, tough-cookie@2.3.2, whatwg-url-compat@0.6.5, parse5@1.5.1, acorn@2.7.0, escodegen@1.8.1, cssstyle@0.2.37)
+└── lodash@4.17.4
+
+npm@4.0.2 node_modules/npm
+Ensure jQuery is downloaded and up to date...
+Clearing minified cache...
+Ensure custom css/js files are created...
+
+travis_time:end:138a7e04:start=1494248606632899520,finish=1494248637202410638,duration=30569511118e:start:026c34c0e:end:026c34c0:start=1494248637207539721,finish=1494248637213622445,duration=6082724e:start:3458df44 install ep_test_line_attrib
+ep_test_line_attrib@0.0.2 node_modules/ep_test_line_attrib
+
+travis_time:end:3458df44:start=1494248637218471811,finish=1494248639994691903,duration=2776220092e:start:0b91fcb1e    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 14 6033k   14  896k    0     0  1403k      0  0:00:04 --:--:--  0:00:04 1543k100 6033k  100 6033k    0     0  7952k      0 --:--:-- --:--:-- --:--:-- 8606k
+expected argument for flag `-u, --user', but got option `--key'
+
+
+No output has been received in the last 10m0s, this potentially indicates a stalled build or something wrong with the build itself.
+Check the details on how to adjust your build configuration on: https://docs.travis-ci.com/user/common-build-problems/#Build-times-out-because-no-output-was-received
+
+The build has been terminated
+

@@ -1,0 +1,724 @@
+Using worker: bluebox-linux-3.worker.travis-ci.org:travis-linux-22
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=url-report git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git checkout -qf ad52b40597185bf69efc82c99b0e01edbb8ec5ee
+$ nvm use 0.8
+Now using node v0.8.18
+$ node --version
+v0.8.18
+$ npm --version
+1.2.2
+$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+resolve@0.2.8 node_modules/resolve
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+ejs@0.6.1 node_modules/ejs
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+async@0.1.22 node_modules/async
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+semver@1.0.13 node_modules/semver
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.7 node_modules/log4js
+├── dequeue@1.0.3
+└── async@0.1.15
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── retry@0.6.0
+├── mkdirp@0.3.5
+├── couch-login@0.1.15
+├── request@2.9.203
+├── semver@1.1.3
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── crc@0.2.0
+├── debug@0.7.2
+├── cookie@0.0.4
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── range-parser@0.0.4
+├── cookie-signature@0.0.1
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+└── send@0.1.0 (mime@1.2.6)
+
+npm@1.1.71 node_modules/npm
+
+ueberDB@0.1.92 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 29.0M    4 1376k    0     0  1229k      0  0:00:24  0:00:01  0:00:23 1664k 16 29.0M   16 4800k    0     0  2298k      0  0:00:12  0:00:02  0:00:10 2673k 26 29.0M   26 7806k    0     0  2518k      0  0:00:11  0:00:03  0:00:08 2781k 36 29.0M   36 10.4M    0     0  2631k      0  0:00:11  0:00:04  0:00:07 2835k 46 29.0M   46 13.3M    0     0  2695k      0  0:00:11  0:00:05  0:00:06 2860k 55 29.0M   55 16.2M    0     0  2737k      0  0:00:10  0:00:06  0:00:04 3078k 63 29.0M   63 18.3M    0     0  2658k      0  0:00:11  0:00:07  0:00:04 2809k 75 29.0M   75 22.0M    0     0  2795k      0  0:00:10  0:00:08  0:00:02 2967k 85 29.0M   85 24.8M    0     0  2807k      0  0:00:10  0:00:09  0:00:01 2950k 95 29.0M   95 27.7M    0     0  2819k      0  0:00:10  0:00:10 --:--:-- 2945k100 29.0M  100 29.0M    0     0  2826k      0  0:00:10  0:00:10 --:--:-- 2948k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-02-26 13:27:26.126:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-26 13:27:26.259:INFO::Started SelectChannelConnector@0.0.0.0:58983
+2013-02-26 13:27:50.734:INFO::jetty-7.x.y-SNAPSHOT
+2013-02-26 13:27:50.738:INFO::Started SelectChannelConnector@0.0.0.0:4445
+$ tests/frontend/travis/runner.sh
+Remote sauce test 'ad52b40 - firefox , Linux' started! https://saucelabs.com/jobs/c9868cc98e57478e8c4994d22d08ea0e
+Remote sauce test 'ad52b40 - googlechrome , Linux' started! https://saucelabs.com/jobs/7631af1d86eb435d85f1c26751dbf5c0
+Remote sauce test 'ad52b40 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/944c6ddfc751488eb2f7d3ac3f98f265
+Remote sauce test 'ad52b40 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/ed844a6ec7d643a7a0e96c7147c0322a
+Remote sauce test 'ad52b40 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/68b60d13497e4c47b3f5c7fb32a0f214
+2013-02-26 13:29:27.146:WARN::4 threads could not be stopped
+[firefox] button_bold.js
+[firefox]   bold button
+[firefox]     -> FAILED : "before each" hook timeout of 60000ms exceeded
+[firefox]     (0)@http://localhost:9001/tests/frontend/lib/mocha.js:3552
+[firefox]     FINISHED - no test started since 3 minutes, tests stopped
+[firefox] 
+Remote sauce test 'ad52b40 - firefox , Linux' finished! https://saucelabs.com/jobs/c9868cc98e57478e8c4994d22d08ea0e
+[iexplore 8] button_bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> PASSED : makes text bold
+[iexplore 8] 
+[iexplore 8] button_clear_authorship_colors.js
+[iexplore 8]   clear authorship colors button
+[iexplore 8]     -> PASSED : makes text clear authorship colors
+[iexplore 8] 
+[iexplore 8] button_indentation.js
+[iexplore 8]   indentation button
+[iexplore 8]     -> PASSED : indent text
+[iexplore 8]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 8] 
+[iexplore 8] button_italic.js
+[iexplore 8]   italic button
+[iexplore 8]     -> PASSED : makes text italic
+[iexplore 8] 
+[iexplore 8] button_ordered_list.js
+[iexplore 8]   assign ordered list
+[iexplore 8]     -> PASSED : insert ordered list text
+[iexplore 8]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 8]     PASTING INTO A PAD
+[iexplore 8] 
+[iexplore 8] button_redo.js
+[iexplore 8]   undo button then redo button
+[iexplore 8]     -> PASSED : undo some typing
+[iexplore 8] 
+[iexplore 8] button_strikethrough.js
+[iexplore 8]   strikethrough button
+[iexplore 8]     -> PASSED : makes text strikethrough
+[iexplore 8] 
+[iexplore 8] button_timeslider.js
+[iexplore 8]   timeslider button takes you to the timeslider of a pad
+[iexplore 8]     -> PENDING: timeslider contained in URL
+[iexplore 8] 
+[iexplore 8] button_undo.js
+[iexplore 8]   undo button
+[iexplore 8]     -> PASSED : undo some typing
+[iexplore 8] 
+[iexplore 8] change_user_name.js
+[iexplore 8]   change username value
+[iexplore 8]     -> PASSED : Remembers the user name after a refresh
+[iexplore 8]     -> FAILED : Own user name is shown when you enter a chat Error: the string "wait for con
+[iexplore 8]     dition never became true function(){
+[iexplore 8]           return chrome$("#chattext").children("p").length !== 0; // wait until the chat message shows u
+[iexplore 8]     p
+[iexplore 8]         }" was thrown, throw an Error :)
+[iexplore 8] 
+[iexplore 8] chat_always_on_screen.js
+[iexplore 8]   chat always ons creen select
+[iexplore 8]     -> FAILED : "before each" hook Error: the string "'0.contentWindow' is null or not an ob
+[iexplore 8]     ject" was thrown, throw an Error :)
+[iexplore 8]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 8] 
+Remote sauce test 'ad52b40 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/944c6ddfc751488eb2f7d3ac3f98f265
+[iexplore 9] button_bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> PASSED : makes text bold
+[iexplore 9] 
+[iexplore 9] button_clear_authorship_colors.js
+[iexplore 9]   clear authorship colors button
+[iexplore 9]     -> PASSED : makes text clear authorship colors
+[iexplore 9] 
+[iexplore 9] button_indentation.js
+[iexplore 9]   indentation button
+[iexplore 9]     -> PASSED : indent text
+[iexplore 9]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 9] 
+[iexplore 9] button_italic.js
+[iexplore 9]   italic button
+[iexplore 9]     -> PASSED : makes text italic
+[iexplore 9] 
+[iexplore 9] button_ordered_list.js
+[iexplore 9]   assign ordered list
+[iexplore 9]     -> PASSED : insert ordered list text
+[iexplore 9]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 9]     PASTING INTO A PAD
+[iexplore 9] 
+[iexplore 9] button_redo.js
+[iexplore 9]   undo button then redo button
+[iexplore 9]     -> PASSED : undo some typing
+[iexplore 9] 
+[iexplore 9] button_strikethrough.js
+[iexplore 9]   strikethrough button
+[iexplore 9]     -> PASSED : makes text strikethrough
+[iexplore 9] 
+[iexplore 9] button_timeslider.js
+[iexplore 9]   timeslider button takes you to the timeslider of a pad
+[iexplore 9]     -> PENDING: timeslider contained in URL
+[iexplore 9] 
+[iexplore 9] button_undo.js
+[iexplore 9]   undo button
+[iexplore 9]     -> PASSED : undo some typing
+[iexplore 9] 
+[iexplore 9] change_user_name.js
+[iexplore 9]   change username value
+[iexplore 9]     -> PASSED : Remembers the user name after a refresh
+[iexplore 9]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 9] 
+[iexplore 9] chat_always_on_screen.js
+[iexplore 9]   chat always ons creen select
+[iexplore 9]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 9] 
+[iexplore 9] chat_load_messages.js
+[iexplore 9]   chat-load-messages
+[iexplore 9]     -> FAILED : creates a pad Error: the string "Unable to get value of the property 'conten
+[iexplore 9]     tWindow': object is null or undefined" was thrown, throw an Error :)
+[iexplore 9]     -> FAILED : adds a lot of messages Error: timeout of 60000ms exceeded
+[iexplore 9]     -> FAILED : checks initial message count Error: the string "expected 0 to equal 140" was
+[iexplore 9]      thrown, throw an Error :)
+[iexplore 9]     -> FAILED : loads more messages Error: the string "expected 0 to equal 101" was thrown, 
+[iexplore 9]     throw an Error :)
+[iexplore 9]     -> FAILED : checks for button vanishing Error: the string "expected 0 to equal 122" was 
+[iexplore 9]     thrown, throw an Error :)
+[iexplore 9] 
+[iexplore 9] embed_value.js
+[iexplore 9]   embed links
+[iexplore 9]     read and write
+[iexplore 9]       the share link
+[iexplore 9]         -> FAILED : "before each" hook Error: the string "expected undefined to equal 'none'" wa
+[iexplore 9]         s thrown, throw an Error :)
+[iexplore 9]         FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test 'ad52b40 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/ed844a6ec7d643a7a0e96c7147c0322a
+[iexplore 10] button_bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold
+[iexplore 10] 
+[iexplore 10] button_clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> PASSED : makes text clear authorship colors
+[iexplore 10] 
+[iexplore 10] button_indentation.js
+[iexplore 10]   indentation button
+[iexplore 10]     -> PASSED : indent text
+[iexplore 10]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 10] 
+[iexplore 10] button_italic.js
+[iexplore 10]   italic button
+[iexplore 10]     -> PASSED : makes text italic
+[iexplore 10] 
+[iexplore 10] button_ordered_list.js
+[iexplore 10]   assign ordered list
+[iexplore 10]     -> PASSED : insert ordered list text
+[iexplore 10]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 10]     PASTING INTO A PAD
+[iexplore 10] 
+[iexplore 10] button_redo.js
+[iexplore 10]   undo button then redo button
+[iexplore 10]     -> PASSED : undo some typing
+[iexplore 10] 
+[iexplore 10] button_strikethrough.js
+[iexplore 10]   strikethrough button
+[iexplore 10]     -> PASSED : makes text strikethrough
+[iexplore 10] 
+[iexplore 10] button_timeslider.js
+[iexplore 10]   timeslider button takes you to the timeslider of a pad
+[iexplore 10]     -> PENDING: timeslider contained in URL
+[iexplore 10] 
+[iexplore 10] button_undo.js
+[iexplore 10]   undo button
+[iexplore 10]     -> PASSED : undo some typing
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> PASSED : Remembers the user name after a refresh
+[iexplore 10]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 10] 
+[iexplore 10] chat_always_on_screen.js
+[iexplore 10]   chat always ons creen select
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 10]      Error :)
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test 'ad52b40 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/68b60d13497e4c47b3f5c7fb32a0f214
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold
+[googlechrome] 
+[googlechrome] button_clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] button_indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] button_italic.js
+[googlechrome]   italic button
+[googlechrome]     -> PASSED : makes text italic
+[googlechrome] 
+[googlechrome] button_ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] button_redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] button_strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] button_timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] button_undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat_always_on_screen.js
+[googlechrome]   chat always ons creen select
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> FAILED : adds a lot of messages Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     -> FAILED : checks initial message count Error: the string "Uncaught TypeError: object i
+[googlechrome]     s not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     -> FAILED : loads more messages TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:55:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome]     -> FAILED : checks for button vanishing TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:72:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> FAILED : "before each" hook Error: the string "Uncaught TypeError: object is not a fu
+[googlechrome]         nction" was thrown, throw an Error :)
+[googlechrome]             at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]             at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]             at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]         FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test 'ad52b40 - googlechrome , Linux' finished! https://saucelabs.com/jobs/7631af1d86eb435d85f1c26751dbf5c0
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold
+[googlechrome] 
+[googlechrome] button_clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] button_indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] button_italic.js
+[googlechrome]   italic button
+[googlechrome]     -> PASSED : makes text italic
+[googlechrome] 
+[googlechrome] button_ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] button_redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] button_strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] button_timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] button_undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat_always_on_screen.js
+[googlechrome]   chat always ons creen select
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> FAILED : adds a lot of messages Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     -> FAILED : checks initial message count Error: the string "Uncaught TypeError: object i
+[googlechrome]     s not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     -> FAILED : loads more messages TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:55:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome]     -> FAILED : checks for button vanishing TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:72:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> FAILED : "before each" hook Error: the string "Uncaught TypeError: object is not a fu
+[googlechrome]         nction" was thrown, throw an Error :)
+[googlechrome]             at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]             at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]             at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]         FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test 'ad52b40 - googlechrome , Linux' finished! https://saucelabs.com/jobs/7631af1d86eb435d85f1c26751dbf5c0
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold
+[googlechrome] 
+[googlechrome] button_clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] button_indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] button_italic.js
+[googlechrome]   italic button
+[googlechrome]     -> PASSED : makes text italic
+[googlechrome] 
+[googlechrome] button_ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] button_redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] button_strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] button_timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] button_undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat_always_on_screen.js
+[googlechrome]   chat always ons creen select
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> FAILED : adds a lot of messages Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     -> FAILED : checks initial message count Error: the string "Uncaught TypeError: object i
+[googlechrome]     s not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     -> FAILED : loads more messages TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:55:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome]     -> FAILED : checks for button vanishing TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:72:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> FAILED : "before each" hook Error: the string "Uncaught TypeError: object is not a fu
+[googlechrome]         nction" was thrown, throw an Error :)
+[googlechrome]             at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]             at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]             at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]         FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test 'ad52b40 - googlechrome , Linux' finished! https://saucelabs.com/jobs/7631af1d86eb435d85f1c26751dbf5c0
+[googlechrome] button_bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold
+[googlechrome] 
+[googlechrome] button_clear_authorship_colors.js
+[googlechrome]   clear authorship colors button
+[googlechrome]     -> PASSED : makes text clear authorship colors
+[googlechrome] 
+[googlechrome] button_indentation.js
+[googlechrome]   indentation button
+[googlechrome]     -> PASSED : indent text
+[googlechrome]     -> PASSED : keeps the indent on enter for the new line
+[googlechrome] 
+[googlechrome] button_italic.js
+[googlechrome]   italic button
+[googlechrome]     -> PASSED : makes text italic
+[googlechrome] 
+[googlechrome] button_ordered_list.js
+[googlechrome]   assign ordered list
+[googlechrome]     -> PASSED : insert ordered list text
+[googlechrome]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[googlechrome]     PASTING INTO A PAD
+[googlechrome] 
+[googlechrome] button_redo.js
+[googlechrome]   undo button then redo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] button_strikethrough.js
+[googlechrome]   strikethrough button
+[googlechrome]     -> PASSED : makes text strikethrough
+[googlechrome] 
+[googlechrome] button_timeslider.js
+[googlechrome]   timeslider button takes you to the timeslider of a pad
+[googlechrome]     -> PENDING: timeslider contained in URL
+[googlechrome] 
+[googlechrome] button_undo.js
+[googlechrome]   undo button
+[googlechrome]     -> PASSED : undo some typing
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> PASSED : Remembers the user name after a refresh
+[googlechrome]     -> PASSED : Own user name is shown when you enter a chat
+[googlechrome] 
+[googlechrome] chat_always_on_screen.js
+[googlechrome]   chat always ons creen select
+[googlechrome]     -> PASSED : makes chat stick to right side of the screen
+[googlechrome] 
+[googlechrome] chat_load_messages.js
+[googlechrome]   chat-load-messages
+[googlechrome]     -> PASSED : creates a pad
+[googlechrome]     -> FAILED : adds a lot of messages Error: timeout of 60000ms exceeded
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3552:21
+[googlechrome]     -> FAILED : checks initial message count Error: the string "Uncaught TypeError: object i
+[googlechrome]     s not a function" was thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     -> FAILED : loads more messages TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:55:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome]     -> FAILED : checks for button vanishing TypeError: object is not a function
+[googlechrome]         at Context.eval (eval at <anonymous> (http://localhost:9001/static/js/jquery.js:1:0), <anonymous
+[googlechrome]     >:72:22)
+[googlechrome]         at Test.Runnable.run (http://localhost:9001/tests/frontend/lib/mocha.js:3608:15)
+[googlechrome]         at Runner.runTest (http://localhost:9001/tests/frontend/lib/mocha.js:3940:10)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3986:12
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3868:14)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3877:7
+[googlechrome]         at next (http://localhost:9001/tests/frontend/lib/mocha.js:3825:23)
+[googlechrome]         at http://localhost:9001/tests/frontend/lib/mocha.js:3845:5
+[googlechrome]         at process.removeListener.window.onerror (http://localhost:9001/tests/frontend/lib/mocha.js:4790
+[googlechrome]     :44)
+[googlechrome] 
+[googlechrome] embed_value.js
+[googlechrome]   embed links
+[googlechrome]     read and write
+[googlechrome]       the share link
+[googlechrome]         -> FAILED : "before each" hook Error: the string "Uncaught TypeError: object is not a fu
+[googlechrome]         nction" was thrown, throw an Error :)
+[googlechrome]             at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]             at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]             at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]         FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test 'ad52b40 - googlechrome , Linux' finished! https://saucelabs.com/jobs/7631af1d86eb435d85f1c26751dbf5c0
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

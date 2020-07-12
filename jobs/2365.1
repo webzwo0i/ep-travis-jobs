@@ -1,0 +1,635 @@
+Using worker: worker-linux-5-2.bb.travis-ci.org:travis-linux-8
+
+travis_fold:start:system_infoBuild system information
+Build language: node_js
+Build image provisioning date and time
+Fri Dec 26 15:36:46 UTC 2014
+lsb_release -a
+Distributor ID:Ubuntu
+Description:Ubuntu 12.04 LTS
+Release:12.04
+Codename:precise
+Cookbooks Version
+984d1aa https://github.com/travis-ci/travis-cookbooks/tree/984d1aa
+GCC version
+gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+Copyright (C) 2011 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+LLVM version
+clang version 3.4 (tags/RELEASE_34/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+Pre-installed Ruby versions
+ruby-1.9.3-p551
+Pre-installed Node.js versions
+v0.10
+v0.10.18
+v0.10.33
+v0.10.35
+v0.11.14
+v0.6.21
+v0.8.27
+Pre-installed Go versions
+go1.4
+Redis version
+redis-server 2.8.18
+riak version
+1.4.12
+MongoDB version
+MongoDB 2.4.12
+CouchDB version
+couchdb 1.6.1
+Neo4j version
+1.9.4
+Cassandra version
+2.0.9
+RabbitMQ Version
+3.4.2
+ElasticSearch version
+1.4.0
+Installed Sphinx versions
+2.0.10
+2.1.9
+2.2.4
+Default Sphinx version
+2.1.9
+Installed Firefox version
+firefox 31.0esr
+PhantomJS version
+1.9.8
+ant -version
+Apache Ant(TM) version 1.8.2 compiled on December 3 2011
+mvn -version
+Apache Maven 3.2.3 (33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4; 2014-08-11T20:58:10+00:00)
+Maven home: /usr/local/maven
+Java version: 1.7.0_72, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "2.6.32-042stab090.5", arch: "amd64", family: "unix"
+travis_fold:end:system_infoe:start:051b414d/ether/etherpad-lite.git ether/etherpad-lite
+Cloning into 'ether/etherpad-lite'...
+remote: Counting objects: 8250, done.ote: Compressing objects:   0% (1/2923)   ote: Compressing objects:   1% (30/2923)   ote: Compressing objects:   2% (59/2923)   ote: Compressing objects:   3% (88/2923)   ote: Compressing objects:   4% (117/2923)   ote: Compressing objects:   5% (147/2923)   ote: Compressing objects:   6% (176/2923)   ote: Compressing objects:   7% (205/2923)   ote: Compressing objects:   8% (234/2923)   ote: Compressing objects:   9% (264/2923)   ote: Compressing objects:  10% (293/2923)   ote: Compressing objects:  11% (322/2923)   ote: Compressing objects:  12% (351/2923)   ote: Compressing objects:  13% (380/2923)   ote: Compressing objects:  14% (410/2923)   ote: Compressing objects:  15% (439/2923)   ote: Compressing objects:  16% (468/2923)   ote: Compressing objects:  17% (497/2923)   ote: Compressing objects:  18% (527/2923)   ote: Compressing objects:  19% (556/2923)   ote: Compressing objects:  20% (585/2923)   ote: Compressing objects:  21% (614/2923)   ote: Compressing objects:  22% (644/2923)   ote: Compressing objects:  23% (673/2923)   ote: Compressing objects:  24% (702/2923)   ote: Compressing objects:  25% (731/2923)   ote: Compressing objects:  26% (760/2923)   ote: Compressing objects:  27% (790/2923)   ote: Compressing objects:  28% (819/2923)   ote: Compressing objects:  29% (848/2923)   ote: Compressing objects:  30% (877/2923)   ote: Compressing objects:  31% (907/2923)   ote: Compressing objects:  32% (936/2923)   ote: Compressing objects:  33% (965/2923)   ote: Compressing objects:  34% (994/2923)   ote: Compressing objects:  35% (1024/2923)   ote: Compressing objects:  36% (1053/2923)   ote: Compressing objects:  37% (1082/2923)   ote: Compressing objects:  38% (1111/2923)   ote: Compressing objects:  39% (1140/2923)   ote: Compressing objects:  40% (1170/2923)   ote: Compressing objects:  41% (1199/2923)   ote: Compressing objects:  42% (1228/2923)   ote: Compressing objects:  43% (1257/2923)   ote: Compressing objects:  44% (1287/2923)   ote: Compressing objects:  45% (1316/2923)   ote: Compressing objects:  46% (1345/2923)   ote: Compressing objects:  47% (1374/2923)   ote: Compressing objects:  48% (1404/2923)   ote: Compressing objects:  49% (1433/2923)   ote: Compressing objects:  50% (1462/2923)   ote: Compressing objects:  51% (1491/2923)   ote: Compressing objects:  52% (1520/2923)   ote: Compressing objects:  53% (1550/2923)   ote: Compressing objects:  54% (1579/2923)   ote: Compressing objects:  55% (1608/2923)   ote: Compressing objects:  56% (1637/2923)   ote: Compressing objects:  57% (1667/2923)   ote: Compressing objects:  58% (1696/2923)   ote: Compressing objects:  59% (1725/2923)   ote: Compressing objects:  60% (1754/2923)   ote: Compressing objects:  61% (1784/2923)   ote: Compressing objects:  62% (1813/2923)   ote: Compressing objects:  63% (1842/2923)   ote: Compressing objects:  64% (1871/2923)   ote: Compressing objects:  65% (1900/2923)   ote: Compressing objects:  66% (1930/2923)   ote: Compressing objects:  67% (1959/2923)   ote: Compressing objects:  68% (1988/2923)   ote: Compressing objects:  69% (2017/2923)   ote: Compressing objects:  70% (2047/2923)   ote: Compressing objects:  71% (2076/2923)   ote: Compressing objects:  72% (2105/2923)   ote: Compressing objects:  73% (2134/2923)   ote: Compressing objects:  74% (2164/2923)   ote: Compressing objects:  75% (2193/2923)   ote: Compressing objects:  76% (2222/2923)   ote: Compressing objects:  77% (2251/2923)   ote: Compressing objects:  78% (2280/2923)   ote: Compressing objects:  79% (2310/2923)   ote: Compressing objects:  80% (2339/2923)   ote: Compressing objects:  81% (2368/2923)   ote: Compressing objects:  82% (2397/2923)   ote: Compressing objects:  83% (2427/2923)   ote: Compressing objects:  84% (2456/2923)   ote: Compressing objects:  85% (2485/2923)   ote: Compressing objects:  86% (2514/2923)   ote: Compressing objects:  87% (2544/2923)   ote: Compressing objects:  88% (2573/2923)   ote: Compressing objects:  89% (2602/2923)   ote: Compressing objects:  90% (2631/2923)   ote: Compressing objects:  91% (2660/2923)   ote: Compressing objects:  92% (2690/2923)   ote: Compressing objects:  93% (2719/2923)   ote: Compressing objects:  94% (2748/2923)   ote: Compressing objects:  95% (2777/2923)   ote: Compressing objects:  96% (2807/2923)   ote: Compressing objects:  97% (2836/2923)   ote: Compressing objects:  98% (2865/2923)   ote: Compressing objects:  99% (2894/2923)   ote: Compressing objects: 100% (2923/2923)   ote: Compressing objects: 100% (2923/2923), done.ote: Total 8250 (delta 5742), reused 7551 (delta 5221)e:end:051b414d:start=1420131498141997664,finish=1420131498998364425,duration=856366761Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:start:00a74530 install 0.10
+v0.10.35 is already installed.
+Now using node v0.10.35
+travis_time:end:00a74530:start=1420131499045978169,finish=1420131499264936115,duration=218957946 --version
+1.4.28
+$ nvm --version
+0.20.0
+travis_fold:start:install.1e:start:00095ef3plate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+
+> ws@0.5.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build'
+
+> microtime@0.4.0 install /home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime
+> node-gyp rebuild
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+  CXX(target) Release/obj.target/microtime/src/microtime.o
+  SOLINK_MODULE(target) Release/obj.target/microtime.node
+  SOLINK_MODULE(target) Release/obj.target/microtime.node: Finished
+  COPY Release/microtime.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/ueberDB/node_modules/helenus/node_modules/microtime/build'
+
+> ws@0.4.31 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build'
+channels@0.0.4 node_modules/channels
+
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+slide@1.1.6 node_modules/slide
+
+graceful-fs@3.0.5 node_modules/graceful-fs
+
+tinycon@0.0.1 node_modules/tinycon
+
+formidable@1.0.16 node_modules/formidable
+
+async@0.9.0 node_modules/async
+
+underscore@1.5.1 node_modules/underscore
+
+etherpad-require-kernel@1.0.7 node_modules/etherpad-require-kernel
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+unorm@1.3.3 node_modules/unorm
+
+measured@0.1.6 node_modules/measured
+
+semver@4.2.0 node_modules/semver
+
+ejs@1.0.0 node_modules/ejs
+
+resolve@1.0.0 node_modules/resolve
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+yajsml@1.1.6 node_modules/yajsml
+
+log4js@0.6.21 node_modules/log4js
+├── semver@1.1.4
+├── async@0.2.10
+└── readable-stream@1.0.33 (isarray@0.0.1, inherits@2.0.1, string_decoder@0.10.31, core-util-is@1.0.1)
+
+supertest@0.15.0 node_modules/supertest
+├── methods@1.1.1
+└── superagent@0.21.0 (extend@1.2.1, methods@1.0.1, cookiejar@2.0.1, reduce-component@1.0.1, qs@1.2.0, component-emitter@1.1.2, debug@2.1.1, mime@1.2.11, readable-stream@1.0.27-1, form-data@0.1.3, formidable@1.0.14)
+
+request@2.51.0 node_modules/request
+├── caseless@0.8.0
+├── json-stringify-safe@5.0.0
+├── aws-sign2@0.5.0
+├── forever-agent@0.5.2
+├── stringstream@0.0.4
+├── oauth-sign@0.5.0
+├── tunnel-agent@0.4.0
+├── node-uuid@1.4.2
+├── qs@2.3.3
+├── mime-types@1.0.2
+├── combined-stream@0.0.7 (delayed-stream@0.0.5)
+├── form-data@0.2.0 (mime-types@2.0.7)
+├── bl@0.9.3 (readable-stream@1.0.33)
+├── tough-cookie@0.12.1 (punycode@1.3.2)
+├── http-signature@0.10.0 (assert-plus@0.1.2, asn1@0.1.11, ctype@0.5.2)
+└── hawk@1.1.1 (cryptiles@0.2.2, sntp@0.2.4, boom@0.4.2, hoek@0.9.1)
+
+uglify-js@2.4.16 node_modules/uglify-js
+├── uglify-to-browserify@1.0.2
+├── async@0.2.10
+├── optimist@0.3.7 (wordwrap@0.0.2)
+└── source-map@0.1.34 (amdefine@0.1.0)
+
+mocha@2.1.0 node_modules/mocha
+├── escape-string-regexp@1.0.2
+├── diff@1.0.8
+├── growl@1.8.1
+├── commander@2.3.0
+├── debug@2.0.0 (ms@0.6.2)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+├── glob@3.2.3 (graceful-fs@2.0.3, inherits@2.0.1, minimatch@0.2.14)
+└── jade@0.26.3 (commander@0.6.1, mkdirp@0.3.0)
+
+nodemailer@0.3.44 node_modules/nodemailer
+├── optimist@0.6.1 (wordwrap@0.0.2, minimist@0.0.10)
+├── simplesmtp@0.3.33 (xoauth2@0.1.8, rai@0.1.11)
+└── mailcomposer@0.2.12 (follow-redirects@0.0.3, mime@1.2.11, he@0.3.6, dkim-signer@0.1.2, mimelib@0.2.18)
+
+connect@2.7.11 node_modules/connect
+├── fresh@0.1.0
+├── cookie-signature@1.0.1
+├── pause@0.0.1
+├── buffer-crc32@0.2.1
+├── qs@0.6.5
+├── bytes@0.2.0
+├── cookie@0.0.5
+├── debug@2.1.1 (ms@0.6.2)
+├── send@0.1.1 (range-parser@0.0.4, mime@1.2.11)
+└── formidable@1.0.14
+
+jsonminify@0.2.3 node_modules/jsonminify
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── async@0.1.22
+├── underscore@1.4.4
+└── request@2.12.0
+
+cheerio@0.18.0 node_modules/cheerio
+├── dom-serializer@0.0.1 (domelementtype@1.1.3)
+├── entities@1.1.1
+├── CSSselect@0.4.1 (domutils@1.4.3, CSSwhat@0.4.7)
+├── htmlparser2@3.8.2 (domelementtype@1.1.3, domutils@1.5.0, entities@1.0.0, domhandler@2.3.0, readable-stream@1.1.13)
+└── lodash@2.4.1
+
+swagger-node-express@2.1.3 node_modules/swagger-node-express
+└── lodash@1.3.1
+
+express@3.8.1 node_modules/express
+├── parseurl@1.0.1
+├── merge-descriptors@0.0.2
+├── cookie@0.1.2
+├── debug@0.8.1
+├── cookie-signature@1.0.3
+├── range-parser@1.0.0
+├── fresh@0.2.2
+├── methods@1.0.0
+├── buffer-crc32@0.2.1
+├── proxy-addr@1.0.0 (ipaddr.js@0.1.2)
+├── send@0.3.0 (debug@0.8.0, mime@1.2.11)
+├── mkdirp@0.5.0 (minimist@0.0.8)
+├── commander@1.3.2 (keypress@0.1.0)
+└── connect@2.17.3 (response-time@1.0.0, pause@0.0.1, method-override@1.0.2, connect-timeout@1.1.0, vhost@1.0.0, qs@0.6.6, basic-auth-connect@1.0.0, on-headers@0.0.0, bytes@1.0.0, serve-favicon@2.0.0, morgan@1.1.1, errorhandler@1.0.1, serve-static@1.1.0, cookie-parser@1.1.0, body-parser@1.2.2, csurf@1.2.0, type-is@1.2.0, compression@1.0.2, express-session@1.2.1, serve-index@1.0.3, multiparty@2.2.0)
+
+npm@2.1.16 node_modules/npm
+
+ueberDB@0.2.9 node_modules/ueberDB
+├── channels@0.0.2
+├── redis@0.12.1
+├── dirty@0.9.9
+├── async@0.1.15
+├── mysql@2.5.4 (require-all@0.0.8, bignumber.js@1.4.1, readable-stream@1.1.13)
+├── pg@4.1.1 (packet-reader@0.2.0, pg-connection-string@0.1.3, buffer-writer@1.0.0, generic-pool@2.1.1, pg-types@1.6.0, pgpass@0.0.3)
+└── helenus@0.6.10 (node-uuid@1.3.3, helenus-thrift@0.7.4, microtime@0.4.0)
+
+socket.io@1.2.1 node_modules/socket.io
+├── debug@0.7.4
+├── has-binary-data@0.1.3 (isarray@0.0.1)
+├── socket.io-adapter@0.3.1 (object-keys@1.0.1, debug@1.0.2)
+├── socket.io-parser@2.2.2 (component-emitter@1.1.2, isarray@0.0.1, benchmark@1.0.0, json3@3.2.6)
+├── engine.io@1.4.3 (base64id@0.1.0, debug@1.0.3, engine.io-parser@1.1.0, ws@0.5.0)
+└── socket.io-client@1.2.1 (to-array@0.1.3, indexof@0.0.1, component-bind@1.0.0, object-component@0.0.3, component-emitter@1.1.2, has-binary@0.1.5, parseuri@0.0.2, engine.io-client@1.4.3)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+Ensure custom css/js files are created...
+travis_time:end:00095ef3:start=1420131500012459180,finish=1420131521384226596,duration=21371767416e:start:00692bb6e:end:00692bb6:start=1420131521399275694,finish=1420131521410968283,duration=11692589e:start:028f4096e    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 29.8M    2  746k    0     0   775k      0  0:00:39 --:--:--  0:00:39  864k 10 29.8M   10 3280k    0     0  1665k      0  0:00:18  0:00:01  0:00:17 1754k 19 29.8M   19 5877k    0     0  1991k      0  0:00:15  0:00:02  0:00:13 2060k 25 29.8M   25 7787k    0     0  1962k      0  0:00:15  0:00:03  0:00:12 2012k 31 29.8M   31 9771k    0     0  1972k      0  0:00:15  0:00:04  0:00:11 2013k 38 29.8M   38 11.6M    0     0  2003k      0  0:00:15  0:00:05  0:00:10 2239k 43 29.8M   43 12.9M    0     0  1915k      0  0:00:15  0:00:06  0:00:09 2013k 46 29.8M   46 13.8M    0     0  1787k      0  0:00:17  0:00:07  0:00:10 1666k 50 29.8M   50 14.9M    0     0  1705k      0  0:00:17  0:00:08  0:00:09 1502k 53 29.8M   53 15.9M    0     0  1637k      0  0:00:18  0:00:09  0:00:09 1305k 56 29.8M   56 16.9M    0     0  1588k      0  0:00:19  0:00:10  0:00:09 1094k 60 29.8M   60 18.0M    0     0  1547k      0  0:00:19  0:00:11  0:00:08 1038k 63 29.8M   63 18.9M    0     0  1489k      0  0:00:20  0:00:13  0:00:07 1024k 65 29.8M   65 19.6M    0     0  1443k      0  0:00:21  0:00:13  0:00:08  969k 68 29.8M   68 20.4M    0     0  1400k      0  0:00:21  0:00:14  0:00:07  928k 70 29.8M   70 21.1M    0     0  1358k      0  0:00:22  0:00:15  0:00:07  855k 73 29.8M   73 21.8M    0     0  1319k      0  0:00:23  0:00:16  0:00:07  772k 75 29.8M   75 22.6M    0     0  1288k      0  0:00:23  0:00:17  0:00:06  760k 78 29.8M   78 23.4M    0     0  1266k      0  0:00:24  0:00:18  0:00:06  777k 81 29.8M   81 24.3M    0     0  1248k      0  0:00:24  0:00:19  0:00:05  793k 84 29.8M   84 25.1M    0     0  1230k      0  0:00:24  0:00:20  0:00:04  824k 87 29.8M   87 26.0M    0     0  1217k      0  0:00:25  0:00:21  0:00:04  871k 90 29.8M   90 27.1M    0     0  1210k      0  0:00:25  0:00:22  0:00:03  927k 95 29.8M   95 28.3M    0     0  1213k      0  0:00:25  0:00:23  0:00:02 1010k100 29.8M  100 29.8M    0     0  1230k      0  0:00:24  0:00:24 --:--:-- 1158k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2015-01-01 16:59:21.367:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-01 16:59:21.406:INFO::Started SelectChannelConnector@0.0.0.0:46024
+2015-01-01 16:59:34.562:INFO::jetty-7.x.y-SNAPSHOT
+2015-01-01 16:59:34.566:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_time:end:028f4096:start=1420131521420596379,finish=1420131575750836613,duration=54330240234e:start:04089064npm WARN package.json async-stacktrace@0.0.2 No repository field.
+npm WARN package.json channels@0.0.4 No repository field.
+npm WARN package.json tinycon@0.0.1 No repository field.
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "sessionId": "618f3491e76e42f9b3049a390269d5ee", "value": {"rotatable": false, "browserConnectionEnabled": false, "acceptSslCerts": true, "cssSelectorsEnabled": true, "chrome": {"userDataDir": "/tmp/.com.google.Chrome.5CNj7M"}, "javascriptEnabled": true, "version": "35.0.1916.153", "webdriver.remote.sessionid": "618f3491e76e42f9b3049a390269d5ee", "databaseEnabled": false, "locationContextEnabled": true, "platform": "Linux", "browserName": "chrome", "takesScreenshot": true, "hasMetadata": true, "nativeEvents": true, "applicationCacheEnabled": false, "webStorageEnabled": true, "handlesAlerts": true, "takesHeapSnapshot": true}}' }
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"rotatable": false, "takesScreenshot": true, "acceptSslCerts": true, "cssSelectorsEnabled": true, "javascriptEnabled": true, "nativeEvents": false, "databaseEnabled": true, "locationContextEnabled": true, "platform": "LINUX", "browserName": "firefox", "webdriver.remote.sessionid": "1c0351d75d6643d1ac80ba52219c2374", "hasMetadata": true, "version": "34.0.5", "applicationCacheEnabled": true, "webStorageEnabled": true, "handlesAlerts": true}, "sessionId": "1c0351d75d6643d1ac80ba52219c2374", "hCode": 22544730, "class": "org.openqa.selenium.remote.Response"}' }
+a function in your .chain() failed: { message: 'The environment you requested was unavailable.',
+  data: '{"status": 0, "state": null, "value": {"takesScreenshot": true, "webdriver.remote.sessionid": "5c84164991054bfe947ea5c30c42bf0e", "unexpectedAlertBehaviour": "dismiss", "ie.browserCommandLineSwitches": "", "browserAttachTimeout": 0, "ie.ensureCleanSession": false, "ignoreProtectedModeSettings": false, "platform": "WINDOWS", "version": "8", "ignoreZoomSetting": false, "nativeEvents": true, "handlesAlerts": true, "javascriptEnabled": true, "requireWindowFocus": false, "ie.usePerProcessProxy": false, "hasMetadata": true, "proxy": {"proxyAutoconfigUrl": "http://127.0.0.1:19876/proxy.pac", "proxyType": "pac"}, "initialBrowserUrl": "http://localhost:32746/", "enableElementCacheCleanup": true, "cssSelectorsEnabled": true, "browserName": "internet explorer", "elementScrollBehavior": 0, "enablePersistentHover": true, "ie.forceCreateProcessApi": false}, "sessionId": "5c84164991054bfe947ea5c30c42bf0e", "hCode": 24059554, "class": "org.openqa.selenium.remote.Response"}' }
+Remote sauce test '45e90e1 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/6b540593f0084235aa49ad96650bcd2d
+Remote sauce test '45e90e1 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/23de0f8a08e944a08c6c5177298d58f4
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> PASSED : makes text bold on click
+[iexplore 10]     -> PASSED : makes text bold on keypress
+[iexplore 10] 
+[iexplore 10] change_user_name.js
+[iexplore 10]   change username value
+[iexplore 10]     -> PASSED : Remembers the user name after a refresh
+[iexplore 10]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 10] 
+[iexplore 10] chat.js
+[iexplore 10]   Chat messages and UI
+[iexplore 10]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 10]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 10]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 10]     -> PASSED : makes chat stick to right side of the screen then makes it one step smalle
+[iexplore 10]     r
+[iexplore 10] 
+[iexplore 10] chat_load_messages.js
+[iexplore 10]   chat-load-messages
+[iexplore 10]     -> PASSED : creates a pad
+[iexplore 10]     -> PASSED : adds a lot of messages
+[iexplore 10]     -> PASSED : checks initial message count
+[iexplore 10]     -> PASSED : loads more messages
+[iexplore 10]     -> PASSED : checks for button vanishing
+[iexplore 10] 
+[iexplore 10] clear_authorship_colors.js
+[iexplore 10]   clear authorship colors button
+[iexplore 10]     -> PASSED : makes text clear authorship colors
+[iexplore 10] 
+[iexplore 10] delete.js
+[iexplore 10]   delete keystroke
+[iexplore 10]     -> PASSED : makes text delete
+[iexplore 10] 
+[iexplore 10] embed_value.js
+[iexplore 10]   embed links
+[iexplore 10]     read and write
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : is the actual pad url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10]     when read only option is set
+[iexplore 10]       the share link
+[iexplore 10]         -> PASSED : shows a read only url
+[iexplore 10]       the embed as iframe code
+[iexplore 10]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 10] 
+[iexplore 10] enter.js
+[iexplore 10]   enter keystroke
+[iexplore 10]     -> PASSED : creates a new line & puts cursor onto a new line
+[iexplore 10] 
+[iexplore 10] font_type.js
+[iexplore 10]   font select
+[iexplore 10]     -> PASSED : makes text monospace
+[iexplore 10] 
+[iexplore 10] helper.js
+[iexplore 10]   the test helper
+[iexplore 10]     the newPad method
+[iexplore 10]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 10]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 10]     the waitFor method
+[iexplore 10]       -> PASSED : takes a timeout and waits long enough
+[iexplore 10]       -> PASSED : takes an interval and checks on every interval
+[iexplore 10]       returns a deferred object
+[iexplore 10]         -> PASSED : it calls done after success
+[iexplore 10]         -> PASSED : calls fail after failure
+[iexplore 10]         -> PENDING: throws if you don't listen for fails
+[iexplore 10] 
+[iexplore 10] importexport.js
+[iexplore 10]   import functionality
+[iexplore 10]     -> PASSED : import a pad with newlines from txt
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Object expected" was thrown, throw an 
+[iexplore 10]     Error :)
+[iexplore 10]     -> PASSED : import a pad with newlines from html
+[iexplore 10]     -> PASSED : import a pad with attributes from html
+[iexplore 10]     -> PASSED : import a pad with bullets from html
+[iexplore 10]     -> PASSED : import a pad with bullets and newlines from html
+[iexplore 10]     -> PASSED : import a pad with bullets and newlines and attributes from html
+[iexplore 10]     -> PASSED : import a pad with nested bullets from html
+[iexplore 10]     -> PASSED : import a pad with 8 levels of bullets and newlines and attributes from htm
+[iexplore 10]     l
+[iexplore 10]     -> PENDING: import a pad with ordered lists from html
+[iexplore 10]     -> PENDING: import a pad with ordered lists and newlines from html
+[iexplore 10]     -> PENDING: import a pad with nested ordered lists and attributes and newlines from h
+[iexplore 10]     tml
+[iexplore 10] 
+[iexplore 10] importindents.js
+[iexplore 10]   import indents functionality
+[iexplore 10]     -> PASSED : import a pad with indents from html
+[iexplore 10]     -> PASSED : import a pad with indented lists and newlines from html
+[iexplore 10]     -> PASSED : import a pad with 8 levels of indents and newlines and attributes from htm
+[iexplore 10]     l
+[iexplore 10] 
+[iexplore 10] indentation.js
+[iexplore 10]   indentation button
+[iexplore 10]     -> PASSED : indent text with keypress
+[iexplore 10]     -> PASSED : indent text with button
+[iexplore 10]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 10] 
+[iexplore 10] italic.js
+[iexplore 10]   italic some text
+[iexplore 10]     -> PASSED : makes text italic using button
+[iexplore 10]     -> PASSED : makes text italic using keypress
+[iexplore 10] 
+[iexplore 10] language.js
+[iexplore 10]   Language select and change
+[iexplore 10]     -> PASSED : makes text german
+[iexplore 10]     -> PASSED : makes text English
+[iexplore 10]     -> PASSED : changes direction when picking an rtl lang
+[iexplore 10]     -> PASSED : changes direction when picking an ltr lang
+[iexplore 10] 
+[iexplore 10] ordered_list.js
+[iexplore 10]   assign ordered list
+[iexplore 10]     -> PASSED : insert ordered list text
+[iexplore 10]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 10]     PASTING INTO A PAD
+[iexplore 10] 
+[iexplore 10] redo.js
+[iexplore 10]   undo button then redo button
+[iexplore 10]     -> PASSED : redo some typing with button
+[iexplore 10]     -> PASSED : redo some typing with keypress
+[iexplore 10] 
+[iexplore 10] responsiveness.js
+[iexplore 10]   Responsiveness of Editor
+[iexplore 10]     -> PENDING: Fast response to keypress in pad with large amount of contents
+[iexplore 10] 
+[iexplore 10] strikethrough.js
+[iexplore 10]   strikethrough button
+[iexplore 10]     -> PASSED : makes text strikethrough
+[iexplore 10] 
+[iexplore 10] timeslider.js
+[iexplore 10]   timeslider button takes you to the timeslider of a pad
+[iexplore 10]     -> PENDING: timeslider contained in URL
+[iexplore 10] 
+[iexplore 10] timeslider_labels.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[iexplore 10]     aN
+[iexplore 10] 
+[iexplore 10] timeslider_revisions.js
+[iexplore 10]   timeslider
+[iexplore 10]     -> PASSED : loads adds a hundred revisions
+[iexplore 10]     -> PENDING: changes the url when clicking on the timeslider
+[iexplore 10]     -> PASSED : jumps to a revision given in the url
+[iexplore 10]     -> PASSED : checks the export url
+[iexplore 10] 
+[iexplore 10] undo.js
+[iexplore 10]   undo button
+[iexplore 10]     -> PASSED : undo some typing using a keypress
+[iexplore 10] 
+[iexplore 10] unordered_list.js
+[iexplore 10]   assign unordered list
+[iexplore 10]     -> PASSED : insert unordered list text then removes by outdent
+[iexplore 10] 
+[iexplore 10] urls_become_clickable.js
+[iexplore 10]   urls
+[iexplore 10]     -> PASSED : when you enter an url, it becomes clickable
+[iexplore 10]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[iexplore 10]      whole URL
+[iexplore 10] 
+[iexplore 10] FINISHED - 59 tests passed, 1 tests failed, duration: 3:53
+[iexplore 10] 
+Remote sauce test '45e90e1 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/23de0f8a08e944a08c6c5177298d58f4
+[iexplore 9] alphabet.js
+[iexplore 9]   All the alphabet works n stuff
+[iexplore 9]     -> PASSED : when you enter any char it appears right
+[iexplore 9] 
+[iexplore 9] bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> PASSED : makes text bold on click
+[iexplore 9]     -> PASSED : makes text bold on keypress
+[iexplore 9] 
+[iexplore 9] change_user_name.js
+[iexplore 9]   change username value
+[iexplore 9]     -> PASSED : Remembers the user name after a refresh
+[iexplore 9]     -> PASSED : Own user name is shown when you enter a chat
+[iexplore 9] 
+[iexplore 9] chat.js
+[iexplore 9]   Chat messages and UI
+[iexplore 9]     -> PASSED : opens chat, sends a message and makes sure it exists on the page
+[iexplore 9]     -> PASSED : makes sure that an empty message can't be sent
+[iexplore 9]     -> PASSED : makes chat stick to right side of the screen
+[iexplore 9]     -> PASSED : makes chat stick to right side of the screen then makes it one step smalle
+[iexplore 9]     r
+[iexplore 9] 
+[iexplore 9] chat_load_messages.js
+[iexplore 9]   chat-load-messages
+[iexplore 9]     -> PASSED : creates a pad
+[iexplore 9]     -> PASSED : adds a lot of messages
+[iexplore 9]     -> PASSED : checks initial message count
+[iexplore 9]     -> PASSED : loads more messages
+[iexplore 9]     -> PASSED : checks for button vanishing
+[iexplore 9] 
+[iexplore 9] clear_authorship_colors.js
+[iexplore 9]   clear authorship colors button
+[iexplore 9]     -> PASSED : makes text clear authorship colors
+[iexplore 9] 
+[iexplore 9] delete.js
+[iexplore 9]   delete keystroke
+[iexplore 9]     -> PASSED : makes text delete
+[iexplore 9] 
+[iexplore 9] embed_value.js
+[iexplore 9]   embed links
+[iexplore 9]     read and write
+[iexplore 9]       the share link
+[iexplore 9]         -> PASSED : is the actual pad url
+[iexplore 9]       the embed as iframe code
+[iexplore 9]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 9]     when read only option is set
+[iexplore 9]       the share link
+[iexplore 9]         -> PASSED : shows a read only url
+[iexplore 9]       the embed as iframe code
+[iexplore 9]         -> PASSED : is an iframe with the the correct url parameters and correct size
+[iexplore 9] 
+[iexplore 9] enter.js
+[iexplore 9]   enter keystroke
+[iexplore 9]     -> PASSED : creates a new line & puts cursor onto a new line
+[iexplore 9] 
+[iexplore 9] font_type.js
+[iexplore 9]   font select
+[iexplore 9]     -> PASSED : makes text monospace
+[iexplore 9] 
+[iexplore 9] helper.js
+[iexplore 9]   the test helper
+[iexplore 9]     the newPad method
+[iexplore 9]       -> PENDING: doesn't leak memory if you creates iframes over and over again
+[iexplore 9]       -> PASSED : gives me 3 jquery instances of chrome, outer and inner
+[iexplore 9]     the waitFor method
+[iexplore 9]       -> PASSED : takes a timeout and waits long enough
+[iexplore 9]       -> PASSED : takes an interval and checks on every interval
+[iexplore 9]       returns a deferred object
+[iexplore 9]         -> PASSED : it calls done after success
+[iexplore 9]         -> PASSED : calls fail after failure
+[iexplore 9]         -> PENDING: throws if you don't listen for fails
+[iexplore 9] 
+[iexplore 9] importexport.js
+[iexplore 9]   import functionality
+[iexplore 9]     -> PASSED : import a pad with newlines from txt
+[iexplore 9]     -> FAILED : "before each" hook Error: the string "Object expected" was thrown, throw an 
+[iexplore 9]     Error :)
+[iexplore 9]     -> PASSED : import a pad with newlines from html
+[iexplore 9]     -> PASSED : import a pad with attributes from html
+[iexplore 9]     -> PASSED : import a pad with bullets from html
+[iexplore 9]     -> PASSED : import a pad with bullets and newlines from html
+[iexplore 9]     -> PASSED : import a pad with bullets and newlines and attributes from html
+[iexplore 9]     -> PASSED : import a pad with nested bullets from html
+[iexplore 9]     -> PASSED : import a pad with 8 levels of bullets and newlines and attributes from htm
+[iexplore 9]     l
+[iexplore 9]     -> PENDING: import a pad with ordered lists from html
+[iexplore 9]     -> PENDING: import a pad with ordered lists and newlines from html
+[iexplore 9]     -> PENDING: import a pad with nested ordered lists and attributes and newlines from h
+[iexplore 9]     tml
+[iexplore 9] 
+[iexplore 9] importindents.js
+[iexplore 9]   import indents functionality
+[iexplore 9]     -> PASSED : import a pad with indents from html
+[iexplore 9]     -> PASSED : import a pad with indented lists and newlines from html
+[iexplore 9]     -> PASSED : import a pad with 8 levels of indents and newlines and attributes from htm
+[iexplore 9]     l
+[iexplore 9] 
+[iexplore 9] indentation.js
+[iexplore 9]   indentation button
+[iexplore 9]     -> PASSED : indent text with keypress
+[iexplore 9]     -> PASSED : indent text with button
+[iexplore 9]     -> PASSED : keeps the indent on enter for the new line
+[iexplore 9] 
+[iexplore 9] italic.js
+[iexplore 9]   italic some text
+[iexplore 9]     -> PASSED : makes text italic using button
+[iexplore 9]     -> PASSED : makes text italic using keypress
+[iexplore 9] 
+[iexplore 9] language.js
+[iexplore 9]   Language select and change
+[iexplore 9]     -> PASSED : makes text german
+[iexplore 9]     -> PASSED : makes text English
+[iexplore 9]     -> PASSED : changes direction when picking an rtl lang
+[iexplore 9]     -> PASSED : changes direction when picking an ltr lang
+[iexplore 9] 
+[iexplore 9] ordered_list.js
+[iexplore 9]   assign ordered list
+[iexplore 9]     -> PASSED : insert ordered list text
+[iexplore 9]     -> PENDING: issue #1125 keeps the numbered list on enter for the new line - EMULATES 
+[iexplore 9]     PASTING INTO A PAD
+[iexplore 9] 
+[iexplore 9] redo.js
+[iexplore 9]   undo button then redo button
+[iexplore 9]     -> PASSED : redo some typing with button
+[iexplore 9]     -> PASSED : redo some typing with keypress
+[iexplore 9] 
+[iexplore 9] responsiveness.js
+[iexplore 9]   Responsiveness of Editor
+[iexplore 9]     -> PENDING: Fast response to keypress in pad with large amount of contents
+[iexplore 9] 
+[iexplore 9] strikethrough.js
+[iexplore 9]   strikethrough button
+[iexplore 9]     -> PASSED : makes text strikethrough
+[iexplore 9] 
+[iexplore 9] timeslider.js
+[iexplore 9]   timeslider button takes you to the timeslider of a pad
+[iexplore 9]     -> PENDING: timeslider contained in URL
+[iexplore 9] 
+[iexplore 9] timeslider_labels.js
+[iexplore 9]   timeslider
+[iexplore 9]     -> PASSED : Shows a date and time in the timeslider and make sure it doesn't include N
+[iexplore 9]     aN
+[iexplore 9] 
+[iexplore 9] timeslider_revisions.js
+[iexplore 9]   timeslider
+[iexplore 9]     -> PASSED : loads adds a hundred revisions
+[iexplore 9]     -> PENDING: changes the url when clicking on the timeslider
+[iexplore 9]     -> FAILED : jumps to a revision given in the url Error: timeout of 20000ms exceeded
+[iexplore 9]     -> PASSED : checks the export url
+[iexplore 9] 
+[iexplore 9] undo.js
+[iexplore 9]   undo button
+[iexplore 9]     -> PASSED : undo some typing using a keypress
+[iexplore 9] 
+[iexplore 9] unordered_list.js
+[iexplore 9]   assign unordered list
+[iexplore 9]     -> PASSED : insert unordered list text then removes by outdent
+[iexplore 9] 
+[iexplore 9] urls_become_clickable.js
+[iexplore 9]   urls
+[iexplore 9]     -> PASSED : when you enter an url, it becomes clickable
+[iexplore 9]     -> PASSED : when you enter a url containing a !, it becomes clickable and contains the
+[iexplore 9]      whole URL
+[iexplore 9] 
+[iexplore 9] FINISHED - 58 tests passed, 2 tests failed, duration: 4:3
+[iexplore 9] 
+Remote sauce test '45e90e1 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/6b540593f0084235aa49ad96650bcd2d
+travis_time:end:04089064:start=1420131575759447198,finish=1420131979537237953,duration=403777790755The command "tests/frontend/travis/runner.sh" exited with 0.
+
+Done. Your build exited with 0.

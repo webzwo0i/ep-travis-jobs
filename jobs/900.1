@@ -1,0 +1,230 @@
+Using worker: bluebox-linux-2.worker.travis-ci.org:travis-linux-4
+
+$ export SAUCE_KEY=[secure]
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet --branch=fix/admin-relative-links git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+cd ether/etherpad-lite
+$ git checkout -qf 5fe60e72218d6371158a29ed5cc345b37a16b27a
+$ nvm use 0.8
+Now using node v0.8.21
+$ node --version
+v0.8.21
+$ npm --version
+1.2.11
+travis_fold:start:install.1$ bin/installDeps.sh
+Copy the settings template to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+npm WARN package.json methods@0.0.1 No README.md file found!
+npm WARN prefer global npm@1.1.71 should be installed with -g
+
+> ws@0.4.25 install /home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+make: Entering directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+  CXX(target) Release/obj.target/bufferutil/src/bufferutil.o
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node: Finished
+  COPY Release/bufferutil.node
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  SOLINK_MODULE(target) Release/obj.target/validation.node: Finished
+  COPY Release/validation.node
+make: Leaving directory `/home/travis/build/ether/etherpad-lite/src/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/build'
+security@1.0.0 node_modules/security
+
+async-stacktrace@0.0.2 node_modules/async-stacktrace
+
+tinycon@0.0.1 node_modules/tinycon
+
+resolve@0.2.8 node_modules/resolve
+
+ejs@0.6.1 node_modules/ejs
+
+async@0.1.22 node_modules/async
+
+languages4translatewiki@0.1.3 node_modules/languages4translatewiki
+
+require-kernel@1.0.5 node_modules/require-kernel
+
+semver@1.0.13 node_modules/semver
+
+unorm@1.0.0 node_modules/unorm
+
+slide@1.1.3 node_modules/slide
+
+formidable@1.0.9 node_modules/formidable
+
+request@2.9.100 node_modules/request
+
+underscore@1.3.1 node_modules/underscore
+
+yajsml@1.1.6 node_modules/yajsml
+
+uglify-js@1.2.5 node_modules/uglify-js
+
+graceful-fs@1.1.5 node_modules/graceful-fs
+└── fast-list@1.0.2
+
+clean-css@0.3.2 node_modules/clean-css
+└── optimist@0.1.9
+
+log4js@0.5.7 node_modules/log4js
+├── dequeue@1.0.3
+└── async@0.1.15
+
+npm-registry-client@0.2.10 node_modules/npm-registry-client
+├── chownr@0.0.1
+├── graceful-fs@1.1.14
+├── rimraf@2.0.3
+├── semver@1.1.4
+├── couch-login@0.1.15
+├── retry@0.6.0
+├── mkdirp@0.3.5
+├── request@2.9.203
+└── npmlog@0.0.2 (ansi@0.1.2)
+
+connect@2.4.6 node_modules/connect
+├── fresh@0.1.0
+├── pause@0.0.1
+├── bytes@0.1.0
+├── cookie@0.0.4
+├── crc@0.2.0
+├── debug@0.7.2
+├── formidable@1.0.11
+├── qs@0.5.1
+└── send@0.0.4 (range-parser@0.0.4, mime@1.2.6)
+
+swagger-node-express@1.2.3 node_modules/swagger-node-express
+└── docco@0.4.0 (commander@1.1.1)
+
+wd@0.0.31 node_modules/wd
+├── vargs@0.1.0
+├── q@0.8.12
+├── underscore@1.4.4
+└── request@2.12.0
+
+ueberDB@0.1.94 node_modules/ueberDB
+├── channels@0.0.2
+├── node-redis@0.1.5
+├── dirty@0.9.6
+├── async@0.1.15
+└── mysql@0.9.5 (hashish@0.0.4)
+
+express@3.1.0 node_modules/express
+├── methods@0.0.1
+├── fresh@0.1.0
+├── cookie-signature@0.0.1
+├── range-parser@0.0.4
+├── buffer-crc32@0.1.1
+├── cookie@0.0.5
+├── debug@0.7.2
+├── commander@0.6.1
+├── mkdirp@0.3.3
+├── send@0.1.0 (mime@1.2.6)
+└── connect@2.7.2 (pause@0.0.1, bytes@0.1.0, formidable@1.0.11, qs@0.5.1)
+
+npm@1.1.71 node_modules/npm
+
+jsdom-nocontextifiy@0.2.10 node_modules/jsdom-nocontextifiy
+├── cssom@0.2.5
+└── htmlparser@1.7.6
+
+socket.io@0.9.13 node_modules/socket.io
+├── base64id@0.1.0
+├── policyfile@0.0.4
+├── redis@0.7.3
+└── socket.io-client@0.9.11 (xmlhttprequest@1.4.2, active-x-obfuscator@0.0.1, ws@0.4.25)
+Ensure jQuery is downloaded and up to date...
+Clear minfified cache...
+ensure custom css/js files are created...
+travis_fold:end:install.1travis_fold:start:install.2$ export GIT_HASH=$(cat .git/HEAD | head -c 7)
+travis_fold:end:install.2travis_fold:start:before_script$ tests/frontend/travis/sauce_tunnel.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 29.0M    1  544k    0     0   819k      0  0:00:36 --:--:--  0:00:36 1403k 13 29.0M   13 3983k    0     0  2378k      0  0:00:12  0:00:01  0:00:11 2847k 24 29.0M   24 7415k    0     0  2757k      0  0:00:10  0:00:02  0:00:08 3071k 36 29.0M   36 10.4M    0     0  2910k      0  0:00:10  0:00:03  0:00:07 3146k 47 29.0M   47 13.7M    0     0  3008k      0  0:00:09  0:00:04  0:00:05 3196k 58 29.0M   58 16.9M    0     0  3067k      0  0:00:09  0:00:05  0:00:04 3365k 69 29.0M   69 20.2M    0     0  3105k      0  0:00:09  0:00:06  0:00:03 3348k 80 29.0M   80 23.4M    0     0  3130k      0  0:00:09  0:00:07  0:00:02 3332k 91 29.0M   91 26.6M    0     0  3147k      0  0:00:09  0:00:08  0:00:01 3321k100 29.0M  100 29.0M    0     0  3170k      0  0:00:09  0:00:09 --:--:-- 3332k
+Archive:  /tmp/sauce.zip
+  inflating: /tmp/NOTICE.txt         
+  inflating: /tmp/license.html       
+  inflating: /tmp/Sauce-Connect.jar  
+2013-03-14 15:02:36.199:INFO::jetty-7.x.y-SNAPSHOT
+2013-03-14 15:02:36.250:INFO::Started SelectChannelConnector@0.0.0.0:50033
+2013-03-14 15:02:56.569:INFO::jetty-7.x.y-SNAPSHOT
+2013-03-14 15:02:56.573:INFO::Started SelectChannelConnector@0.0.0.0:4445
+travis_fold:end:before_script$ tests/frontend/travis/runner.sh
+Remote sauce test '5fe60e7 - firefox , Linux' started! https://saucelabs.com/jobs/56ebbfccaba2424780c481cff0c66b2a
+Remote sauce test '5fe60e7 - googlechrome , Linux' started! https://saucelabs.com/jobs/53acc7ed84df4b4bbcc782ce39c74139
+Remote sauce test '5fe60e7 - iexplore 8, Windows 2003' started! https://saucelabs.com/jobs/2e0e3b62d0af4a5798a3cb961918e8a4
+Remote sauce test '5fe60e7 - iexplore 9, Windows 2008' started! https://saucelabs.com/jobs/5ca5ab3450ee4162b2b21d94373b29ae
+Remote sauce test '5fe60e7 - iexplore 10, Windows 2012' started! https://saucelabs.com/jobs/6f2d4fd2c1604f0499424724bd97c298
+2013-03-14 15:03:50.608:WARN::3 threads could not be stopped
+[iexplore 9] alphabet.js
+[iexplore 9]   All the alphabet works n stuff
+[iexplore 9]     -> PASSED : when you enter any char it appears right
+[iexplore 9] 
+[iexplore 9] bold.js
+[iexplore 9]   bold button
+[iexplore 9]     -> PASSED : makes text bold on click
+[iexplore 9]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 9]      Error :)
+[iexplore 9]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 9] 
+Remote sauce test '5fe60e7 - iexplore 9, Windows 2008' finished! https://saucelabs.com/jobs/5ca5ab3450ee4162b2b21d94373b29ae
+[firefox] alphabet.js
+[firefox]   All the alphabet works n stuff
+[firefox]     -> FAILED : "before each" hook the string "Pad never loaded" was thrown, throw an Error 
+[firefox]     :)
+[firefox]     ([object Object],"Pad never loaded")@http://localhost:9001/tests/frontend/lib/mocha.js:3786
+[firefox]     ("Pad never loaded")@http://localhost:9001/tests/frontend/lib/mocha.js:4059
+[firefox]     uncaught("Pad never loaded","http://localhost:9001/tests/frontend/helper.js",98)@http://localhost:90
+[firefox]     01/tests/frontend/lib/mocha.js:4089
+[firefox]     FINISHED - no test started since 3 minutes, tests stopped
+[firefox] 
+Remote sauce test '5fe60e7 - firefox , Linux' finished! https://saucelabs.com/jobs/56ebbfccaba2424780c481cff0c66b2a
+[googlechrome] alphabet.js
+[googlechrome]   All the alphabet works n stuff
+[googlechrome]     -> PASSED : when you enter any char it appears right
+[googlechrome] 
+[googlechrome] bold.js
+[googlechrome]   bold button
+[googlechrome]     -> PASSED : makes text bold on click
+[googlechrome]     -> PASSED : makes text bold on keypress
+[googlechrome] 
+[googlechrome] change_user_name.js
+[googlechrome]   change username value
+[googlechrome]     -> FAILED : "before each" hook Error: the string "Uncaught Error: Pad never loaded" was 
+[googlechrome]     thrown, throw an Error :)
+[googlechrome]         at Runner.fail (http://localhost:9001/tests/frontend/lib/mocha.js:3786:11)
+[googlechrome]         at Runner.uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4059:8)
+[googlechrome]         at uncaught (http://localhost:9001/tests/frontend/lib/mocha.js:4089:10)
+[googlechrome]     FINISHED - no test started since 3 minutes, tests stopped
+[googlechrome] 
+Remote sauce test '5fe60e7 - googlechrome , Linux' finished! https://saucelabs.com/jobs/53acc7ed84df4b4bbcc782ce39c74139
+[iexplore 8] alphabet.js
+[iexplore 8]   All the alphabet works n stuff
+[iexplore 8]     -> PASSED : when you enter any char it appears right
+[iexplore 8] 
+[iexplore 8] bold.js
+[iexplore 8]   bold button
+[iexplore 8]     -> PASSED : makes text bold on click
+[iexplore 8]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 8]      Error :)
+[iexplore 8]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 8] 
+Remote sauce test '5fe60e7 - iexplore 8, Windows 2003' finished! https://saucelabs.com/jobs/2e0e3b62d0af4a5798a3cb961918e8a4
+[iexplore 10] alphabet.js
+[iexplore 10]   All the alphabet works n stuff
+[iexplore 10]     -> PASSED : when you enter any char it appears right
+[iexplore 10] 
+[iexplore 10] bold.js
+[iexplore 10]   bold button
+[iexplore 10]     -> FAILED : "before each" hook Error: the string "Pad never loaded" was thrown, throw an
+[iexplore 10]      Error :)
+[iexplore 10]     FINISHED - no test started since 3 minutes, tests stopped
+[iexplore 10] 
+Remote sauce test '5fe60e7 - iexplore 10, Windows 2012' finished! https://saucelabs.com/jobs/6f2d4fd2c1604f0499424724bd97c298
+tests/frontend/travis/runner.sh: 15: kill: No such process
+
+
+The command "tests/frontend/travis/runner.sh" exited with 1.
+
+Done. Your build exited with 1.

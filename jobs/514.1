@@ -1,0 +1,13 @@
+Using worker: bluebox-jvm-otp.worker.travis-ci.org:travis-jvm-1
+
+$ export SAUCE_USER=pita
+$ git clone --depth=100 --quiet git://github.com/ether/etherpad-lite.git ether/etherpad-lite
+$ cd ether/etherpad-lite
+$ git fetch origin +refs/pull/1428/merge: 
+fatal: unable to connect to github.com:
+github.com[0: 207.97.227.239]: errno=Connection timed out
+
+
+The command "git fetch origin +refs/pull/1428/merge:" failed and exited with 128 during checkout.
+
+Your build has been stopped.
