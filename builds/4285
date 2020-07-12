@@ -1,0 +1,12 @@
+Build #4285:  hrm only first 2 tests running?!  Why
+State:         errored
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        faed940
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4675b0d5eb80...faed9409b4bd
+Duration:      12 min 42 sec
+Started:       2020-03-22 13:22:53
+Finished:      2020-03-22 13:33:47
+
+#4285.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4285.2 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

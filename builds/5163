@@ -1,0 +1,13 @@
+Build #5163:  safer handling of errors within import
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4018)
+Commit:        40c0cda
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4018
+Duration:      2 min 16 sec
+Started:       2020-05-16 12:46:28
+Finished:      2020-05-16 12:47:17
+
+#5163.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5163.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5163.3 errored: 46 sec         os: linux, node_js: lts/*, env:

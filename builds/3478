@@ -1,0 +1,11 @@
+Job #3478.1:  [fix] Do not show a 'pad deleted' message when pad is copied
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3185)
+Commit:        84d675e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3185
+Duration:      11 min 5 sec
+Started:       2017-05-05 23:19:48
+Finished:      2017-05-05 23:30:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

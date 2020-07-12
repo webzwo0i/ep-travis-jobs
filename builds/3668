@@ -1,0 +1,11 @@
+Job #3668.1:  Merge pull request #3352 from ldidry/fix-line-numbers
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        eb9875e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/074c9c6dddc2...eb9875ee3278
+Duration:      22 min 31 sec
+Started:       2018-04-03 13:58:32
+Finished:      2018-04-03 14:21:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

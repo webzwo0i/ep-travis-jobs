@@ -1,0 +1,11 @@
+Job #771.1:  only show clients on this pad resolves issue #1544
+State:         failed
+Type:          push
+Branch:        fix-clients-conn-count
+Commit:        fb3e4a6
+Compare URL:   https://github.com/ether/etherpad-lite/commit/fb3e4a6232a9
+Duration:      6 min 54 sec
+Started:       2013-02-20 17:19:11
+Finished:      2013-02-20 17:26:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

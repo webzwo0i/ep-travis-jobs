@@ -1,0 +1,13 @@
+Build #4784:  test: fix settings loading in api/instance backend test
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5537ef3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f0fdb94eb084...5537ef3950e8
+Duration:      19 min 55 sec
+Started:       2020-04-16 03:03:46
+Finished:      2020-04-16 03:20:07
+
+#4784.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4784.2 failed:  16 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4784.3 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

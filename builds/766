@@ -1,0 +1,11 @@
+Job #766.1:  a different approach
+State:         failed
+Type:          push
+Branch:        expose-socket-timeslider
+Commit:        cda3a0e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7fcc71710fc2...cda3a0e78bbf
+Duration:      6 min 56 sec
+Started:       2013-02-18 22:04:53
+Finished:      2013-02-18 22:11:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

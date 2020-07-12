@@ -1,0 +1,13 @@
+Job #4.1:  Fix version # in package.json
+State:         failed
+Type:          pull request
+Branch:        master (PR #1160)
+Commit:        74a5d5d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1160
+Duration:      13 min 28 sec
+Started:       2012-11-14 21:11:02
+Finished:      2012-11-14 21:24:30
+Allow Failure: false
+Config:        env: oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

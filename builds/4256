@@ -1,0 +1,12 @@
+Build #4256:  Minify: on errors, generate logs instead of simply silencing them
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a1978d2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c316402d86da...a1978d22454d
+Duration:      12 min 49 sec
+Started:       2020-03-20 22:51:53
+Finished:      2020-03-20 23:03:26
+
+#4256.1 passed:  11 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4256.2 passed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

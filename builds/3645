@@ -1,0 +1,11 @@
+Job #3645.1:  Fix few mistakes
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3318)
+Commit:        32e50b3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3318
+Duration:      1 min 54 sec
+Started:       2018-02-15 21:13:16
+Finished:      2018-02-15 21:15:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

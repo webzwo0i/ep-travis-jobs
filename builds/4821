@@ -1,0 +1,13 @@
+Build #4821:  AbsolutePaths: etherpad was unable to get its own git commit when run from a different directory
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3885)
+Commit:        f447f74
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3885
+Duration:      2 min 50 sec
+Started:       2020-04-19 03:48:13
+Finished:      2020-04-19 03:49:35
+
+#4821.1 errored: 1 min 22 sec   os: linux, node_js: lts/*, env:
+#4821.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4821.3 errored: 40 sec         os: linux, node_js: lts/*, env:

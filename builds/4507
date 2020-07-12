@@ -1,0 +1,12 @@
+Build #4507:  remove console log
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3783)
+Commit:        99e0f92
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3783
+Duration:      21 min 28 sec
+Started:       2020-03-30 02:32:51
+Finished:      2020-03-30 02:43:37
+
+#4507.1 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:
+#4507.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env:

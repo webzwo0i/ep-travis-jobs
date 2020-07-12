@@ -1,0 +1,11 @@
+Job #959.1:  Update html10n.js
+State:         failed
+Type:          push
+Branch:        fix/html10n-update
+Commit:        b3dbf1c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b3dbf1c995d1
+Duration:      7 min 13 sec
+Started:       2013-03-18 22:32:48
+Finished:      2013-03-18 22:40:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

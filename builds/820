@@ -1,0 +1,11 @@
+Job #820.1:  remove more references to lite
+State:         failed
+Type:          push
+Branch:        remove-lite-ref
+Commit:        3692331
+Compare URL:   https://github.com/ether/etherpad-lite/commit/36923313fae8
+Duration:      7 min 24 sec
+Started:       2013-03-02 00:09:47
+Finished:      2013-03-02 00:17:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

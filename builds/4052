@@ -1,0 +1,11 @@
+Job #4052.1:  Add code consistency and good pratices.
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3655)
+Commit:        2eaf34c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3655
+Duration:      2 min 38 sec
+Started:       2019-10-23 15:04:09
+Finished:      2019-10-23 15:06:47
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #3675.1:  Merge pull request #3115 from noerw/redirect_fix
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        18dd901
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83ce73b77b50...18dd90139aef
+Duration:      11 min 41 sec
+Started:       2018-04-03 14:21:39
+Finished:      2018-04-03 14:33:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

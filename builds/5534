@@ -1,0 +1,15 @@
+Build #5534:  feat(docker): Entrypoint to wait on database
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3855)
+Commit:        7374f8b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3855
+Duration:      5 min 33 sec
+Started:       2020-06-14 02:22:19
+Finished:      2020-06-14 02:23:49
+
+#5534.1 passed:  1 min 5 sec    os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5534.2 failed:  53 sec         os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5534.3 failed:  1 min 5 sec    os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5534.4 failed:  1 min          os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5534.5 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test

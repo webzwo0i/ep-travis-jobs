@@ -1,0 +1,11 @@
+Job #382.1:  Merge pull request #1370 from mluto/fix-load-message-IE8
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6802353
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6055fa9ceccc...6802353306f6
+Duration:      4 min 37 sec
+Started:       2013-01-16 18:54:29
+Finished:      2013-01-16 18:59:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

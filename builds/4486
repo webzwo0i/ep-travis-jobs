@@ -1,0 +1,12 @@
+Build #4486:  tests: the tests will not dumbly continue if there is an error
+State:         errored
+Type:          push
+Branch:        ci
+Commit:        86613a6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b19449a1cd82...86613a6eb05b
+Duration:      21 min 54 sec
+Started:       2020-03-29 22:46:37
+Finished:      2020-03-29 22:57:50
+
+#4486.1 errored: 11 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4486.2 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

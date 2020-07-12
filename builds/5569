@@ -1,0 +1,14 @@
+Build #5569:  pluginfw: Move Timeslider eejs block to correct location (#4139)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        168737b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0e2749831a01...168737b6d894
+Duration:      30 min 36 sec
+Started:       2020-06-27 10:53:57
+Finished:      2020-06-27 11:20:32
+
+#5569.1 errored: 26 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5569.2 passed:  1 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5569.3 failed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5569.4 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

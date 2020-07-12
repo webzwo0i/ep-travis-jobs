@@ -1,0 +1,11 @@
+Job #3981.1:  Display the version in the web interface
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3596)
+Commit:        919d963
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3596
+Duration:      1 min 49 sec
+Started:       2019-04-16 01:14:26
+Finished:      2019-04-16 01:16:15
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

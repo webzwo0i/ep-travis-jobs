@@ -1,0 +1,13 @@
+Build #4564:  backend test runner config
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        0d4e2c6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      32 min 21 sec
+Started:       2020-04-01 15:54:15
+Finished:      2020-04-01 16:14:03
+
+#4564.1 failed:  19 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4564.2 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4564.3 errored: 10 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #4338:  fix IE undo test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        81ff9c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      21 min 27 sec
+Started:       2020-03-22 19:40:40
+Finished:      2020-03-22 19:51:28
+
+#4338.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4338.2 errored: 10 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

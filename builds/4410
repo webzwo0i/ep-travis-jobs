@@ -1,0 +1,12 @@
+Build #4410:  test coerage for 3620
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3762)
+Commit:        f78a8e9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3762
+Duration:      21 min 35 sec
+Started:       2020-03-26 17:39:12
+Finished:      2020-03-26 17:50:02
+
+#4410.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env:
+#4410.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

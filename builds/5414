@@ -1,0 +1,14 @@
+Build #5414:  Merge branch 'develop' of https://github.com/ether/etherpad-lite into test-for-2812
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        3b161e1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      1 min 59 sec
+Started:       2020-06-05 22:08:37
+Finished:      2020-06-05 22:09:19
+
+#5414.1 canceled: 41 sec         os: linux, node_js: lts/*, env:
+#5414.2 errored: 39 sec         os: linux, node_js: lts/*, env:
+#5414.3 canceled: 39 sec         os: linux, node_js: lts/*, env:
+#5414.4 canceled: 42 min 30 sec  os: linux, node_js: lts/*, env:

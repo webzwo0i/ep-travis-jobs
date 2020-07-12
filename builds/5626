@@ -1,0 +1,14 @@
+Build #5626:  test promiseChainRemote
+State:         errored
+Type:          push
+Branch:        sl-chained
+Commit:        02a1187
+Compare URL:   https://github.com/ether/etherpad-lite/commit/02a118771635
+Duration:      15 min 9 sec
+Started:       2020-07-10 17:54:59
+Finished:      2020-07-10 18:05:56
+
+#5626.1 errored: 10 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5626.2 passed:  54 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5626.3 failed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5626.4 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

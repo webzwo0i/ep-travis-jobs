@@ -1,0 +1,11 @@
+Job #4107.1:  docker: Add Run with volume example
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3668)
+Commit:        d76b3ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3668
+Duration:      1 min 27 sec
+Started:       2019-12-02 22:42:54
+Finished:      2019-12-02 22:44:21
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

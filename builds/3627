@@ -1,0 +1,11 @@
+Job #3627.1:  Added missing require for is-var-name
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b292e13
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a03422b09468...b292e137ed33
+Duration:      11 min 58 sec
+Started:       2018-02-03 12:35:08
+Finished:      2018-02-03 12:47:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

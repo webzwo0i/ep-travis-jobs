@@ -1,0 +1,11 @@
+Job #492.1:  Jump to revision given in URL, add current revision to URL
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1418)
+Commit:        5c79ea4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1418
+Duration:      10 min 58 sec
+Started:       2013-01-28 10:26:33
+Finished:      2013-01-28 10:37:31
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

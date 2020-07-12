@@ -1,0 +1,11 @@
+Job #68.1:  Merge pull request #1188 from joker-x/master
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        34df9d6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/db5119f798b9...34df9d651e49
+Duration:      6 min 18 sec
+Started:       2012-11-21 18:54:05
+Finished:      2012-11-21 19:00:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3720.1:  Merge branch 'release/1.6.5'
+State:         failed
+Type:          push
+Branch:        master
+Commit:        e4a8581
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8c1020f7d1f2...e4a85810044d
+Duration:      2 min 16 sec
+Started:       2018-04-10 01:01:07
+Finished:      2018-04-10 01:03:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

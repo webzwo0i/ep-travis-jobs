@@ -1,0 +1,13 @@
+Build #5050:  fix tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        ab7c561
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 22 sec
+Started:       2020-04-30 15:07:20
+Finished:      2020-04-30 15:08:12
+
+#5050.1 errored: 48 sec         os: linux, node_js: lts/*, env:
+#5050.2 errored: 51 sec         os: linux, node_js: lts/*, env:
+#5050.3 errored: 43 sec         os: linux, node_js: lts/*, env:

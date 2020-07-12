@@ -1,0 +1,11 @@
+Job #3954.1:  Await padManager.getPad in getPadLines
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3573)
+Commit:        23ebee2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3573
+Duration:      1 min 36 sec
+Started:       2019-03-12 18:22:42
+Finished:      2019-03-12 18:24:18
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

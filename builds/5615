@@ -1,0 +1,14 @@
+Build #5615:  temp replace promiseChainRemote with chain
+State:         failed
+Type:          push
+Branch:        saucelabs-parallel
+Commit:        60ca907
+Compare URL:   https://github.com/ether/etherpad-lite/commit/60ca907bffd1
+Duration:      15 min 11 sec
+Started:       2020-07-10 03:42:46
+Finished:      2020-07-10 03:53:49
+
+#5615.1 passed:  11 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5615.2 passed:  50 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5615.3 failed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5615.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #3795.1:  tests: introduce istanbul.js to check code coverage
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        a0d5eb1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a3ae374a67f8...a0d5eb18a001
+Duration:      22 sec
+Started:       2018-07-28 23:55:22
+Finished:      2018-07-28 23:55:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

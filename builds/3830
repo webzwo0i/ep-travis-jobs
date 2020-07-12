@@ -1,0 +1,11 @@
+Job #3830.1:  skins: finalize support for multiple skins
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3475)
+Commit:        d5073d4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3475
+Duration:      19 sec
+Started:       2018-08-26 03:50:34
+Finished:      2018-08-26 03:50:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

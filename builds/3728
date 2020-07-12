@@ -1,0 +1,11 @@
+Job #3728.1:  Remove leftover code from earlier commits
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7b6a4ab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d26df8649025...7b6a4aba3024
+Duration:      1 min 50 sec
+Started:       2018-04-19 23:24:52
+Finished:      2018-04-19 23:26:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

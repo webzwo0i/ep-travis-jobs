@@ -1,0 +1,11 @@
+Job #3730.1:  WIP: Adding linkable lines
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3384)
+Commit:        b8df45c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3384
+Duration:      1 min 57 sec
+Started:       2018-04-23 12:59:41
+Finished:      2018-04-23 13:01:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

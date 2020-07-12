@@ -1,0 +1,11 @@
+Job #3800.1:  Merge test fixes for import/export. Fixes #3425.
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        b466acd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/10f0cb325304...b466acd8810c
+Duration:      37 sec
+Started:       2018-08-09 19:23:58
+Finished:      2018-08-09 19:24:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,12 @@
+Build #4497:  Another log message. Waiting 10 minutes before pushing this.
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        1cf2fe9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      10 min 22 sec
+Started:       2020-03-29 23:46:16
+Finished:      2020-03-29 23:54:02
+
+#4497.1 failed:  7 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4497.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

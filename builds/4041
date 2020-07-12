@@ -1,0 +1,11 @@
+Job #4041.1:  docker: enable environment variables settings by default
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6d9264c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7c099fef5e08...6d9264cf3cd7
+Duration:      11 min 36 sec
+Started:       2019-10-19 02:39:45
+Finished:      2019-10-19 02:51:21
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

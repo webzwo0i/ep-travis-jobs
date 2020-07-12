@@ -1,0 +1,14 @@
+Build #5490:  ugh attempt to overwrite package files due to weirdness
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        4b37034
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b1ce37203556...4b37034f0cb4
+Duration:      2 min 14 sec
+Started:       2020-06-07 18:43:19
+Finished:      2020-06-07 18:43:43
+
+#5490.1 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5490.2 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5490.3 failed:  56 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5490.4 errored: 29 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

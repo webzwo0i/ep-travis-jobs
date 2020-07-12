@@ -1,0 +1,13 @@
+Build #4931:  specialpages: do not set a language cookie if the browser did not send one
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7ec3be6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cb785590bc75...7ec3be640b1a
+Duration:      14 min 47 sec
+Started:       2020-04-21 22:57:37
+Finished:      2020-04-21 23:09:09
+
+#4931.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4931.2 failed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4931.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

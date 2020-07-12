@@ -1,0 +1,11 @@
+Job #850.1:  Merge pull request #1590 from ether/fix-tests-android
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d124d9b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2b5cb2989c3c...d124d9b26c9a
+Duration:      7 min 25 sec
+Started:       2013-03-05 21:36:09
+Finished:      2013-03-05 21:43:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

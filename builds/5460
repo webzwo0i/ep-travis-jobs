@@ -1,0 +1,14 @@
+Build #5460:  trying something else..
+State:         canceled
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        f35100a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3eec0a0f7f9f...f35100a7bdf3
+Duration:      22 min 50 sec
+Started:       2020-06-07 01:26:25
+Finished:      2020-06-07 01:35:20
+
+#5460.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5460.2 canceled: 8 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5460.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5460.4 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

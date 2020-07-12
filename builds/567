@@ -1,0 +1,11 @@
+Job #567.1:  Removed old chat-code
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1464)
+Commit:        5280b92
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1464
+Duration:      10 min 57 sec
+Started:       2013-02-07 11:21:38
+Finished:      2013-02-07 11:32:35
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

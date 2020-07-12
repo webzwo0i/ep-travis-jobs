@@ -1,0 +1,13 @@
+Build #4835:  Change favicon to be closer to new style
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3889)
+Commit:        7619036
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3889
+Duration:      2 min 8 sec
+Started:       2020-04-19 13:07:24
+Finished:      2020-04-19 13:08:15
+
+#4835.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#4835.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4835.3 errored: 41 sec         os: linux, node_js: lts/*, env:

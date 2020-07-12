@@ -1,0 +1,12 @@
+Build #4277:  attempt to remove wd and let SL do their thing, this may not work
+State:         failed
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        2230a5b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e1c58a4844ec...2230a5b7cb32
+Duration:      3 min 44 sec
+Started:       2020-03-22 12:50:10
+Finished:      2020-03-22 12:52:09
+
+#4277.1 failed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4277.2 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

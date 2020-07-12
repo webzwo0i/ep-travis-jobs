@@ -1,0 +1,13 @@
+Build #4666:  first stab at doing test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3837)
+Commit:        7e77619
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3837
+Duration:      6 min 51 sec
+Started:       2020-04-06 12:01:59
+Finished:      2020-04-06 12:07:20
+
+#4666.1 errored: 5 min 15 sec   os: linux, node_js: lts/*, env:
+#4666.2 errored: 51 sec         os: linux, node_js: lts/*, env:
+#4666.3 errored: 45 sec         os: linux, node_js: lts/*, env:

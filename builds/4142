@@ -1,0 +1,11 @@
+Job #4142.1:  no errors on chrome client
+State:         errored
+Type:          push
+Branch:        etherpad-export-and-import
+Commit:        a07d172
+Compare URL:   https://github.com/ether/etherpad-lite/compare/etherpad-export-and-import
+Duration:      52 sec
+Started:       2019-12-07 19:41:13
+Finished:      2019-12-07 19:42:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

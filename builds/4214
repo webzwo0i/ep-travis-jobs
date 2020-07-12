@@ -1,0 +1,12 @@
+Build #4214:  Fix toolbar on mobile
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3703)
+Commit:        f1d2f34
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3703
+Duration:      2 min 46 sec
+Started:       2020-03-13 12:20:14
+Finished:      2020-03-13 12:21:42
+
+#4214.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env:
+#4214.2 passed:  1 min 18 sec   os: linux, node_js: lts/*, env:

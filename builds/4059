@@ -1,0 +1,11 @@
+Job #4059.1:  docker: Run as unprivileged user
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        eea99fe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bf7c7241fc72...eea99fe507f1
+Duration:      11 min 38 sec
+Started:       2019-10-24 11:29:52
+Finished:      2019-10-24 11:41:30
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

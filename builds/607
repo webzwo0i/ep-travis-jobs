@@ -1,0 +1,11 @@
+Job #607.1:  please wait msg
+State:         failed
+Type:          push
+Branch:        please-wait-msg
+Commit:        3a73aa2
+Compare URL:   https://github.com/ether/etherpad-lite/commit/3a73aa2f4823
+Duration:      6 min 48 sec
+Started:       2013-02-10 04:18:20
+Finished:      2013-02-10 04:25:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

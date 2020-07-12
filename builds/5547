@@ -1,0 +1,15 @@
+Build #5547:  :art: Upgrade compose syntax and healthchecks
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3855)
+Commit:        8465c35
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3855
+Duration:      8 min 46 sec
+Started:       2020-06-18 01:28:55
+Finished:      2020-06-18 01:31:13
+
+#5547.1 passed:  1 min 8 sec    os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5547.2 failed:  1 min 33 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5547.3 failed:  2 min 18 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5547.4 failed:  2 min 14 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5547.5 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test

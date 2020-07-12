@@ -1,0 +1,11 @@
+Job #3737.1:  Merge branch 'develop' into patch-1
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3372)
+Commit:        f28f56b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3372
+Duration:      2 min 17 sec
+Started:       2018-05-04 23:19:34
+Finished:      2018-05-04 23:21:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

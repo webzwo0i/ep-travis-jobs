@@ -1,0 +1,11 @@
+Job #727.1:  Fixes #1498: Two-part locale specs in lang cookie wouldn't be read correctly
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1529)
+Commit:        293f659
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1529
+Duration:      10 min 57 sec
+Started:       2013-02-17 21:37:12
+Finished:      2013-02-17 21:48:09
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

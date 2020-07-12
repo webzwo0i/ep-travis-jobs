@@ -1,0 +1,11 @@
+Job #3849.1:  use of os.tmpdir() to determine temp dir
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3482)
+Commit:        777f008
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3482
+Duration:      12 min 30 sec
+Started:       2018-09-18 13:12:01
+Finished:      2018-09-18 13:24:31
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

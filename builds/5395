@@ -1,0 +1,14 @@
+Build #5395:  tests: css: ui: frontend runner re-styling
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4081)
+Commit:        5aa2790
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4081
+Duration:      1 min 40 sec
+Started:       2020-06-04 18:03:16
+Finished:      2020-06-04 18:03:56
+
+#5395.1 errored: 25 sec         os: linux, node_js: lts/*, env:
+#5395.2 errored: 27 sec         os: linux, node_js: lts/*, env:
+#5395.3 errored: 24 sec         os: linux, node_js: lts/*, env:
+#5395.4 errored: 24 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,13 @@
+Build #4867:  change back to 100 not 99
+State:         failed
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        327a5a5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3967e50b584f...327a5a525aa7
+Duration:      9 min 4 sec
+Started:       2020-04-19 16:59:16
+Finished:      2020-04-19 17:05:09
+
+#4867.1 passed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4867.2 failed:  5 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4867.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

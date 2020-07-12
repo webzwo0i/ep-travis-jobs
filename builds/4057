@@ -1,0 +1,11 @@
+Job #4057.1:  docker: Run as unprivileged user
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3643)
+Commit:        99402d7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3643
+Duration:      1 min 46 sec
+Started:       2019-10-24 11:27:20
+Finished:      2019-10-24 11:29:06
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

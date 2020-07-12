@@ -1,0 +1,13 @@
+Build #4695:  css: Add chat animation on openning
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        5f2ab3a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 17 sec
+Started:       2020-04-07 19:43:20
+Finished:      2020-04-07 19:44:09
+
+#4695.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4695.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4695.3 errored: 45 sec         os: linux, node_js: lts/*, env:

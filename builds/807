@@ -1,0 +1,11 @@
+Job #807.1:  Merge pull request #1563 from ether/postTimesliderInit-docs
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        08ffdac
+Compare URL:   https://github.com/ether/etherpad-lite/compare/18b6cf1534fb...08ffdac4098b
+Duration:      6 min 51 sec
+Started:       2013-02-27 16:32:38
+Finished:      2013-02-27 16:39:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

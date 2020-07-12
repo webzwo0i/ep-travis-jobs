@@ -1,0 +1,13 @@
+Build #5203:  Revert "SessionStore: replace password with PASSWORD_HIDDEN when storing in db"
+State:         failed
+Type:          push
+Branch:        master
+Commit:        6a0f73d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/89a155fdce7a...6a0f73d1379b
+Duration:      19 min 27 sec
+Started:       2020-05-22 10:20:18
+Finished:      2020-05-22 10:36:47
+
+#5203.1 passed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5203.2 failed:  16 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5203.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

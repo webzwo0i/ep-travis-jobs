@@ -1,0 +1,11 @@
+Job #3865.1:  skins: fix timeslider support
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f6cef9d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/20be994d9b6d...f6cef9dfd2ff
+Duration:      11 min 38 sec
+Started:       2018-10-29 22:02:04
+Finished:      2018-10-29 22:13:42
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

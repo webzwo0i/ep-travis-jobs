@@ -1,0 +1,12 @@
+Build #4483:  Make openapi deps explicit
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3786)
+Commit:        2fe9253
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3786
+Duration:      21 min 29 sec
+Started:       2020-03-29 22:25:22
+Finished:      2020-03-29 22:37:55
+
+#4483.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4483.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env:

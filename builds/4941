@@ -1,0 +1,13 @@
+Build #4941:  ImportHandler: UI for showing maxFileSize error on import
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c6cb253
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ffa7244e8114...c6cb253f7632
+Duration:      14 min 32 sec
+Started:       2020-04-22 02:07:00
+Finished:      2020-04-22 02:18:22
+
+#4941.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4941.2 failed:  11 min 22 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4941.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

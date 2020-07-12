@@ -1,0 +1,14 @@
+Build #5446:  remember-to-define
+State:         errored
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        d13f968
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1cff58fec83b...d13f9687527c
+Duration:      30 min 55 sec
+Started:       2020-06-06 23:46:25
+Finished:      2020-06-06 23:58:42
+
+#5446.1 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5446.2 failed:  7 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5446.3 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5446.4 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

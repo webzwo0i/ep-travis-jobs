@@ -1,0 +1,11 @@
+Job #991.1:  Issue #1648 - Long lines without any spaces don't wrap on Firefox, the text ends up going off screen
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1649)
+Commit:        8e10999
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1649
+Duration:      10 min 57 sec
+Started:       2013-03-20 23:50:56
+Finished:      2013-03-21 00:01:53
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

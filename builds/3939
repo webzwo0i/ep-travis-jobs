@@ -1,0 +1,11 @@
+Job #3939.1:  node8: get rid of node < 0.7 compatibility when deleting files.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        59a6f2e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d9b7c9fafb7...59a6f2e9b8ad
+Duration:      11 min 40 sec
+Started:       2019-02-19 22:01:47
+Finished:      2019-02-19 22:13:27
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

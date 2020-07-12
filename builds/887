@@ -1,0 +1,11 @@
+Job #887.1:  add keystroke tests for relevant buttonpresses and change naming schema to something more sane
+State:         failed
+Type:          push
+Branch:        frontend-tests-refactor
+Commit:        b4ec073
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b4ec07312b89
+Duration:      8 min 9 sec
+Started:       2013-03-13 19:03:52
+Finished:      2013-03-13 19:12:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

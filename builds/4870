@@ -1,0 +1,13 @@
+Build #4870:  doh
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3899)
+Commit:        ade1ad6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3899
+Duration:      14 min 43 sec
+Started:       2020-04-19 17:30:53
+Finished:      2020-04-19 17:42:09
+
+#4870.1 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4870.2 errored: 11 min 16 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4870.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

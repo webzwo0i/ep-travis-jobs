@@ -1,0 +1,11 @@
+Job #722.1:  Added versioning to API functions
+State:         errored
+Type:          pull request
+Branch:        dont-die-on-bad-html (PR #1528)
+Commit:        e2b6130
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1528
+Duration:      10 min 56 sec
+Started:       2013-02-16 12:53:56
+Finished:      2013-02-16 13:04:52
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

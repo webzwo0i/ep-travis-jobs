@@ -1,0 +1,13 @@
+Build #5306:  Revert "testing: New chrome testing hack slash workaround (#4055)"
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4057)
+Commit:        dbb70b5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4057
+Duration:      1 min 16 sec
+Started:       2020-05-29 18:50:13
+Finished:      2020-05-29 18:50:43
+
+#5306.1 errored: 27 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5306.2 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5306.3 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #4738:  3 tests passing, still not working in editor properly
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3846)
+Commit:        2df80bb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3846
+Duration:      2 min 15 sec
+Started:       2020-04-11 17:11:59
+Finished:      2020-04-11 17:12:51
+
+#4738.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4738.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4738.3 errored: 44 sec         os: linux, node_js: lts/*, env:

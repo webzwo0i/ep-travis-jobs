@@ -1,0 +1,11 @@
+Job #3678.1:  Merge pull request #3218 from klausweiss/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2765a95
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d393bf4dd883...2765a957747a
+Duration:      12 min 33 sec
+Started:       2018-04-03 14:39:22
+Finished:      2018-04-03 14:51:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

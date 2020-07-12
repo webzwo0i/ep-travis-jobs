@@ -1,0 +1,11 @@
+Job #3775.1:  Correctly display plugin list in troubleshooting tab
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        937ca09
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c4918efc1bb2...937ca09d74e1
+Duration:      12 min 3 sec
+Started:       2018-07-15 23:48:20
+Finished:      2018-07-16 00:00:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

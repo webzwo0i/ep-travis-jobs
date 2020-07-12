@@ -1,0 +1,13 @@
+Build #5101:  Localisation updates from https://translatewiki.net.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2535457
+Compare URL:   https://github.com/ether/etherpad-lite/compare/77b64bc4bc71...253545712e32
+Duration:      14 min 26 sec
+Started:       2020-05-11 17:36:35
+Finished:      2020-05-11 17:47:54
+
+#5101.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5101.2 failed:  11 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5101.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

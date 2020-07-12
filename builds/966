@@ -1,0 +1,11 @@
+Job #966.1:  more tests but still fundamental flaw with arrow keys
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1640)
+Commit:        cf63017
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1640
+Duration:      10 min 53 sec
+Started:       2013-03-18 23:16:42
+Finished:      2013-03-18 23:27:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

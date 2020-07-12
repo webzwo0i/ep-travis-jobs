@@ -1,0 +1,11 @@
+Job #801.1:  remove pointless stuff
+State:         failed
+Type:          push
+Branch:        store-sessions-in-db
+Commit:        2c69066
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e52dc2b17cdb...2c6906659177
+Duration:      12 min 53 sec
+Started:       2013-02-27 03:03:09
+Finished:      2013-02-27 03:16:02
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

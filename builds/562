@@ -1,0 +1,11 @@
+Job #562.1:  Merge pull request #1457 from ether/fix-IE8-error
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a9436f2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5b31030958c7...a9436f290a8d
+Duration:      7 min 27 sec
+Started:       2013-02-07 03:00:09
+Finished:      2013-02-07 03:07:36
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

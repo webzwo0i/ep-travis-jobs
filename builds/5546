@@ -1,0 +1,14 @@
+Build #5546:  bugfix: Fix #4120 where an author might not be populated on restart - if this is the case don't push the author to the array.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        beccf67
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d19937fa061d...beccf677a45c
+Duration:      25 min 39 sec
+Started:       2020-06-17 11:54:34
+Finished:      2020-06-17 12:16:06
+
+#5546.1 passed:  21 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5546.2 passed:  1 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5546.3 failed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5546.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

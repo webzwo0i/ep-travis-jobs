@@ -1,0 +1,11 @@
+Job #3489.1:  [feat] New server-side hook: padCopy
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3195)
+Commit:        8aab078
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3195
+Duration:      6 min 15 sec
+Started:       2017-05-19 00:13:45
+Finished:      2017-05-19 00:20:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

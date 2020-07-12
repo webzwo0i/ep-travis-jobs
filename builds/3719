@@ -1,0 +1,11 @@
+Job #3719.1:  manually updated CHANGELOG.md
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3eb3e30
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1d4e2b3b1145...3eb3e301a2d7
+Duration:      2 min 8 sec
+Started:       2018-04-10 00:50:59
+Finished:      2018-04-10 00:53:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

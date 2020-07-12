@@ -1,0 +1,14 @@
+Build #5550:  Update issue templates
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f5b94bd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5f8c9ced399b...f5b94bd6643a
+Duration:      25 min 42 sec
+Started:       2020-06-21 17:13:17
+Finished:      2020-06-21 17:34:43
+
+#5550.1 passed:  21 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5550.2 passed:  1 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5550.3 failed:  1 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5550.4 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

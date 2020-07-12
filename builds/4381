@@ -1,0 +1,12 @@
+Build #4381:  scroll tests need seperately looking at
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        4fabc86
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      8 min 59 sec
+Started:       2020-03-23 23:07:21
+Finished:      2020-03-23 23:14:58
+
+#4381.1 passed:  7 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4381.2 passed:  1 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

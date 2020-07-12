@@ -1,0 +1,14 @@
+Build #5339:  tests: sensible value for load tester to run at
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c9c2adb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7be701dbeaac...c9c2adbdb39a
+Duration:      25 min 53 sec
+Started:       2020-05-31 00:50:13
+Finished:      2020-05-31 01:10:54
+
+#5339.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5339.2 passed:  20 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5339.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5339.4 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

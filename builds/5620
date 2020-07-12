@@ -1,0 +1,14 @@
+Build #5620:  Same site cookie fix - Ready for testing / merge (#3990)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b15154c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3ea8d571e7e6...b15154cc2320
+Duration:      25 min 53 sec
+Started:       2020-07-10 09:43:44
+Finished:      2020-07-10 10:05:35
+
+#5620.1 passed:  21 min 51 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5620.2 passed:  54 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5620.3 failed:  1 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5620.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

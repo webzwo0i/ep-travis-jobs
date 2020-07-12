@@ -1,0 +1,11 @@
+Job #3622.1:  better sanitize window location in error messages
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3313)
+Commit:        ff4d30d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3313
+Duration:      2 min 37 sec
+Started:       2018-01-31 09:22:38
+Finished:      2018-01-31 09:25:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

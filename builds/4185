@@ -1,0 +1,11 @@
+Job #4185.1:  windows: bump the node version included in the prebuilt package: 10.16.3 -> 10.18.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5bcc5a3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/140d5c4b41b1...5bcc5a3be08c
+Duration:      11 min 22 sec
+Started:       2019-12-18 02:00:53
+Finished:      2019-12-18 02:12:15
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #4084.1:  referer: try to comprehensively stop sending referer headers
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3636)
+Commit:        188fbe3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3636
+Duration:      1 min 25 sec
+Started:       2019-11-24 23:05:52
+Finished:      2019-11-24 23:07:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

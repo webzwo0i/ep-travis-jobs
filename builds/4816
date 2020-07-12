@@ -1,0 +1,13 @@
+Build #4816:  css: fix toolbar overlay so it cover only toolbar and not the whole screen
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        7f16bda
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 8 sec
+Started:       2020-04-19 02:49:52
+Finished:      2020-04-19 02:50:37
+
+#4816.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4816.2 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4816.3 errored: 43 sec         os: linux, node_js: lts/*, env:

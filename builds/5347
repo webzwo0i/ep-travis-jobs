@@ -1,0 +1,14 @@
+Build #5347:  import: setting for allowing import without author existing
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        bfca481
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9fdb9e224cc1...bfca481b0b72
+Duration:      35 min 46 sec
+Started:       2020-06-01 19:19:28
+Finished:      2020-06-01 19:41:31
+
+#5347.1 failed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5347.2 passed:  22 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5347.3 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5347.4 errored: 10 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

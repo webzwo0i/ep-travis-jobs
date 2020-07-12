@@ -1,0 +1,14 @@
+Build #5444:  remove cruft
+State:         canceled
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        1cff58f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/58f9d8805aec...1cff58fec83b
+Duration:      10 min 40 sec
+Started:       2020-06-06 23:42:07
+Finished:      2020-06-06 23:46:07
+
+#5444.1 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5444.2 canceled: 3 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5444.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5444.4 canceled: 3 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #4589.1:  tidy up
+State:         passed
+Type:          push
+Branch:        backend-test-runner
+Commit:        f01b2cb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8a4303935919...f01b2cbe06ff
+Duration:      1 min 48 sec
+Started:       2020-04-01 17:00:44
+Finished:      2020-04-01 17:02:32
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

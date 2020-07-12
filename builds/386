@@ -1,0 +1,11 @@
+Job #386.1:  Merge pull request #1372 from marcelklehr/fix/checkPad-async.series
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c8786bf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6802353306f6...c8786bfdf53a
+Duration:      4 min 28 sec
+Started:       2013-01-17 17:36:32
+Finished:      2013-01-17 17:41:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

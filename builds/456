@@ -1,0 +1,11 @@
+Job #456.1:  Merge pull request #1404 from ether/feature/real-time-plugin-search
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        568b641
+Compare URL:   https://github.com/ether/etherpad-lite/compare/19e112f160bd...568b641ee9bf
+Duration:      4 min 48 sec
+Started:       2013-01-24 23:18:58
+Finished:      2013-01-24 23:23:46
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

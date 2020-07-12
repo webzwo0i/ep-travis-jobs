@@ -1,0 +1,11 @@
+Job #3949.1:  Merge pull request #3559 from raybellis/async-PR
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4c45ac3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cc23bd18a45f...4c45ac3cb1ae
+Duration:      11 min 48 sec
+Started:       2019-03-07 02:05:13
+Finished:      2019-03-07 02:17:01
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

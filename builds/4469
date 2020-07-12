@@ -1,0 +1,12 @@
+Build #4469:  travis/runner.sh: this is a good candidate to be ported to the development branch
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        0264a53
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      17 min 45 sec
+Started:       2020-03-29 03:45:36
+Finished:      2020-03-29 04:01:41
+
+#4469.1 passed:  16 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4469.2 passed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

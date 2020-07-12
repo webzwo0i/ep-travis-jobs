@@ -1,0 +1,12 @@
+Build #4425:  fix save revision showing on lelt toolbar too
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3768)
+Commit:        69bac55
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3768
+Duration:      21 min 35 sec
+Started:       2020-03-27 12:23:21
+Finished:      2020-03-27 12:34:10
+
+#4425.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4425.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

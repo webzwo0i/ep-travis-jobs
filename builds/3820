@@ -1,0 +1,11 @@
+Job #3820.1:  settings, APIHandler: use makeAbsolute() for locating APIKEY and SESSIONKEY
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3467)
+Commit:        4201641
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3467
+Duration:      13 sec
+Started:       2018-08-22 02:37:03
+Finished:      2018-08-22 02:37:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

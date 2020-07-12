@@ -1,0 +1,11 @@
+Job #882.1:  new function for handling custom messages, allows objects to be sent, before we only allowed strings
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1607)
+Commit:        dca93c3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1607
+Duration:      11 min 25 sec
+Started:       2013-03-12 19:42:42
+Finished:      2013-03-12 19:54:07
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

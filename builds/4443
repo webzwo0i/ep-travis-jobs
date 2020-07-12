@@ -1,0 +1,12 @@
+Build #4443:  Settings: when restarting via UI, tell the admins to ignore a warning about sessionKey
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3777)
+Commit:        476da3d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3777
+Duration:      47 sec
+Started:       2020-03-28 19:09:22
+Finished:      2020-03-28 19:09:46
+
+#4443.1 errored: 24 sec         os: linux, node_js: lts/*, env:
+#4443.2 errored: 23 sec         os: linux, node_js: lts/*, env:

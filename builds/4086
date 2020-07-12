@@ -1,0 +1,11 @@
+Job #4086.1:  referer: change referrer policy. Stop sending referers as much as possible
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3636)
+Commit:        c5c7a1c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3636
+Duration:      1 min 30 sec
+Started:       2019-11-24 23:27:44
+Finished:      2019-11-24 23:29:14
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

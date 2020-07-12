@@ -1,0 +1,11 @@
+Job #829.1:  [settings.json.template] Shrink things together a bit and consistently indent comments
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1569)
+Commit:        d9a0585
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1569
+Duration:      11 min
+Started:       2013-03-03 16:46:08
+Finished:      2013-03-03 16:57:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

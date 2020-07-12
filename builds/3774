@@ -1,0 +1,11 @@
+Job #3774.1:  installDeps.sh: do not modify package.json when installing dependencies
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c4918ef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/58c315476954...c4918efc1bb2
+Duration:      11 min 49 sec
+Started:       2018-07-14 18:20:12
+Finished:      2018-07-14 18:32:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

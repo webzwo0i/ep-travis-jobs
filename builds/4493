@@ -1,0 +1,12 @@
+Build #4493:  now there should be no abrupt failure, because etherpad will start
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        9cf1dd2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      23 min 13 sec
+Started:       2020-03-29 23:25:46
+Finished:      2020-03-29 23:47:17
+
+#4493.1 failed:  21 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4493.2 passed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

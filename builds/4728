@@ -1,0 +1,13 @@
+Build #4728:  probably not working but that's not the point, this proves you can do inline logic per line
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3846)
+Commit:        61f7bd2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3846
+Duration:      2 min 16 sec
+Started:       2020-04-09 17:01:08
+Finished:      2020-04-09 17:02:02
+
+#4728.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4728.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4728.3 errored: 44 sec         os: linux, node_js: lts/*, env:

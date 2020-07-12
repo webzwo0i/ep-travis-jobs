@@ -1,0 +1,11 @@
+Job #533.1:  Made plugin search not casesensitive
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1438)
+Commit:        e577512
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1438
+Duration:      11 min 8 sec
+Started:       2013-01-31 19:10:02
+Finished:      2013-01-31 19:21:10
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

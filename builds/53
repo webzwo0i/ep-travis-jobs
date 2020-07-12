@@ -1,0 +1,11 @@
+Job #53.1:  removed myself from the notification email list
+State:         failed
+Type:          push
+Branch:        debug-travis
+Commit:        5003842
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ab5ce84e2bb5...5003842791b7
+Duration:      8 min 23 sec
+Started:       2012-11-19 16:55:00
+Finished:      2012-11-19 17:03:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

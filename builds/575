@@ -1,0 +1,11 @@
+Job #575.1:  works in all 3 major browsers
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1467)
+Commit:        4ec78ea
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1467
+Duration:      11 min 9 sec
+Started:       2013-02-07 18:44:12
+Finished:      2013-02-07 18:55:21
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

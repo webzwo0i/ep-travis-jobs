@@ -1,0 +1,11 @@
+Job #407.1:  mheh
+State:         failed
+Type:          push
+Branch:        release/releases-1.2.6
+Commit:        eedd8c6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d2e4ae1cb7b5...eedd8c6f13a0
+Duration:      4 min 20 sec
+Started:       2013-01-20 15:21:15
+Finished:      2013-01-20 15:25:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

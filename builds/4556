@@ -1,0 +1,12 @@
+Build #4556:  use a deletePad approach that works when server is running and works with MySQL
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3811)
+Commit:        d4c88a7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3811
+Duration:      21 min 37 sec
+Started:       2020-04-01 14:54:38
+Finished:      2020-04-01 15:05:29
+
+#4556.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4556.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

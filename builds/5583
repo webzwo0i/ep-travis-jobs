@@ -1,0 +1,14 @@
+Build #5583:  Create SECURITY.md
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        27c5610
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2f7e097711f5...27c56109c7d0
+Duration:      24 min 57 sec
+Started:       2020-07-07 11:36:39
+Finished:      2020-07-07 11:57:33
+
+#5583.1 passed:  20 min 51 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5583.2 passed:  54 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5583.3 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5583.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

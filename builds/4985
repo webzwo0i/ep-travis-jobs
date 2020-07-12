@@ -1,0 +1,13 @@
+Build #4985:  surgical fix for 3932
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3934)
+Commit:        3f633d3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3934
+Duration:      2 min 11 sec
+Started:       2020-04-24 20:13:42
+Finished:      2020-04-24 20:14:29
+
+#4985.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4985.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4985.3 errored: 42 sec         os: linux, node_js: lts/*, env:

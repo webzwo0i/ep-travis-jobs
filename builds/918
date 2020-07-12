@@ -1,0 +1,11 @@
+Job #918.1:  Fix clearing authorship colors which was broken by #1609
+State:         failed
+Type:          push
+Branch:        fix/submitting-submitting-faked-changesets
+Commit:        c865dd8
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c865dd84e065
+Duration:      10 min 24 sec
+Started:       2013-03-15 18:05:39
+Finished:      2013-03-15 18:16:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

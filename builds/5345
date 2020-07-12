@@ -1,0 +1,14 @@
+Build #5345:  admin: Add etherpad update check
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        cffd044
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8deac52c8492...cffd04446eb4
+Duration:      16 min 25 sec
+Started:       2020-06-01 18:58:14
+Finished:      2020-06-01 19:09:36
+
+#5345.1 failed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5345.2 errored: 11 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5345.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5345.4 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

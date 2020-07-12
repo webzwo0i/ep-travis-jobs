@@ -1,0 +1,14 @@
+Build #5475:  tests: updating mocha and refactoring the custom html reporter using events
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7fa3cb3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c5584fb5b41a...7fa3cb35aaa7
+Duration:      25 min 6 sec
+Started:       2020-06-07 12:33:28
+Finished:      2020-06-07 12:53:33
+
+#5475.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5475.2 passed:  20 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5475.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5475.4 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

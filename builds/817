@@ -1,0 +1,11 @@
+Job #817.1:  Merge pull request #1571 from marcelklehr/fix/settings-object-prototype
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        13c9b66
+Compare URL:   https://github.com/ether/etherpad-lite/compare/22bfe78c4fc7...13c9b66e6ef9
+Duration:      7 min 22 sec
+Started:       2013-02-28 16:21:10
+Finished:      2013-02-28 16:28:32
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

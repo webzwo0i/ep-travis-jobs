@@ -1,0 +1,11 @@
+Job #900.1:  redirect /admin to /admin/ so that the relative links work
+State:         failed
+Type:          push
+Branch:        fix/admin-relative-links
+Commit:        5fe60e7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5fe60e72218d
+Duration:      6 min 52 sec
+Started:       2013-03-14 16:01:20
+Finished:      2013-03-14 16:08:12
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

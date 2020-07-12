@@ -1,0 +1,11 @@
+Job #849.1:  fix chat simulation test to work in android
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1590)
+Commit:        4a6d4ce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1590
+Duration:      11 min 16 sec
+Started:       2013-03-05 21:36:03
+Finished:      2013-03-05 21:47:19
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

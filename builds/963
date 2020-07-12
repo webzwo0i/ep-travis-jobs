@@ -1,0 +1,11 @@
+Job #963.1:  most test pass but important ones failed
+State:         failed
+Type:          push
+Branch:        caret-refactor
+Commit:        ee6a7d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fb9d46fc51a4...ee6a7d0b0c93
+Duration:      7 min 18 sec
+Started:       2013-03-18 23:11:19
+Finished:      2013-03-18 23:18:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

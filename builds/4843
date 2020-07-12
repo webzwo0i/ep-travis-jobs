@@ -1,0 +1,13 @@
+Build #4843:  Revert "Comment out last line due to browser restriction of test (#3888)"
+State:         failed
+Type:          push
+Branch:        revert-3888-Comment-out-last-line-due-to-browser-restriction-of-test
+Commit:        686e793
+Compare URL:   https://github.com/ether/etherpad-lite/commit/686e793c4b24
+Duration:      14 min 53 sec
+Started:       2020-04-19 13:53:58
+Finished:      2020-04-19 14:05:36
+
+#4843.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4843.2 failed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4843.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

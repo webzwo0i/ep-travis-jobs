@@ -1,0 +1,11 @@
+Job #3992.1:  Fix chrome alignment
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3606)
+Commit:        7bda963
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3606
+Duration:      1 min 54 sec
+Started:       2019-05-08 16:49:43
+Finished:      2019-05-08 16:51:37
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #3561.1:  Revert "[feat] Update l10n lib (#3248)" (#3249)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ed5213c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6bcaa00a4ba7...ed5213c9a258
+Duration:      17 min 9 sec
+Started:       2017-08-15 16:10:52
+Finished:      2017-08-15 16:28:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

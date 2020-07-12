@@ -1,0 +1,11 @@
+Job #618.1:  change message
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1486)
+Commit:        c8e8a72
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1486
+Duration:      11 min 7 sec
+Started:       2013-02-10 16:20:28
+Finished:      2013-02-10 16:31:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

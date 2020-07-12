@@ -1,0 +1,11 @@
+Job #692.1:  docs for setHTML
+State:         failed
+Type:          push
+Branch:        dont-die-on-bad-html
+Commit:        9e1dfc9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e152c477c7c9...9e1dfc948766
+Duration:      7 min 44 sec
+Started:       2013-02-13 00:45:07
+Finished:      2013-02-13 00:52:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

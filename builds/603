@@ -1,0 +1,11 @@
+Job #603.1:  update jquery 1.7.1 -> 1.9.1
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1484)
+Commit:        0bbbabe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1484
+Duration:      10 min 55 sec
+Started:       2013-02-10 03:02:39
+Finished:      2013-02-10 03:13:34
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

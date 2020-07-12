@@ -1,0 +1,11 @@
+Job #604.1:  Merge pull request #1484 from disy-mk/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        98d45af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cd77f3e63716...98d45af0f930
+Duration:      6 min 45 sec
+Started:       2013-02-10 03:19:33
+Finished:      2013-02-10 03:26:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

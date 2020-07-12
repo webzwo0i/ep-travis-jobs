@@ -1,0 +1,11 @@
+Job #428.1:  Merge pull request #1388 from ether/proper-fix-for-import-url
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        557b5c1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c6882aa65a20...557b5c1ad089
+Duration:      4 min 8 sec
+Started:       2013-01-22 19:51:30
+Finished:      2013-01-22 19:55:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

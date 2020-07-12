@@ -1,0 +1,11 @@
+Job #390.1:  prepare for release
+State:         errored
+Type:          pull request
+Branch:        master (PR #1373)
+Commit:        442f681
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1373
+Duration:      6 min 27 sec
+Started:       2013-01-18 14:34:25
+Finished:      2013-01-18 14:40:52
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

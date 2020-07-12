@@ -1,0 +1,11 @@
+Job #875.1:  experimenting with webrtc, obviously do not merge this, it's purely a pointless experiment I'm struggling to get working
+State:         failed
+Type:          push
+Branch:        webrtc-experiment
+Commit:        65eaf87
+Compare URL:   https://github.com/ether/etherpad-lite/commit/65eaf8789255
+Duration:      6 min 47 sec
+Started:       2013-03-07 18:18:31
+Finished:      2013-03-07 18:25:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

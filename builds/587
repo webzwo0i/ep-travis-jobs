@@ -1,0 +1,11 @@
+Job #587.1:  begin dropping Lite
+State:         failed
+Type:          push
+Branch:        drop-lite
+Commit:        6516ad0
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6516ad0fc4e1
+Duration:      6 min 55 sec
+Started:       2013-02-09 17:54:30
+Finished:      2013-02-09 18:01:25
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

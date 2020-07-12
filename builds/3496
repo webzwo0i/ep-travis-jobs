@@ -1,0 +1,11 @@
+Job #3496.1:  fixed plugin dependency issue
+State:         errored
+Type:          pull request
+Branch:        master (PR #3197)
+Commit:        de9d57e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3197
+Duration:      11 min
+Started:       2017-05-30 05:41:34
+Finished:      2017-05-30 05:52:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

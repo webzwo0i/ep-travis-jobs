@@ -1,0 +1,11 @@
+Job #666.1:  a comment
+State:         failed
+Type:          push
+Branch:        fix-for-long-strings
+Commit:        2f20461
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5f73a5ec3020...2f2046144554
+Duration:      7 min 26 sec
+Started:       2013-02-12 01:15:11
+Finished:      2013-02-12 01:22:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #896.1:  Validate all 'author' attribs of incoming changesets to be the same value as the current user's authorId
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1609)
+Commit:        b5d43b0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1609
+Duration:      11 min 28 sec
+Started:       2013-03-13 22:28:57
+Finished:      2013-03-13 22:40:25
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

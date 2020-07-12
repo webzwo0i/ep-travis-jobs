@@ -1,0 +1,11 @@
+Job #822.1:  fix monospace text
+State:         failed
+Type:          push
+Branch:        fix-tests
+Commit:        4e205fe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3460159f68d9...4e205fe0af06
+Duration:      6 min 54 sec
+Started:       2013-03-02 00:35:37
+Finished:      2013-03-02 00:42:31
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

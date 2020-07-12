@@ -1,0 +1,14 @@
+Build #5625:  Libreoffice travis (#4159)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3bd81e6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c7581ba6f3a6...3bd81e6d0124
+Duration:      27 min 51 sec
+Started:       2020-07-10 17:13:26
+Finished:      2020-07-10 17:35:09
+
+#5625.1 failed:  21 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5625.2 passed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5625.3 failed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5625.4 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

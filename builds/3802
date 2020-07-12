@@ -1,0 +1,11 @@
+Job #3802.1:  Fix misparse of port when binding Unix socket
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3437)
+Commit:        74dccf3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3437
+Duration:      24 sec
+Started:       2018-08-10 01:44:32
+Finished:      2018-08-10 01:44:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

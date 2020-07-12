@@ -1,0 +1,12 @@
+Build #4596:  pinned versions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3816)
+Commit:        a1b9761
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3816
+Duration:      28 min 42 sec
+Started:       2020-04-01 17:22:03
+Finished:      2020-04-01 17:39:58
+
+#4596.1 failed:  17 min 55 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4596.2 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

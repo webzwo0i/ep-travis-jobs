@@ -1,0 +1,13 @@
+Build #5048:  colibris: do not color link with primary color when author color are on
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3957)
+Commit:        d49a98a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3957
+Duration:      2 min 23 sec
+Started:       2020-04-30 14:26:41
+Finished:      2020-04-30 14:27:45
+
+#5048.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5048.2 errored: 56 sec         os: linux, node_js: lts/*, env:
+#5048.3 errored: 46 sec         os: linux, node_js: lts/*, env:

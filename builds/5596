@@ -1,0 +1,14 @@
+Build #5596:  trigger minify in runner.sh and dont wait in remote_runner.sh, add debuglogs
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        56b49cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a02e4cdaf538...56b49cdb8ca2
+Duration:      5 min 50 sec
+Started:       2020-07-09 21:09:08
+Finished:      2020-07-09 21:11:35
+
+#5596.1 passed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5596.2 passed:  53 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5596.3 failed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5596.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

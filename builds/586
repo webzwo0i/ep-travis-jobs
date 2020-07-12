@@ -1,0 +1,11 @@
+Job #586.1:  fix opera by recreating a scheduler object
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1473)
+Commit:        cf093b2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1473
+Duration:      10 min 55 sec
+Started:       2013-02-09 17:45:10
+Finished:      2013-02-09 17:56:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #874.1:  Merge pull request #1527 from nelsonsilva/swagger
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0b16d96
+Compare URL:   https://github.com/ether/etherpad-lite/compare/732ad2878fc1...0b16d96c970d
+Duration:      7 min 20 sec
+Started:       2013-03-07 17:09:09
+Finished:      2013-03-07 17:16:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

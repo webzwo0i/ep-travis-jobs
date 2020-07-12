@@ -1,0 +1,11 @@
+Job #702.1:  Merge pull request #1518 from eldiddio/fix-typo
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5b5176c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/602d60365845...5b5176cc0c25
+Duration:      7 min 1 sec
+Started:       2013-02-13 17:55:51
+Finished:      2013-02-13 18:02:52
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #397.1:  Added a template block for #users
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1377)
+Commit:        81af528
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1377
+Duration:      6 min 25 sec
+Started:       2013-01-20 14:04:39
+Finished:      2013-01-20 14:11:04
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

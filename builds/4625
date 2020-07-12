@@ -1,0 +1,13 @@
+Build #4625:  use a deletePad approach that works when server is running and works with MySQL
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        cdf5b63
+Compare URL:   https://github.com/ether/etherpad-lite/compare/93180c287bad...cdf5b63f262d
+Duration:      13 min 44 sec
+Started:       2020-04-03 03:31:41
+Finished:      2020-04-03 03:42:26
+
+#4625.1 passed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4625.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4625.3 passed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #4524:  Switches cacheKey from base64 of path to sha256 of path; fixes #3502
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fc754c9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6c12a7fb1f6e...fc754c9a1d03
+Duration:      13 min 12 sec
+Started:       2020-03-31 02:43:28
+Finished:      2020-03-31 02:54:57
+
+#4524.1 failed:  11 min 28 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4524.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

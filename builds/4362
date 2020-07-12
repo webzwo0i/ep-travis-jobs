@@ -1,0 +1,12 @@
+Build #4362:  Localisation updates from https://translatewiki.net.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2bce9f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/71fa852dfbf5...2bce9f5c3806
+Duration:      12 min 55 sec
+Started:       2020-03-23 14:59:00
+Finished:      2020-03-23 15:10:36
+
+#4362.1 passed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4362.2 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #4886:  derp
+State:         errored
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        473e17b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c8c560452df3...473e17b7317f
+Duration:      13 min 51 sec
+Started:       2020-04-19 18:51:04
+Finished:      2020-04-19 19:01:48
+
+#4886.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4886.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4886.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

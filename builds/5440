@@ -1,0 +1,14 @@
+Build #5440:  Revert "Revert "Revert "editor: ul/ol/li - outdent on ol and ul button press"""
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2cd3dcc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fd3980133dac...2cd3dccc4d10
+Duration:      13 min 34 sec
+Started:       2020-06-06 22:58:13
+Finished:      2020-06-06 23:06:28
+
+#5440.1 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5440.2 failed:  8 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5440.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5440.4 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

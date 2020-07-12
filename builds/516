@@ -1,0 +1,11 @@
+Job #516.1:  Merge branch 'develop' of http://github.com/ether/etherpad-lite into global-settings
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1415)
+Commit:        e29d833
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1415
+Duration:      5 sec
+Started:       2013-01-29 21:28:10
+Finished:      2013-01-29 21:28:15
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

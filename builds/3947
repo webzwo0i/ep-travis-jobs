@@ -1,0 +1,11 @@
+Job #3947.1:  db/API.js: require() Changeset library at top of file
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cc23bd1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b34fc2de2b40...cc23bd18a45f
+Duration:      11 min 52 sec
+Started:       2019-03-07 00:58:32
+Finished:      2019-03-07 01:10:24
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

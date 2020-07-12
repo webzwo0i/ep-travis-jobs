@@ -1,0 +1,11 @@
+Job #3844.1:  tests: make sure author is switched on authorship test
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8b7f7d4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c09e638fc324...8b7f7d49c000
+Duration:      11 min 39 sec
+Started:       2018-09-02 13:10:59
+Finished:      2018-09-02 13:22:38
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

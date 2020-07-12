@@ -1,0 +1,14 @@
+Build #5608:  update wdio.conf.js
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        c9723ed
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cd9d6b9753cb...c9723eda7f3a
+Duration:      5 min 6 sec
+Started:       2020-07-10 00:21:24
+Finished:      2020-07-10 00:23:14
+
+#5608.1 failed:  44 sec         os: linux, node_js: lts/*
+#5608.2 passed:  57 sec         os: linux, node_js: lts/*
+#5608.3 failed:  1 min 50 sec   os: linux, node_js: lts/*
+#5608.4 passed:  1 min 35 sec   os: linux, node_js: lts/*

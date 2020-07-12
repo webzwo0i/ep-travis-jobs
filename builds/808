@@ -1,0 +1,11 @@
+Job #808.1:  Merge pull request #1564 from marcelklehr/fix/extract-pad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3986835
+Compare URL:   https://github.com/ether/etherpad-lite/compare/08ffdac4098b...3986835f58f7
+Duration:      6 min 57 sec
+Started:       2013-02-27 16:46:01
+Finished:      2013-02-27 16:52:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

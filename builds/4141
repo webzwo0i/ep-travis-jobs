@@ -1,0 +1,11 @@
+Job #4141.1:  set prefs and get prefs
+State:         errored
+Type:          push
+Branch:        save-prefs
+Commit:        a151c20
+Compare URL:   https://github.com/ether/etherpad-lite/compare/save-prefs
+Duration:      51 sec
+Started:       2019-12-07 19:40:59
+Finished:      2019-12-07 19:41:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #473.1:  /admin/plugins: Display an update button for all plugins that are outdated
+State:         passed
+Type:          push
+Branch:        feature/plugin-update-checker
+Commit:        541aeb3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0549a4fec7c8^...541aeb3a984e
+Duration:      4 min 31 sec
+Started:       2013-01-26 22:16:09
+Finished:      2013-01-26 22:20:40
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

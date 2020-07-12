@@ -1,0 +1,11 @@
+Job #381.1:  IE8 does not have a string.trim()-function, so use regex..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1370)
+Commit:        5fd5785
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1370
+Duration:      6 min 30 sec
+Started:       2013-01-16 18:53:44
+Finished:      2013-01-16 19:00:14
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

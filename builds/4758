@@ -1,0 +1,13 @@
+Build #4758:  github: Templates for Issues and PR
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5503ebd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c3ed04f4aeb9...5503ebdb949e
+Duration:      14 min 42 sec
+Started:       2020-04-13 14:45:42
+Finished:      2020-04-13 14:57:10
+
+#4758.1 passed:  1 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4758.2 failed:  11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4758.3 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

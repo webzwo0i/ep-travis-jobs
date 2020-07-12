@@ -1,0 +1,13 @@
+Build #4688:  dependencies: upgrade uglify-js 2.6.2 -> 3.8.1 and adapt Minify
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8987c5d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a286f32c2aed...8987c5d813a4
+Duration:      14 min 26 sec
+Started:       2020-04-07 03:37:30
+Finished:      2020-04-07 03:49:01
+
+#4688.1 passed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4688.2 failed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4688.3 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

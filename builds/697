@@ -1,0 +1,11 @@
+Job #697.1:  Update Ueber DB to fix MySQL Bug!
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a4e5ada
+Compare URL:   https://github.com/ether/etherpad-lite/compare/14dca926927b...a4e5adab3e42
+Duration:      6 min 49 sec
+Started:       2013-02-13 03:48:01
+Finished:      2013-02-13 03:54:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

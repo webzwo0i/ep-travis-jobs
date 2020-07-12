@@ -1,0 +1,13 @@
+Build #5071:  docs: basic styles for tables
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3948)
+Commit:        ebe7ff1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3948
+Duration:      2 min 13 sec
+Started:       2020-05-03 21:55:44
+Finished:      2020-05-03 21:56:31
+
+#5071.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5071.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5071.3 errored: 43 sec         os: linux, node_js: lts/*, env:

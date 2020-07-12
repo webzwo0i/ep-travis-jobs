@@ -1,0 +1,11 @@
+Job #462.1:  Use 'html10n' instead of '_', i10nzed "unnamed author(s)"
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1407)
+Commit:        91b7d1b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1407
+Duration:      6 min 1 sec
+Started:       2013-01-25 19:38:17
+Finished:      2013-01-25 19:44:18
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

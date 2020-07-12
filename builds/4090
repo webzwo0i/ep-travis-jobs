@@ -1,0 +1,11 @@
+Job #4090.1:  pad.html: fix regression introduced with 5879037ddca4.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        695c2d2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ba38ed3bbae2...695c2d2e84b3
+Duration:      11 min 37 sec
+Started:       2019-11-30 20:57:20
+Finished:      2019-11-30 21:08:57
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

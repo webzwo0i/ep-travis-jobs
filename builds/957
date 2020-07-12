@@ -1,0 +1,11 @@
+Job #957.1:  Fix #1639 by removing bodyParser middleware introduced with swagger REST API
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1642)
+Commit:        159db66
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1642
+Duration:      11 min 16 sec
+Started:       2013-03-18 22:13:21
+Finished:      2013-03-18 22:24:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

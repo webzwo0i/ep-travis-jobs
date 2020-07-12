@@ -1,0 +1,11 @@
+Job #682.1:  Update src/node/hooks/express/apicalls.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1496)
+Commit:        ec305dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1496
+Duration:      10 min 57 sec
+Started:       2013-02-12 21:32:40
+Finished:      2013-02-12 21:43:37
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3677.1:  Merge pull request #3232 from michael-dev/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d393bf4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/18dd90139aef...d393bf4dd883
+Duration:      20 min 30 sec
+Started:       2018-04-03 14:35:30
+Finished:      2018-04-03 14:56:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #971.1:  add a test to show weird behavior
+State:         passed
+Type:          push
+Branch:        caret-refactor
+Commit:        11341eb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/13ee96dce0ad...11341eb0954d
+Duration:      3 min 4 sec
+Started:       2013-03-19 13:53:16
+Finished:      2013-03-19 13:56:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

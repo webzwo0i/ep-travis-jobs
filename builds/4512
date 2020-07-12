@@ -1,0 +1,12 @@
+Build #4512:  bring in some of the plugin ordering code
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3791)
+Commit:        1b362e7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3791
+Duration:      21 min 33 sec
+Started:       2020-03-30 12:32:43
+Finished:      2020-03-30 12:43:31
+
+#4512.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4512.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

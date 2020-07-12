@@ -1,0 +1,12 @@
+Build #4415:  alt gr should never be a control key
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3764)
+Commit:        f69504e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3764
+Duration:      21 min 31 sec
+Started:       2020-03-27 01:11:28
+Finished:      2020-03-27 01:22:19
+
+#4415.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4415.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

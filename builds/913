@@ -1,0 +1,11 @@
+Job #913.1:  return text instead of html
+State:         failed
+Type:          push
+Branch:        tidy-up
+Commit:        5d12be9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1bb9d1d62599^...5d12be940c6e
+Duration:      7 min
+Started:       2013-03-14 22:32:09
+Finished:      2013-03-14 22:39:09
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

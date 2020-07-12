@@ -1,0 +1,13 @@
+Build #5086:  ueberdb: update 0.4.5 -> 0.4.9 to fix a performance regression (#3975)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5f686a8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/82d1179f24ae...5f686a8acb04
+Duration:      14 min 38 sec
+Started:       2020-05-07 12:58:06
+Finished:      2020-05-07 13:09:29
+
+#5086.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5086.2 failed:  11 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5086.3 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

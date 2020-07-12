@@ -1,0 +1,12 @@
+Build #4471:  remove weird stuff libreoffice adds to DOM before importing
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3783)
+Commit:        b8d2054
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3783
+Duration:      21 min 33 sec
+Started:       2020-03-29 14:11:30
+Finished:      2020-03-29 14:22:19
+
+#4471.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4471.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

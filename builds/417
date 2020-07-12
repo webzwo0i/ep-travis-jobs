@@ -1,0 +1,11 @@
+Job #417.1:  fix issue #1110
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1379)
+Commit:        a78a8bc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1379
+Duration:      6 min 25 sec
+Started:       2013-01-21 00:12:41
+Finished:      2013-01-21 00:19:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

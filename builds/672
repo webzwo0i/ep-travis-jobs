@@ -1,0 +1,11 @@
+Job #672.1:  Merge pull request #1507 from ether/ace2_inner-fix
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        760bebc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bf6958ad5722...760bebc429c1
+Duration:      22 min 20 sec
+Started:       2013-02-12 20:07:19
+Finished:      2013-02-12 20:29:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,14 @@
+Build #5479:  stalecode: jQuery 3 (#3903)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        128f3e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7fa3cb35aaa7...128f3e15ebf8
+Duration:      27 min 3 sec
+Started:       2020-06-07 15:59:25
+Finished:      2020-06-07 16:01:24
+
+#5479.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5479.2 passed:  21 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5479.3 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5479.4 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

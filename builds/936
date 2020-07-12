@@ -1,0 +1,11 @@
+Job #936.1:  better mobile support for gritter messages, before it was awful
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1633)
+Commit:        fafe19a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1633
+Duration:      10 min 49 sec
+Started:       2013-03-17 02:36:38
+Finished:      2013-03-17 02:47:27
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

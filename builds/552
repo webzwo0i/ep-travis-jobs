@@ -1,0 +1,11 @@
+Job #552.1:  fixes IE8 error by only redifining if firefox
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1457)
+Commit:        bc6e077
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1457
+Duration:      11 min 11 sec
+Started:       2013-02-06 20:45:30
+Finished:      2013-02-06 20:56:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

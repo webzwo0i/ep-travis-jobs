@@ -1,0 +1,11 @@
+Job #987.1:  merge develop
+State:         passed
+Type:          push
+Branch:        mobile-msg-css
+Commit:        4ea7ccd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e0a80cb7431...4ea7ccd104dd
+Duration:      2 min 29 sec
+Started:       2013-03-20 02:13:59
+Finished:      2013-03-20 02:16:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

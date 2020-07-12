@@ -1,0 +1,13 @@
+Build #5162:  run.sh: Fix 'for' loop style
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4008)
+Commit:        c51c0d7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4008
+Duration:      2 min 14 sec
+Started:       2020-05-16 00:00:58
+Finished:      2020-05-16 00:01:55
+
+#5162.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5162.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5162.3 errored: 45 sec         os: linux, node_js: lts/*, env:

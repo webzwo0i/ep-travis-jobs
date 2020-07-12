@@ -1,0 +1,11 @@
+Job #814.1:  Document the endless possibilities of log4js
+State:         failed
+Type:          push
+Branch:        doc/log4js-appenders
+Commit:        176a6c3
+Compare URL:   https://github.com/ether/etherpad-lite/commit/176a6c36d869
+Duration:      22 min 33 sec
+Started:       2013-02-27 20:40:43
+Finished:      2013-02-27 21:03:16
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

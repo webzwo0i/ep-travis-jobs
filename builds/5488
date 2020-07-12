@@ -1,0 +1,14 @@
+Build #5488:  futher back and using uglify instead of terser
+State:         canceled
+Type:          push
+Branch:        replace-package-files
+Commit:        88a3c16
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3823bddbba52...88a3c16a0eae
+Duration:      12 min 24 sec
+Started:       2020-06-07 17:47:09
+Finished:      2020-06-07 17:53:54
+
+#5488.1 passed:  1 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5488.2 canceled: 6 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5488.3 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5488.4 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

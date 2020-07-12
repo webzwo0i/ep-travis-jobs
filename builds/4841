@@ -1,0 +1,13 @@
+Build #4841:  Update remote_runner.js
+State:         failed
+Type:          push
+Branch:        saucelabs-remote-runner-pinned
+Commit:        1daf4b0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7cf4159287bd...1daf4b0eb591
+Duration:      18 min 25 sec
+Started:       2020-04-19 13:37:47
+Finished:      2020-04-19 13:53:27
+
+#4841.1 passed:  1 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4841.2 failed:  15 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4841.3 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

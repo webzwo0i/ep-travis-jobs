@@ -1,0 +1,11 @@
+Job #796.1:  post correct url, heh
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1559)
+Commit:        801cf57
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1559
+Duration:      10 min 50 sec
+Started:       2013-02-26 14:25:49
+Finished:      2013-02-26 14:36:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

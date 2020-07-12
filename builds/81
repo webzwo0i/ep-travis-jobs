@@ -1,0 +1,11 @@
+Job #81.1:  fixing typos take #2
+State:         failed
+Type:          pull request
+Branch:        master (PR #1195)
+Commit:        c801f81
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1195
+Duration:      13 min 8 sec
+Started:       2012-11-22 00:51:44
+Finished:      2012-11-22 01:04:52
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

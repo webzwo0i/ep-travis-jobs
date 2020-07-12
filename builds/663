@@ -1,0 +1,11 @@
+Job #663.1:  Merge pull request #1504 from ether/feature/bringJqueryBack
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2448528
+Compare URL:   https://github.com/ether/etherpad-lite/compare/00af6d9c6a20...24485283fdfc
+Duration:      11 min 1 sec
+Started:       2013-02-11 23:06:17
+Finished:      2013-02-11 23:17:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

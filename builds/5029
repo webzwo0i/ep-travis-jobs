@@ -1,0 +1,11 @@
+Job #5029.1:  Localisation updates from https://translatewiki.net.
+State:         errored
+Type:          push
+Branch:        plugin-names-in-pad-html
+Commit:        2a5e87c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/plugin-names-in-pad-html
+Duration:      10 min 49 sec
+Started:       2020-04-28 12:50:16
+Finished:      2020-04-28 13:01:05
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

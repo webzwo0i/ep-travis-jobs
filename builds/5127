@@ -1,0 +1,11 @@
+Job #5127.1:  blah
+State:         errored
+Type:          push
+Branch:        ios82
+Commit:        eda9de7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/52d5bd26193b^...eda9de7fd609
+Duration:      1 min 1 sec
+Started:       2020-05-13 23:17:59
+Finished:      2020-05-13 23:19:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

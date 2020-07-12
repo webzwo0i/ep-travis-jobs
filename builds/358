@@ -1,0 +1,11 @@
+Job #358.1:  Merge pull request #1352 from ether/timeslider-eejs
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0bcfef5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f8d6ffa22a08...0bcfef5aa489
+Duration:      4 min 5 sec
+Started:       2013-01-13 19:28:27
+Finished:      2013-01-13 19:32:32
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

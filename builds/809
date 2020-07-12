@@ -1,0 +1,11 @@
+Job #809.1:  patch documented here https://github.com/ether/etherpad-lite/issues/472 adds some stability but not a perfect solution
+State:         failed
+Type:          push
+Branch:        dont-crash-on-mismatch
+Commit:        ebd8b85
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ebd8b85072db
+Duration:      8 min 49 sec
+Started:       2013-02-27 17:18:44
+Finished:      2013-02-27 17:27:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #806.1:  Fix bin/extractPadData on windows
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1564)
+Commit:        ef507cc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1564
+Duration:      10 min 49 sec
+Started:       2013-02-27 16:28:34
+Finished:      2013-02-27 16:39:23
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

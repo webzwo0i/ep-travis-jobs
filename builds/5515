@@ -1,0 +1,14 @@
+Build #5515:  should run them
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4097)
+Commit:        7aec57f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4097
+Duration:      1 min 36 sec
+Started:       2020-06-08 14:53:21
+Finished:      2020-06-08 14:53:52
+
+#5515.1 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5515.2 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5515.3 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5515.4 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

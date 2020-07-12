@@ -1,0 +1,13 @@
+Build #4953:  skin builder: add coma at the end of the generated code
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        789dd7a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/208c7a849c20...789dd7acd6a9
+Duration:      14 min 51 sec
+Started:       2020-04-22 22:02:47
+Finished:      2020-04-22 22:14:17
+
+#4953.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4953.2 failed:  11 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4953.3 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

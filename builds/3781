@@ -1,0 +1,11 @@
+Job #3781.1:  changelog: put <ol> in backticks
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        60c1036
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2a876e5e9ba9...60c1036ecb53
+Duration:      12 min 3 sec
+Started:       2018-07-20 12:35:30
+Finished:      2018-07-20 12:47:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,13 @@
+Build #4840:  Comment out last line due to browser restriction of test (#3888)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9ec9184
+Compare URL:   https://github.com/ether/etherpad-lite/compare/48b0290977d2...9ec918492e8e
+Duration:      21 min 23 sec
+Started:       2020-04-19 13:36:44
+Finished:      2020-04-19 13:54:54
+
+#4840.1 passed:  1 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4840.2 failed:  18 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4840.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

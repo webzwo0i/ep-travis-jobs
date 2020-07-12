@@ -1,0 +1,11 @@
+Job #502.1:  Merge pull request #1418 from mluto/timeslider-jump-revisions
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e1cd347
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dcff3bddda30...e1cd34763d7b
+Duration:      6 min 7 sec
+Started:       2013-01-28 23:02:09
+Finished:      2013-01-28 23:08:16
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

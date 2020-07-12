@@ -1,0 +1,12 @@
+Build #4503:  toolbar: don't show the "saved revision" button in timeslider
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3768)
+Commit:        3283329
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3768
+Duration:      22 min 56 sec
+Started:       2020-03-30 01:57:07
+Finished:      2020-03-30 02:09:21
+
+#4503.1 errored: 12 min 14 sec  os: linux, node_js: lts/*, env:
+#4503.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env:

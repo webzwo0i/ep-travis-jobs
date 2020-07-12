@@ -1,0 +1,11 @@
+Job #543.1:  make plugin specs finally work
+State:         failed
+Type:          push
+Branch:        allow-plugins-to-specify-specs
+Commit:        de07d5a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/da0b331502a8...de07d5a3e1a4
+Duration:      4 min 38 sec
+Started:       2013-02-04 01:04:50
+Finished:      2013-02-04 01:09:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

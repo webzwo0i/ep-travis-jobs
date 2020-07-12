@@ -1,0 +1,11 @@
+Job #578.1:  Merge pull request #1468 from mluto/fix-timeslider-test
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        af022c8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f65ad93fb9d7...af022c842718
+Duration:      7 min 8 sec
+Started:       2013-02-07 19:22:33
+Finished:      2013-02-07 19:29:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

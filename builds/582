@@ -1,0 +1,11 @@
+Job #582.1:  plugin test docs
+State:         failed
+Type:          push
+Branch:        plugin-test-dcs
+Commit:        bb1d462
+Compare URL:   https://github.com/ether/etherpad-lite/commit/bb1d4626126a
+Duration:      6 min 41 sec
+Started:       2013-02-09 16:46:24
+Finished:      2013-02-09 16:53:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

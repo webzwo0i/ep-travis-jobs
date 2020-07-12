@@ -1,0 +1,11 @@
+Job #4125.1:  may aswell make the git sha a link to the commit
+State:         errored
+Type:          push
+Branch:        version-on-admin-page
+Commit:        d0caebc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/version-on-admin-page
+Duration:      10 min 50 sec
+Started:       2019-12-07 19:16:38
+Finished:      2019-12-07 19:27:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

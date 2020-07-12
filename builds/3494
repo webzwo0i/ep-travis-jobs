@@ -1,0 +1,11 @@
+Job #3494.1:  Merge pull request #3182 from storytouch/fix/do_not_hide_force_reconnect_modal
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b6cb462
+Compare URL:   https://github.com/ether/etherpad-lite/compare/faefa8a9efde...b6cb46271bb0
+Duration:      6 min 29 sec
+Started:       2017-05-29 16:06:54
+Finished:      2017-05-29 16:13:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

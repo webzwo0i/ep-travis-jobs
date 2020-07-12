@@ -1,0 +1,11 @@
+Job #965.1:  more tests but still fundamental flaw with arrow keys
+State:         failed
+Type:          push
+Branch:        caret-refactor
+Commit:        13ee96d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ee6a7d0b0c93...13ee96dce0ad
+Duration:      7 min 30 sec
+Started:       2013-03-18 23:16:58
+Finished:      2013-03-18 23:24:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #4718:  runtime: require node >= 10.13.0 LTS
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3850)
+Commit:        2b706ae
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3850
+Duration:      2 min 10 sec
+Started:       2020-04-09 04:40:34
+Finished:      2020-04-09 04:41:28
+
+#4718.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4718.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4718.3 errored: 41 sec         os: linux, node_js: lts/*, env:

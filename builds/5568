@@ -1,0 +1,13 @@
+Build #5568:  move timeslider eejs menu block right into correct container
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4139)
+Commit:        ea3acc2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4139
+Duration:      4 min 11 sec
+Started:       2020-06-27 10:52:28
+Finished:      2020-06-27 10:54:03
+
+#5568.1 passed:  1 min 8 sec    os: linux, node_js: lts/*, env:
+#5568.2 failed:  1 min 33 sec   os: linux, node_js: lts/*, env:
+#5568.3 passed:  1 min 30 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,14 @@
+Build #5453:  comment out text
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4088)
+Commit:        a0ff2ee
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4088
+Duration:      24 min 50 sec
+Started:       2020-06-07 00:27:06
+Finished:      2020-06-07 00:37:57
+
+#5453.1 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5453.2 errored: 10 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5453.3 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5453.4 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

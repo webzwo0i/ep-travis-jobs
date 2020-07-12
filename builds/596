@@ -1,0 +1,11 @@
+Job #596.1:  stop opera doing stupid things
+State:         failed
+Type:          push
+Branch:        fix-opera-double-enter
+Commit:        a45a8a8
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a45a8a837de8
+Duration:      6 min 58 sec
+Started:       2013-02-09 20:50:06
+Finished:      2013-02-09 20:57:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

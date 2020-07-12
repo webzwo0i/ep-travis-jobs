@@ -1,0 +1,11 @@
+Job #830.1:  Merge pull request #1569 from ether/doc/log4js-appenders
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fb605fb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/827c1291b59f...fb605fb5276c
+Duration:      12 min 30 sec
+Started:       2013-03-03 17:30:27
+Finished:      2013-03-03 17:42:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

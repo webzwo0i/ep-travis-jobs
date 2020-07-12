@@ -1,0 +1,14 @@
+Build #5497:  docker: use full node(not slim) so we have terser support
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        fb16309
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1e3aff72f85...fb163093e3cf
+Duration:      16 min 32 sec
+Started:       2020-06-07 22:32:10
+Finished:      2020-06-07 22:43:23
+
+#5497.1 passed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5497.2 errored: 11 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5497.3 failed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5497.4 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

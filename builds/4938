@@ -1,0 +1,13 @@
+Build #4938:  ace2_inner: close all gritters when hitting escape key
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3909)
+Commit:        62238b6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3909
+Duration:      1 min 14 sec
+Started:       2020-04-22 01:51:50
+Finished:      2020-04-22 01:52:16
+
+#4938.1 errored: 25 sec         os: linux, node_js: lts/*, env:
+#4938.2 errored: 24 sec         os: linux, node_js: lts/*, env:
+#4938.3 errored: 25 sec         os: linux, node_js: lts/*, env:

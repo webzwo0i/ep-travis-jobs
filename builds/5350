@@ -1,0 +1,14 @@
+Build #5350:  tests: second fix for mocha froth, remembered it's not available globally
+State:         errored
+Type:          push
+Branch:        fuzz-test-fixes
+Commit:        d60fce6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/82b80236c74a...d60fce6af174
+Duration:      25 min 41 sec
+Started:       2020-06-01 19:53:03
+Finished:      2020-06-01 20:04:23
+
+#5350.1 errored: 10 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5350.2 errored: 11 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5350.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5350.4 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

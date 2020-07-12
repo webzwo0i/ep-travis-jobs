@@ -1,0 +1,12 @@
+Build #4378:  testing to see if these operating systems work
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        52353ac
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      22 min 42 sec
+Started:       2020-03-23 22:50:06
+Finished:      2020-03-23 23:11:05
+
+#4378.1 passed:  20 min 59 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4378.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

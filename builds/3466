@@ -1,0 +1,11 @@
+Job #3466.1:  Butt On -> button
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3170)
+Commit:        a2b9a3b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3170
+Duration:      11 min 10 sec
+Started:       2017-04-16 02:14:20
+Finished:      2017-04-16 02:25:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

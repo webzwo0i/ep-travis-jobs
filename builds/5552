@@ -1,0 +1,14 @@
+Build #5552:  Update and rename custom.md to security.md
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        afcdbfe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/df2ab0a25242...afcdbfe99ec4
+Duration:      25 min 8 sec
+Started:       2020-06-21 17:17:00
+Finished:      2020-06-21 17:38:02
+
+#5552.1 passed:  21 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5552.2 passed:  1 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5552.3 failed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5552.4 passed:  1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

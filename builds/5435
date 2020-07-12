@@ -1,0 +1,14 @@
+Build #5435:  export: txt import include correct OL prefix (#4086)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        aff93d2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/423be7f08128...aff93d24dd0c
+Duration:      30 min 30 sec
+Started:       2020-06-06 15:30:37
+Finished:      2020-06-06 15:56:17
+
+#5435.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5435.2 failed:  25 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5435.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5435.4 failed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

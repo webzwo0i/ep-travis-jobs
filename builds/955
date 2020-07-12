@@ -1,0 +1,11 @@
+Job #955.1:  document the required tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1640)
+Commit:        33e97d1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1640
+Duration:      11 min 20 sec
+Started:       2013-03-18 21:11:27
+Finished:      2013-03-18 21:22:47
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

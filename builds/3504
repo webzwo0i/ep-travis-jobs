@@ -1,0 +1,11 @@
+Job #3504.1:  Added RobotoMono as a more modern and pretty monospaced font, addressing #3201
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3206)
+Commit:        33c326a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3206
+Duration:      10 min 56 sec
+Started:       2017-06-21 23:52:52
+Finished:      2017-06-22 00:03:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

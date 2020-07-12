@@ -1,0 +1,14 @@
+Build #5574:  i18n: include about and poweredBy in locales (#4140)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2814ebf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b7dff552f0eb...2814ebfe651b
+Duration:      25 min 14 sec
+Started:       2020-06-27 21:13:42
+Finished:      2020-06-27 21:34:57
+
+#5574.1 passed:  21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5574.2 passed:  48 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5574.3 failed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5574.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

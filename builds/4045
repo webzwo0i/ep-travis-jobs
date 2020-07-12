@@ -1,0 +1,11 @@
+Job #4045.1:  dependencies: upgrade npm 6.10.3 -> 6.12.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8e6bca4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f3a80e0eda0e...8e6bca456f91
+Duration:      11 min 38 sec
+Started:       2019-10-20 04:10:00
+Finished:      2019-10-20 04:21:38
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

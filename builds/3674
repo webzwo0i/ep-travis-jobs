@@ -1,0 +1,11 @@
+Job #3674.1:  Merge pull request #3134 from psaavedra/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        83ce73b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/022783a77448...83ce73b77b50
+Duration:      21 min 52 sec
+Started:       2018-04-03 14:20:42
+Finished:      2018-04-03 14:42:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

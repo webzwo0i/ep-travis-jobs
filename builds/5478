@@ -1,0 +1,14 @@
+Build #5478:  Revert "trying this"
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3903)
+Commit:        7fc1601
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3903
+Duration:      1 min 36 sec
+Started:       2020-06-07 13:01:19
+Finished:      2020-06-07 13:01:47
+
+#5478.1 errored: 24 sec         os: linux, node_js: lts/*, env:
+#5478.2 errored: 24 sec         os: linux, node_js: lts/*, env:
+#5478.3 errored: 25 sec         os: linux, node_js: lts/*, env:
+#5478.4 errored: 23 sec         os: linux, node_js: lts/*, env:

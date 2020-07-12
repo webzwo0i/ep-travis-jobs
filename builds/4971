@@ -1,0 +1,13 @@
+Build #4971:  .gitignore add a new rule
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3926)
+Commit:        ad7e68b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3926
+Duration:      1 min 18 sec
+Started:       2020-04-24 00:04:01
+Finished:      2020-04-24 00:04:32
+
+#4971.1 errored: 30 sec         os: linux, node_js: lts/*, env:
+#4971.2 errored: 24 sec         os: linux, node_js: lts/*, env:
+#4971.3 errored: 24 sec         os: linux, node_js: lts/*, env:

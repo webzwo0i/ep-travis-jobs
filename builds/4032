@@ -1,0 +1,11 @@
+Job #4032.1:  Removed redundant require()
+State:         passed
+Type:          pull request
+Branch:        master (PR #3647)
+Commit:        d173790
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3647
+Duration:      1 min 34 sec
+Started:       2019-10-18 22:43:30
+Finished:      2019-10-18 22:45:04
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

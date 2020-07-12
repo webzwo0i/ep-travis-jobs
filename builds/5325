@@ -1,0 +1,13 @@
+Build #5325:  tests: Only run one frontend test at a time (#4064)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        520b20a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/82ee1da8e798...520b20a3ca49
+Duration:      24 min 41 sec
+Started:       2020-05-30 02:37:57
+Finished:      2020-05-30 02:59:22
+
+#5325.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5325.2 passed:  21 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5325.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #4272:  dependencies: update cheerio 0.20.0 -> 0.22.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        71fa852
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b075d1fd7cc6...71fa852dfbf5
+Duration:      12 min 53 sec
+Started:       2020-03-22 02:51:54
+Finished:      2020-03-22 03:03:26
+
+#4272.1 passed:  11 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4272.2 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

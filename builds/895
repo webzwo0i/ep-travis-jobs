@@ -1,0 +1,11 @@
+Job #895.1:  Validate all 'author' attribs of incoming changesets to be the same value as the current user's authorId
+State:         failed
+Type:          push
+Branch:        dont-crash-bad-author
+Commit:        c30b0b7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5c9fd9aba2b6...c30b0b72b85b
+Duration:      7 min 34 sec
+Started:       2013-03-13 22:26:34
+Finished:      2013-03-13 22:34:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

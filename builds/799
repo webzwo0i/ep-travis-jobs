@@ -1,0 +1,11 @@
+Job #799.1:  remove console error
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1561)
+Commit:        a395144
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1561
+Duration:      11 min 21 sec
+Started:       2013-02-27 01:29:22
+Finished:      2013-02-27 01:40:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,12 @@
+Build #4609:  openapi: support standard http error codes
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ccf4067
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dbab4ad13aba...ccf406708e25
+Duration:      12 min 59 sec
+Started:       2020-04-03 01:03:33
+Finished:      2020-04-03 01:14:59
+
+#4609.1 failed:  11 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4609.2 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

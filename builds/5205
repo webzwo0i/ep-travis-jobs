@@ -1,0 +1,13 @@
+Build #5205:  Fix hiding font-color picker in readonly mode
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4017)
+Commit:        c7c36cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4017
+Duration:      2 min 8 sec
+Started:       2020-05-23 10:15:50
+Finished:      2020-05-23 10:16:38
+
+#5205.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5205.2 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5205.3 errored: 43 sec         os: linux, node_js: lts/*, env:

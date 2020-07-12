@@ -1,0 +1,11 @@
+Job #4004.1:  docker: support including plugins in custom builds.
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3625)
+Commit:        2f8b838
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3625
+Duration:      1 min 32 sec
+Started:       2019-07-12 03:01:30
+Finished:      2019-07-12 03:03:02
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

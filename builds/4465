@@ -1,0 +1,12 @@
+Build #4465:  now etherpad should start, let's look for remote_runner.js
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        ae2e36b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      3 min 42 sec
+Started:       2020-03-29 03:29:44
+Finished:      2020-03-29 03:31:47
+
+#4465.1 failed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4465.2 passed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

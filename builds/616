@@ -1,0 +1,11 @@
+Job #616.1:  Reformat access log messages to improve readability
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6d2b148
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3760b97170f6...6d2b1488d671
+Duration:      6 min 33 sec
+Started:       2013-02-10 16:15:51
+Finished:      2013-02-10 16:22:24
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

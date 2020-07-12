@@ -1,0 +1,11 @@
+Job #3650.1:  use apt instead of apt-get (#3330)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        67a4209
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6f979ca1ef95...67a4209df9e6
+Duration:      11 min 45 sec
+Started:       2018-02-28 13:06:24
+Finished:      2018-02-28 13:18:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

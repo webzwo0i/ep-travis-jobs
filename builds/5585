@@ -1,0 +1,13 @@
+Build #5585:  string check
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4153)
+Commit:        6761d33
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4153
+Duration:      4 min 12 sec
+Started:       2020-07-07 23:06:51
+Finished:      2020-07-07 23:08:33
+
+#5585.1 passed:  56 sec         os: linux, node_js: lts/*, env:
+#5585.2 failed:  1 min 42 sec   os: linux, node_js: lts/*, env:
+#5585.3 passed:  1 min 34 sec   os: linux, node_js: lts/*, env:

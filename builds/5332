@@ -1,0 +1,14 @@
+Build #5332:  tests: backend tests tweak
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        2844224
+Compare URL:   https://github.com/ether/etherpad-lite/compare/add3b23f66b3...2844224acbb8
+Duration:      3 min 2 sec
+Started:       2020-05-30 20:22:56
+Finished:      2020-05-30 20:24:46
+
+#5332.1 errored: 26 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5332.2 errored: 23 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5332.3 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5332.4 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

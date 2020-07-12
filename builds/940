@@ -1,0 +1,11 @@
+Job #940.1:  Merge pull request #1636 from maixithn/patch-1
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f238ba2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/755965d904e8...f238ba2f26c9
+Duration:      8 min 14 sec
+Started:       2013-03-17 22:26:24
+Finished:      2013-03-17 22:34:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

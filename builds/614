@@ -1,0 +1,11 @@
+Job #614.1:  Log the client ip on pad access with logger 'access'
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1489)
+Commit:        bce4da3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1489
+Duration:      10 min 56 sec
+Started:       2013-02-10 16:09:21
+Finished:      2013-02-10 16:20:17
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3488.1:  [feat] New server-side hook: padCopy
+State:         passed
+Type:          push
+Branch:        feature/new_hook_when_pad_is_copied
+Commit:        fc89034
+Compare URL:   https://github.com/ether/etherpad-lite/commit/fc89034a555d
+Duration:      6 min 31 sec
+Started:       2017-05-19 00:05:14
+Finished:      2017-05-19 00:11:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

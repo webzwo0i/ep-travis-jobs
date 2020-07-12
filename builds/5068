@@ -1,0 +1,13 @@
+Build #5068:  Add UpdateCheck file
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3950)
+Commit:        27964bf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3950
+Duration:      2 min 10 sec
+Started:       2020-05-03 15:42:25
+Finished:      2020-05-03 15:43:13
+
+#5068.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5068.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5068.3 errored: 42 sec         os: linux, node_js: lts/*, env:

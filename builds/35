@@ -1,0 +1,13 @@
+Job #35.1:  Merge pull request #1178 from marcelklehr/fix/tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        73eafb9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5009ab117421...73eafb92c27c
+Duration:      13 min 18 sec
+Started:       2012-11-17 16:33:03
+Finished:      2012-11-17 16:46:21
+Allow Failure: false
+Config:        env: SECURE oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

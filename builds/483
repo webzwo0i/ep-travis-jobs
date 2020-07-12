@@ -1,0 +1,11 @@
+Job #483.1:  take two at fixin Mac issue
+State:         failed
+Type:          push
+Branch:        fix-doc-build
+Commit:        d478ae2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6f743c6ee21d...d478ae23863f
+Duration:      4 min 8 sec
+Started:       2013-01-27 18:01:45
+Finished:      2013-01-27 18:05:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

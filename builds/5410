@@ -1,0 +1,14 @@
+Build #5410:  minify is no longer required here
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        01205a2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 38 sec
+Started:       2020-06-05 21:51:20
+Finished:      2020-06-05 21:52:34
+
+#5410.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5410.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5410.3 errored: 39 sec         os: linux, node_js: lts/*, env:
+#5410.4 errored: 42 sec         os: linux, node_js: lts/*, env:

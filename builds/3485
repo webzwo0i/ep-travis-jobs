@@ -1,0 +1,11 @@
+Job #3485.1:  [fix] Have one setting for each shortcut to create ordered list
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3191)
+Commit:        3927e12
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3191
+Duration:      21 sec
+Started:       2017-05-11 20:20:34
+Finished:      2017-05-11 20:20:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

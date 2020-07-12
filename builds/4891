@@ -1,0 +1,13 @@
+Build #4891:  bump to jq3
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3903)
+Commit:        2e6e600
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3903
+Duration:      2 min 11 sec
+Started:       2020-04-19 21:17:19
+Finished:      2020-04-19 21:18:14
+
+#4891.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4891.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4891.3 errored: 44 sec         os: linux, node_js: lts/*, env:

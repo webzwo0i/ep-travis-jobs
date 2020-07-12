@@ -1,0 +1,11 @@
+Job #3809.1:  docs: direct link to measured.Collection from stats.md
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        d499e1b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d38f53181f15...d499e1b0460c
+Duration:      13 sec
+Started:       2018-08-14 17:24:25
+Finished:      2018-08-14 17:24:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

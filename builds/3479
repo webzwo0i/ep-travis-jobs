@@ -1,0 +1,11 @@
+Job #3479.1:  Pad_cookie.js to have isCookiesEnabled() cause wasNoCookie() is also true when User visits first time.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3187)
+Commit:        f2dba68
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3187
+Duration:      10 min 59 sec
+Started:       2017-05-08 15:03:01
+Finished:      2017-05-08 15:14:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

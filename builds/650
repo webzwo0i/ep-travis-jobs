@@ -1,0 +1,11 @@
+Job #650.1:  Merge pull request #1494 from ether/feature/browserTests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        29e2df7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9c4a2ef8197f...29e2df7ad447
+Duration:      7 min 33 sec
+Started:       2013-02-11 00:18:54
+Finished:      2013-02-11 00:26:27
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

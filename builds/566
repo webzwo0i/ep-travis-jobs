@@ -1,0 +1,11 @@
+Job #566.1:  Merge pull request #1461 from ether/slider-nan
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e78879c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7bf8dad6f993...e78879c3006c
+Duration:      7 min 12 sec
+Started:       2013-02-07 03:29:46
+Finished:      2013-02-07 03:36:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #5622:  fixes jQuery.Deferred exception as reported in #4132
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4158)
+Commit:        290a416
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4158
+Duration:      4 min 11 sec
+Started:       2020-07-10 16:12:32
+Finished:      2020-07-10 16:14:22
+
+#5622.1 passed:  55 sec         os: linux, node_js: lts/*, env:
+#5622.2 failed:  1 min 45 sec   os: linux, node_js: lts/*, env:
+#5622.3 passed:  1 min 31 sec   os: linux, node_js: lts/*, env:

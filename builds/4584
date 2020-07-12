@@ -1,0 +1,11 @@
+Job #4584.1:  hrmph
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        7147775
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      1 min 17 sec
+Started:       2020-04-01 16:46:22
+Finished:      2020-04-01 16:47:39
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

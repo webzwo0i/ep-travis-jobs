@@ -1,0 +1,11 @@
+Job #3538.1:  Merge pull request #3187 from tiblu/ep_prefs_different_cookie_for_different_protocol
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f6456c0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5382b06ede7c...f6456c0aa71f
+Duration:      12 min 10 sec
+Started:       2017-07-30 11:50:35
+Finished:      2017-07-30 12:02:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

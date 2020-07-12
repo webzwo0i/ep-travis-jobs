@@ -1,0 +1,11 @@
+Job #569.1:  Removed isProPad, since all pads are public except for group-pads
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1465)
+Commit:        3bbacdd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1465
+Duration:      11 min 11 sec
+Started:       2013-02-07 17:15:08
+Finished:      2013-02-07 17:26:19
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

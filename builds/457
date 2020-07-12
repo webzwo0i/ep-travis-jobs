@@ -1,0 +1,11 @@
+Job #457.1:  Update settings.json.template
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        82e681f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/568b641ee9bf...82e681fb14e5
+Duration:      4 min 31 sec
+Started:       2013-01-24 23:49:18
+Finished:      2013-01-24 23:53:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #454.1:  pluginfw/installer.js: Don't freak out users with cryptic errors, just use the error message
+State:         passed
+Type:          push
+Branch:        feature/real-time-plugin-search
+Commit:        23dd4c7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa55cd47598a^...23dd4c73e225
+Duration:      4 min 39 sec
+Started:       2013-01-24 22:44:38
+Finished:      2013-01-24 22:49:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

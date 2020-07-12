@@ -1,0 +1,11 @@
+Job #3597.1:  Update package.json
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ad09e8e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c0f74cac5d16...ad09e8ed76c1
+Duration:      11 min 45 sec
+Started:       2017-11-20 09:47:05
+Finished:      2017-11-20 09:58:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

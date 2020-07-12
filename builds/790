@@ -1,0 +1,11 @@
+Job #790.1:  a cli tool for deleting pads
+State:         failed
+Type:          push
+Branch:        delete-pad-cli-script
+Commit:        b7d96b1
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b7d96b1dcf45
+Duration:      7 min 13 sec
+Started:       2013-02-26 12:46:02
+Finished:      2013-02-26 12:53:15
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

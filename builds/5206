@@ -1,0 +1,13 @@
+Build #5206:  fix awesome comment by squiddle
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4039)
+Commit:        d294ee7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4039
+Duration:      2 min 18 sec
+Started:       2020-05-24 00:27:43
+Finished:      2020-05-24 00:28:31
+
+#5206.1 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5206.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5206.3 errored: 44 sec         os: linux, node_js: lts/*, env:

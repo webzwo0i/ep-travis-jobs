@@ -1,0 +1,11 @@
+Job #555.1:  better fix for IE8 page up down
+State:         failed
+Type:          push
+Branch:        fix-IE8-error
+Commit:        adaded3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9fcabfa8ac08...adaded343dd9
+Duration:      7 min 7 sec
+Started:       2013-02-06 21:11:23
+Finished:      2013-02-06 21:18:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

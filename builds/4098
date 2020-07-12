@@ -1,0 +1,12 @@
+Build #4098:  Create workdir as etherpad user
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3677)
+Commit:        479ea42
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3677
+Duration:      2 min 16 sec
+Started:       2019-12-01 22:32:48
+Finished:      2019-12-01 22:34:29
+
+#4098.1 passed:  1 min 37 sec   os: linux, node_js: lts/*
+#4098.2 failed:  39 sec         os: linux, node_js: lts/*

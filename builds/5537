@@ -1,0 +1,14 @@
+Build #5537:  staleCode: Remove unnecessary robots.txt entry (#4113)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9a22144
+Compare URL:   https://github.com/ether/etherpad-lite/compare/045ac70db863...9a22144a838d
+Duration:      25 min 10 sec
+Started:       2020-06-14 21:49:34
+Finished:      2020-06-14 22:10:38
+
+#5537.1 passed:  21 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5537.2 passed:  1 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5537.3 failed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5537.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

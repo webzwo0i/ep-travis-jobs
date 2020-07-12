@@ -1,0 +1,11 @@
+Job #5130.1:  resolve merge
+State:         errored
+Type:          push
+Branch:        api_functions_versioning
+Commit:        65697cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f0bde9bf18b6^...65697cdb4d88
+Duration:      57 sec
+Started:       2020-05-13 23:18:00
+Finished:      2020-05-13 23:18:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #715.1:  apply overlay and remove overlay instantly
+State:         failed
+Type:          push
+Branch:        store-sessions-in-db
+Commit:        36814ed
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7f09ec25a27e...36814ed42b01
+Duration:      7 min 10 sec
+Started:       2013-02-14 02:19:50
+Finished:      2013-02-14 02:27:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

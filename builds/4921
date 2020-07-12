@@ -1,0 +1,13 @@
+Build #4921:  css: some fix for browser compatibility refs #3907
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3913)
+Commit:        e8a902b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3913
+Duration:      2 min 10 sec
+Started:       2020-04-21 15:25:44
+Finished:      2020-04-21 15:26:33
+
+#4921.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#4921.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4921.3 errored: 45 sec         os: linux, node_js: lts/*, env:

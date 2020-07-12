@@ -1,0 +1,11 @@
+Job #743.1:  Address @marcelklehr comments and 'dry' things
+State:         errored
+Type:          pull request
+Branch:        dont-die-on-bad-html (PR #1528)
+Commit:        c493b19
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1528
+Duration:      10 min 48 sec
+Started:       2013-02-18 11:11:31
+Finished:      2013-02-18 11:22:19
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

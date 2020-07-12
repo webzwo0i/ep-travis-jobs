@@ -1,0 +1,11 @@
+Job #5128.1:  example stuff
+State:         errored
+Type:          push
+Branch:        padsanitize-requirejs
+Commit:        b4c1638
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b4c163807882
+Duration:      10 min 48 sec
+Started:       2020-05-13 23:17:57
+Finished:      2020-05-13 23:28:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

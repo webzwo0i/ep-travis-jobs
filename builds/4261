@@ -1,0 +1,12 @@
+Build #4261:  charEncoding Basic test in, keeping going
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3737)
+Commit:        be861dd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3737
+Duration:      2 min 46 sec
+Started:       2020-03-21 19:53:15
+Finished:      2020-03-21 19:54:43
+
+#4261.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env:
+#4261.2 passed:  1 min 19 sec   os: linux, node_js: lts/*, env:

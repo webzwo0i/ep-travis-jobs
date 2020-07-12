@@ -1,0 +1,11 @@
+Job #3566.1:  Typos and minor fixes in bin, doc, and root
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3223)
+Commit:        e42db84
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3223
+Duration:      1 min 27 sec
+Started:       2017-08-20 13:09:43
+Finished:      2017-08-20 13:11:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

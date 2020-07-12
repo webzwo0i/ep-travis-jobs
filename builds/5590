@@ -1,0 +1,14 @@
+Build #5590:  add tunnelIdentifier that should help if multiple travis builds open sauce tunnels. use keys from saucelabs plattform configurator
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        7b38d7f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dd79abfd43eb^...7b38d7fb5a3a
+Duration:      3 min 11 sec
+Started:       2020-07-09 20:33:40
+Finished:      2020-07-09 20:34:38
+
+#5590.1 errored: 25 sec         os: linux, node_js: lts/*
+#5590.2 errored: 57 sec         os: linux, node_js: lts/*
+#5590.3 errored: 53 sec         os: linux, node_js: lts/*
+#5590.4 errored: 56 sec         os: linux, node_js: lts/*

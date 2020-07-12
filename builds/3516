@@ -1,0 +1,11 @@
+Job #3516.1:  Merge branch 'develop' into MontserratFont
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3205)
+Commit:        1cc16c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3205
+Duration:      11 min 9 sec
+Started:       2017-07-12 13:34:07
+Finished:      2017-07-12 13:45:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

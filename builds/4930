@@ -1,0 +1,13 @@
+Build #4930:  html10n: do not error when locale variant is found
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3904)
+Commit:        76ad611
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3904
+Duration:      2 min 9 sec
+Started:       2020-04-21 22:48:12
+Finished:      2020-04-21 22:48:58
+
+#4930.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#4930.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4930.3 errored: 43 sec         os: linux, node_js: lts/*, env:

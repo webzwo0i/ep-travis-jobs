@@ -1,0 +1,11 @@
+Job #654.1:  Explicitly log creation of pad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1495)
+Commit:        d8bfc9c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1495
+Duration:      10 min 56 sec
+Started:       2013-02-11 03:10:19
+Finished:      2013-02-11 03:21:15
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

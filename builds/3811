@@ -1,0 +1,11 @@
+Job #3811.1:  docs: started writing down the requirements for pull requests
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        7a6d969
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d815c58b8e9...7a6d9695377a
+Duration:      13 sec
+Started:       2018-08-15 02:35:53
+Finished:      2018-08-15 02:36:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

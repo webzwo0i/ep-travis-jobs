@@ -1,0 +1,12 @@
+Build #4375:  testing to see if these operating systems work
+State:         failed
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        724e85a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fcce3c1a4587...724e85a6c02b
+Duration:      16 min 34 sec
+Started:       2020-03-23 22:46:05
+Finished:      2020-03-23 23:00:58
+
+#4375.1 failed:  14 min 53 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4375.2 passed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

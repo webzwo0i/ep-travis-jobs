@@ -1,0 +1,11 @@
+Job #3652.1:  Merge branch 'develop' into etherpad_in_cluster_mode
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3336)
+Commit:        38c35e6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3336
+Duration:      3 min 22 sec
+Started:       2018-03-07 09:54:37
+Finished:      2018-03-07 09:57:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

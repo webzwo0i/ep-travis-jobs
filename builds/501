@@ -1,0 +1,11 @@
+Job #501.1:  Only set url if the revsion will actually be loaded
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1418)
+Commit:        027a5ec
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1418
+Duration:      11 min 13 sec
+Started:       2013-01-28 22:04:48
+Finished:      2013-01-28 22:16:01
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

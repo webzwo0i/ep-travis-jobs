@@ -1,0 +1,14 @@
+Build #5335:  tests: use sed to modify settings for loadTest
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        f7e7351
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7273778e5f44...f7e73515cd40
+Duration:      16 min 50 sec
+Started:       2020-05-30 22:03:07
+Finished:      2020-05-30 22:14:26
+
+#5335.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5335.2 errored: 11 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5335.3 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5335.4 failed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

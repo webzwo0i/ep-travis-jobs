@@ -1,0 +1,11 @@
+Job #4128.1:  resolve merge issues
+State:         errored
+Type:          push
+Branch:        new-express
+Commit:        cce2d72
+Compare URL:   https://github.com/ether/etherpad-lite/compare/new-express
+Duration:      10 min 40 sec
+Started:       2019-12-07 19:18:58
+Finished:      2019-12-07 19:29:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

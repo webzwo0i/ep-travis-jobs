@@ -1,0 +1,11 @@
+Job #373.1:  Merge pull request #1358 from mluto/clientvars-hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5eb09f9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bb9097e52813...5eb09f981ba0
+Duration:      4 min 25 sec
+Started:       2013-01-14 23:28:28
+Finished:      2013-01-14 23:32:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

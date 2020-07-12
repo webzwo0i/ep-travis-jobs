@@ -1,0 +1,14 @@
+Build #5599:  update sc to 4.6.2
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        fcaac0f
+Compare URL:   https://github.com/ether/etherpad-lite/commit/fcaac0f0f415
+Duration:      23 min 57 sec
+Started:       2020-07-09 21:44:56
+Finished:      2020-07-09 22:04:50
+
+#5599.1 passed:  19 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5599.2 passed:  52 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5599.3 failed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5599.4 passed:  1 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

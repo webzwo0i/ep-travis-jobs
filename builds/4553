@@ -1,0 +1,12 @@
+Build #4553:  resolve package conflict
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3808)
+Commit:        2180e7d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3808
+Duration:      21 min 39 sec
+Started:       2020-04-01 13:23:55
+Finished:      2020-04-01 13:34:48
+
+#4553.1 errored: 10 min 53 sec  os: linux, node_js: lts/*, env:
+#4553.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

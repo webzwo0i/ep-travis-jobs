@@ -1,0 +1,14 @@
+Build #5637:  set tunnelidentifier in sauce connect proxy
+State:         failed
+Type:          push
+Branch:        sl-chained
+Commit:        6cd4bcf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/657b672961ae...6cd4bcfaff00
+Duration:      12 min
+Started:       2020-07-10 20:30:20
+Finished:      2020-07-10 20:38:10
+
+#5637.1 passed:  7 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5637.2 passed:  55 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5637.3 failed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5637.4 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

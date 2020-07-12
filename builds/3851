@@ -1,0 +1,11 @@
+Job #3851.1:  pad.html: add a class to #editorcontainerbox for each installed client plugin
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3489)
+Commit:        2238e6d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3489
+Duration:      1 min 33 sec
+Started:       2018-10-01 02:30:58
+Finished:      2018-10-01 02:32:31
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

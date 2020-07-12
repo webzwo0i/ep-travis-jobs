@@ -1,0 +1,11 @@
+Job #3562.1:  Revert "[feat] Update l10n lib (#3248)"
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3249)
+Commit:        8484159
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3249
+Duration:      15 sec
+Started:       2017-08-15 16:10:52
+Finished:      2017-08-15 16:11:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3497.1:  Merge pull request #3196 from jduckles/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        21f3c56
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b6cb46271bb0...21f3c56c0efb
+Duration:      6 min 27 sec
+Started:       2017-05-30 10:40:36
+Finished:      2017-05-30 10:47:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #394.1:  Merge pull request #1375 from jhollinger/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        74c86da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/96989e63c74e...74c86da0ae38
+Duration:      4 min 13 sec
+Started:       2013-01-18 17:43:02
+Finished:      2013-01-18 17:47:15
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

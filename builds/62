@@ -1,0 +1,11 @@
+Job #62.1:  backslash should be a forward slash
+State:         failed
+Type:          pull request
+Branch:        master (PR #1189)
+Commit:        6ffde57
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1189
+Duration:      14 min 26 sec
+Started:       2012-11-21 09:44:19
+Finished:      2012-11-21 09:58:45
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

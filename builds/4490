@@ -1,0 +1,12 @@
+Build #4490:  tests: instead of sleeping 10 seconds, sleep until successful connection
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        8c1db77
+Compare URL:   https://github.com/ether/etherpad-lite/compare/86613a6eb05b...8c1db77a4056
+Duration:      3 min 16 sec
+Started:       2020-03-29 23:22:33
+Finished:      2020-03-29 23:24:20
+
+#4490.1 failed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4490.2 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

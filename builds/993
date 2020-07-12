@@ -1,0 +1,11 @@
+Job #993.1:  more clean up
+State:         passed
+Type:          push
+Branch:        custom-obj-msg
+Commit:        a9bd081
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2916b39c24f4...a9bd081a44ea
+Duration:      2 min 7 sec
+Started:       2013-03-22 02:27:16
+Finished:      2013-03-22 02:29:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

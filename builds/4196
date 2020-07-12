@@ -1,0 +1,12 @@
+Build #4196:  docker: Add Run with volume example
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0b3cf7c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/92f07a544b69...0b3cf7cc966f
+Duration:      12 min 43 sec
+Started:       2019-12-25 00:48:50
+Finished:      2019-12-25 01:00:20
+
+#4196.1 passed:  11 min 29 sec  os: linux, node_js: lts/*
+#4196.2 passed:  1 min 14 sec   os: linux, node_js: lts/*

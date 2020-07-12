@@ -1,0 +1,14 @@
+Build #5494:  Revert "Merge branch 'develop' of github.com:ether/etherpad-lite into develop"
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        512a511
+Compare URL:   https://github.com/ether/etherpad-lite/compare/564e8fee0704...512a51149d74
+Duration:      25 min 52 sec
+Started:       2020-06-07 21:00:16
+Finished:      2020-06-07 21:21:01
+
+#5494.1 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5494.2 passed:  20 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5494.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5494.4 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

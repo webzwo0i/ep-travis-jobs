@@ -1,0 +1,11 @@
+Job #928.1:  a safer approach I think but still be careful
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1607)
+Commit:        47a33d3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1607
+Duration:      11 min 4 sec
+Started:       2013-03-16 14:21:12
+Finished:      2013-03-16 14:32:16
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

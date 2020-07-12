@@ -1,0 +1,14 @@
+Build #5609:  Fix PDF import with libreoffice (#4156)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3ea8d57
+Compare URL:   https://github.com/ether/etherpad-lite/compare/358af5fea1be...3ea8d571e7e6
+Duration:      26 min 39 sec
+Started:       2020-07-10 00:51:05
+Finished:      2020-07-10 01:13:42
+
+#5609.1 passed:  22 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5609.2 passed:  50 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5609.3 failed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5609.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #4387:  hook for goToRevision event
+State:         failed
+Type:          push
+Branch:        3408cleanCommit
+Commit:        3481997
+Compare URL:   https://github.com/ether/etherpad-lite/compare/be5c1c9473a8...3481997826a4
+Duration:      18 min 52 sec
+Started:       2020-03-24 00:54:33
+Finished:      2020-03-24 01:11:42
+
+#4387.1 failed:  17 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4387.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

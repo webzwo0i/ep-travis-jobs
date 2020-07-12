@@ -1,0 +1,11 @@
+Job #3746.1:  Update settings.json.template
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6dd172d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bfec44e34622...6dd172d6b76c
+Duration:      1 min 54 sec
+Started:       2018-05-12 21:48:55
+Finished:      2018-05-12 21:50:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

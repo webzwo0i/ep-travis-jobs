@@ -1,0 +1,11 @@
+Job #862.1:  fix safari rtl dissapearing pad
+State:         failed
+Type:          push
+Branch:        safari-rtl-fix
+Commit:        1e94eaa
+Compare URL:   https://github.com/ether/etherpad-lite/commit/1e94eaa06c77
+Duration:      12 min 57 sec
+Started:       2013-03-06 15:51:51
+Finished:      2013-03-06 16:04:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

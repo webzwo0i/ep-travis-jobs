@@ -1,0 +1,11 @@
+Job #4115.1:  Adds a badge/ link to the dockerhub path where this image is published
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5e44a94
+Compare URL:   https://github.com/ether/etherpad-lite/compare/50142f65806e...5e44a94d2a35
+Duration:      11 min 27 sec
+Started:       2019-12-05 21:09:59
+Finished:      2019-12-05 21:21:26
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

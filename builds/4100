@@ -1,0 +1,12 @@
+Build #4100:  COPY chown
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3677)
+Commit:        c4377ce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3677
+Duration:      2 min 27 sec
+Started:       2019-12-01 22:41:24
+Finished:      2019-12-01 22:42:58
+
+#4100.1 passed:  1 min 30 sec   os: linux, node_js: lts/*
+#4100.2 passed:  57 sec         os: linux, node_js: lts/*

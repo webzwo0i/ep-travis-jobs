@@ -1,0 +1,13 @@
+Build #5215:  tests: authorship test fix (#4001)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0dc59eb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bcdb331c79f6...0dc59eba4d14
+Duration:      20 min 1 sec
+Started:       2020-05-27 17:55:43
+Finished:      2020-05-27 18:13:37
+
+#5215.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5215.2 failed:  17 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5215.3 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

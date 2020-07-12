@@ -1,0 +1,13 @@
+Build #5212:  attempt of sanity
+State:         failed
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        2468c8a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9e4fb90d8a3f...2468c8ad957e
+Duration:      9 min 42 sec
+Started:       2020-05-27 16:59:04
+Finished:      2020-05-27 17:05:21
+
+#5212.1 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5212.2 failed:  6 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5212.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

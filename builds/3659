@@ -1,0 +1,11 @@
+Job #3659.1:  checkAllPads: Increase performance/resilience
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3342)
+Commit:        ff44bda
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3342
+Duration:      1 min 35 sec
+Started:       2018-03-09 14:02:58
+Finished:      2018-03-09 14:04:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,14 @@
+Build #5592:  update sauce connect to 4.6.2
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        88fb0fa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c2ebf4d9ddcc...88fb0fa44f3c
+Duration:      14 min 35 sec
+Started:       2020-07-09 20:41:56
+Finished:      2020-07-09 20:52:24
+
+#5592.1 errored: 10 min 25 sec  os: linux, node_js: lts/*
+#5592.2 passed:  54 sec         os: linux, node_js: lts/*
+#5592.3 failed:  1 min 44 sec   os: linux, node_js: lts/*
+#5592.4 passed:  1 min 32 sec   os: linux, node_js: lts/*

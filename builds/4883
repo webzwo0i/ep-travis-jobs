@@ -1,0 +1,13 @@
+Build #4883:  test bump
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3899)
+Commit:        0c8d2b1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3899
+Duration:      9 min 2 sec
+Started:       2020-04-19 18:41:21
+Finished:      2020-04-19 18:47:16
+
+#4883.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4883.2 failed:  5 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4883.3 passed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

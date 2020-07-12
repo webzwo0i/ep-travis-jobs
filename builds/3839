@@ -1,0 +1,11 @@
+Job #3839.1:  db/Pad: reversed truthy condition to make core logic evident
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3478)
+Commit:        96359d1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3478
+Duration:      1 min 40 sec
+Started:       2018-08-29 21:23:07
+Finished:      2018-08-29 21:24:47
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

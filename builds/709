@@ -1,0 +1,11 @@
+Job #709.1:  Bitcoin yo.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1607af8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5b5176cc0c25...1607af87531e
+Duration:      12 min 54 sec
+Started:       2013-02-13 22:49:23
+Finished:      2013-02-13 23:02:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

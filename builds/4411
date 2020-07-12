@@ -1,0 +1,12 @@
+Build #4411:  fix the test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3762)
+Commit:        18f1ea1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3762
+Duration:      21 min 33 sec
+Started:       2020-03-26 20:59:07
+Finished:      2020-03-26 21:09:58
+
+#4411.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4411.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

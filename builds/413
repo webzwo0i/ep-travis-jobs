@@ -1,0 +1,11 @@
+Job #413.1:  open in external window
+State:         failed
+Type:          push
+Branch:        more-plugin-details
+Commit:        4cbf386
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1bf526124d5e...4cbf3869c69f
+Duration:      6 min 19 sec
+Started:       2013-01-20 23:37:38
+Finished:      2013-01-20 23:43:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

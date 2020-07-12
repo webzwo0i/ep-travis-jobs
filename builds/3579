@@ -1,0 +1,11 @@
+Job #3579.1:  Merge pull request #3223 from HairyFotr/patch1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        72438ef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c85ffd663eba...72438ef2c8f7
+Duration:      14 min 18 sec
+Started:       2017-10-12 23:21:05
+Finished:      2017-10-12 23:35:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

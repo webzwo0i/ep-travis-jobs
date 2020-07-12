@@ -1,0 +1,13 @@
+Build #4704:  LibreOffice: use "html:XHTML Writer File:UTF8" export method
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3783)
+Commit:        fe922a5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3783
+Duration:      2 min 13 sec
+Started:       2020-04-08 22:49:37
+Finished:      2020-04-08 22:50:24
+
+#4704.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4704.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4704.3 errored: 44 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #3948.1:  db/DB.js: prevent DB layer from returning undefined
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3559)
+Commit:        334f1f9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3559
+Duration:      1 min 43 sec
+Started:       2019-03-07 01:49:06
+Finished:      2019-03-07 01:50:49
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,13 @@
+Build #4968:  README.md: losslessly reduce the size of the PNG images
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d1eb108
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1003d9c40e77...d1eb108ede02
+Duration:      19 min 24 sec
+Started:       2020-04-23 22:46:59
+Finished:      2020-04-23 23:03:20
+
+#4968.1 passed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4968.2 failed:  16 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4968.3 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

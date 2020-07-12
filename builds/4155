@@ -1,0 +1,11 @@
+Job #4155.1:  support for export
+State:         errored
+Type:          push
+Branch:        indentLevels
+Commit:        6ac99ab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/indentLevels
+Duration:      52 sec
+Started:       2019-12-07 20:03:52
+Finished:      2019-12-07 20:04:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

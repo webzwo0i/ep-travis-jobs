@@ -1,0 +1,13 @@
+Build #5507:  idk this might work, worth trying
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4094)
+Commit:        59d2a29
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4094
+Duration:      2 min 6 sec
+Started:       2020-06-08 13:38:11
+Finished:      2020-06-08 13:38:57
+
+#5507.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5507.2 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5507.3 errored: 44 sec         os: linux, node_js: lts/*, env:

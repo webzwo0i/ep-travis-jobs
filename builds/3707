@@ -1,0 +1,11 @@
+Job #3707.1:  Update iframe_editor.css
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fba2bf4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4c16ac4b47d7...fba2bf4df907
+Duration:      1 min 40 sec
+Started:       2018-04-07 18:51:33
+Finished:      2018-04-07 18:53:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #958.1:  Merge pull request #1642 from ether/fix/import
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        65e5147
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83ed9303dacf...65e51473bc2c
+Duration:      8 min 9 sec
+Started:       2013-03-18 22:17:12
+Finished:      2013-03-18 22:25:21
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

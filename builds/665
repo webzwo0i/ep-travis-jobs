@@ -1,0 +1,11 @@
+Job #665.1:  very simple fix that might break other things but stops the caret focus being moved to the end of new lines when a long string without spaces is pasted into a pad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1505)
+Commit:        d57a81e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1505
+Duration:      11 min
+Started:       2013-02-12 01:10:38
+Finished:      2013-02-12 01:21:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

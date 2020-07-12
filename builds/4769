@@ -1,0 +1,13 @@
+Build #4769:  docker: allow to control import/export rate limiting parameters
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5acbdb8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/419f17371c72...5acbdb83e513
+Duration:      14 min 43 sec
+Started:       2020-04-14 03:36:34
+Finished:      2020-04-14 03:48:00
+
+#4769.1 failed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4769.2 failed:  11 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4769.3 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

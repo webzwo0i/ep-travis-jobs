@@ -1,0 +1,11 @@
+Job #923.1:  Merge branch 'release/1.2.9'
+State:         failed
+Type:          push
+Branch:        master
+Commit:        a316052
+Compare URL:   https://github.com/ether/etherpad-lite/compare/844012864ff4...a31605216fe7
+Duration:      12 min 15 sec
+Started:       2013-03-15 21:46:49
+Finished:      2013-03-15 21:59:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

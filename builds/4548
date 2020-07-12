@@ -1,0 +1,12 @@
+Build #4548:  Add getStats API
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3807)
+Commit:        d5b8543
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3807
+Duration:      21 min 33 sec
+Started:       2020-04-01 10:59:23
+Finished:      2020-04-01 11:10:11
+
+#4548.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4548.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #366.1:  prevent empty chat-messages from being sent
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1355)
+Commit:        d786c41
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1355
+Duration:      13 min 10 sec
+Started:       2013-01-14 17:19:15
+Finished:      2013-01-14 17:32:25
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

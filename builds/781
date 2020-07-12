@@ -1,0 +1,11 @@
+Job #781.1:  throw and post err on bad pad data
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1549)
+Commit:        6895dfd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1549
+Duration:      10 min 56 sec
+Started:       2013-02-21 02:42:54
+Finished:      2013-02-21 02:53:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

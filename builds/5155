@@ -1,0 +1,13 @@
+Build #5155:  dependencies: update cookie-parser 1.4.4 -> 1.4.5
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4011)
+Commit:        97454d0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4011
+Duration:      2 min 14 sec
+Started:       2020-05-15 03:07:59
+Finished:      2020-05-15 03:08:46
+
+#5155.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5155.2 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5155.3 errored: 46 sec         os: linux, node_js: lts/*, env:

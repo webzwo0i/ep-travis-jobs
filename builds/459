@@ -1,0 +1,11 @@
+Job #459.1:  Merge branch 'feature/real-time-plugin-search' into develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2841bfc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/82e681fb14e5...2841bfc009bf
+Duration:      4 min 32 sec
+Started:       2013-01-25 14:52:28
+Finished:      2013-01-25 14:57:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

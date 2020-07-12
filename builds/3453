@@ -1,0 +1,11 @@
+Job #3453.1:  [test] Create tests for automatic reconnection on error
+State:         errored
+Type:          push
+Branch:        feature/automatic_force_reconnect
+Commit:        5e90700
+Compare URL:   https://github.com/ether/etherpad-lite/compare/009cd3124370^...5e907005611c
+Duration:      11 min 19 sec
+Started:       2017-04-04 19:29:08
+Finished:      2017-04-04 19:40:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #534.1:  Merge pull request #1438 from mluto/plugin-search-case-senstive
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f8cc7e0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/24c457248891...f8cc7e0d7b19
+Duration:      6 min 48 sec
+Started:       2013-01-31 19:19:51
+Finished:      2013-01-31 19:26:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

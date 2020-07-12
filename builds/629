@@ -1,0 +1,11 @@
+Job #629.1:  Localisation updates from http://translatewiki.net.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5248dac
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e552e74feb0d...5248dac016af
+Duration:      6 min 48 sec
+Started:       2013-02-10 20:16:20
+Finished:      2013-02-10 20:23:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

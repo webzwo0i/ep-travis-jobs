@@ -1,0 +1,13 @@
+Build #5560:  daily pad report script
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4116)
+Commit:        389b1eb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4116
+Duration:      4 min 20 sec
+Started:       2020-06-26 21:21:08
+Finished:      2020-06-26 21:22:49
+
+#5560.1 passed:  1 min 8 sec    os: linux, node_js: lts/*, env:
+#5560.2 failed:  1 min 41 sec   os: linux, node_js: lts/*, env:
+#5560.3 passed:  1 min 31 sec   os: linux, node_js: lts/*, env:

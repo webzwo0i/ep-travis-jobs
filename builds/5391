@@ -1,0 +1,14 @@
+Build #5391:  Merge remote-tracking branch 'upstream/develop' into feature/minify-threads
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3823)
+Commit:        ffcb0e8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3823
+Duration:      2 min 45 sec
+Started:       2020-06-04 09:15:34
+Finished:      2020-06-04 09:16:24
+
+#5391.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5391.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5391.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5391.4 errored: 45 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #876.1:  fix indent on chrome in linux
+State:         failed
+Type:          push
+Branch:        chrome-linux-indent
+Commit:        26a6765
+Compare URL:   https://github.com/ether/etherpad-lite/commit/26a6765b50ff
+Duration:      9 min 27 sec
+Started:       2013-03-08 18:07:31
+Finished:      2013-03-08 18:16:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

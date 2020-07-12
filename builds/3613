@@ -1,0 +1,11 @@
+Job #3613.1:  [refactor] Extract function to the right file
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3301)
+Commit:        a5082a2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3301
+Duration:      1 min 38 sec
+Started:       2018-01-03 19:52:51
+Finished:      2018-01-03 19:54:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

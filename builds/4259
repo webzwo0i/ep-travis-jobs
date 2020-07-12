@@ -1,0 +1,12 @@
+Build #4259:  ui: Initialize color picker for user's color
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3730)
+Commit:        6a6258c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3730
+Duration:      2 min 44 sec
+Started:       2020-03-20 23:25:39
+Finished:      2020-03-20 23:27:04
+
+#4259.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env:
+#4259.2 passed:  1 min 19 sec   os: linux, node_js: lts/*, env:

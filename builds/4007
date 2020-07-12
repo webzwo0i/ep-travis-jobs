@@ -1,0 +1,11 @@
+Job #4007.1:  minor typo fix
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3628)
+Commit:        88156ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3628
+Duration:      1 min 32 sec
+Started:       2019-07-24 20:50:43
+Finished:      2019-07-24 20:52:15
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

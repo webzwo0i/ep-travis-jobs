@@ -1,0 +1,11 @@
+Job #465.1:  Merge pull request #1408 from mluto/chat-api
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9943667
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cf1bba8e65c5...994366750fef
+Duration:      4 min 10 sec
+Started:       2013-01-26 16:26:51
+Finished:      2013-01-26 16:31:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

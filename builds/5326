@@ -1,0 +1,13 @@
+Build #5326:  waitFor didnt last long eonugh and was too spammy
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4065)
+Commit:        a651f5a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4065
+Duration:      1 min 54 sec
+Started:       2020-05-30 18:09:15
+Finished:      2020-05-30 18:09:59
+
+#5326.1 errored: 38 sec         os: linux, node_js: lts/*, env:
+#5326.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5326.3 errored: 41 sec         os: linux, node_js: lts/*, env:

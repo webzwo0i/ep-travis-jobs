@@ -1,0 +1,11 @@
+Job #670.1:  fix issue where opera was doing stupid things but still an issue w/ double tabs exists
+State:         failed
+Type:          push
+Branch:        ace2_inner-fix
+Commit:        a37d396
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a37d396577b7
+Duration:      12 min 59 sec
+Started:       2013-02-12 20:05:49
+Finished:      2013-02-12 20:18:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

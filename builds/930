@@ -1,0 +1,11 @@
+Job #930.1:  (( 2 typos
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1629)
+Commit:        4e92cff
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1629
+Duration:      10 min 49 sec
+Started:       2013-03-16 17:16:53
+Finished:      2013-03-16 17:27:42
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

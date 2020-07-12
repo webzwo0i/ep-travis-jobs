@@ -1,0 +1,12 @@
+Build #4403:  hooks: introduce goToRevisionEvent(), a new client-side hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6fd2bf4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/39f271bfed78...6fd2bf4472e2
+Duration:      18 min 50 sec
+Started:       2020-03-24 23:46:41
+Finished:      2020-03-25 00:03:55
+
+#4403.1 failed:  17 min 6 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4403.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

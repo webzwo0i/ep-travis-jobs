@@ -1,0 +1,11 @@
+Job #3630.1:  Release version 1.6.3
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3316)
+Commit:        8ef8ef9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3316
+Duration:      31 sec
+Started:       2018-02-03 13:01:51
+Finished:      2018-02-03 13:02:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

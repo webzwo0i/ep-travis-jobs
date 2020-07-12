@@ -1,0 +1,11 @@
+Job #3810.1:  deprecations: get rid of DEP0005 about Buffer()
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        9d815c5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d499e1b0460c...9d815c58b8e9
+Duration:      27 sec
+Started:       2018-08-14 19:58:44
+Finished:      2018-08-14 19:59:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

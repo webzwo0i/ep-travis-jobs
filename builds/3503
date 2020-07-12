@@ -1,0 +1,11 @@
+Job #3503.1:  Added support for the Montserrat Font as discussed in #3201
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3205)
+Commit:        2815e02
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3205
+Duration:      11 min 4 sec
+Started:       2017-06-21 23:32:29
+Finished:      2017-06-21 23:43:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

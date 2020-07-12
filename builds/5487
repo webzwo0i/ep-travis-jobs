@@ -1,0 +1,14 @@
+Build #5487:  remove uglify
+State:         errored
+Type:          push
+Branch:        replace-package-files
+Commit:        3823bdd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f31a529039d8...3823bddbba52
+Duration:      17 min 12 sec
+Started:       2020-06-07 16:58:59
+Finished:      2020-06-07 17:07:29
+
+#5487.1 passed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5487.2 errored: 11 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5487.3 failed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5487.4 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

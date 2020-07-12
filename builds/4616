@@ -1,0 +1,13 @@
+Build #4616:  this file should not have been committed
+State:         errored
+Type:          push
+Branch:        backend-test-runner
+Commit:        941a35b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cdd3e67292ed...941a35b91184
+Duration:      14 min 23 sec
+Started:       2020-04-03 03:02:45
+Finished:      2020-04-03 03:13:35
+
+#4616.1 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4616.2 errored: 10 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4616.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

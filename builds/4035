@@ -1,0 +1,11 @@
+Job #4035.1:  docker: reformat docker/settings.json to keep it close to setting.json.template
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3644)
+Commit:        f594a07
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3644
+Duration:      4 min 12 sec
+Started:       2019-10-18 23:09:34
+Finished:      2019-10-18 23:13:46
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

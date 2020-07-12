@@ -1,0 +1,12 @@
+Build #4359:  dont run specific tests in edge that simulate enter keypress because I can't get enter keypress to simulate properly despite trying various approaches..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        3ba6db8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      21 min 30 sec
+Started:       2020-03-23 14:34:10
+Finished:      2020-03-23 14:44:57
+
+#4359.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4359.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

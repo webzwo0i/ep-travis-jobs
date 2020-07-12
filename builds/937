@@ -1,0 +1,11 @@
+Job #937.1:  remove console log
+State:         failed
+Type:          push
+Branch:        mobile-msg-css
+Commit:        3e0a80c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/693b9b9b9449...3e0a80cb7431
+Duration:      7 min 3 sec
+Started:       2013-03-17 16:19:30
+Finished:      2013-03-17 16:26:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

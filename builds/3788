@@ -1,0 +1,11 @@
+Job #3788.1:  docs: minimal revision
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f1056bf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7fa198d448b0...f1056bf01a4f
+Duration:      12 min 13 sec
+Started:       2018-07-27 00:44:45
+Finished:      2018-07-27 00:56:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

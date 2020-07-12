@@ -1,0 +1,11 @@
+Job #3837.1:  url encode pad name
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3477)
+Commit:        a218357
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3477
+Duration:      1 min 31 sec
+Started:       2018-08-27 13:12:50
+Finished:      2018-08-27 13:14:21
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

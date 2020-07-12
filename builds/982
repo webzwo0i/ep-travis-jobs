@@ -1,0 +1,11 @@
+Job #982.1:  Merge pull request #1645 from ether/fix/import-without-files
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        588fd39
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5e07f24c690f...588fd399cd94
+Duration:      2 min 23 sec
+Started:       2013-03-19 18:43:22
+Finished:      2013-03-19 18:45:45
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #423.1:  fix issue #1369 where params would break import
+State:         failed
+Type:          push
+Branch:        fix-import-on-params
+Commit:        e23108d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/e23108d19932
+Duration:      8 min 32 sec
+Started:       2013-01-22 17:06:37
+Finished:      2013-01-22 17:15:09
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

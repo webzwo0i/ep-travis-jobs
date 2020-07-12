@@ -1,0 +1,11 @@
+Job #3843.1:  tests: make sure author is switched on authorship test
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3480)
+Commit:        953078c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3480
+Duration:      11 min 41 sec
+Started:       2018-09-01 23:09:59
+Finished:      2018-09-01 23:21:40
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

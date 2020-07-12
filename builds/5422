@@ -1,0 +1,14 @@
+Build #5422:  editor/ux: Clearauthorship on full doc selected
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        6dbfe5e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d4fcc23fb382...6dbfe5e43c2a
+Duration:      8 min 7 sec
+Started:       2020-06-05 23:47:33
+Finished:      2020-06-05 23:51:32
+
+#5422.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5422.2 canceled: 3 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5422.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5422.4 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

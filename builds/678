@@ -1,0 +1,11 @@
+Job #678.1:  Correct license header
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1491)
+Commit:        005266b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1491
+Duration:      11 min 8 sec
+Started:       2013-02-12 20:48:56
+Finished:      2013-02-12 21:00:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

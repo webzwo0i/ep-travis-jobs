@@ -1,0 +1,11 @@
+Job #3624.1:  Merge pull request #3314 from rhelmer/sanitize-jsonp
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        626e58c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d7c93b0c0d7f...626e58cc5af1
+Duration:      12 min 11 sec
+Started:       2018-01-31 09:26:19
+Finished:      2018-01-31 09:38:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

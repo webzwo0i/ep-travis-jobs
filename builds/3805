@@ -1,0 +1,11 @@
+Job #3805.1:  Remove node_modules and APIKEY.txt from git
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3449)
+Commit:        8c9d182
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3449
+Duration:      11 min 31 sec
+Started:       2018-08-10 19:41:32
+Finished:      2018-08-10 19:53:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

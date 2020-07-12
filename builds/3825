@@ -1,0 +1,11 @@
+Job #3825.1:  settings.json.template: reorganized dbSetting section to be more comment-friendly
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        06476f7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d1481041c27b...06476f7ad2e1
+Duration:      24 sec
+Started:       2018-08-24 01:27:10
+Finished:      2018-08-24 01:27:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

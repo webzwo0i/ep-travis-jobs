@@ -1,0 +1,13 @@
+Job #36.1:  Merge pull request #1177 from marcelklehr/fix/optimize-l10n-loading-times
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d6c0f96
+Compare URL:   https://github.com/ether/etherpad-lite/compare/73eafb92c27c...d6c0f9608403
+Duration:      13 min 30 sec
+Started:       2012-11-17 16:31:29
+Finished:      2012-11-17 16:44:59
+Allow Failure: false
+Config:        env: SECURE oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

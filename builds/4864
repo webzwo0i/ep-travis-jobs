@@ -1,0 +1,13 @@
+Build #4864:  switch back to 99 revs
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3898)
+Commit:        1533896
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3898
+Duration:      9 min 40 sec
+Started:       2020-04-19 16:11:55
+Finished:      2020-04-19 16:18:57
+
+#4864.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4864.2 failed:  6 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4864.3 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

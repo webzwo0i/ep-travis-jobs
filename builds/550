@@ -1,0 +1,11 @@
+Job #550.1:  Merge pull request #1454 from dmitryuv/feature/socketio-rooms
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5b31030
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a5fb1e33ded4...5b31030958c7
+Duration:      6 min 52 sec
+Started:       2013-02-06 01:11:22
+Finished:      2013-02-06 01:18:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,12 @@
+Build #4542:  SessionStore: replace password with PASSWORD_HIDDEN when storing in db
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3782)
+Commit:        8d4cbc5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3782
+Duration:      49 sec
+Started:       2020-04-01 03:38:51
+Finished:      2020-04-01 03:39:18
+
+#4542.1 errored: 25 sec         os: linux, node_js: lts/*, env:
+#4542.2 errored: 24 sec         os: linux, node_js: lts/*, env:

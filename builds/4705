@@ -1,0 +1,13 @@
+Build #4705:  LibreOffice: use "html:XHTML Writer File:UTF8" export method
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        08b83ae
+Compare URL:   https://github.com/ether/etherpad-lite/compare/babf67175c83...08b83ae35841
+Duration:      19 min 32 sec
+Started:       2020-04-08 22:51:46
+Finished:      2020-04-08 23:08:08
+
+#4705.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4705.2 failed:  16 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4705.3 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

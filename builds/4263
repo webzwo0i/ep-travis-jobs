@@ -1,0 +1,12 @@
+Build #4263:  stricter testing
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3737)
+Commit:        a26b387
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3737
+Duration:      2 min 44 sec
+Started:       2020-03-21 20:16:19
+Finished:      2020-03-21 20:17:49
+
+#4263.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env:
+#4263.2 passed:  1 min 17 sec   os: linux, node_js: lts/*, env:

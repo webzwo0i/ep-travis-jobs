@@ -1,0 +1,11 @@
+Job #3855.1:  pad.html: for each client plugin, add a class to #editorcontainerbox
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        23eab79
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2a5e87cc7da7...23eab79946e4
+Duration:      11 min 36 sec
+Started:       2018-10-02 21:23:01
+Finished:      2018-10-02 21:34:37
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

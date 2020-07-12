@@ -1,0 +1,13 @@
+Build #5504:  whoops
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4094)
+Commit:        4073772
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4094
+Duration:      2 min 4 sec
+Started:       2020-06-08 13:32:04
+Finished:      2020-06-08 13:32:54
+
+#5504.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5504.2 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5504.3 errored: 42 sec         os: linux, node_js: lts/*, env:

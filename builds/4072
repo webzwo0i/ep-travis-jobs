@@ -1,0 +1,11 @@
+Job #4072.1:  docker: typos in the readme
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        dd164de
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7e44dc569bcc...dd164decbdf7
+Duration:      11 min 36 sec
+Started:       2019-11-07 23:03:20
+Finished:      2019-11-07 23:14:56
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

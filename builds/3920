@@ -1,0 +1,11 @@
+Job #3920.1:  fix for python3
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3542)
+Commit:        8a338ef
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3542
+Duration:      1 min 22 sec
+Started:       2019-01-22 08:49:38
+Finished:      2019-01-22 08:51:00
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

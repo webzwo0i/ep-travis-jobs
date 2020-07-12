@@ -1,0 +1,14 @@
+Build #5366:  scripts: Various shell script cleanups (#4008)
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        fba4fd5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0d51e7157849...fba4fd53146f
+Duration:      24 min 5 sec
+Started:       2020-06-01 22:27:23
+Finished:      2020-06-01 22:46:12
+
+#5366.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5366.2 canceled: 18 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5366.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5366.4 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

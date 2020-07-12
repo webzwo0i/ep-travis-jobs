@@ -1,0 +1,12 @@
+Build #4347:  use helper for evttype to reduce duplicate code
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        ef1e8fa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6831a138b965...ef1e8fa744cf
+Duration:      21 min 32 sec
+Started:       2020-03-23 11:54:32
+Finished:      2020-03-23 12:05:21
+
+#4347.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4347.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

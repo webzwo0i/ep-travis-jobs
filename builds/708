@@ -1,0 +1,11 @@
+Job #708.1:  nice chars n no cruft
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1491)
+Commit:        414ba2a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1491
+Duration:      10 min 59 sec
+Started:       2013-02-13 22:16:19
+Finished:      2013-02-13 22:27:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

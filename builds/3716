@@ -1,0 +1,11 @@
+Job #3716.1:  Merge new release into master branch!
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3375)
+Commit:        fdf2a48
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3375
+Duration:      23 sec
+Started:       2018-04-10 00:47:42
+Finished:      2018-04-10 00:48:05
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

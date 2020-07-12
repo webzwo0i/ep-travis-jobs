@@ -1,0 +1,12 @@
+Build #4432:  indent ordered list test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        8725407
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 38 sec
+Started:       2020-03-28 13:08:45
+Finished:      2020-03-28 13:19:37
+
+#4432.1 errored: 10 min 52 sec  os: linux, node_js: lts/*, env:
+#4432.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

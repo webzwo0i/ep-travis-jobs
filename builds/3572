@@ -1,0 +1,11 @@
+Job #3572.1:  fix `sessionCookie` number in onAccessCheck
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3218)
+Commit:        5e948a1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3218
+Duration:      1 min 38 sec
+Started:       2017-09-11 22:14:56
+Finished:      2017-09-11 22:16:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

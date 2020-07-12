@@ -1,0 +1,13 @@
+Build #5315:  remove one set timeout from formatting buttnos test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4060)
+Commit:        3c580c8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4060
+Duration:      1 min 58 sec
+Started:       2020-05-29 21:05:22
+Finished:      2020-05-29 21:06:08
+
+#5315.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5315.2 errored: 34 sec         os: linux, node_js: lts/*, env:
+#5315.3 errored: 42 sec         os: linux, node_js: lts/*, env:

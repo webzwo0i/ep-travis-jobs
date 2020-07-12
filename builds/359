@@ -1,0 +1,11 @@
+Job #359.1:  Merge pull request #1353 from ether/feature/log4js-config-setting
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6104987
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0bcfef5aa489...6104987a4bae
+Duration:      3 min 51 sec
+Started:       2013-01-13 19:28:50
+Finished:      2013-01-13 19:32:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

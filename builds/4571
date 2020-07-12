@@ -1,0 +1,12 @@
+Build #4571:  Fix freeze on pad deletion
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3562)
+Commit:        a274bb5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3562
+Duration:      21 min 44 sec
+Started:       2020-04-01 16:18:25
+Finished:      2020-04-01 16:29:41
+
+#4571.1 errored: 10 min 58 sec  os: linux, node_js: lts/*, env:
+#4571.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

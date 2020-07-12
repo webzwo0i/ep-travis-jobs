@@ -1,0 +1,12 @@
+Build #4235:  Backed out changeset: 3292429ab312 (issues #3663 and #3728)
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3729)
+Commit:        81a4e20
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3729
+Duration:      2 min 41 sec
+Started:       2020-03-18 19:33:26
+Finished:      2020-03-18 19:34:53
+
+#4235.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env:
+#4235.2 passed:  1 min 14 sec   os: linux, node_js: lts/*, env:

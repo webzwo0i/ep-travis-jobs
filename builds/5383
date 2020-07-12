@@ -1,0 +1,14 @@
+Build #5383:  bin: Fix 'for' loop style
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4072)
+Commit:        7a334fc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4072
+Duration:      2 min 51 sec
+Started:       2020-06-03 06:24:49
+Finished:      2020-06-03 06:25:36
+
+#5383.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5383.2 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5383.3 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5383.4 errored: 46 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #597.1:  stop opera doing stupid things
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1477)
+Commit:        81e282a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1477
+Duration:      10 min 53 sec
+Started:       2013-02-09 20:51:26
+Finished:      2013-02-09 21:02:19
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

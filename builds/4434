@@ -1,0 +1,12 @@
+Build #4434:  testing number and non number changes using indent and outdent buttons
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        2c4fdf0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 38 sec
+Started:       2020-03-28 13:29:25
+Finished:      2020-03-28 13:40:16
+
+#4434.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4434.2 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:

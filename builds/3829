@@ -1,0 +1,11 @@
+Job #3829.1:  ace.js: use URL encoding when building an URL via string concatenation
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        6c56e7c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2cc32d7fe9b4...6c56e7ca7aea
+Duration:      22 sec
+Started:       2018-08-26 02:48:47
+Finished:      2018-08-26 02:49:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

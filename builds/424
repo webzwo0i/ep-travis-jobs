@@ -1,0 +1,11 @@
+Job #424.1:  Merge pull request #1385 from goldquest/dev_import-reverseProxy
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        1725fe3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7869a543dd5c...1725fe318d89
+Duration:      7 min 27 sec
+Started:       2013-01-22 17:06:53
+Finished:      2013-01-22 17:14:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

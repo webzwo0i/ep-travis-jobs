@@ -1,0 +1,14 @@
+Build #5616:  add a lot of browsers to test
+State:         failed
+Type:          push
+Branch:        saucelabs-parallel
+Commit:        4500bd7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/60ca907bffd1...4500bd71cec7
+Duration:      19 min 13 sec
+Started:       2020-07-10 04:06:30
+Finished:      2020-07-10 04:21:30
+
+#5616.1 passed:  15 min         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5616.2 passed:  51 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5616.3 failed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5616.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

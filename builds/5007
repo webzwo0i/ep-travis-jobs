@@ -1,0 +1,13 @@
+Build #5007:  startup: use "npm ci" instead of "npm install" in startup scripts
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3944)
+Commit:        44df191
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3944
+Duration:      2 min 6 sec
+Started:       2020-04-27 00:36:07
+Finished:      2020-04-27 00:36:53
+
+#5007.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5007.2 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5007.3 errored: 43 sec         os: linux, node_js: lts/*, env:

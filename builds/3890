@@ -1,0 +1,11 @@
+Job #3890.1:  Merge pull request #3513 from muxator/seballot-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d4b15c0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b0210c1b5569...d4b15c01d5c5
+Duration:      13 min 46 sec
+Started:       2018-11-12 22:24:48
+Finished:      2018-11-12 22:38:34
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

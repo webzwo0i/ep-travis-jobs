@@ -1,0 +1,11 @@
+Job #3834.1:  toolbar: missing var declaration
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        fb1f8dd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7f7efa22b733...fb1f8dd239c6
+Duration:      14 sec
+Started:       2018-08-27 02:26:15
+Finished:      2018-08-27 02:26:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

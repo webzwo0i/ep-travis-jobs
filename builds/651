@@ -1,0 +1,11 @@
+Job #651.1:  Merge pull request #1487 from ether/dep-cleanup
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1a77e57
+Compare URL:   https://github.com/ether/etherpad-lite/compare/29e2df7ad447...1a77e575036f
+Duration:      6 min 50 sec
+Started:       2013-02-11 00:20:42
+Finished:      2013-02-11 00:27:32
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3733.1:  hook callAll to aCallAll
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3268)
+Commit:        e740b54
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3268
+Duration:      2 min 5 sec
+Started:       2018-05-02 10:46:37
+Finished:      2018-05-02 10:48:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

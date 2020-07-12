@@ -1,0 +1,11 @@
+Job #4179.1:  release: prepare for 1.8.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        1dfd52b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a817acbbccad...1dfd52bcced9
+Duration:      15 min 9 sec
+Started:       2019-12-07 20:46:43
+Finished:      2019-12-07 21:01:52
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #39.1:  Merge pull request #1179 from marcelklehr/fix/improve-frontendtest-ux
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        95dee60
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a99ff139c9d8...95dee60d2d48
+Duration:      3 sec
+Started:       2012-11-18 17:27:58
+Finished:      2012-11-18 17:28:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

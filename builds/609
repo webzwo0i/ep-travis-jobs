@@ -1,0 +1,11 @@
+Job #609.1:  please wait msg
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1486)
+Commit:        1c97dfe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1486
+Duration:      10 min 55 sec
+Started:       2013-02-10 04:33:16
+Finished:      2013-02-10 04:44:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

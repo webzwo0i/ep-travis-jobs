@@ -1,0 +1,11 @@
+Job #674.1:  see comment on #1505
+State:         failed
+Type:          push
+Branch:        fix-IE9-again
+Commit:        3d99607
+Compare URL:   https://github.com/ether/etherpad-lite/commit/3d996074da6e
+Duration:      6 min 49 sec
+Started:       2013-02-12 20:34:56
+Finished:      2013-02-12 20:41:45
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

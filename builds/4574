@@ -1,0 +1,12 @@
+Build #4574:  Add pads list tests
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #3752)
+Commit:        06c66fa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3752
+Duration:      30 sec
+Started:       2020-04-01 16:24:16
+Finished:      2020-04-01 16:24:46
+
+#4574.1 canceled: 30 sec         os: linux, node_js: lts/*, env:
+#4574.2 canceled: 22 min 22 sec  os: linux, node_js: lts/*, env:

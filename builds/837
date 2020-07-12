@@ -1,0 +1,11 @@
+Job #837.1:  bump v and fixes for ff and ie
+State:         errored
+Type:          push
+Branch:        update-ueber
+Commit:        6199c54
+Compare URL:   https://github.com/ether/etherpad-lite/compare/110190d40bb9^...6199c545e99b
+Duration:      4 sec
+Started:       2013-03-05 14:41:08
+Finished:      2013-03-05 14:41:12
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

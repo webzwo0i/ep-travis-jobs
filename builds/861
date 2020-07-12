@@ -1,0 +1,11 @@
+Job #861.1:  Also change 'dir'ection of ace_outer
+State:         failed
+Type:          push
+Branch:        fix/rtl-option
+Commit:        3dbbe28
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5731ef780200...3dbbe282ea9c
+Duration:      8 min 53 sec
+Started:       2013-03-06 15:49:49
+Finished:      2013-03-06 15:58:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

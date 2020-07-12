@@ -1,0 +1,11 @@
+Job #3708.1:  unbreak Safari iOS line wrapping
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b16e7ad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fba2bf4df907...b16e7ad25ead
+Duration:      1 min 44 sec
+Started:       2018-04-07 19:12:10
+Finished:      2018-04-07 19:13:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,14 @@
+Build #5572:  Fix backendRunner's exitcode (#4134)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        bbee833
+Compare URL:   https://github.com/ether/etherpad-lite/compare/168737b6d894...bbee833b89ba
+Duration:      25 min 2 sec
+Started:       2020-06-27 21:11:17
+Finished:      2020-06-27 21:32:34
+
+#5572.1 passed:  21 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5572.2 passed:  50 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5572.3 failed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5572.4 failed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #759.1:  dont jump pages
+State:         failed
+Type:          push
+Branch:        dont-lose-caret
+Commit:        ab81b5c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5441179e7807...ab81b5cfe979
+Duration:      7 min 36 sec
+Started:       2013-02-18 20:48:13
+Finished:      2013-02-18 20:55:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

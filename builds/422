@@ -1,0 +1,11 @@
+Job #422.1:  script tag didn't link to right location
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1385)
+Commit:        4215b24
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1385
+Duration:      6 min 33 sec
+Started:       2013-01-22 17:00:48
+Finished:      2013-01-22 17:07:21
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

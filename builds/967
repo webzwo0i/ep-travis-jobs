@@ -1,0 +1,11 @@
+Job #967.1:  hook for chat msg
+State:         failed
+Type:          push
+Branch:        chatMsgHook
+Commit:        7741f76
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7741f762e2b7
+Duration:      6 min 52 sec
+Started:       2013-03-19 03:23:38
+Finished:      2013-03-19 03:30:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

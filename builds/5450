@@ -1,0 +1,14 @@
+Build #5450:  Revert "outdent on ol"
+State:         errored
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        e0fd8f8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1b82cef363f6...e0fd8f85231d
+Duration:      20 min 42 sec
+Started:       2020-06-07 00:14:14
+Finished:      2020-06-07 00:29:50
+
+#5450.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5450.2 errored: 15 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5450.3 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5450.4 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

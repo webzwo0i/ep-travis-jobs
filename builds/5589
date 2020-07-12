@@ -1,0 +1,13 @@
+Build #5589:  Fix PDF import with libreoffice
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4156)
+Commit:        e601383
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4156
+Duration:      4 min 13 sec
+Started:       2020-07-09 19:12:56
+Finished:      2020-07-09 19:14:48
+
+#5589.1 passed:  51 sec         os: linux, node_js: lts/*, env:
+#5589.2 failed:  1 min 52 sec   os: linux, node_js: lts/*, env:
+#5589.3 passed:  1 min 30 sec   os: linux, node_js: lts/*, env:

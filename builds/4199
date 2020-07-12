@@ -1,0 +1,12 @@
+Build #4199:  build(deps): bump clean-css from 3.4.19 to 4.1.11 in /src
+State:         passed
+Type:          push
+Branch:        dependabot/npm_and_yarn/src/clean-css-4.1.11
+Commit:        ff558b1
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ff558b1557ce
+Duration:      12 min 56 sec
+Started:       2019-12-26 14:17:01
+Finished:      2019-12-26 14:28:39
+
+#4199.1 passed:  11 min 38 sec  os: linux, node_js: lts/*
+#4199.2 passed:  1 min 18 sec   os: linux, node_js: lts/*

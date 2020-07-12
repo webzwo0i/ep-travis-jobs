@@ -1,0 +1,11 @@
+Job #558.1:  stop slider showing NaN on tiny pads
+State:         failed
+Type:          push
+Branch:        slider-nan
+Commit:        284748a
+Compare URL:   https://github.com/ether/etherpad-lite/commit/284748adb7fa
+Duration:      8 min 52 sec
+Started:       2013-02-07 02:19:12
+Finished:      2013-02-07 02:28:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #699.1:  Added raw JSON export
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1516)
+Commit:        6b3e771
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1516
+Duration:      11 min 9 sec
+Started:       2013-02-13 11:31:24
+Finished:      2013-02-13 11:42:33
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

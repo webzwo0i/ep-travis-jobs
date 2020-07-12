@@ -1,0 +1,12 @@
+Build #4527:  ImportHandler: instead of failing (badly) when a non Ascii code is uploaded just convert it then convert it back
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3796)
+Commit:        013296a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3796
+Duration:      21 min 31 sec
+Started:       2020-03-31 04:12:54
+Finished:      2020-03-31 04:23:47
+
+#4527.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4527.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

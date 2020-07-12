@@ -1,0 +1,13 @@
+Build #4829:  Trying diff versions..
+State:         passed
+Type:          push
+Branch:        saucelabs-remote-runner-pinned
+Commit:        67efcfb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e3e8668650e2...67efcfb7f96a
+Duration:      15 min 18 sec
+Started:       2020-04-19 12:32:28
+Finished:      2020-04-19 12:44:18
+
+#4829.1 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4829.2 passed:  11 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4829.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

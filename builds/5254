@@ -1,0 +1,13 @@
+Build #5254:  Revert "Removing ep_test_line_attrib include"
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        b1b1819
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5208ae5ee657...b1b181927d0d
+Duration:      7 min 18 sec
+Started:       2020-05-28 14:34:26
+Finished:      2020-05-28 14:38:33
+
+#5254.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5254.2 canceled: 4 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5254.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

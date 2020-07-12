@@ -1,0 +1,14 @@
+Build #5457:  Revert "Revert "outdent on ol""
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4088)
+Commit:        7bc0db9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4088
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-06-07 00:55:44
+
+#5457.1 canceled: 27 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5457.2 canceled: 27 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5457.3 canceled: 27 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5457.4 canceled: 27 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

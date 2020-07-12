@@ -1,0 +1,11 @@
+Job #4585.1:  hrmph
+State:         failed
+Type:          push
+Branch:        backend-test-runner
+Commit:        0df9eec
+Compare URL:   https://github.com/ether/etherpad-lite/compare/58d41fbac491...0df9eecafc35
+Duration:      1 min 13 sec
+Started:       2020-04-01 16:51:20
+Finished:      2020-04-01 16:52:33
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

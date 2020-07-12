@@ -1,0 +1,11 @@
+Job #996.1:  Merge pull request #1655 from simong/cassandra
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        73afc59
+Compare URL:   https://github.com/ether/etherpad-lite/compare/09edfb0d5e51...73afc595e55a
+Duration:      2 min 14 sec
+Started:       2013-03-22 16:25:28
+Finished:      2013-03-22 16:27:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

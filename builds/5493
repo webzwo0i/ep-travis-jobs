@@ -1,0 +1,14 @@
+Build #5493:  forcing back to last known stable before parent merge
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        564e8fe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/49cd2705929c...564e8fee0704
+Duration:      8 min 47 sec
+Started:       2020-06-07 20:44:34
+Finished:      2020-06-07 20:48:30
+
+#5493.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5493.2 canceled: 3 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5493.3 failed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5493.4 failed:  1 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

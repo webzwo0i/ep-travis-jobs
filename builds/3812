@@ -1,0 +1,11 @@
+Job #3812.1:  runtime: polyfill Object.values()
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        fc14f60
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7a6d9695377a...fc14f60a4b20
+Duration:      44 sec
+Started:       2018-08-15 23:13:03
+Finished:      2018-08-15 23:13:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

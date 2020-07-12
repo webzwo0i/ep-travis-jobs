@@ -1,0 +1,11 @@
+Job #3688.1:  Upgrade Ueberdb2 to 0.3.7 to fix https://github.com/ether/etherpad-lite/issues/3348
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3359)
+Commit:        2c632e8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3359
+Duration:      1 min 49 sec
+Started:       2018-04-04 13:17:44
+Finished:      2018-04-04 13:19:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

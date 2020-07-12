@@ -1,0 +1,13 @@
+Build #4632:  patch fix for 3825
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3828)
+Commit:        d331197
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3828
+Duration:      2 min 16 sec
+Started:       2020-04-03 12:31:35
+Finished:      2020-04-03 12:32:24
+
+#4632.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4632.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4632.3 errored: 45 sec         os: linux, node_js: lts/*, env:

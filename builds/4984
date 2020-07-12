@@ -1,0 +1,13 @@
+Build #4984:  Merge branch 'develop' of github.com:iquidus/etherpad-lite into develop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3904)
+Commit:        b53e5ea
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3904
+Duration:      2 min 9 sec
+Started:       2020-04-24 20:10:02
+Finished:      2020-04-24 20:10:48
+
+#4984.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4984.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4984.3 errored: 43 sec         os: linux, node_js: lts/*, env:

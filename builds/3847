@@ -1,0 +1,11 @@
+Job #3847.1:  unable to convert with running soffice process
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3482)
+Commit:        2e21866
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3482
+Duration:      2 min 25 sec
+Started:       2018-09-12 15:01:39
+Finished:      2018-09-12 15:04:04
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

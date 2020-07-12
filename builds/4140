@@ -1,0 +1,11 @@
+Job #4140.1:  change to proper IE check
+State:         errored
+Type:          push
+Branch:        IE11-null-password
+Commit:        a22b558
+Compare URL:   https://github.com/ether/etherpad-lite/compare/IE11-null-password
+Duration:      10 min 37 sec
+Started:       2019-12-07 19:40:15
+Finished:      2019-12-07 19:50:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

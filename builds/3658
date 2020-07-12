@@ -1,0 +1,11 @@
+Job #3658.1:  Add checkPad variant to check all pads/revisions
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3342)
+Commit:        bbe0bcb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3342
+Duration:      1 min 32 sec
+Started:       2018-03-09 13:46:59
+Finished:      2018-03-09 13:48:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

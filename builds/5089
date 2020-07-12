@@ -1,0 +1,13 @@
+Build #5089:  script to extract last known good pad state and write it to another working pad.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3980)
+Commit:        99847de
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3980
+Duration:      2 min 22 sec
+Started:       2020-05-07 20:28:01
+Finished:      2020-05-07 20:28:51
+
+#5089.1 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5089.2 errored: 50 sec         os: linux, node_js: lts/*, env:
+#5089.3 errored: 46 sec         os: linux, node_js: lts/*, env:

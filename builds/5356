@@ -1,0 +1,14 @@
+Build #5356:  tests: fix for fix of fuzz tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0dd9db4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/71bffed190fd...0dd9db4e99c1
+Duration:      26 min 6 sec
+Started:       2020-06-01 20:29:17
+Finished:      2020-06-01 20:50:40
+
+#5356.1 failed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5356.2 failed:  20 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5356.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5356.4 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

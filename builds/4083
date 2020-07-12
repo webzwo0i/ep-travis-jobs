@@ -1,0 +1,11 @@
+Job #4083.1:  referer: work towards the greatest level of referrer security
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3636)
+Commit:        5e02fd1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3636
+Duration:      1 min 27 sec
+Started:       2019-11-24 23:00:29
+Finished:      2019-11-24 23:01:56
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

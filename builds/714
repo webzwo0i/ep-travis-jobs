@@ -1,0 +1,11 @@
+Job #714.1:  apply overlay and remove overlay instantly
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1523)
+Commit:        34e8337
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1523
+Duration:      11 min 6 sec
+Started:       2013-02-14 02:19:51
+Finished:      2013-02-14 02:30:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

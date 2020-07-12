@@ -1,0 +1,14 @@
+Build #5349:  tests: fix for fuzz tests
+State:         errored
+Type:          push
+Branch:        fuzz-test-fixes
+Commit:        82b8023
+Compare URL:   https://github.com/ether/etherpad-lite/commit/82b80236c74a
+Duration:      16 min 45 sec
+Started:       2020-06-01 19:49:50
+Finished:      2020-06-01 20:01:10
+
+#5349.1 failed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5349.2 errored: 11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5349.3 passed:  2 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5349.4 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

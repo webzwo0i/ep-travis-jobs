@@ -1,0 +1,11 @@
+Job #968.1:  hook for chat msg
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1644)
+Commit:        b795dd2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1644
+Duration:      10 min 57 sec
+Started:       2013-03-19 03:24:25
+Finished:      2013-03-19 03:35:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

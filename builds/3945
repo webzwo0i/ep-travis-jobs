@@ -1,0 +1,11 @@
+Job #3945.1:  use Date.now() instead of new Date().getTime()
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        77dc929
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1900b00ec2c0...77dc92942833
+Duration:      12 min
+Started:       2019-02-27 01:39:18
+Finished:      2019-02-27 01:51:18
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

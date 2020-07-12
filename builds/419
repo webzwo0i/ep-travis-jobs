@@ -1,0 +1,11 @@
+Job #419.1:  Update bin/convert.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1383)
+Commit:        ff1c380
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1383
+Duration:      6 min 24 sec
+Started:       2013-01-22 00:57:47
+Finished:      2013-01-22 01:04:11
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

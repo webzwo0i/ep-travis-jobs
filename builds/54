@@ -1,0 +1,11 @@
+Job #54.1:  Replace Globalize with languages module
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1184)
+Commit:        e53fe2e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1184
+Duration:      15 min 59 sec
+Started:       2012-11-20 19:50:36
+Finished:      2012-11-20 20:06:35
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

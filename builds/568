@@ -1,0 +1,11 @@
+Job #568.1:  Merge pull request #1464 from mluto/old-chat-code
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        889cec8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e78879c3006c...889cec8f7c7b
+Duration:      7 min 50 sec
+Started:       2013-02-07 16:53:08
+Finished:      2013-02-07 17:00:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

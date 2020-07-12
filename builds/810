@@ -1,0 +1,11 @@
+Job #810.1:  patch documented here https://github.com/ether/etherpad-lite/issues/472 adds some stability but not a perfect solution
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1565)
+Commit:        a6e11af
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1565
+Duration:      10 min 54 sec
+Started:       2013-02-27 17:19:49
+Finished:      2013-02-27 17:30:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

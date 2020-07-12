@@ -1,0 +1,11 @@
+Job #59.1:  Merge pull request #1185 from Nikerabbit/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a6cbcc9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8a23c2ff50bf...a6cbcc9d5199
+Duration:      7 min 5 sec
+Started:       2012-11-20 22:11:36
+Finished:      2012-11-20 22:18:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

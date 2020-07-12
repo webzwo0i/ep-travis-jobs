@@ -1,0 +1,11 @@
+Job #438.1:  add a html block eejs so you can add a cache manifest
+State:         failed
+Type:          push
+Branch:        html-head-block-eejs
+Commit:        9129c69
+Compare URL:   https://github.com/ether/etherpad-lite/commit/9129c6970a9f
+Duration:      4 min 51 sec
+Started:       2013-01-23 04:19:19
+Finished:      2013-01-23 04:24:10
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

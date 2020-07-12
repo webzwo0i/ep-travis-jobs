@@ -1,0 +1,14 @@
+Build #5385:  tests: updating mocha and refactoring the custom html reporter using events
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        df1629c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7aa7e02e273c...df1629c7b989
+Duration:      26 min 19 sec
+Started:       2020-06-03 11:55:17
+Finished:      2020-06-03 12:16:32
+
+#5385.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5385.2 failed:  21 min 14 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5385.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5385.4 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

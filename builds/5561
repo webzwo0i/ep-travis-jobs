@@ -1,0 +1,13 @@
+Build #5561:  robust solution for following content on timeslider
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4133)
+Commit:        8fc88ba
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4133
+Duration:      4 min 19 sec
+Started:       2020-06-26 22:23:04
+Finished:      2020-06-26 22:24:42
+
+#5561.1 passed:  1 min 6 sec    os: linux, node_js: lts/*, env:
+#5561.2 failed:  1 min 37 sec   os: linux, node_js: lts/*, env:
+#5561.3 passed:  1 min 36 sec   os: linux, node_js: lts/*, env:

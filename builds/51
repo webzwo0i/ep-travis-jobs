@@ -1,0 +1,11 @@
+Job #51.1:  Show errors on npm install
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3e53a11
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a7e6c6b0abd6...3e53a1112707
+Duration:      6 min 43 sec
+Started:       2012-11-19 15:20:19
+Finished:      2012-11-19 15:27:02
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

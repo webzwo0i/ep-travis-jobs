@@ -1,0 +1,13 @@
+Build #4830:  Trying diff versions..
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3887)
+Commit:        07a8f04
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3887
+Duration:      15 min 17 sec
+Started:       2020-04-19 12:32:30
+Finished:      2020-04-19 12:44:25
+
+#4830.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4830.2 passed:  11 min 53 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4830.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

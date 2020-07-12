@@ -1,0 +1,11 @@
+Job #517.1:  Added a checkbox to ignore global settings
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1415)
+Commit:        68e71a2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1415
+Duration:      10 min 57 sec
+Started:       2013-01-29 21:54:53
+Finished:      2013-01-29 22:05:50
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

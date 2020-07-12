@@ -1,0 +1,11 @@
+Job #690.1:  include the callback call, for sanity and stop the pad from being nuked so early in the function
+State:         failed
+Type:          push
+Branch:        dont-die-on-bad-html
+Commit:        e152c47
+Compare URL:   https://github.com/ether/etherpad-lite/compare/086132de6671...e152c477c7c9
+Duration:      6 min 50 sec
+Started:       2013-02-13 00:39:15
+Finished:      2013-02-13 00:46:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

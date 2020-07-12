@@ -1,0 +1,11 @@
+Job #3960.1:  Settings.js: support syntax for default values
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3579)
+Commit:        0b7c65a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3579
+Duration:      1 min 43 sec
+Started:       2019-03-21 23:31:19
+Finished:      2019-03-21 23:33:02
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

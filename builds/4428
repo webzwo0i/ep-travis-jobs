@@ -1,0 +1,12 @@
+Build #4428:  dont show saved rev in timeslider...
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3768)
+Commit:        833f5dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3768
+Duration:      21 min 36 sec
+Started:       2020-03-27 22:19:08
+Finished:      2020-03-27 22:30:05
+
+#4428.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4428.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

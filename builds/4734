@@ -1,0 +1,15 @@
+Build #4734:  🚧 Remove double quotes around IMAGE_NAME
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3855)
+Commit:        513dfab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3855
+Duration:      3 min 49 sec
+Started:       2020-04-10 19:03:54
+Finished:      2020-04-10 19:04:53
+
+#4734.1 errored: 43 sec         os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#4734.2 errored: 58 sec         os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#4734.3 errored: 43 sec         os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#4734.4 errored: 43 sec         os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#4734.5 errored: 42 sec         os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test

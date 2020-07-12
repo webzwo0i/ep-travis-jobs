@@ -1,0 +1,13 @@
+Build #5114:  Custom i18n strings (and some code formatting)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4000)
+Commit:        d3bab73
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4000
+Duration:      2 min 8 sec
+Started:       2020-05-13 16:38:11
+Finished:      2020-05-13 16:38:56
+
+#5114.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5114.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5114.3 errored: 43 sec         os: linux, node_js: lts/*, env:

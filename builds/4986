@@ -1,0 +1,13 @@
+Build #4986:  html10n: fix variant only langs (e.g zh-*); add comments
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3904)
+Commit:        d450db3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3904
+Duration:      2 min 10 sec
+Started:       2020-04-24 20:14:49
+Finished:      2020-04-24 20:15:36
+
+#4986.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4986.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4986.3 errored: 41 sec         os: linux, node_js: lts/*, env:

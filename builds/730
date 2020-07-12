@@ -1,0 +1,11 @@
+Job #730.1:  make the focus jump back to the left if it's required
+State:         failed
+Type:          push
+Branch:        fix-for-long-strings
+Commit:        7e023ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2f2046144554...7e023ce8e109
+Duration:      6 min 52 sec
+Started:       2013-02-17 22:04:35
+Finished:      2013-02-17 22:11:27
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #4064.1:  installDeps.sh: create a package-lock.json on startup. Track it in the repo.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9ee131c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/801d519165ef...9ee131ca1fdb
+Duration:      11 min 43 sec
+Started:       2019-11-01 10:44:31
+Finished:      2019-11-01 10:56:14
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

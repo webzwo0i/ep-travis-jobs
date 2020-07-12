@@ -1,0 +1,13 @@
+Build #4808:  favicon fix for 3875
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3881)
+Commit:        f310c7d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3881
+Duration:      2 min 17 sec
+Started:       2020-04-18 15:42:18
+Finished:      2020-04-18 15:43:06
+
+#4808.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4808.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4808.3 errored: 45 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #3531.1:  DO NOT MERGE just testing travis integration
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3229)
+Commit:        65fcf4f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3229
+Duration:      10 min 57 sec
+Started:       2017-07-27 17:44:30
+Finished:      2017-07-27 17:55:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

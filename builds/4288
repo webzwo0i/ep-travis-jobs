@@ -1,0 +1,12 @@
+Build #4288:  wow this is weird...
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        b542408
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      13 min 25 sec
+Started:       2020-03-22 13:30:00
+Finished:      2020-03-22 13:41:39
+
+#4288.1 errored: 11 min 39 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4288.2 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

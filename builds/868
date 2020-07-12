@@ -1,0 +1,11 @@
+Job #868.1:  bump v and changelog
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0c9214b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/830357c81ce6...0c9214bb27ae
+Duration:      7 min 5 sec
+Started:       2013-03-06 16:09:50
+Finished:      2013-03-06 16:16:55
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

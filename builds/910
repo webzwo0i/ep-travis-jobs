@@ -1,0 +1,11 @@
+Job #910.1:  Merge pull request #1616 from ether/ff-key-tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        dab82ca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f0dee2d2ceaf...dab82ca3802b
+Duration:      6 min 56 sec
+Started:       2013-03-14 21:35:28
+Finished:      2013-03-14 21:42:24
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

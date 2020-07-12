@@ -1,0 +1,13 @@
+Build #5096:  progress indicator
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3980)
+Commit:        2b1a3af
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3980
+Duration:      2 min 9 sec
+Started:       2020-05-09 12:13:04
+Finished:      2020-05-09 12:13:52
+
+#5096.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5096.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5096.3 errored: 41 sec         os: linux, node_js: lts/*, env:

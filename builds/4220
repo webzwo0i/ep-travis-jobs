@@ -1,0 +1,12 @@
+Build #4220:  allow chat to be hidden with URI
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3715)
+Commit:        0ed9513
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3715
+Duration:      2 min 42 sec
+Started:       2020-03-15 13:34:12
+Finished:      2020-03-15 13:35:38
+
+#4220.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env:
+#4220.2 passed:  1 min 16 sec   os: linux, node_js: lts/*, env:

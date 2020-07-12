@@ -1,0 +1,11 @@
+Job #3727.1:  made url relative
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d26df86
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4f2ff31a61f5...d26df8649025
+Duration:      2 min 10 sec
+Started:       2018-04-19 22:56:13
+Finished:      2018-04-19 22:58:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

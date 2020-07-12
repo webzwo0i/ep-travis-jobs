@@ -1,0 +1,11 @@
+Job #3813.1:  docs: mention that nodejs >= 8.9 is preferred
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        10eadba
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fc14f60a4b20...10eadba0d644
+Duration:      24 sec
+Started:       2018-08-15 23:43:51
+Finished:      2018-08-15 23:44:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

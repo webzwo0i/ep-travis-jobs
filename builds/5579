@@ -1,0 +1,13 @@
+Build #5579:  bump ueber to 0.5.0
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4149)
+Commit:        b6a9152
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4149
+Duration:      4 min 14 sec
+Started:       2020-07-05 12:00:46
+Finished:      2020-07-05 12:04:28
+
+#5579.1 passed:  52 sec         os: linux, node_js: lts/*, env:
+#5579.2 failed:  1 min 50 sec   os: linux, node_js: lts/*, env:
+#5579.3 passed:  1 min 32 sec   os: linux, node_js: lts/*, env:

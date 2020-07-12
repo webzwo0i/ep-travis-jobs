@@ -1,0 +1,11 @@
+Job #3808.1:  settings.json: in the mysql example, mention the existence of port parameter
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        d38f531
+Compare URL:   https://github.com/ether/etherpad-lite/compare/392f39b62385...d38f53181f15
+Duration:      28 sec
+Started:       2018-08-11 16:45:49
+Finished:      2018-08-11 16:46:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

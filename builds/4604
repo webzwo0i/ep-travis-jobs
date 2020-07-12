@@ -1,0 +1,12 @@
+Build #4604:  refactor element positionning
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        151fc0a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      21 min 34 sec
+Started:       2020-04-02 18:56:16
+Finished:      2020-04-02 19:07:09
+
+#4604.1 errored: 10 min 52 sec  os: linux, node_js: lts/*, env:
+#4604.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env:

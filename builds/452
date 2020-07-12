@@ -1,0 +1,11 @@
+Job #452.1:  index wrapper block
+State:         passed
+Type:          push
+Branch:        index-wrapper-block
+Commit:        1f71403
+Compare URL:   https://github.com/ether/etherpad-lite/commit/1f7140345a7a
+Duration:      4 min 32 sec
+Started:       2013-01-24 21:22:19
+Finished:      2013-01-24 21:26:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

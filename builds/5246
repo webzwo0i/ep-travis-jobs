@@ -1,0 +1,13 @@
+Build #5246:  Warning about Travis Cache
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5208ae5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9bca865b4f08...5208ae5ee657
+Duration:      14 min 29 sec
+Started:       2020-05-28 12:54:55
+Finished:      2020-05-28 13:06:14
+
+#5246.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5246.2 failed:  11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5246.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

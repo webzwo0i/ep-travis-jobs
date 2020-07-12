@@ -1,0 +1,11 @@
+Job #3804.1:  fix bug for getPadPlainText
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3448)
+Commit:        375bfe4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3448
+Duration:      13 sec
+Started:       2018-08-10 11:08:06
+Finished:      2018-08-10 11:08:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

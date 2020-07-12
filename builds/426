@@ -1,0 +1,11 @@
+Job #426.1:  Merge pull request #1386 from ether/fix-import-on-params
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c6882aa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1725fe318d89...c6882aa65a20
+Duration:      4 min 37 sec
+Started:       2013-01-22 17:08:29
+Finished:      2013-01-22 17:13:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

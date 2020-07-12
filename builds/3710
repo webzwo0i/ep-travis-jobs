@@ -1,0 +1,11 @@
+Job #3710.1:  Rectify CHANGELOG.md regarding recent vulnerabilities
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3372)
+Commit:        43ba87b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3372
+Duration:      1 min 48 sec
+Started:       2018-04-09 16:31:07
+Finished:      2018-04-09 16:32:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,14 @@
+Build #5442:  outdent on ol
+State:         canceled
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        58f9d88
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2cd3dccc4d10...58f9d8805aec
+Duration:      6 min 54 sec
+Started:       2020-06-06 23:40:29
+Finished:      2020-06-06 23:42:33
+
+#5442.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5442.2 canceled: 2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5442.3 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5442.4 failed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

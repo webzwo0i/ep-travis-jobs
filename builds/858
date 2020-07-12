@@ -1,0 +1,11 @@
+Job #858.1:  Fix ace rtlIsTrue property setter
+State:         failed
+Type:          push
+Branch:        fix/rtl-option
+Commit:        5731ef7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5731ef780200
+Duration:      6 min 44 sec
+Started:       2013-03-06 15:41:08
+Finished:      2013-03-06 15:47:52
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

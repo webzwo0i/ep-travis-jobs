@@ -1,0 +1,13 @@
+Build #4842:  Update remote_runner.js
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3887)
+Commit:        f4903ff
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3887
+Duration:      18 min 58 sec
+Started:       2020-04-19 13:39:28
+Finished:      2020-04-19 13:56:54
+
+#4842.1 passed:  1 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4842.2 failed:  15 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4842.3 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

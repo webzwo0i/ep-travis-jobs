@@ -1,0 +1,11 @@
+Job #605.1:  remove one less warning during install by having a readme placeholder
+State:         failed
+Type:          push
+Branch:        readme-placeholder
+Commit:        8f20250
+Compare URL:   https://github.com/ether/etherpad-lite/commit/8f2025067b55
+Duration:      8 min 6 sec
+Started:       2013-02-10 04:05:20
+Finished:      2013-02-10 04:13:26
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

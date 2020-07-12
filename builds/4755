@@ -1,0 +1,13 @@
+Build #4755:  README.md: Add Travis-CI badge to README
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3854)
+Commit:        c92faa7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3854
+Duration:      2 min 16 sec
+Started:       2020-04-13 11:26:07
+Finished:      2020-04-13 11:27:01
+
+#4755.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4755.2 errored: 51 sec         os: linux, node_js: lts/*, env:
+#4755.3 errored: 43 sec         os: linux, node_js: lts/*, env:

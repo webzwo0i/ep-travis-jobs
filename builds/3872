@@ -1,0 +1,11 @@
+Job #3872.1:  LibreOffice: add debugging log statements
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5b88882
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e8558e3497eb...5b88882e345f
+Duration:      11 min 32 sec
+Started:       2018-11-01 00:56:41
+Finished:      2018-11-01 01:08:13
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

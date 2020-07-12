@@ -1,0 +1,11 @@
+Job #3511.1:  Merge pull request #3215 from klausweiss/fixtypo_secman_doc
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2b827b8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f9203524a4db...2b827b843da4
+Duration:      6 min 25 sec
+Started:       2017-07-11 01:03:54
+Finished:      2017-07-11 01:10:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

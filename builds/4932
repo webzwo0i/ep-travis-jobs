@@ -1,0 +1,13 @@
+Build #4932:  set as false and use proper accept commit
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3865)
+Commit:        3464426
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3865
+Duration:      2 min 13 sec
+Started:       2020-04-21 23:23:13
+Finished:      2020-04-21 23:23:59
+
+#4932.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4932.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4932.3 errored: 43 sec         os: linux, node_js: lts/*, env:

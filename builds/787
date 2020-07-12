@@ -1,0 +1,11 @@
+Job #787.1:  merge develop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1537)
+Commit:        17ace39
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1537
+Duration:      10 min 56 sec
+Started:       2013-02-25 11:14:39
+Finished:      2013-02-25 11:25:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

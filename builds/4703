@@ -1,0 +1,13 @@
+Build #4703:  working
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3783)
+Commit:        ab6abdf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3783
+Duration:      2 min 18 sec
+Started:       2020-04-08 22:17:08
+Finished:      2020-04-08 22:17:56
+
+#4703.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4703.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4703.3 errored: 45 sec         os: linux, node_js: lts/*, env:

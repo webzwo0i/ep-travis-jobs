@@ -1,0 +1,11 @@
+Job #3796.1:  dependencies: updated express & express-session
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        65b9626
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a0d5eb18a001...65b962666955
+Duration:      26 sec
+Started:       2018-07-29 02:01:57
+Finished:      2018-07-29 02:02:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

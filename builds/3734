@@ -1,0 +1,11 @@
+Job #3734.1:  line parsing fix
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3268)
+Commit:        665c0a8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3268
+Duration:      2 min 37 sec
+Started:       2018-05-02 23:07:56
+Finished:      2018-05-02 23:10:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

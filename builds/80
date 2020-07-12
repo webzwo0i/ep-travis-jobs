@@ -1,0 +1,11 @@
+Job #80.1:  Merge pull request #1193 from kingmook/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a662db2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aebf6ee1e868...a662db222f3e
+Duration:      4 min 47 sec
+Started:       2012-11-21 23:42:24
+Finished:      2012-11-21 23:47:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

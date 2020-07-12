@@ -1,0 +1,11 @@
+Job #482.1:  make makefile work for darwin(mac)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1412)
+Commit:        99b1e2a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1412
+Duration:      10 min 56 sec
+Started:       2013-01-27 17:47:49
+Finished:      2013-01-27 17:58:45
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3666.1:  Make README not suck.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6047c0d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cb856ea6246f...6047c0de09cf
+Duration:      11 min 44 sec
+Started:       2018-04-03 13:53:07
+Finished:      2018-04-03 14:04:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3979.1:  Change everywhere the link to https://etherpad.org (it was plain http)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        705cc6f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1cb9c3e1ce14...705cc6f5e422
+Duration:      11 min 51 sec
+Started:       2019-04-16 01:09:02
+Finished:      2019-04-16 01:20:53
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

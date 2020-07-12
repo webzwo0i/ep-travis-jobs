@@ -1,0 +1,11 @@
+Job #472.1:  Merge pull request #1410 from ether/admin-css-fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4dab76f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/090508909e8e...4dab76f78ac4
+Duration:      4 min 20 sec
+Started:       2013-01-26 21:12:31
+Finished:      2013-01-26 21:16:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

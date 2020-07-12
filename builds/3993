@@ -1,0 +1,11 @@
+Job #3993.1:  Fixes for issue #3604
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3606)
+Commit:        70034e8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3606
+Duration:      4 min
+Started:       2019-05-09 09:05:45
+Finished:      2019-05-09 09:09:45
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

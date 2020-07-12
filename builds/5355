@@ -1,0 +1,14 @@
+Build #5355:  resolve conflict
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4069)
+Commit:        9a9a957
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4069
+Duration:      1 min 37 sec
+Started:       2020-06-01 20:27:49
+Finished:      2020-06-01 20:29:37
+
+#5355.1 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5355.2 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5355.3 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5355.4 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

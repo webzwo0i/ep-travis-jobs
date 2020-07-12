@@ -1,0 +1,13 @@
+Build #4692:  test coverage
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3801)
+Commit:        5776166
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3801
+Duration:      2 min 22 sec
+Started:       2020-04-07 12:24:40
+Finished:      2020-04-07 12:25:35
+
+#4692.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4692.2 errored: 54 sec         os: linux, node_js: lts/*, env:
+#4692.3 errored: 45 sec         os: linux, node_js: lts/*, env:

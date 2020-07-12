@@ -1,0 +1,11 @@
+Job #3823.1:  AbsolutePaths: introduced isSubdir()
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        9db5fd7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0728e6672341...9db5fd788487
+Duration:      17 sec
+Started:       2018-08-23 23:21:17
+Finished:      2018-08-23 23:21:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

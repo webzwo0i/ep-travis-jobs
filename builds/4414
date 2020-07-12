@@ -1,0 +1,12 @@
+Build #4414:  Checks MySQL for charset
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3734)
+Commit:        75457ba
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3734
+Duration:      21 min 39 sec
+Started:       2020-03-26 23:43:23
+Finished:      2020-03-26 23:54:16
+
+#4414.1 errored: 10 min 53 sec  os: linux, node_js: lts/*, env:
+#4414.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

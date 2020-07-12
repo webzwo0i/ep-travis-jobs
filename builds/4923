@@ -1,0 +1,13 @@
+Build #4923:  css: Fix last commit overflow should not apply to inner-editors
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3914)
+Commit:        f494935
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3914
+Duration:      2 min 9 sec
+Started:       2020-04-21 16:34:22
+Finished:      2020-04-21 16:35:07
+
+#4923.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4923.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4923.3 errored: 42 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #363.1:  Merge pull request #1354 from ether/better-timeslider-blocks
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2b89fa8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/33e0ec209779...2b89fa871326
+Duration:      4 min 37 sec
+Started:       2013-01-14 04:43:48
+Finished:      2013-01-14 04:48:25
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,12 @@
+Build #4265:  dont need this file any more
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3737)
+Commit:        64770a5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3737
+Duration:      2 min 43 sec
+Started:       2020-03-21 20:17:54
+Finished:      2020-03-21 20:19:21
+
+#4265.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env:
+#4265.2 passed:  1 min 16 sec   os: linux, node_js: lts/*, env:

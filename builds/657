@@ -1,0 +1,11 @@
+Job #657.1:  Add API endpoint to return padID for a readOnlyID
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1497)
+Commit:        ea0751c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1497
+Duration:      10 min 57 sec
+Started:       2013-02-11 07:42:23
+Finished:      2013-02-11 07:53:20
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

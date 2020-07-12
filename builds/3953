@@ -1,0 +1,11 @@
+Job #3953.1:  Settings.js: support configuration via environment variables.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6d40005
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bf68666ae14c...6d400050a337
+Duration:      12 min 3 sec
+Started:       2019-03-11 08:12:03
+Finished:      2019-03-11 08:24:06
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

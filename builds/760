@@ -1,0 +1,11 @@
+Job #760.1:  Merge pull request #1491 from ether/export-txt-with-indent
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4592397
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1a177d730a26...4592397bd982
+Duration:      7 min 5 sec
+Started:       2013-02-18 21:13:33
+Finished:      2013-02-18 21:20:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

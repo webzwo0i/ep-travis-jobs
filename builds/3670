@@ -1,0 +1,11 @@
+Job #3670.1:  Merge pull request #3342 from caugner/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e6e4640
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eb9875ee3278...e6e46404d18d
+Duration:      21 min 8 sec
+Started:       2018-04-03 13:59:01
+Finished:      2018-04-03 14:20:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,13 @@
+Build #5321:  tests: remove another setTimeout for Edge tests..
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8c66968
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cc606a24d7e6...8c669682c499
+Duration:      16 min 41 sec
+Started:       2020-05-29 22:07:09
+Finished:      2020-05-29 22:20:42
+
+#5321.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5321.2 failed:  13 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5321.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

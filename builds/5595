@@ -1,0 +1,14 @@
+Build #5595:  Revert "remove secure credentials for saucelabs because they are set via environment variables in travis"
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        a02e4cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5a0fa50a46a0...a02e4cdaf538
+Duration:      5 min 58 sec
+Started:       2020-07-09 20:58:45
+Finished:      2020-07-09 21:01:28
+
+#5595.1 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5595.2 passed:  52 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5595.3 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5595.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

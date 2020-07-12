@@ -1,0 +1,11 @@
+Job #762.1:  no need to parse already parsed json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1535)
+Commit:        1aef426
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1535
+Duration:      10 min 58 sec
+Started:       2013-02-18 21:39:36
+Finished:      2013-02-18 21:50:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

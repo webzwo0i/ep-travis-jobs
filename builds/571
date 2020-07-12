@@ -1,0 +1,11 @@
+Job #571.1:  Merge pull request #1466 from mluto/timeslider-remove-debugging
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ea04e9c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/889cec8f7c7b...ea04e9c997cd
+Duration:      6 min 58 sec
+Started:       2013-02-07 17:32:57
+Finished:      2013-02-07 17:39:55
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

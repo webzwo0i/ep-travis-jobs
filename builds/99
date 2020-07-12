@@ -1,0 +1,11 @@
+Job #99.1:  Merge pull request #1215 from Wikinaut/fix-rightstep-button
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        064bafe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/de5a90b9c785...064bafe97345
+Duration:      7 min 19 sec
+Started:       2012-11-26 10:05:47
+Finished:      2012-11-26 10:13:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

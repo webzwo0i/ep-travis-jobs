@@ -1,0 +1,11 @@
+Job #4075.1:  docker: Build from the local working directory
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3662)
+Commit:        3968fbd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3662
+Duration:      1 min 29 sec
+Started:       2019-11-09 15:52:48
+Finished:      2019-11-09 15:54:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

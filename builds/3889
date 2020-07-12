@@ -1,0 +1,11 @@
+Job #3889.1:  fonts: add pencil, link and table icon
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3513)
+Commit:        95fd94e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3513
+Duration:      1 min 34 sec
+Started:       2018-11-12 22:21:20
+Finished:      2018-11-12 22:22:54
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

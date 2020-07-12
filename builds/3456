@@ -1,0 +1,11 @@
+Job #3456.1:  [feature] Only automatically reconnect if can establish connection to server
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3161)
+Commit:        61b0a5e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3161
+Duration:      11 min 5 sec
+Started:       2017-04-05 20:18:44
+Finished:      2017-04-05 20:29:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

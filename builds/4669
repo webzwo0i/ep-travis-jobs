@@ -1,0 +1,13 @@
+Build #4669:  css: Clear old comments code, we gonna write it from scratch
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        9305a26
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 12 sec
+Started:       2020-04-06 14:49:17
+Finished:      2020-04-06 14:50:04
+
+#4669.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4669.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4669.3 errored: 43 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #757.1:  Merge pull request #1536 from ether/timeslider-scripts-block
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1a177d7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e7d24c03b5d...1a177d730a26
+Duration:      9 min 33 sec
+Started:       2013-02-18 20:36:13
+Finished:      2013-02-18 20:45:46
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

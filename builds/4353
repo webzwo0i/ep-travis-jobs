@@ -1,0 +1,12 @@
+Build #4353:  quick tidy up of bold.js
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        58e61a8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/959580f76e4b...58e61a8e5ea8
+Duration:      21 min 28 sec
+Started:       2020-03-23 12:16:48
+Finished:      2020-03-23 12:31:29
+
+#4353.1 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4353.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

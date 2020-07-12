@@ -1,0 +1,11 @@
+Job #3673.1:  Merge pull request #3239 from jainendra/jainendra-feature-support-for-rtf
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        022783a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0c8b9e13fa73...022783a77448
+Duration:      19 min 47 sec
+Started:       2018-04-03 14:15:47
+Finished:      2018-04-03 14:35:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

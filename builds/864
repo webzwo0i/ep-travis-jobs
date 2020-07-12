@@ -1,0 +1,11 @@
+Job #864.1:  Merge pull request #1595 from ether/safari-rtl-fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        29d8482
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7ada830e2e63...29d8482ce702
+Duration:      7 min 2 sec
+Started:       2013-03-06 15:53:24
+Finished:      2013-03-06 16:00:26
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

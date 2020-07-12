@@ -1,0 +1,13 @@
+Build #4868:  change back to 100 not 99
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3899)
+Commit:        8826b98
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3899
+Duration:      9 min 28 sec
+Started:       2020-04-19 17:13:13
+Finished:      2020-04-19 17:19:30
+
+#4868.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4868.2 failed:  6 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4868.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

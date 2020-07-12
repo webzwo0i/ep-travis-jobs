@@ -1,0 +1,12 @@
+Build #4279:  Revert "attempt to remove wd and let SL do their thing, this may not work"
+State:         passed
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        6e2d96d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2230a5b7cb32...6e2d96dfceed
+Duration:      13 min 49 sec
+Started:       2020-03-22 12:52:56
+Finished:      2020-03-22 13:04:56
+
+#4279.1 passed:  12 min         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4279.2 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

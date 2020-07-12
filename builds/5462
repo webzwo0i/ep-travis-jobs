@@ -1,0 +1,14 @@
+Build #5462:  trying something else.. #2
+State:         errored
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        ec6480a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f35100a7bdf3...ec6480aa3925
+Duration:      29 min 58 sec
+Started:       2020-06-07 02:00:54
+Finished:      2020-06-07 02:16:50
+
+#5462.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5462.2 failed:  15 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5462.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5462.4 errored: 10 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

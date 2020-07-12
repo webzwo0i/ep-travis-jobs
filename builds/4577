@@ -1,0 +1,11 @@
+Job #4577.1:  hrm weird
+State:         failed
+Type:          push
+Branch:        backend-test-runner
+Commit:        22688ef
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a0b9a11df91b...22688efc369c
+Duration:      1 min 38 sec
+Started:       2020-04-01 16:35:58
+Finished:      2020-04-01 16:37:36
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

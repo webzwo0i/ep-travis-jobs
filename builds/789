@@ -1,0 +1,11 @@
+Job #789.1:  Merge pull request #1537 from ether/expose-socket-timeslider
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        cf64133
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5b89242c5ba6...cf6413383bcb
+Duration:      10 min 1 sec
+Started:       2013-02-25 11:15:27
+Finished:      2013-02-25 11:25:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

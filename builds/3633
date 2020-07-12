@@ -1,0 +1,11 @@
+Job #3633.1:  Don't send COMMIT-MESSAGE when socketio connection is not active
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3318)
+Commit:        681d343
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3318
+Duration:      1 min 42 sec
+Started:       2018-02-04 14:00:46
+Finished:      2018-02-04 14:02:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

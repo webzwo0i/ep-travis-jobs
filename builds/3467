@@ -1,0 +1,11 @@
+Job #3467.1:  Merge pull request #3170 from AdamNiederer/patch-2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        991155c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9bea5a64b8f3...991155c8d4cc
+Duration:      5 min 20 sec
+Started:       2017-04-16 02:35:56
+Finished:      2017-04-16 02:41:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

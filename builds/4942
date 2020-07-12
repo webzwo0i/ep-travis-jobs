@@ -1,0 +1,13 @@
+Build #4942:  ace2_inner: allow paste into links
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3802)
+Commit:        8db07d3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3802
+Duration:      2 min 12 sec
+Started:       2020-04-22 03:53:39
+Finished:      2020-04-22 03:54:28
+
+#4942.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4942.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4942.3 errored: 43 sec         os: linux, node_js: lts/*, env:

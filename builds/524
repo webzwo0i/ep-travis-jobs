@@ -1,0 +1,11 @@
+Job #524.1:  Renamed "Saved Revisions" to "Save Revision" since it saves a revision..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1432)
+Commit:        15bee37
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1432
+Duration:      10 min 58 sec
+Started:       2013-01-30 15:50:29
+Finished:      2013-01-30 16:01:27
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

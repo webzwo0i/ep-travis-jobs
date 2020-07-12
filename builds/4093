@@ -1,0 +1,12 @@
+Build #4093:  WIP: Test the Dockerfile
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3677)
+Commit:        5f81020
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3677
+Duration:      3 min 11 sec
+Started:       2019-12-01 15:39:45
+Finished:      2019-12-01 15:41:31
+
+#4093.1 passed:  1 min 31 sec   os: linux, node_js: lts/*
+#4093.2 passed:  1 min 40 sec   os: linux, node_js: lts/*

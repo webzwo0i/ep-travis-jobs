@@ -1,0 +1,11 @@
+Job #853.1:  Multiple REST endpoints (one per version)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1527)
+Commit:        e572740
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1527
+Duration:      10 min 53 sec
+Started:       2013-03-06 11:09:53
+Finished:      2013-03-06 11:20:46
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

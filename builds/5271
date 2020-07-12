@@ -1,0 +1,13 @@
+Build #5271:  Merge branch 'develop' of github.com:ether/etherpad-lite into gateway-timeout-during-tests
+State:         errored
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        78a3dd6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/800e45585bb7...78a3dd64deb3
+Duration:      13 min 39 sec
+Started:       2020-05-28 16:29:27
+Finished:      2020-05-28 16:40:18
+
+#5271.1 failed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5271.2 errored: 10 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5271.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

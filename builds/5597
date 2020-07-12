@@ -1,0 +1,14 @@
+Build #5597:  ... test without parallism
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        49468bc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/56b49cdb8ca2...49468bc0b4c4
+Duration:      5 min 59 sec
+Started:       2020-07-09 21:18:38
+Finished:      2020-07-09 21:20:27
+
+#5597.1 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5597.2 passed:  55 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5597.3 failed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5597.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

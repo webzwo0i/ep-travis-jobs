@@ -1,0 +1,12 @@
+Build #4299:  test again
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        9cfddb6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      14 min 18 sec
+Started:       2020-03-22 14:33:29
+Finished:      2020-03-22 14:45:49
+
+#4299.1 failed:  12 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4299.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

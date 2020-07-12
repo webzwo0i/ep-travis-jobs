@@ -1,0 +1,11 @@
+Job #440.1:  use the existing padimpexp object from the parent window
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1396)
+Commit:        1741101
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1396
+Duration:      5 min 57 sec
+Started:       2013-01-23 16:47:40
+Finished:      2013-01-23 16:53:37
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

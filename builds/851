@@ -1,0 +1,11 @@
+Job #851.1:  Merge pull request #1589 from ether/fix-ctrl-z
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fe0272b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d124d9b26c9a...fe0272b283a9
+Duration:      7 min 13 sec
+Started:       2013-03-05 21:43:09
+Finished:      2013-03-05 21:50:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

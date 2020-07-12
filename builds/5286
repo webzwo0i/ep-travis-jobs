@@ -1,0 +1,13 @@
+Build #5286:  using selenium get element to extract report
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4041)
+Commit:        c47d6cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4041
+Duration:      1 min 57 sec
+Started:       2020-05-29 13:21:20
+Finished:      2020-05-29 13:22:02
+
+#5286.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5286.2 errored: 37 sec         os: linux, node_js: lts/*, env:
+#5286.3 errored: 39 sec         os: linux, node_js: lts/*, env:

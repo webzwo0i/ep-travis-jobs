@@ -1,0 +1,11 @@
+Job #824.1:  more fixes
+State:         passed
+Type:          push
+Branch:        fix-tests
+Commit:        d8154de
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4e205fe0af06...d8154deee3ba
+Duration:      6 min 39 sec
+Started:       2013-03-02 00:40:56
+Finished:      2013-03-02 00:47:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

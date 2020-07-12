@@ -1,0 +1,11 @@
+Job #667.1:  a comment
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1505)
+Commit:        c1b12af
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1505
+Duration:      11 min
+Started:       2013-02-12 01:15:17
+Finished:      2013-02-12 01:26:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

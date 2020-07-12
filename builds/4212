@@ -1,0 +1,12 @@
+Build #4212:  fix
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3708)
+Commit:        26a6832
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3708
+Duration:      21 min 16 sec
+Started:       2020-03-12 17:53:45
+Finished:      2020-03-12 18:13:41
+
+#4212.1 passed:  19 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4212.2 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

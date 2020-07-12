@@ -1,0 +1,12 @@
+Build #4233:  colibris: fix embedded_hyperlink in mobile
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3726)
+Commit:        b7423cf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3726
+Duration:      2 min 47 sec
+Started:       2020-03-17 20:45:08
+Finished:      2020-03-17 20:46:35
+
+#4233.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env:
+#4233.2 passed:  1 min 20 sec   os: linux, node_js: lts/*, env:

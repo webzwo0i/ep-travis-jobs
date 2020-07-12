@@ -1,0 +1,12 @@
+Build #4422:  hooks: allow to set the duration of the gritter notification when a new chat message arrives
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7a999ee
+Compare URL:   https://github.com/ether/etherpad-lite/compare/14ae2ee95094...7a999ee39859
+Duration:      13 min 55 sec
+Started:       2020-03-27 02:39:52
+Finished:      2020-03-27 02:52:03
+
+#4422.1 failed:  12 min 11 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4422.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

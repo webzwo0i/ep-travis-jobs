@@ -1,0 +1,11 @@
+Job #645.1:  Revert "no longer dep on npm as it's native"
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1487)
+Commit:        c6a895a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1487
+Duration:      10 min 56 sec
+Started:       2013-02-10 23:28:01
+Finished:      2013-02-10 23:38:57
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

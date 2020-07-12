@@ -1,0 +1,11 @@
+Job #883.1:  add authorId to chat and userlist, possibly privacy/security issue?
+State:         failed
+Type:          push
+Branch:        authorID-in-userlist
+Commit:        5639bde
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5639bde5ad0c
+Duration:      9 min 30 sec
+Started:       2013-03-12 20:03:21
+Finished:      2013-03-12 20:12:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

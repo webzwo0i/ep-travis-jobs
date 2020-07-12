@@ -1,0 +1,11 @@
+Job #3819.1:  settings, APIHandler: generate more informative logs
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        ec5573f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/93641a165d13...ec5573f88cd0
+Duration:      59 sec
+Started:       2018-08-22 02:11:53
+Finished:      2018-08-22 02:12:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

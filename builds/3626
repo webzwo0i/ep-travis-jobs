@@ -1,0 +1,11 @@
+Job #3626.1:  Merge remote-tracking branch 'fork-source/develop' into feature/issue-3299/unix-domain-socket-support
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3312)
+Commit:        ee03d00
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3312
+Duration:      1 min 59 sec
+Started:       2018-02-01 14:23:01
+Finished:      2018-02-01 14:25:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

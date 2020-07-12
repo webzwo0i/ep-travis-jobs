@@ -1,0 +1,13 @@
+Build #5118:  assets: add random string to query string to bust cache on restart and deploys
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        95fd5ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fda0d2884e90...95fd5ce2a45e
+Duration:      14 min
+Started:       2020-05-13 18:58:48
+Finished:      2020-05-13 19:09:36
+
+#5118.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5118.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5118.3 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

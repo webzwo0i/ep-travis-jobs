@@ -1,0 +1,11 @@
+Job #4567.1:  only run backend tests for now, will bring other ones back in later
+State:         failed
+Type:          push
+Branch:        backend-test-runner
+Commit:        95a3de3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a58e65f1003b...95a3de3ec3f2
+Duration:      1 min 50 sec
+Started:       2020-04-01 16:14:23
+Finished:      2020-04-01 16:16:13
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

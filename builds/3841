@@ -1,0 +1,11 @@
+Job #3841.1:  installDeps.sh: don't nuke all installed plugins on update
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c09e638
+Compare URL:   https://github.com/ether/etherpad-lite/compare/727fbc26695e...c09e638fc324
+Duration:      12 min 57 sec
+Started:       2018-08-29 21:47:06
+Finished:      2018-08-29 22:00:03
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

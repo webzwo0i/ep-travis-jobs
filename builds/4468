@@ -1,0 +1,12 @@
+Build #4468:  travis/runner.sh: this is a good candidate to be ported to the development branch
+State:         errored
+Type:          push
+Branch:        ci
+Commit:        6227eb3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/25bd3016e439...6227eb365280
+Duration:      26 min 27 sec
+Started:       2020-03-29 03:45:33
+Finished:      2020-03-29 04:01:20
+
+#4468.1 failed:  15 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4468.2 errored: 10 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

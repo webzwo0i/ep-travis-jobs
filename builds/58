@@ -1,0 +1,11 @@
+Job #58.1:  Use ; as comments indicator in i18n files
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8a23c2f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4053ab2dfa6f...8a23c2ff50bf
+Duration:      10 min 35 sec
+Started:       2012-11-20 22:11:01
+Finished:      2012-11-20 22:21:36
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #4168.1:  removing dokuwiki
+State:         errored
+Type:          push
+Branch:        remove-dokuwiki
+Commit:        ae22332
+Compare URL:   https://github.com/ether/etherpad-lite/compare/remove-dokuwiki
+Duration:      53 sec
+Started:       2019-12-07 20:26:08
+Finished:      2019-12-07 20:27:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

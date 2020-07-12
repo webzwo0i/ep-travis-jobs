@@ -1,0 +1,11 @@
+Job #3763.1:  Merge branch 'develop' of git://github.com/ether/etherpad-lite into develop
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3408)
+Commit:        542a175
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3408
+Duration:      1 min 46 sec
+Started:       2018-07-05 13:01:48
+Finished:      2018-07-05 13:03:34
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

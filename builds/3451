@@ -1,0 +1,11 @@
+Job #3451.1:  wrong path of generate.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3160)
+Commit:        85db99f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3160
+Duration:      11 min 15 sec
+Started:       2017-04-04 17:25:52
+Finished:      2017-04-04 17:37:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

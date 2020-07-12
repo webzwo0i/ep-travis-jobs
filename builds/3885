@@ -1,0 +1,11 @@
+Job #3885.1:  skins: Remove unecessary rule
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3496)
+Commit:        cda343f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3496
+Duration:      1 min 25 sec
+Started:       2018-11-10 15:29:07
+Finished:      2018-11-10 15:30:32
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

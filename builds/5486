@@ -1,0 +1,14 @@
+Build #5486:  include terser
+State:         canceled
+Type:          push
+Branch:        replace-package-files
+Commit:        f31a529
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0fc69b1b612a...f31a529039d8
+Duration:      4 min 59 sec
+Started:       2020-06-07 16:54:25
+Finished:      2020-06-07 16:55:41
+
+#5486.1 canceled: 1 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5486.2 canceled: 1 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5486.3 canceled: 1 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5486.4 canceled: 1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

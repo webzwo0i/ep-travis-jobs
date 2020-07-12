@@ -1,0 +1,11 @@
+Job #3828.1:  installDeps.sh: don't nuke all installed plugins on update
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3474)
+Commit:        48e4a14
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3474
+Duration:      1 min 9 sec
+Started:       2018-08-25 12:12:35
+Finished:      2018-08-25 12:13:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

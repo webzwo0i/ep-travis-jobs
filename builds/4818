@@ -1,0 +1,13 @@
+Build #4818:  css: fix toolbar overlay so it cover only toolbar and not the whole screen
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        03227e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b0608d7d41e...03227e526f7f
+Duration:      18 min 11 sec
+Started:       2020-04-19 03:04:06
+Finished:      2020-04-19 03:19:11
+
+#4818.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4818.2 failed:  14 min 51 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4818.3 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

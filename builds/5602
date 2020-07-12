@@ -1,0 +1,14 @@
+Build #5602:  package-lock.json after update
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        a26d32b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7025b4cbb172...a26d32bf818c
+Duration:      5 min 58 sec
+Started:       2020-07-09 22:09:41
+Finished:      2020-07-09 22:11:31
+
+#5602.1 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5602.2 passed:  54 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5602.3 failed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5602.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

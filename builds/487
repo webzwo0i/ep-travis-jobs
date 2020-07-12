@@ -1,0 +1,11 @@
+Job #487.1:  docs
+State:         failed
+Type:          push
+Branch:        diff-view
+Commit:        ed5644d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/878fd7631c2f...ed5644d4e528
+Duration:      4 min 37 sec
+Started:       2013-01-27 18:54:06
+Finished:      2013-01-27 18:58:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

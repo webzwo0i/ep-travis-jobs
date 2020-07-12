@@ -1,0 +1,11 @@
+Job #3542.1:  Make APIKEY und SESSIONKEY file customizable
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3232)
+Commit:        c202d1b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3232
+Duration:      1 min 46 sec
+Started:       2017-07-31 15:24:21
+Finished:      2017-07-31 15:26:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

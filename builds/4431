@@ -1,0 +1,12 @@
+Build #4431:  test for pressing enter on UL
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        213ff90
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 33 sec
+Started:       2020-03-28 12:50:43
+Finished:      2020-03-28 13:01:32
+
+#4431.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4431.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

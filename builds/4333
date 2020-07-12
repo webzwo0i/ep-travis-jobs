@@ -1,0 +1,12 @@
+Build #4333:  css: refactor element positioning
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        cd7e319
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 45 sec
+Started:       2020-03-22 18:31:28
+Finished:      2020-03-22 18:32:56
+
+#4333.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env:
+#4333.2 passed:  1 min 17 sec   os: linux, node_js: lts/*, env:

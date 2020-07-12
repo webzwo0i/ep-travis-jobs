@@ -1,0 +1,13 @@
+Build #4881:  Change favicon to be closer to new style
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        70990af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/11f88a9b36bc...70990afd6680
+Duration:      14 min 56 sec
+Started:       2020-04-19 18:20:42
+Finished:      2020-04-19 18:32:16
+
+#4881.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4881.2 failed:  11 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4881.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

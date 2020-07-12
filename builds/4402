@@ -1,0 +1,12 @@
+Build #4402:  hooks: introduce goToRevisionEvent(), a new client-side hook
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3757)
+Commit:        6862c89
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3757
+Duration:      11 min 12 sec
+Started:       2020-03-24 23:44:43
+Finished:      2020-03-24 23:55:31
+
+#4402.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4402.2 errored: 24 sec         os: linux, node_js: lts/*, env:

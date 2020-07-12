@@ -1,0 +1,11 @@
+Job #3463.1:  add capability to use the login user name as the author name in pads
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3164)
+Commit:        cdcd00a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3164
+Duration:      11 min 8 sec
+Started:       2017-04-09 18:54:54
+Finished:      2017-04-09 19:06:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

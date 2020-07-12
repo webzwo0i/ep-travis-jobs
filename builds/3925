@@ -1,0 +1,11 @@
+Job #3925.1:  release: prepare for 1.7.5
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4f0a278
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c8e5d872688e...4f0a2785da3c
+Duration:      11 min 55 sec
+Started:       2019-01-26 00:33:55
+Finished:      2019-01-26 00:45:50
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

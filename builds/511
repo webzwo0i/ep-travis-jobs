@@ -1,0 +1,11 @@
+Job #511.1:  remove message about requiring comments
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1426)
+Commit:        ef63047
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1426
+Duration:      11 min 3 sec
+Started:       2013-01-29 13:16:49
+Finished:      2013-01-29 13:27:52
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

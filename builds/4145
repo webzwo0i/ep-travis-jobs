@@ -1,0 +1,11 @@
+Job #4145.1:  more tidy
+State:         errored
+Type:          push
+Branch:        drag-and-drop-between-frames-sandbox
+Commit:        935b921
+Compare URL:   https://github.com/ether/etherpad-lite/compare/drag-and-drop-between-frames-sandbox
+Duration:      10 min 49 sec
+Started:       2019-12-07 19:50:36
+Finished:      2019-12-07 20:01:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

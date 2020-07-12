@@ -1,0 +1,13 @@
+Build #4715:  PadManager: use a set instead of an array in padlist
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        963d12e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/df08883a009a...963d12e61470
+Duration:      14 min 53 sec
+Started:       2020-04-09 03:39:53
+Finished:      2020-04-09 03:51:14
+
+#4715.1 passed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4715.2 failed:  11 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4715.3 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

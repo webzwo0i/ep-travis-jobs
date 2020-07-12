@@ -1,0 +1,11 @@
+Job #4144.1:  forgot this one
+State:         errored
+Type:          push
+Branch:        extend-getAttributesOnSelection
+Commit:        97b9717
+Compare URL:   https://github.com/ether/etherpad-lite/compare/extend-getAttributesOnSelection
+Duration:      10 min 57 sec
+Started:       2019-12-07 19:42:25
+Finished:      2019-12-07 19:53:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

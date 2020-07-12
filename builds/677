@@ -1,0 +1,11 @@
+Job #677.1:  Correct license header
+State:         failed
+Type:          push
+Branch:        export-txt-with-indent
+Commit:        da246d1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b5c948549a0...da246d183daa
+Duration:      12 min 38 sec
+Started:       2013-02-12 20:48:57
+Finished:      2013-02-12 21:01:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

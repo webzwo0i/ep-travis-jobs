@@ -1,0 +1,11 @@
+Job #480.1:  Added colors to pad diff
+State:         failed
+Type:          push
+Branch:        diff-view
+Commit:        07a267b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1b9c213eef9...07a267be7a37
+Duration:      7 min 3 sec
+Started:       2013-01-27 17:46:11
+Finished:      2013-01-27 17:53:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

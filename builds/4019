@@ -1,0 +1,11 @@
+Job #4019.1:  Fix Unicode bug in HTML export
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0a8e325
+Compare URL:   https://github.com/ether/etherpad-lite/compare/161a38efd248...0a8e32563b42
+Duration:      11 min 36 sec
+Started:       2019-08-12 00:41:55
+Finished:      2019-08-12 00:53:31
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

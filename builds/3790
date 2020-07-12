@@ -1,0 +1,11 @@
+Job #3790.1:  runtime: deprecate Node <= 7. From Etherpad 1.8.0 minimum Node version will be 8
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3432)
+Commit:        2bd5330
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3432
+Duration:      1 min 58 sec
+Started:       2018-07-27 02:02:29
+Finished:      2018-07-27 02:04:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

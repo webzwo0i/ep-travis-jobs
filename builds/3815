@@ -1,0 +1,11 @@
+Job #3815.1:  release: prepare for 1.7.0
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        4408a1e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/10eadba0d644...4408a1e50539
+Duration:      12 sec
+Started:       2018-08-17 00:50:34
+Finished:      2018-08-17 00:50:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

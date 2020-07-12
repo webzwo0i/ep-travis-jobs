@@ -1,0 +1,12 @@
+Build #4470:  replace password with hidden string when storing in db
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3782)
+Commit:        734b908
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3782
+Duration:      21 min 35 sec
+Started:       2020-03-29 11:36:48
+Finished:      2020-03-29 11:47:39
+
+#4470.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4470.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

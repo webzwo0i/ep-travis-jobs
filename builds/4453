@@ -1,0 +1,12 @@
+Build #4453:  just trigger me!
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        6d9d148
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1a4a53e1f8ee...6d9d148651bb
+Duration:      3 min 30 sec
+Started:       2020-03-29 01:40:37
+Finished:      2020-03-29 01:42:25
+
+#4453.1 failed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4453.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

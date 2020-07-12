@@ -1,0 +1,11 @@
+Job #3508.1:  Fetch credentials arg from CLI
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3214)
+Commit:        afa2a53
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3214
+Duration:      11 min 12 sec
+Started:       2017-07-05 21:30:38
+Finished:      2017-07-05 21:41:50
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

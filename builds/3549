@@ -1,0 +1,11 @@
+Job #3549.1:  Update socket.io to 1.7.3
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3241)
+Commit:        d7fbf66
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3241
+Duration:      1 min 30 sec
+Started:       2017-08-04 16:55:25
+Finished:      2017-08-04 16:56:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #4089.1:  Fix etherpad user home dir for `npm install`
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3674)
+Commit:        3ce5c30
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3674
+Duration:      1 min 28 sec
+Started:       2019-11-28 21:27:52
+Finished:      2019-11-28 21:29:20
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

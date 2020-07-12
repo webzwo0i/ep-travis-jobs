@@ -1,0 +1,14 @@
+Build #5417:  bugfix: remove incorrectly committed package-lock.json
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2b79317
+Compare URL:   https://github.com/ether/etherpad-lite/compare/33ad48714ca1...2b7931708b84
+Duration:      31 min 39 sec
+Started:       2020-06-05 22:50:45
+Finished:      2020-06-05 23:17:07
+
+#5417.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5417.2 failed:  26 min 22 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5417.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5417.4 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #4148.1:  fix sockets of switch to pad
+State:         errored
+Type:          push
+Branch:        switch-to-pad-derosm2
+Commit:        8603fb4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/switch-to-pad-derosm2
+Duration:      58 sec
+Started:       2019-12-07 19:53:20
+Finished:      2019-12-07 19:54:18
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

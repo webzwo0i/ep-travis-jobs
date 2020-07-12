@@ -1,0 +1,12 @@
+Build #4405:  suggested change from Sauce Labs ticket 82574
+State:         failed
+Type:          push
+Branch:        more-sauce-labs-tests2
+Commit:        108b74d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/003dacecfb19^...108b74dc19dd
+Duration:      14 min 20 sec
+Started:       2020-03-25 13:32:53
+Finished:      2020-03-25 13:45:16
+
+#4405.1 failed:  12 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4405.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

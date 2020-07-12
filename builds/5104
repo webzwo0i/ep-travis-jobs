@@ -1,0 +1,13 @@
+Build #5104:  assets: add versioning to override the browser cache on restart and deploys
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3958)
+Commit:        cf436d3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3958
+Duration:      2 min 9 sec
+Started:       2020-05-12 02:46:38
+Finished:      2020-05-12 02:47:24
+
+#5104.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5104.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5104.3 errored: 42 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #898.1:  stop import from being able to nuke a pad
+State:         passed
+Type:          push
+Branch:        fix-import-error
+Commit:        606f27a
+Compare URL:   https://github.com/ether/etherpad-lite/commit/606f27a0a089
+Duration:      6 min 42 sec
+Started:       2013-03-14 01:15:53
+Finished:      2013-03-14 01:22:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

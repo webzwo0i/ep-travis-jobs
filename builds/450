@@ -1,0 +1,11 @@
+Job #450.1:  Unify admin page titles
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1402)
+Commit:        fff29c1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1402
+Duration:      6 min
+Started:       2013-01-24 19:09:42
+Finished:      2013-01-24 19:15:42
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

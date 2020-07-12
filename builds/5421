@@ -1,0 +1,14 @@
+Build #5421:  backups: include the pool every 100 revs stored (#3991)
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        d4fcc23
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fb68ac672bdd...d4fcc23fb382
+Duration:      10 min 32 sec
+Started:       2020-06-05 23:46:33
+Finished:      2020-06-05 23:51:33
+
+#5421.1 passed:  1 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5421.2 canceled: 5 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5421.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5421.4 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

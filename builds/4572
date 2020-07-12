@@ -1,0 +1,12 @@
+Build #4572:  Add html cache
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3755)
+Commit:        75e1711
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3755
+Duration:      21 min 38 sec
+Started:       2020-04-01 16:18:56
+Finished:      2020-04-01 16:30:25
+
+#4572.1 errored: 10 min 52 sec  os: linux, node_js: lts/*, env:
+#4572.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

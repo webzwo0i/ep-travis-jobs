@@ -1,0 +1,11 @@
+Job #3640.1:  Merge branch 'develop' into update-ueberdb2
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3326)
+Commit:        5ffbd22
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3326
+Duration:      2 min 27 sec
+Started:       2018-02-12 08:59:57
+Finished:      2018-02-12 09:02:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

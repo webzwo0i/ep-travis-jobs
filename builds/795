@@ -1,0 +1,11 @@
+Job #795.1:  post correct url, heh
+State:         failed
+Type:          push
+Branch:        url-report
+Commit:        ad52b40
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b2eb1b381480...ad52b4059718
+Duration:      8 min
+Started:       2013-02-26 14:25:58
+Finished:      2013-02-26 14:33:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

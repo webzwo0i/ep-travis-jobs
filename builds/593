@@ -1,0 +1,11 @@
+Job #593.1:  allow all timeslider tests to run
+State:         failed
+Type:          push
+Branch:        enable-timeslider-tests
+Commit:        6651ed0
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6651ed0b7a41
+Duration:      6 min 55 sec
+Started:       2013-02-09 18:20:04
+Finished:      2013-02-09 18:26:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

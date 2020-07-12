@@ -1,0 +1,11 @@
+Job #442.1:  Fix Array.prototype.indexOf for IE8! <3
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1398)
+Commit:        f2c01ab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1398
+Duration:      5 min 58 sec
+Started:       2013-01-23 17:48:33
+Finished:      2013-01-23 17:54:31
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

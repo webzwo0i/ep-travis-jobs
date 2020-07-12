@@ -1,0 +1,11 @@
+Job #3724.1:  fix: line numbers was not aligned with text
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9daade0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6dc8ead8c9e3...9daade0b95bb
+Duration:      2 min 8 sec
+Started:       2018-04-13 18:33:17
+Finished:      2018-04-13 18:35:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

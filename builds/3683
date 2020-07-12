@@ -1,0 +1,11 @@
+Job #3683.1:  Adapted the padding due to the font-size modification
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3280)
+Commit:        cd7a70a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3280
+Duration:      32 sec
+Started:       2018-04-03 18:22:29
+Finished:      2018-04-03 18:23:01
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

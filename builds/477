@@ -1,0 +1,11 @@
+Job #477.1:  fix make file issue
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1412)
+Commit:        7ac43c5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1412
+Duration:      10 min 57 sec
+Started:       2013-01-27 04:10:25
+Finished:      2013-01-27 04:21:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

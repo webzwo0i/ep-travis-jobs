@@ -1,0 +1,12 @@
+Build #4462:  show me more
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        3dade2b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b4041d5fdce8...3dade2bf313f
+Duration:      2 min 33 sec
+Started:       2020-03-29 03:19:46
+Finished:      2020-03-29 03:21:21
+
+#4462.1 failed:  58 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4462.2 passed:  1 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

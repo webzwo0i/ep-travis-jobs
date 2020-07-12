@@ -1,0 +1,13 @@
+Build #5322:  disable all caching
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4063)
+Commit:        a227f9d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4063
+Duration:      1 min 38 sec
+Started:       2020-05-29 22:41:40
+Finished:      2020-05-29 22:42:56
+
+#5322.1 errored: 38 sec         os: linux, node_js: lts/*, env:
+#5322.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5322.3 errored: 25 sec         os: linux, node_js: lts/*, env:

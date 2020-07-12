@@ -1,0 +1,11 @@
+Job #4182.1:  skins: make "colibris" the default skin for new installations
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        70bc71c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1dfd52bcced9...70bc71c0c3a7
+Duration:      11 min 37 sec
+Started:       2019-12-08 00:38:21
+Finished:      2019-12-08 00:49:58
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

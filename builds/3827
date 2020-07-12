@@ -1,0 +1,11 @@
+Job #3827.1:  Add --writer option to soffice convert command
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        2cc32d7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/06476f7ad2e1...2cc32d7fe9b4
+Duration:      43 sec
+Started:       2018-08-24 18:27:28
+Finished:      2018-08-24 18:28:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

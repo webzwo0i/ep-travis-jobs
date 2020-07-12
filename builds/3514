@@ -1,0 +1,11 @@
+Job #3514.1:  Merge pull request #3214 from patrickeasters/add_credentials_arg
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3e5d71a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2b827b843da4...3e5d71ad5ad0
+Duration:      6 min 16 sec
+Started:       2017-07-12 12:23:55
+Finished:      2017-07-12 12:30:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

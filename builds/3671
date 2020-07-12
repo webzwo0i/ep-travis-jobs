@@ -1,0 +1,11 @@
+Job #3671.1:  Merge pull request #3331 from sevu/pythonv2
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ad89cb7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e6e46404d18d...ad89cb7d7811
+Duration:      19 min 26 sec
+Started:       2018-04-03 14:05:51
+Finished:      2018-04-03 14:25:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

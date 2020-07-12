@@ -1,0 +1,13 @@
+Build #4672:  fix issue with exporting right version
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3839)
+Commit:        5f2a2be
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3839
+Duration:      14 min 1 sec
+Started:       2020-04-06 16:17:06
+Finished:      2020-04-06 16:24:15
+
+#4672.1 errored: 7 min 9 sec    os: linux, node_js: lts/*, env:
+#4672.2 errored: 3 min 19 sec   os: linux, node_js: lts/*, env:
+#4672.3 errored: 3 min 33 sec   os: linux, node_js: lts/*, env:

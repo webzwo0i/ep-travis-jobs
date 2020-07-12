@@ -1,0 +1,11 @@
+Job #3906.1:  README: a lot of packages mentioned in the readme are not really needed, simplify
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4944945
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0ad8291ae778...49449453c9b2
+Duration:      11 min 32 sec
+Started:       2018-12-01 14:42:01
+Finished:      2018-12-01 14:53:33
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

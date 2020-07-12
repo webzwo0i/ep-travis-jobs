@@ -1,0 +1,12 @@
+Build #4509:  Add comment to explain purpose of the api specs
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3786)
+Commit:        a079772
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3786
+Duration:      21 min 32 sec
+Started:       2020-03-30 03:31:40
+Finished:      2020-03-30 03:42:28
+
+#4509.1 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:
+#4509.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

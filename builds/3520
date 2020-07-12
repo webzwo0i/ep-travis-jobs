@@ -1,0 +1,11 @@
+Job #3520.1:  Typos and other minor fixes
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3223)
+Commit:        4e4ef7e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3223
+Duration:      10 min 53 sec
+Started:       2017-07-17 20:29:21
+Finished:      2017-07-17 20:40:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

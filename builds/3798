@@ -1,0 +1,11 @@
+Job #3798.1:  getHtml test update
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3408)
+Commit:        b6ce2bf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3408
+Duration:      17 sec
+Started:       2018-08-06 22:42:15
+Finished:      2018-08-06 22:42:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

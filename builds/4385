@@ -1,0 +1,12 @@
+Build #4385:  Merge branch 'develop' of github.com:ether/etherpad-lite into showChatFix
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3715)
+Commit:        683e696
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3715
+Duration:      21 min 40 sec
+Started:       2020-03-23 23:57:20
+Finished:      2020-03-24 00:08:14
+
+#4385.1 errored: 10 min 54 sec  os: linux, node_js: lts/*, env:
+#4385.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

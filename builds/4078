@@ -1,0 +1,11 @@
+Job #4078.1:  docker: move docker/settings.json to /settings.json.docker
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        30fd53f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/76c1055186a3...30fd53f1fd54
+Duration:      11 min 33 sec
+Started:       2019-11-14 21:07:38
+Finished:      2019-11-14 21:19:11
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

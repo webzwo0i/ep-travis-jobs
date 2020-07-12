@@ -1,0 +1,11 @@
+Job #4152.1:  final commit
+State:         errored
+Type:          push
+Branch:        fix-socket-admin-etc
+Commit:        73bcbbc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix-socket-admin-etc
+Duration:      10 min 48 sec
+Started:       2019-12-07 20:02:25
+Finished:      2019-12-07 20:13:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

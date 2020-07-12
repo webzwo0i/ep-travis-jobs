@@ -1,0 +1,11 @@
+Job #964.1:  most test pass but important ones failed
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1640)
+Commit:        5d9665d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1640
+Duration:      11 min 23 sec
+Started:       2013-03-18 23:12:28
+Finished:      2013-03-18 23:23:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #67.1:  Fix tests to run on IE8 etc.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        db5119f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2260b1fc6282...db5119f798b9
+Duration:      11 min 33 sec
+Started:       2012-11-21 18:55:59
+Finished:      2012-11-21 19:07:32
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

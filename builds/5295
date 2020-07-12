@@ -1,0 +1,13 @@
+Build #5295:  might do it
+State:         canceled
+Type:          push
+Branch:        backend-test
+Commit:        5bfb8f4
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5bfb8f45a7ab
+Duration:      16 min 55 sec
+Started:       2020-05-29 14:15:03
+Finished:      2020-05-29 14:28:43
+
+#5295.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5295.2 canceled: 13 min 39 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5295.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

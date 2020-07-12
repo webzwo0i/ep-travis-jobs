@@ -1,0 +1,12 @@
+Build #4363:  final comment out of edGe
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        b2a5c7b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4451b125e361...b2a5c7bffcfd
+Duration:      21 min 30 sec
+Started:       2020-03-23 15:02:19
+Finished:      2020-03-23 15:13:08
+
+#4363.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4363.2 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

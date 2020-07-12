@@ -1,0 +1,12 @@
+Build #4450:  bin: replace double backticks (``) with $()
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a181ea8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1ad6e9c2880e...a181ea8fbe9f
+Duration:      18 min 55 sec
+Started:       2020-03-29 01:01:38
+Finished:      2020-03-29 01:18:53
+
+#4450.1 failed:  17 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4450.2 passed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,14 @@
+Build #5524:  pluginfw/performance: Dont cache if max age is 0 (#4098)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        93829b9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e78b79d9d4f...93829b9e3362
+Duration:      26 min 4 sec
+Started:       2020-06-09 01:11:54
+Finished:      2020-06-09 01:13:23
+
+#5524.1 passed:  21 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5524.2 passed:  1 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5524.3 failed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5524.4 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

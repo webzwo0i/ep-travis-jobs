@@ -1,0 +1,13 @@
+Build #4838:  Update scroll.js
+State:         errored
+Type:          push
+Branch:        Comment-out-last-line-due-to-browser-restriction-of-test
+Commit:        2931987
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a4e3cb39ae61...293198757847
+Duration:      14 min 13 sec
+Started:       2020-04-19 13:17:41
+Finished:      2020-04-19 13:28:27
+
+#4838.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4838.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4838.3 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

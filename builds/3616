@@ -1,0 +1,11 @@
+Job #3616.1:  Select formatting button on selection (#3301)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        454f539
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1fcd16894e5...454f539561a8
+Duration:      12 min 3 sec
+Started:       2018-01-04 15:28:38
+Finished:      2018-01-04 15:40:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

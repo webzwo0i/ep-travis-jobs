@@ -1,0 +1,13 @@
+Build #5247:  whoops :!
+State:         failed
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        0d56905
+Compare URL:   https://github.com/ether/etherpad-lite/compare/215572084e62...0d5690525daf
+Duration:      9 min 51 sec
+Started:       2020-05-28 13:07:16
+Finished:      2020-05-28 13:13:41
+
+#5247.1 passed:  1 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5247.2 failed:  6 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5247.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

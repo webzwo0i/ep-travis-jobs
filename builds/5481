@@ -1,0 +1,14 @@
+Build #5481:  bump socketio
+State:         errored
+Type:          push
+Branch:        socketio230v2
+Commit:        7f4cce7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0669280af063^...7f4cce789fe0
+Duration:      16 min 26 sec
+Started:       2020-06-07 15:48:32
+Finished:      2020-06-07 15:59:48
+
+#5481.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5481.2 errored: 11 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5481.3 failed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5481.4 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #4719:  runtime: require node >= 10.13.0 LTS
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        684f374
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6cba0f1dc57c...684f374eceb0
+Duration:      14 min 53 sec
+Started:       2020-04-09 04:44:00
+Finished:      2020-04-09 04:55:31
+
+#4719.1 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4719.2 failed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4719.3 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

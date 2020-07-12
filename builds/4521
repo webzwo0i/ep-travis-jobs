@@ -1,0 +1,12 @@
+Build #4521:  tests: backend tests for utf8 & emojis support
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3737)
+Commit:        55dffb2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3737
+Duration:      21 min 35 sec
+Started:       2020-03-31 02:08:36
+Finished:      2020-03-31 02:19:29
+
+#4521.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env:
+#4521.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

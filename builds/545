@@ -1,0 +1,11 @@
+Job #545.1:  Bugfixes to getChatHistory API method
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1447)
+Commit:        cdc553d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1447
+Duration:      10 min 58 sec
+Started:       2013-02-04 07:03:03
+Finished:      2013-02-04 07:14:01
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

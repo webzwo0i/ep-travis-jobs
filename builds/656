@@ -1,0 +1,11 @@
+Job #656.1:  API: Query latest version
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1496)
+Commit:        4617e33
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1496
+Duration:      11 min 15 sec
+Started:       2013-02-11 06:14:12
+Finished:      2013-02-11 06:25:27
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

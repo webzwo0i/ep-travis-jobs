@@ -1,0 +1,11 @@
+Job #572.1:  fix timeslider tests
+State:         failed
+Type:          push
+Branch:        fix-timeslider-tests
+Commit:        f42d382
+Compare URL:   https://github.com/ether/etherpad-lite/commit/f42d3820a5f4
+Duration:      7 min 58 sec
+Started:       2013-02-07 17:51:36
+Finished:      2013-02-07 17:59:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

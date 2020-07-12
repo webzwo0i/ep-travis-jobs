@@ -1,0 +1,11 @@
+Job #508.1:  make tinycon update on all chat messages not just ones that mention your name
+State:         passed
+Type:          push
+Branch:        notifications
+Commit:        a7361f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa7952523e2c...a7361f5ce006
+Duration:      4 min 56 sec
+Started:       2013-01-29 13:11:26
+Finished:      2013-01-29 13:16:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

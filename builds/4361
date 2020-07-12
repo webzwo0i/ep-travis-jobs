@@ -1,0 +1,12 @@
+Build #4361:  final comment out of edGe
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        3ba6db8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      21 min 28 sec
+Started:       2020-03-23 14:45:12
+Finished:      2020-03-23 14:56:02
+
+#4361.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4361.2 errored: 10 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

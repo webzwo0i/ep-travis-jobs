@@ -1,0 +1,12 @@
+Build #4501:  Going back to installing with "npm ci". This should make no difference now.
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        910cf43
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e6f21506aa7d...910cf434ba54
+Duration:      20 min 39 sec
+Started:       2020-03-30 00:06:20
+Finished:      2020-03-30 00:25:18
+
+#4501.1 failed:  18 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4501.2 passed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

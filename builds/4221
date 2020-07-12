@@ -1,0 +1,12 @@
+Build #4221:  Update Cheerio
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3716)
+Commit:        731c894
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3716
+Duration:      2 min 43 sec
+Started:       2020-03-15 15:37:43
+Finished:      2020-03-15 15:39:12
+
+#4221.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env:
+#4221.2 passed:  1 min 14 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #613.1:  Merge pull request #1485 from ether/readme-placeholder
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2634e81
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6191b016335d...2634e8120a39
+Duration:      7 min 36 sec
+Started:       2013-02-10 15:00:26
+Finished:      2013-02-10 15:08:02
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

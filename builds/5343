@@ -1,0 +1,14 @@
+Build #5343:  tests: fuzzing, binary imports
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        dc11b85
+Compare URL:   https://github.com/ether/etherpad-lite/compare/59b1a2d5e0fd...dc11b85e62b6
+Duration:      3 min 19 sec
+Started:       2020-06-01 18:27:15
+Finished:      2020-06-01 18:29:17
+
+#5343.1 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5343.2 errored: 32 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5343.3 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5343.4 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

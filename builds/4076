@@ -1,0 +1,11 @@
+Job #4076.1:  Release version 1.8.0-beta.1
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3666)
+Commit:        12478db
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3666
+Duration:      1 min 27 sec
+Started:       2019-11-12 20:10:10
+Finished:      2019-11-12 20:11:37
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,13 @@
+Build #4898:  packagelock
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3905)
+Commit:        5a8e592
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3905
+Duration:      2 min 8 sec
+Started:       2020-04-20 00:12:03
+Finished:      2020-04-20 00:12:50
+
+#4898.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#4898.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4898.3 errored: 42 sec         os: linux, node_js: lts/*, env:

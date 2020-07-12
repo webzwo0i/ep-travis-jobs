@@ -1,0 +1,13 @@
+Build #5258:  Tests: Add and test padPrefs for helper.newPad (#4042)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        febd489
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b1b181927d0d...febd48954cbe
+Duration:      14 min 29 sec
+Started:       2020-05-28 15:25:28
+Finished:      2020-05-28 15:36:50
+
+#5258.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5258.2 failed:  11 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5258.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

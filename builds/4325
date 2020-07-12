@@ -1,0 +1,12 @@
+Build #4325:  test again
+State:         errored
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        f0507a1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c3eed0b3f1b7...f0507a16eae3
+Duration:      13 min 30 sec
+Started:       2020-03-22 15:32:28
+Finished:      2020-03-22 15:44:05
+
+#4325.1 errored: 11 min 37 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4325.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #3679.1:  Merge pull request #3297 from apenwarr/auth-sequence
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f4f032a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2765a957747a...f4f032afc05f
+Duration:      18 min 16 sec
+Started:       2018-04-03 14:42:29
+Finished:      2018-04-03 15:00:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

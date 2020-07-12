@@ -1,0 +1,11 @@
+Job #3631.1:  Merge pull request #3316 from ether/release/1.6.3
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0c9475e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b292e137ed33...0c9475e36662
+Duration:      18 min 43 sec
+Started:       2018-02-03 13:01:58
+Finished:      2018-02-03 13:20:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

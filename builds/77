@@ -1,0 +1,11 @@
+Job #77.1:  make runner CSS more sane
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        28cd6e6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e02054d6fe71...28cd6e64b3a1
+Duration:      6 min 52 sec
+Started:       2012-11-21 21:12:00
+Finished:      2012-11-21 21:18:52
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

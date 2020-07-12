@@ -1,0 +1,11 @@
+Job #3944.1:  Fix deletion with pad containing many revisions
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3562)
+Commit:        f3e43cb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3562
+Duration:      1 min 50 sec
+Started:       2019-02-25 11:12:25
+Finished:      2019-02-25 11:14:15
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

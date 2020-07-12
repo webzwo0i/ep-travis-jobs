@@ -1,0 +1,14 @@
+Build #5623:  fixes jQuery.Deferred exception as reported in #4132 (#4158)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c7581ba
+Compare URL:   https://github.com/ether/etherpad-lite/compare/908ce78e7045...c7581ba6f3a6
+Duration:      26 min 8 sec
+Started:       2020-07-10 16:28:54
+Finished:      2020-07-10 16:51:04
+
+#5623.1 passed:  22 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5623.2 passed:  52 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5623.3 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5623.4 failed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

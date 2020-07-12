@@ -1,0 +1,12 @@
+Build #4496:  Another log message. Waiting 10 minutes before pushing this.
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        e6f2150
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fccef0ad58ef...e6f21506aa7d
+Duration:      15 min 43 sec
+Started:       2020-03-29 23:46:13
+Finished:      2020-03-29 23:58:33
+
+#4496.1 failed:  12 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4496.2 passed:  3 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

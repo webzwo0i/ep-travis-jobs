@@ -1,0 +1,12 @@
+Build #4433:  full indentation and deindentation UX tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        29be6b8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 36 sec
+Started:       2020-03-28 13:16:53
+Finished:      2020-03-28 13:27:47
+
+#4433.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4433.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

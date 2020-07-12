@@ -1,0 +1,11 @@
+Job #4582.1:  revert
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        2da452b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      1 min 14 sec
+Started:       2020-04-01 16:42:07
+Finished:      2020-04-01 16:43:21
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

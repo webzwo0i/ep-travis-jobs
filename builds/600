@@ -1,0 +1,11 @@
+Job #600.1:  Add UA functions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1483)
+Commit:        cdf5806
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1483
+Duration:      10 min 57 sec
+Started:       2013-02-09 22:29:19
+Finished:      2013-02-09 22:40:16
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

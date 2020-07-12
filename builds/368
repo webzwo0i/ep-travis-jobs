@@ -1,0 +1,11 @@
+Job #368.1:  merged latest develop
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1322)
+Commit:        a4ed01d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1322
+Duration:      13 min 1 sec
+Started:       2013-01-14 18:07:42
+Finished:      2013-01-14 18:20:43
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

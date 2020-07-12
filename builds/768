@@ -1,0 +1,11 @@
+Job #768.1:  timeslider init hook
+State:         failed
+Type:          push
+Branch:        timeslider-init-hook
+Commit:        9eff857
+Compare URL:   https://github.com/ether/etherpad-lite/commit/9eff8576ef1a
+Duration:      7 min 40 sec
+Started:       2013-02-18 23:08:57
+Finished:      2013-02-18 23:16:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

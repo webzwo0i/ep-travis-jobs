@@ -1,0 +1,14 @@
+Build #5431:  updating deps
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3839)
+Commit:        d027c74
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3839
+Duration:      2 min 45 sec
+Started:       2020-06-06 11:42:20
+Finished:      2020-06-06 11:43:06
+
+#5431.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5431.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5431.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5431.4 errored: 44 sec         os: linux, node_js: lts/*, env:

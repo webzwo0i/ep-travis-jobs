@@ -1,0 +1,11 @@
+Job #415.1:  better urls
+State:         failed
+Type:          push
+Branch:        more-plugin-details
+Commit:        8bfa8a7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4cbf3869c69f...8bfa8a7e7314
+Duration:      4 min 28 sec
+Started:       2013-01-20 23:43:20
+Finished:      2013-01-20 23:47:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

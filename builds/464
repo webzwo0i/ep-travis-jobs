@@ -1,0 +1,11 @@
+Job #464.1:  Added getChatHistory and getChatHead (api+code+doc)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1408)
+Commit:        de4808b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1408
+Duration:      5 min 54 sec
+Started:       2013-01-26 15:09:11
+Finished:      2013-01-26 15:15:05
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

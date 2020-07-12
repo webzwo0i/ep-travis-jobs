@@ -1,0 +1,11 @@
+Job #446.1:  Merge pull request #1379 from ether/more-plugin-details
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        18b96b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/28aa1ecc24a2...18b96b33c6d4
+Duration:      4 min 9 sec
+Started:       2013-01-24 16:35:05
+Finished:      2013-01-24 16:39:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

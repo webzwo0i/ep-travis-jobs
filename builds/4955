@@ -1,0 +1,13 @@
+Build #4955:  pad_impexp: refresh the page instead, ungraceful but works
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3915)
+Commit:        51d4625
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3915
+Duration:      2 min 16 sec
+Started:       2020-04-23 01:40:06
+Finished:      2020-04-23 01:40:55
+
+#4955.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4955.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4955.3 errored: 44 sec         os: linux, node_js: lts/*, env:

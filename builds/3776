@@ -1,0 +1,11 @@
+Job #3776.1:  Fix typos in ordinal names
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b98ee11
+Compare URL:   https://github.com/ether/etherpad-lite/compare/937ca09d74e1...b98ee116b90f
+Duration:      11 min 49 sec
+Started:       2018-07-16 01:14:28
+Finished:      2018-07-16 01:26:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

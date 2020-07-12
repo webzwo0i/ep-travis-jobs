@@ -1,0 +1,12 @@
+Build #4482:  travis/runner.sh: final touches to the log messages before promoting to develop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        1d58c08
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      28 min 46 sec
+Started:       2020-03-29 22:23:26
+Finished:      2020-03-29 22:41:29
+
+#4482.1 failed:  18 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4482.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

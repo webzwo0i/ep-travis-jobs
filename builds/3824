@@ -1,0 +1,11 @@
+Job #3824.1:  specialpages: replace relative paths for sendfile() with absolute ones
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        d148104
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9db5fd788487...d1481041c27b
+Duration:      17 sec
+Started:       2018-08-23 23:42:49
+Finished:      2018-08-23 23:43:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

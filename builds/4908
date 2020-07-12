@@ -1,0 +1,13 @@
+Build #4908:  css: Fixes #3900 innerdocbodyu Layout broken for safari (#3906) and other browsers
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4ceb426
+Compare URL:   https://github.com/ether/etherpad-lite/compare/da0ea3a29d75...4ceb42603e2c
+Duration:      14 min 24 sec
+Started:       2020-04-20 10:48:14
+Finished:      2020-04-20 10:59:37
+
+#4908.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4908.2 failed:  11 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4908.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

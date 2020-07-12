@@ -1,0 +1,12 @@
+Build #4262:  tests working, just need polish for utf8 test
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3737)
+Commit:        0feddaa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3737
+Duration:      2 min 45 sec
+Started:       2020-03-21 19:56:29
+Finished:      2020-03-21 19:57:59
+
+#4262.1 passed:  1 min 30 sec   os: linux, node_js: lts/*, env:
+#4262.2 passed:  1 min 15 sec   os: linux, node_js: lts/*, env:

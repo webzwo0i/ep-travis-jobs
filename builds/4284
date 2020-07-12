@@ -1,0 +1,12 @@
+Build #4284:  trying again...
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        dcc1519
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      8 min 24 sec
+Started:       2020-03-22 13:13:25
+Finished:      2020-03-22 13:19:59
+
+#4284.1 passed:  6 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4284.2 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,14 @@
+Build #5346:  Windows: Always use latest erbium node version for windows build
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        9fdb9e2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cffd04446eb4...9fdb9e224cc1
+Duration:      21 min 16 sec
+Started:       2020-06-01 19:15:02
+Finished:      2020-06-01 19:31:25
+
+#5346.1 failed:  1 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5346.2 errored: 16 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5346.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5346.4 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

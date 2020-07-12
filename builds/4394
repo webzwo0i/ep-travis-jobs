@@ -1,0 +1,11 @@
+Job #4394.1:  Add ejs compilation cache
+State:         passed
+Type:          pull request
+Branch:        master (PR #3755)
+Commit:        8362e44
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3755
+Duration:      1 min 30 sec
+Started:       2020-03-24 14:19:26
+Finished:      2020-03-24 14:20:56
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

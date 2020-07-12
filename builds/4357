@@ -1,0 +1,11 @@
+Job #4357.1:  Fix minify cache ms
+State:         passed
+Type:          pull request
+Branch:        master (PR #3747)
+Commit:        afdf8fe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3747
+Duration:      1 min 29 sec
+Started:       2020-03-23 14:08:18
+Finished:      2020-03-23 14:09:47
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

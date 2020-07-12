@@ -1,0 +1,13 @@
+Build #4907:  css: Fixes #3900 Layout broken for safari
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3906)
+Commit:        1a6e8ea
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3906
+Duration:      2 min 9 sec
+Started:       2020-04-20 07:54:34
+Finished:      2020-04-20 07:55:20
+
+#4907.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4907.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4907.3 errored: 41 sec         os: linux, node_js: lts/*, env:

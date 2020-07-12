@@ -1,0 +1,11 @@
+Job #4066.1:  changelog: mention the conditional user creation feature (now that it's fixed)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7e44dc5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/28a3bba4c106...7e44dc569bcc
+Duration:      11 min 32 sec
+Started:       2019-11-03 00:49:03
+Finished:      2019-11-03 01:00:35
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

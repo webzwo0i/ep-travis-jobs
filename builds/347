@@ -1,0 +1,11 @@
+Job #347.1:  Fixed test-names, use waitFor instead of setTimeout
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1334)
+Commit:        0e72408
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1334
+Duration:      13 min 10 sec
+Started:       2013-01-13 11:05:08
+Finished:      2013-01-13 11:18:18
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

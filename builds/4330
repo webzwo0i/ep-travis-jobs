@@ -1,0 +1,12 @@
+Build #4330:  all platforms should now bw efixed, that was too much time wasted
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        c617a63
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      21 min 28 sec
+Started:       2020-03-22 15:52:59
+Finished:      2020-03-22 16:05:44
+
+#4330.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4330.2 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

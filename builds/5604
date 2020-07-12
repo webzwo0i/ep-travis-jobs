@@ -1,0 +1,14 @@
+Build #5604:  trigger minify before
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        0c04635
+Compare URL:   https://github.com/ether/etherpad-lite/compare/27a4f52069bb...0c046359807a
+Duration:      5 min 44 sec
+Started:       2020-07-09 23:12:59
+Finished:      2020-07-09 23:14:41
+
+#5604.1 passed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5604.2 passed:  53 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5604.3 failed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5604.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

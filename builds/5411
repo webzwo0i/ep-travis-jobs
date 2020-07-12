@@ -1,0 +1,14 @@
+Build #5411:  include tests in backend runner
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        357c529
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      1 min 37 sec
+Started:       2020-06-05 21:54:19
+Finished:      2020-06-05 21:54:47
+
+#5411.1 errored: 23 sec         os: linux, node_js: lts/*, env:
+#5411.2 errored: 24 sec         os: linux, node_js: lts/*, env:
+#5411.3 errored: 24 sec         os: linux, node_js: lts/*, env:
+#5411.4 errored: 26 sec         os: linux, node_js: lts/*, env:

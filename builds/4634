@@ -1,0 +1,13 @@
+Build #4634:  remove noise
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        eb45934
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0889a1313de1...eb45934788cd
+Duration:      14 min 19 sec
+Started:       2020-04-03 12:32:37
+Finished:      2020-04-03 12:44:14
+
+#4634.1 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4634.2 failed:  11 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4634.3 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #4694:  css: various improvements
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        9e804f6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 11 sec
+Started:       2020-04-07 18:49:01
+Finished:      2020-04-07 18:49:47
+
+#4694.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4694.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4694.3 errored: 44 sec         os: linux, node_js: lts/*, env:

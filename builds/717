@@ -1,0 +1,11 @@
+Job #717.1:  when exporting HTML include html and body
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1514)
+Commit:        bdf0200
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1514
+Duration:      11 min 16 sec
+Started:       2013-02-14 03:13:44
+Finished:      2013-02-14 03:25:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

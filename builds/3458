@@ -1,0 +1,11 @@
+Job #3458.1:  [fix] Use new SauceConnect provided by Sauce Labs
+State:         canceled
+Type:          push
+Branch:        fix_connection_to_sauce_labs
+Commit:        db003a1
+Compare URL:   https://github.com/ether/etherpad-lite/commit/db003a1460ab
+Duration:      1 min 48 sec
+Started:       2017-04-06 08:08:22
+Finished:      2017-04-06 08:10:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

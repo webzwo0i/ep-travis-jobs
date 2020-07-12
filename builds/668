@@ -1,0 +1,11 @@
+Job #668.1:  Bump to latest ueber to support sqlite
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9c54f02
+Compare URL:   https://github.com/ether/etherpad-lite/compare/24485283fdfc...9c54f024aa3c
+Duration:      7 min 8 sec
+Started:       2013-02-12 14:16:36
+Finished:      2013-02-12 14:23:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

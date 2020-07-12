@@ -1,0 +1,13 @@
+Build #5145:  bin: use correct ueberdb module path "ueberDB" -> "ueberdb2" in tools in /bin
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        edfc7a4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d1d8a0ad6de1...edfc7a4916c9
+Duration:      14 min 58 sec
+Started:       2020-05-15 01:23:04
+Finished:      2020-05-15 01:34:32
+
+#5145.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5145.2 failed:  11 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5145.3 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

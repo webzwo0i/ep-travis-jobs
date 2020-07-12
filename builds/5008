@@ -1,0 +1,13 @@
+Build #5008:  described more features. These commits are going to be squashed.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3943)
+Commit:        1b93c2a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3943
+Duration:      2 min 12 sec
+Started:       2020-04-27 01:03:50
+Finished:      2020-04-27 01:04:36
+
+#5008.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5008.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5008.3 errored: 42 sec         os: linux, node_js: lts/*, env:

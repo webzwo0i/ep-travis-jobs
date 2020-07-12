@@ -1,0 +1,12 @@
+Build #4384:  tests: enable sauce labs tests again
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        61f0b5d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/43ca44e444d8...61f0b5db0bfe
+Duration:      13 min 44 sec
+Started:       2020-03-23 23:52:15
+Finished:      2020-03-24 00:04:13
+
+#4384.1 failed:  11 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4384.2 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

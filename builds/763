@@ -1,0 +1,11 @@
+Job #763.1:  fix path for windows
+State:         failed
+Type:          push
+Branch:        fix-extractPadData
+Commit:        0a19589
+Compare URL:   https://github.com/ether/etherpad-lite/compare/19964498f3b6...0a195895097b
+Duration:      13 min 4 sec
+Started:       2013-02-18 21:41:27
+Finished:      2013-02-18 21:54:31
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

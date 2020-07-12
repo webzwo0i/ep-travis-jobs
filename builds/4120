@@ -1,0 +1,11 @@
+Job #4120.1:  allow for load testing connections to hit by a setting
+State:         errored
+Type:          push
+Branch:        load-testing-settings
+Commit:        ec6a2b5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/load-testing-settings
+Duration:      10 min 51 sec
+Started:       2019-12-07 19:05:18
+Finished:      2019-12-07 19:16:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

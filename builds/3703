@@ -1,0 +1,11 @@
+Job #3703.1:  Merge pull request #3366 from ether/release/1.6.4
+State:         failed
+Type:          push
+Branch:        master
+Commit:        6a38826
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bb83d39ff009...6a38826e9dd4
+Duration:      2 min
+Started:       2018-04-07 12:06:06
+Finished:      2018-04-07 12:08:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

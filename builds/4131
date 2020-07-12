@@ -1,0 +1,11 @@
+Job #4131.1:  resolve merge conflict
+State:         errored
+Type:          push
+Branch:        remove-old
+Commit:        c4959b0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/remove-old
+Duration:      1 min 1 sec
+Started:       2019-12-07 19:27:51
+Finished:      2019-12-07 19:28:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

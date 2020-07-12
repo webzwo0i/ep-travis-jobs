@@ -1,0 +1,11 @@
+Job #3915.1:  set authorColors in HTML exports
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3536)
+Commit:        eac895e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3536
+Duration:      1 min 21 sec
+Started:       2019-01-10 01:02:08
+Finished:      2019-01-10 01:03:29
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

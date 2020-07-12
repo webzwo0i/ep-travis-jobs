@@ -1,0 +1,11 @@
+Job #4105.1:  docker: Set the home directory for the user
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        50142f6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0a86024797ed...50142f65806e
+Duration:      11 min 25 sec
+Started:       2019-12-02 22:14:34
+Finished:      2019-12-02 22:25:59
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

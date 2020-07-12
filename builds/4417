@@ -1,0 +1,12 @@
+Build #4417:  checkPadDeltas: version by JohnMcLear
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3717)
+Commit:        d00f1e2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3717
+Duration:      21 min 39 sec
+Started:       2020-03-27 01:46:47
+Finished:      2020-03-27 01:57:37
+
+#4417.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env:
+#4417.2 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:

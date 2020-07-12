@@ -1,0 +1,11 @@
+Job #628.1:  remove console warns
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1491)
+Commit:        e3c3462
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1491
+Duration:      10 min 57 sec
+Started:       2013-02-10 20:14:44
+Finished:      2013-02-10 20:25:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

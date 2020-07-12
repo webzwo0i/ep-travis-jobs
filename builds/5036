@@ -1,0 +1,13 @@
+Build #5036:  toolbar: display the "+" icon to show all buttons only on mobile layout
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3957)
+Commit:        d49a98a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3957
+Duration:      2 min 17 sec
+Started:       2020-04-29 13:05:14
+Finished:      2020-04-29 13:06:24
+
+#5036.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5036.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5036.3 errored: 48 sec         os: linux, node_js: lts/*, env:

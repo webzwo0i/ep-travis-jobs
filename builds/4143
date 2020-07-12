@@ -1,0 +1,11 @@
+Job #4143.1:  working logic
+State:         errored
+Type:          push
+Branch:        plugin-hook-for-settings-earlier
+Commit:        9801666
+Compare URL:   https://github.com/ether/etherpad-lite/compare/plugin-hook-for-settings-earlier
+Duration:      10 min 50 sec
+Started:       2019-12-07 19:42:09
+Finished:      2019-12-07 19:52:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

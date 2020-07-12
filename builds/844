@@ -1,0 +1,11 @@
+Job #844.1:  Merge branch 'release/1.2.8'
+State:         errored
+Type:          push
+Branch:        master
+Commit:        cb2d148
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7a0ad3235a5d...cb2d148734a7
+Duration:      11 min 7 sec
+Started:       2013-03-05 15:02:11
+Finished:      2013-03-05 15:13:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

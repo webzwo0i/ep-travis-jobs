@@ -1,0 +1,12 @@
+Build #4409:  working testing coverage for showChat
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3715)
+Commit:        bbdf40f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3715
+Duration:      21 min 36 sec
+Started:       2020-03-25 14:50:10
+Finished:      2020-03-25 15:01:01
+
+#4409.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4409.2 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:

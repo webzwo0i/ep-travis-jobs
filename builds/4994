@@ -1,0 +1,13 @@
+Build #4994:  pad.js: in switchToPad() remove the first iframe before loading the pad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3925)
+Commit:        7651777
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3925
+Duration:      2 min 14 sec
+Started:       2020-04-26 03:29:29
+Finished:      2020-04-26 03:30:17
+
+#4994.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4994.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4994.3 errored: 43 sec         os: linux, node_js: lts/*, env:

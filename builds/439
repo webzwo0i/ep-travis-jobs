@@ -1,0 +1,11 @@
+Job #439.1:  add a html block eejs so you can add a cache manifest
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1390)
+Commit:        d159242
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1390
+Duration:      6 min 58 sec
+Started:       2013-01-23 04:19:18
+Finished:      2013-01-23 04:26:16
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,12 @@
+Build #4291:  hrm whats broken
+State:         errored
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        f400723
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4d5aea73a955...f400723eaded
+Duration:      12 min 27 sec
+Started:       2020-03-22 13:49:21
+Finished:      2020-03-22 14:00:09
+
+#4291.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4291.2 passed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

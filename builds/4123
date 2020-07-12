@@ -1,0 +1,11 @@
+Job #4123.1:  Merge branch 'develop' of https://github.com/ether/etherpad-lite into fix-dead-keys
+State:         errored
+Type:          push
+Branch:        fix-dead-keys
+Commit:        debca84
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix-dead-keys
+Duration:      10 min 55 sec
+Started:       2019-12-07 19:16:31
+Finished:      2019-12-07 19:27:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

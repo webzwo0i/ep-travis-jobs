@@ -1,0 +1,11 @@
+Job #5026.1:  Localisation updates from https://translatewiki.net.
+State:         passed
+Type:          push
+Branch:        minor-fixes-via-typescript
+Commit:        7a5470c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/minor-fixes-via-typescript
+Duration:      15 min
+Started:       2020-04-28 12:48:08
+Finished:      2020-04-28 13:03:08
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

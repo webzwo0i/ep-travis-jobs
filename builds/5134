@@ -1,0 +1,11 @@
+Job #5134.1:  async version of export html hook
+State:         errored
+Type:          push
+Branch:        html-e-hook
+Commit:        2ed1d32
+Compare URL:   https://github.com/ether/etherpad-lite/commit/2ed1d328a8f3
+Duration:      19 sec
+Started:       2020-05-13 23:20:58
+Finished:      2020-05-13 23:21:17
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

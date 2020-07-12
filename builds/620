@@ -1,0 +1,11 @@
+Job #620.1:  begin support for better txt output
+State:         failed
+Type:          push
+Branch:        export-txt-with-indent
+Commit:        d16b15f
+Compare URL:   https://github.com/ether/etherpad-lite/commit/d16b15f3eb7d
+Duration:      6 min 54 sec
+Started:       2013-02-10 18:36:23
+Finished:      2013-02-10 18:43:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

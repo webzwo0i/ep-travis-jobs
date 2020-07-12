@@ -1,0 +1,14 @@
+Build #5425:  Clean
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4075)
+Commit:        bc0b8d6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4075
+Duration:      2 min 39 sec
+Started:       2020-06-05 23:59:10
+Finished:      2020-06-05 23:59:52
+
+#5425.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5425.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5425.3 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5425.4 errored: 42 sec         os: linux, node_js: lts/*, env:

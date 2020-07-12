@@ -1,0 +1,11 @@
+Job #886.1:  dont crash if a load of bad author data is passed to the server, bug prolly exists in old etherpad too..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1609)
+Commit:        0c25e0d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1609
+Duration:      11 min 2 sec
+Started:       2013-03-13 14:40:27
+Finished:      2013-03-13 14:51:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

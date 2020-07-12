@@ -1,0 +1,12 @@
+Build #4373:  minify: make conditional requests work. No HTTP/304 was ever generated and file were reminified uselessly.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        43ca44e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2bce9f5c3806...43ca44e444d8
+Duration:      12 min 56 sec
+Started:       2020-03-23 21:48:50
+Finished:      2020-03-23 22:00:25
+
+#4373.1 passed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4373.2 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

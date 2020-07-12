@@ -1,0 +1,11 @@
+Job #950.1:  page up, down etc all working, still no shift page up/down for highlight but that never worked anyways
+State:         failed
+Type:          push
+Branch:        caret-refactor
+Commit:        27e9f91
+Compare URL:   https://github.com/ether/etherpad-lite/compare/99ac407f089e...27e9f918640a
+Duration:      7 min 57 sec
+Started:       2013-03-18 19:05:44
+Finished:      2013-03-18 19:13:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

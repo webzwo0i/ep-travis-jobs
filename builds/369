@@ -1,0 +1,11 @@
+Job #369.1:  Added hook for clientVars and hook-doc
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1358)
+Commit:        1b96262
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1358
+Duration:      13 min 5 sec
+Started:       2013-01-14 22:58:56
+Finished:      2013-01-14 23:12:01
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

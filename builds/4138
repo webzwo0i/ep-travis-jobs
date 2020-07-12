@@ -1,0 +1,11 @@
+Job #4138.1:  more fixes
+State:         errored
+Type:          push
+Branch:        more-socket-io-fixes
+Commit:        a3f6b2e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/more-socket-io-fixes
+Duration:      10 min 45 sec
+Started:       2019-12-07 19:39:30
+Finished:      2019-12-07 19:50:15
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

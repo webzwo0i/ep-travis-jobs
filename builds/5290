@@ -1,0 +1,13 @@
+Build #5290:  tests: Resolve Gateway timeout during automated tests by adding delay after minify request
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d8e067a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b92b8a66e108...d8e067a5f953
+Duration:      21 min 44 sec
+Started:       2020-05-29 13:28:52
+Finished:      2020-05-29 13:47:40
+
+#5290.1 failed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5290.2 passed:  18 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5290.3 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

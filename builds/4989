@@ -1,0 +1,13 @@
+Build #4989:  plugins: support for configuring the execution order
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3791)
+Commit:        acd04dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3791
+Duration:      2 min 16 sec
+Started:       2020-04-25 23:38:47
+Finished:      2020-04-25 23:39:37
+
+#4989.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4989.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4989.3 errored: 44 sec         os: linux, node_js: lts/*, env:

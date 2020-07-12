@@ -1,0 +1,11 @@
+Job #786.1:  Merge pull request #1538 from ether/timeslider-init-hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5b89242
+Compare URL:   https://github.com/ether/etherpad-lite/compare/26ccb1fa3e44...5b89242c5ba6
+Duration:      12 min 58 sec
+Started:       2013-02-25 11:13:11
+Finished:      2013-02-25 11:26:09
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

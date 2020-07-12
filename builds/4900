@@ -1,0 +1,13 @@
+Build #4900:  ace2_inner: when atext.text is "", replace with "\n"
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3863)
+Commit:        66a1e25
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3863
+Duration:      2 min 10 sec
+Started:       2020-04-20 00:48:13
+Finished:      2020-04-20 00:48:58
+
+#4900.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4900.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4900.3 errored: 42 sec         os: linux, node_js: lts/*, env:

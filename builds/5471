@@ -1,0 +1,14 @@
+Build #5471:  clean up
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4088)
+Commit:        c832759
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4088
+Duration:      27 min 56 sec
+Started:       2020-06-07 10:26:17
+Finished:      2020-06-07 10:49:06
+
+#5471.1 passed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5471.2 passed:  22 min 23 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5471.3 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5471.4 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

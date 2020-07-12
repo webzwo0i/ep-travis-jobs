@@ -1,0 +1,11 @@
+Job #514.1:  docs for api change
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1428)
+Commit:        e390ec4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1428
+Duration:      1 min 13 sec
+Started:       2013-01-29 18:01:24
+Finished:      2013-01-29 18:02:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3735.1:  createRelease.sh: changelog editing failed for multiline messages
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6dbeca2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ba322012d715...6dbeca217ed7
+Duration:      2 min 1 sec
+Started:       2018-05-04 00:38:51
+Finished:      2018-05-04 00:40:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

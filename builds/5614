@@ -1,0 +1,14 @@
+Build #5614:  fix
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        e9d2919
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3de9e3fb8958...e9d29199c98b
+Duration:      15 min 21 sec
+Started:       2020-07-10 02:11:33
+Finished:      2020-07-10 02:22:41
+
+#5614.1 errored: 11 min 8 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5614.2 passed:  53 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5614.3 failed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5614.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

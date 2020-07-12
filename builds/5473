@@ -1,0 +1,14 @@
+Build #5473:  Revert "Revert "tests: updating mocha and refactoring the custom html reporter using events""
+State:         passed
+Type:          push
+Branch:        mocha-update-unrevert
+Commit:        d1efa50
+Compare URL:   https://github.com/ether/etherpad-lite/commit/d1efa509e6e2
+Duration:      28 min 1 sec
+Started:       2020-06-07 11:37:23
+Finished:      2020-06-07 11:59:59
+
+#5473.1 passed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5473.2 passed:  22 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5473.3 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5473.4 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

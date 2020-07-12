@@ -1,0 +1,11 @@
+Job #731.1:  make the focus jump back to the left if it's required
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1531)
+Commit:        a8b90c0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1531
+Duration:      10 min 54 sec
+Started:       2013-02-17 22:05:10
+Finished:      2013-02-17 22:16:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

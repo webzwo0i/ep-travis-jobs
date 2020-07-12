@@ -1,0 +1,11 @@
+Job #777.1:  resolve merge conflict
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1530)
+Commit:        f15e11a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1530
+Duration:      11 min 21 sec
+Started:       2013-02-20 23:39:27
+Finished:      2013-02-20 23:50:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

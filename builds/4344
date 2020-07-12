@@ -1,0 +1,12 @@
+Build #4344:  increase helper timeout and also remove white space which fixes first firefox test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        44004a4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      21 min 30 sec
+Started:       2020-03-22 21:30:40
+Finished:      2020-03-22 21:41:28
+
+#4344.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4344.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

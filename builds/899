@@ -1,0 +1,11 @@
+Job #899.1:  Added test for ctrl+z
+State:         failed
+Type:          push
+Branch:        feature/test_ctrl_z
+Commit:        0d8c698
+Compare URL:   https://github.com/ether/etherpad-lite/compare/acb4b4ebafd3...0d8c698622c6
+Duration:      7 min 9 sec
+Started:       2013-03-14 07:14:45
+Finished:      2013-03-14 07:21:54
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

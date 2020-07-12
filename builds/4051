@@ -1,0 +1,11 @@
+Job #4051.1:  docker: base our image on 10-buster-slim instead of buster-slim
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bf7c724
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2e2aa05e5239...bf7c7241fc72
+Duration:      12 min 20 sec
+Started:       2019-10-22 22:49:59
+Finished:      2019-10-22 23:02:19
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

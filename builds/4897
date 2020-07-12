@@ -1,0 +1,13 @@
+Build #4897:  setEmbedLinks: fix the wrong URL when we use etherpad without /p/ in the URL
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3895)
+Commit:        0e57e70
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3895
+Duration:      2 min 7 sec
+Started:       2020-04-20 00:10:30
+Finished:      2020-04-20 00:11:16
+
+#4897.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4897.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4897.3 errored: 40 sec         os: linux, node_js: lts/*, env:

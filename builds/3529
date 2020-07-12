@@ -1,0 +1,11 @@
+Job #3529.1:  Fix AbiWord wikilink and capitalization (#3227)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cdaee77
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8bd8be97b98a...cdaee77a7677
+Duration:      6 min 17 sec
+Started:       2017-07-27 02:43:50
+Finished:      2017-07-27 02:50:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

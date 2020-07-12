@@ -1,0 +1,13 @@
+Build #5570:  include about and poweredBy in locales
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4140)
+Commit:        8ea05ba
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4140
+Duration:      4 min 11 sec
+Started:       2020-06-27 19:54:34
+Finished:      2020-06-27 19:56:12
+
+#5570.1 passed:  1 min 6 sec    os: linux, node_js: lts/*, env:
+#5570.2 failed:  1 min 35 sec   os: linux, node_js: lts/*, env:
+#5570.3 passed:  1 min 30 sec   os: linux, node_js: lts/*, env:

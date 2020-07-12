@@ -1,0 +1,13 @@
+Build #4777:  css: small fixes
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        c04cdfa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 22 sec
+Started:       2020-04-14 18:06:41
+Finished:      2020-04-14 18:07:36
+
+#4777.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4777.2 errored: 54 sec         os: linux, node_js: lts/*, env:
+#4777.3 errored: 43 sec         os: linux, node_js: lts/*, env:

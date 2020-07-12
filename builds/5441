@@ -1,0 +1,14 @@
+Build #5441:  Revert "Revert "Revert "editor: ul/ol/li - outdent on ol and ul button press"""
+State:         canceled
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        2cd3dcc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/outdent-ol-on-click
+Duration:      12 min
+Started:       2020-06-06 23:20:51
+Finished:      2020-06-06 23:27:36
+
+#5441.1 passed:  1 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5441.2 canceled: 6 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5441.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5441.4 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,14 @@
+Build #5526:  Changelog
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e22574c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/93829b9e3362...e22574c40f3e
+Duration:      25 min 48 sec
+Started:       2020-06-10 16:43:33
+Finished:      2020-06-10 17:05:14
+
+#5526.1 passed:  21 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5526.2 passed:  1 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5526.3 failed:  1 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5526.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #4871:  tests: use pinned versions of SauceLabs remote runner (#3887)
+State:         errored
+Type:          push
+Branch:        pinned-tests
+Commit:        6853422
+Compare URL:   https://github.com/ether/etherpad-lite/compare/211541e12275...6853422d9490
+Duration:      14 min 6 sec
+Started:       2020-04-19 17:33:10
+Finished:      2020-04-19 17:44:03
+
+#4871.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4871.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4871.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #4063.1:  docker: Fix the comments about settings.json copy
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        801d519
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0104c9f32111...801d519165ef
+Duration:      11 min 40 sec
+Started:       2019-10-25 19:26:36
+Finished:      2019-10-25 19:38:16
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,12 @@
+Build #4257:  bump version and base code
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3721)
+Commit:        e797cb4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3721
+Duration:      2 min 47 sec
+Started:       2020-03-20 23:00:52
+Finished:      2020-03-20 23:02:20
+
+#4257.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env:
+#4257.2 passed:  1 min 19 sec   os: linux, node_js: lts/*, env:

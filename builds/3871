@@ -1,0 +1,11 @@
+Job #3871.1:  Allow to import files using soffice
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e8558e3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f6cef9dfd2ff...e8558e3497eb
+Duration:      11 min 40 sec
+Started:       2018-10-31 22:22:31
+Finished:      2018-10-31 22:34:11
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

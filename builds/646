@@ -1,0 +1,11 @@
+Job #646.1:  Revert "no longer dep on npm as it's native"
+State:         failed
+Type:          push
+Branch:        dep-cleanup
+Commit:        b0f555e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/69a6d5468e0a...b0f555e669d3
+Duration:      6 min 40 sec
+Started:       2013-02-10 23:28:11
+Finished:      2013-02-10 23:34:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

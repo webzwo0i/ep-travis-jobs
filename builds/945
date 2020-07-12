@@ -1,0 +1,11 @@
+Job #945.1:  /API/versions endpoint
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1638)
+Commit:        aeee0a1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1638
+Duration:      10 min 59 sec
+Started:       2013-03-18 01:04:20
+Finished:      2013-03-18 01:15:19
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

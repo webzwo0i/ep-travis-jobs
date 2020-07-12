@@ -1,0 +1,11 @@
+Job #694.1:  drunk comments
+State:         failed
+Type:          push
+Branch:        dont-die-on-bad-html
+Commit:        198110e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9e1dfc948766...198110eb4b9f
+Duration:      7 min 4 sec
+Started:       2013-02-13 00:50:47
+Finished:      2013-02-13 00:57:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

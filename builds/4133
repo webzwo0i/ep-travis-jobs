@@ -1,0 +1,11 @@
+Job #4133.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into fix/reimplement-ace-getAttributeOnSelection
+State:         errored
+Type:          push
+Branch:        fix/reimplement-ace-getAttributeOnSelection
+Commit:        c0078ab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix/reimplement-ace-getAttributeOnSelection
+Duration:      1 min 2 sec
+Started:       2019-12-07 19:28:52
+Finished:      2019-12-07 19:29:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

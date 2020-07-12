@@ -1,0 +1,11 @@
+Job #525.1:  Merge pull request #1432 from mluto/rename-save-revision
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        037ca9b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1814c756ad8c...037ca9b3fd31
+Duration:      6 min 26 sec
+Started:       2013-01-30 15:50:41
+Finished:      2013-01-30 15:57:07
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

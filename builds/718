@@ -1,0 +1,11 @@
+Job #718.1:  Added JSON import
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1515)
+Commit:        8648a88
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1515
+Duration:      11 min 57 sec
+Started:       2013-02-14 18:33:56
+Finished:      2013-02-14 18:45:53
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

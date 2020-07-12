@@ -1,0 +1,11 @@
+Job #3935.1:  windows: allow graceful shutdown on Windows, too
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d5d428c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c333984cd8b8...d5d428c4eed5
+Duration:      11 min 30 sec
+Started:       2019-02-16 00:24:55
+Finished:      2019-02-16 00:36:25
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #922.1:  Merge pull request #1622 from ether/fix/submitting-submitting-faked-changesets
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        84d44d5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cf041dcb0850...84d44d5f0e83
+Duration:      12 min 44 sec
+Started:       2013-03-15 20:21:14
+Finished:      2013-03-15 20:33:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

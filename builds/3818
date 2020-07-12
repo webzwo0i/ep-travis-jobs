@@ -1,0 +1,11 @@
+Job #3818.1:  dependencies: update socket.io 1.7.3 -> 2.1.1
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        93641a1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5f9de6948c46...93641a165d13
+Duration:      21 sec
+Started:       2018-08-18 20:12:35
+Finished:      2018-08-18 20:12:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

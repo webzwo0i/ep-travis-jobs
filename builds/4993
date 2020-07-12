@@ -1,0 +1,13 @@
+Build #4993:  html10n: do a lax match between the Accept-Language header and available locales
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a471dbe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e8cd83286d91...a471dbeebfb9
+Duration:      14 min 30 sec
+Started:       2020-04-26 03:07:22
+Finished:      2020-04-26 03:18:50
+
+#4993.1 passed:  1 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4993.2 failed:  11 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4993.3 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

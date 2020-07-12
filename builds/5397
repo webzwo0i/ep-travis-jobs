@@ -1,0 +1,14 @@
+Build #5397:  rebase and use terser within workers
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4075)
+Commit:        99e2da7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4075
+Duration:      2 min 41 sec
+Started:       2020-06-04 22:09:32
+Finished:      2020-06-04 22:10:17
+
+#5397.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5397.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5397.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5397.4 errored: 42 sec         os: linux, node_js: lts/*, env:

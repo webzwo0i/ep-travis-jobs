@@ -1,0 +1,13 @@
+Build #4626:  referer: do not send referrer when opening a link
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0889a13
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cdf5b63f262d...0889a1313de1
+Duration:      16 min 23 sec
+Started:       2020-04-03 03:39:04
+Finished:      2020-04-03 03:52:32
+
+#4626.1 passed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4626.2 failed:  13 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4626.3 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

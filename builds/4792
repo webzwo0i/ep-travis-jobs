@@ -1,0 +1,13 @@
+Build #4792:  no-skin: fix toolbar icons position
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        973f8ec
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 13 sec
+Started:       2020-04-17 09:02:40
+Finished:      2020-04-17 09:03:32
+
+#4792.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4792.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4792.3 errored: 41 sec         os: linux, node_js: lts/*, env:

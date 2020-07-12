@@ -1,0 +1,11 @@
+Job #3515.1:  Merge pull request #3206 from 00SteinsGate00/RobotoMono
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8c57c8d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e5d71ad5ad0...8c57c8d0d67c
+Duration:      6 min 17 sec
+Started:       2017-07-12 13:03:10
+Finished:      2017-07-12 13:09:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

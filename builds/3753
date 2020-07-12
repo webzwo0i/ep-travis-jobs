@@ -1,0 +1,11 @@
+Job #3753.1:  Fix FR dateformat
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3411)
+Commit:        7601518
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3411
+Duration:      1 min 45 sec
+Started:       2018-06-14 11:48:39
+Finished:      2018-06-14 11:50:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

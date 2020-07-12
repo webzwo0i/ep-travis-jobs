@@ -1,0 +1,11 @@
+Job #3462.1:  [fix] Adjust style of loading animated icon
+State:         passed
+Type:          push
+Branch:        fix/adjust_loading_animation
+Commit:        5ebfd91
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5ebfd91769e7
+Duration:      5 min 34 sec
+Started:       2017-04-06 09:03:26
+Finished:      2017-04-06 09:09:00
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

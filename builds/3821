@@ -1,0 +1,11 @@
+Job #3821.1:  settings, APIHandler: use makeAbsolute() for locating APIKEY and SESSIONKEY
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        ce14a99
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec5573f88cd0...ce14a9960610
+Duration:      18 sec
+Started:       2018-08-23 07:03:26
+Finished:      2018-08-23 07:03:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

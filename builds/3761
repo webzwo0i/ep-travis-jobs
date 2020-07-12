@@ -1,0 +1,11 @@
+Job #3761.1:  Use keydown instead of keypress on Firefox.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2be873e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f35d3456cf63...2be873e3c708
+Duration:      2 min 11 sec
+Started:       2018-07-01 12:06:32
+Finished:      2018-07-01 12:08:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

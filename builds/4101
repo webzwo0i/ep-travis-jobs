@@ -1,0 +1,11 @@
+Job #4101.1:  docker: Set the home directory for the user
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3676)
+Commit:        26b1364
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3676
+Duration:      1 min 28 sec
+Started:       2019-12-01 22:47:00
+Finished:      2019-12-01 22:48:28
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

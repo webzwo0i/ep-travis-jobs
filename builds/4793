@@ -1,0 +1,13 @@
+Build #4793:  chat: fix coloring with dark background, and scrolling chattext when new message come in
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        34e5144
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 10 sec
+Started:       2020-04-17 09:58:42
+Finished:      2020-04-17 09:59:29
+
+#4793.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4793.2 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4793.3 errored: 43 sec         os: linux, node_js: lts/*, env:

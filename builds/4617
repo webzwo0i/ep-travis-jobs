@@ -1,0 +1,13 @@
+Build #4617:  this file should not have been committed
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        20cbc97
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      16 min 2 sec
+Started:       2020-04-03 03:02:48
+Finished:      2020-04-03 03:17:29
+
+#4617.1 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4617.2 failed:  12 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4617.3 passed:  1 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

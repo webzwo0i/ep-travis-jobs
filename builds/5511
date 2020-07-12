@@ -1,0 +1,15 @@
+Build #5511:  test cond
+State:         canceled
+Type:          push
+Branch:        travis-conditional
+Commit:        0bd62dd
+Compare URL:   https://github.com/ether/etherpad-lite/commit/0bd62ddd92a2
+Duration:      22 min 44 sec
+Started:       2020-06-08 14:44:30
+Finished:      2020-06-08 14:53:12
+
+#5511.1 canceled: 8 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5511.2 canceled: 8 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5511.3 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5511.4 failed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5511.5 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

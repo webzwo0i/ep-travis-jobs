@@ -1,0 +1,11 @@
+Job #598.1:  Fix loader styling
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1480)
+Commit:        a0afcab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1480
+Duration:      10 min 54 sec
+Started:       2013-02-09 21:36:59
+Finished:      2013-02-09 21:47:53
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

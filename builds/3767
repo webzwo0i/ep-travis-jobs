@@ -1,0 +1,11 @@
+Job #3767.1:  Update README.md
+State:         failed
+Type:          push
+Branch:        fix_build
+Commit:        ad898b7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0132f4d1da98...ad898b701a35
+Duration:      1 min 40 sec
+Started:       2018-07-09 21:37:16
+Finished:      2018-07-09 21:38:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

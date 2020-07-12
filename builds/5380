@@ -1,0 +1,14 @@
+Build #5380:  timeslider numeric check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4073)
+Commit:        ed5bf70
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4073
+Duration:      2 min 39 sec
+Started:       2020-06-02 16:09:28
+Finished:      2020-06-02 16:10:21
+
+#5380.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5380.2 errored: 34 sec         os: linux, node_js: lts/*, env:
+#5380.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5380.4 errored: 43 sec         os: linux, node_js: lts/*, env:

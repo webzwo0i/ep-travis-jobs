@@ -1,0 +1,11 @@
+Job #584.1:  Merge pull request #1472 from ether/plugin-test-dcs
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ab04a4e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5f79546c2a60...ab04a4e5112e
+Duration:      7 min 1 sec
+Started:       2013-02-09 16:58:48
+Finished:      2013-02-09 17:05:49
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

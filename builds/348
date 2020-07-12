@@ -1,0 +1,11 @@
+Job #348.1:  use always() instead of done() and call expect() in there, fixed whitespace
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1334)
+Commit:        b1504e6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1334
+Duration:      13 min 2 sec
+Started:       2013-01-13 11:30:11
+Finished:      2013-01-13 11:43:13
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

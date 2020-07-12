@@ -1,0 +1,13 @@
+Build #4643:  colibris: improve toolbar
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        4c82249
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 14 sec
+Started:       2020-04-04 10:02:38
+Finished:      2020-04-04 10:03:26
+
+#4643.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4643.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4643.3 errored: 43 sec         os: linux, node_js: lts/*, env:

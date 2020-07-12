@@ -1,0 +1,11 @@
+Job #370.1:  Require ueberDB 0.1.9, not 0.1.8; this is needed for findKeys
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1359)
+Commit:        8a472f9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1359
+Duration:      13 min 8 sec
+Started:       2013-01-14 23:23:53
+Finished:      2013-01-14 23:37:01
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

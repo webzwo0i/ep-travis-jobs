@@ -1,0 +1,13 @@
+Build #4803:  package file..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3879)
+Commit:        f153616
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3879
+Duration:      2 min 19 sec
+Started:       2020-04-17 23:45:51
+Finished:      2020-04-17 23:46:43
+
+#4803.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4803.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4803.3 errored: 46 sec         os: linux, node_js: lts/*, env:

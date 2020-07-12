@@ -1,0 +1,13 @@
+Build #4948:  DOCS: Add cookies section - https://github.com/ether/etherpad-lite/issues/3563
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3921)
+Commit:        1ae557a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3921
+Duration:      2 min 9 sec
+Started:       2020-04-22 13:37:53
+Finished:      2020-04-22 13:38:39
+
+#4948.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4948.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4948.3 errored: 41 sec         os: linux, node_js: lts/*, env:

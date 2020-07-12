@@ -1,0 +1,11 @@
+Job #3625.1:  Merge pull request #3313 from rhelmer/sanitize-window-location
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a03422b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/626e58cc5af1...a03422b09468
+Duration:      21 min 41 sec
+Started:       2018-01-31 09:26:49
+Finished:      2018-01-31 09:48:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

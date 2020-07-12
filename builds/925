@@ -1,0 +1,11 @@
+Job #925.1:  Fix path.join in Settings.js
+State:         failed
+Type:          push
+Branch:        feature/support-node-0.10
+Commit:        cd9c789
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5a9393d5da5b^...cd9c78998e84
+Duration:      12 min 30 sec
+Started:       2013-03-16 09:47:58
+Finished:      2013-03-16 10:00:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

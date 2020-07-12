@@ -1,0 +1,11 @@
+Job #3766.1:  Include CVE #
+State:         passed
+Type:          push
+Branch:        fix_build
+Commit:        0132f4d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix_build
+Duration:      11 min 54 sec
+Started:       2018-07-09 21:05:16
+Finished:      2018-07-09 21:17:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

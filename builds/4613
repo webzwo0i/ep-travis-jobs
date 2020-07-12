@@ -1,0 +1,12 @@
+Build #4613:  interesting discovery RE 3612 and 2802
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1f0058d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3a46e010cea6...1f0058dd6fb9
+Duration:      13 min 1 sec
+Started:       2020-04-03 02:41:22
+Finished:      2020-04-03 02:52:46
+
+#4613.1 failed:  11 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4613.2 passed:  1 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

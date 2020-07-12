@@ -1,0 +1,14 @@
+Build #5577:  Fix for better user color selection. (#4142)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b361e6e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/18494dd6579d...b361e6e7ed17
+Duration:      24 min 23 sec
+Started:       2020-06-30 10:40:37
+Finished:      2020-06-30 11:01:01
+
+#5577.1 failed:  20 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5577.2 passed:  53 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5577.3 failed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5577.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

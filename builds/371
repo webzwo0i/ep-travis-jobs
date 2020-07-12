@@ -1,0 +1,11 @@
+Job #371.1:  Merge pull request #1359 from mluto/package-json-ueberDB
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        92325a3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/025c92f34645...92325a3780f4
+Duration:      4 min 29 sec
+Started:       2013-01-14 23:24:22
+Finished:      2013-01-14 23:28:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

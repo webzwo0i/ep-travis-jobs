@@ -1,0 +1,11 @@
+Job #738.1:  remove cruft
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1523)
+Commit:        466573c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1523
+Duration:      10 min 55 sec
+Started:       2013-02-18 01:38:43
+Finished:      2013-02-18 01:49:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

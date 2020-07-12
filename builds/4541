@@ -1,0 +1,12 @@
+Build #4541:  ui: initialize color picker with the user's color
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3e8b426
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b74a4819aef6...3e8b4268471d
+Duration:      13 min 5 sec
+Started:       2020-04-01 02:35:18
+Finished:      2020-04-01 02:46:46
+
+#4541.1 failed:  11 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4541.2 passed:  1 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

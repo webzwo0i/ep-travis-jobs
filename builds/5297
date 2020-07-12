@@ -1,0 +1,13 @@
+Build #5297:  dont spam log with curl request
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4053)
+Commit:        030c8cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4053
+Duration:      21 min 39 sec
+Started:       2020-05-29 14:19:16
+Finished:      2020-05-29 14:30:59
+
+#5297.1 errored: 10 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5297.2 errored: 10 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5297.3 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

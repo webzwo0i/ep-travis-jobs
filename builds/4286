@@ -1,0 +1,12 @@
+Build #4286:  hrm only first 2 tests running?!  Why
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        f6fd290
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      3 min 51 sec
+Started:       2020-03-22 13:22:55
+Finished:      2020-03-22 13:24:53
+
+#4286.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4286.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

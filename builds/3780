@@ -1,0 +1,11 @@
+Job #3780.1:  Ensure that all lines in the pad are marked with class `ace-line`.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2a876e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f2b5f3bca2bb...2a876e5e9ba9
+Duration:      11 min 53 sec
+Started:       2018-07-19 23:03:28
+Finished:      2018-07-19 23:15:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

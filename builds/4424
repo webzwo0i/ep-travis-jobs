@@ -1,0 +1,12 @@
+Build #4424:  Add support for arbitrary user ids
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3766)
+Commit:        81df563
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3766
+Duration:      21 min 36 sec
+Started:       2020-03-27 06:50:25
+Finished:      2020-03-27 07:01:17
+
+#4424.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env:
+#4424.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

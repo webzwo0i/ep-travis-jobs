@@ -1,0 +1,13 @@
+Build #4850:  Scroll test fix... (#3892)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        b370321
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d68a2bf5197d...b370321ea6aa
+Duration:      14 min 17 sec
+Started:       2020-04-19 14:09:52
+Finished:      2020-04-19 14:20:36
+
+#4850.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4850.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4850.3 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

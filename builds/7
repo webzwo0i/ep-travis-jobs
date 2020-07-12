@@ -1,0 +1,13 @@
+Job #7.1:  Dont include .git in the windows .zip
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1162)
+Commit:        3257105
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1162
+Duration:      13 min 21 sec
+Started:       2012-11-14 21:47:09
+Finished:      2012-11-14 22:00:30
+Allow Failure: false
+Config:        env: oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #879.1:  Setting up the right toolbar.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1579)
+Commit:        304e43f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1579
+Duration:      10 min 57 sec
+Started:       2013-03-09 23:58:43
+Finished:      2013-03-10 00:09:40
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

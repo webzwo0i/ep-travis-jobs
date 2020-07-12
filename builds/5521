@@ -1,0 +1,14 @@
+Build #5521:  no sauce on test run
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4099)
+Commit:        0071dc8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4099
+Duration:      7 min 24 sec
+Started:       2020-06-08 18:16:25
+Finished:      2020-06-08 18:19:34
+
+#5521.1 canceled: 3 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5521.2 passed:  1 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5521.3 failed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5521.4 passed:  1 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

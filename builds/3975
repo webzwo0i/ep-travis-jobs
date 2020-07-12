@@ -1,0 +1,11 @@
+Job #3975.1:  Check for null before calling stdoutCallback
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3592)
+Commit:        c1f02c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3592
+Duration:      1 min 41 sec
+Started:       2019-04-09 14:28:16
+Finished:      2019-04-09 14:29:57
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

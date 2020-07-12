@@ -1,0 +1,11 @@
+Job #4017.1:  dependencies: update npm, 6.4.1 -> 6.10.3
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        d555b05
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2c9383b69ebe...d555b052cbd5
+Duration:      21 min 9 sec
+Started:       2019-08-08 22:19:10
+Finished:      2019-08-08 22:40:19
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

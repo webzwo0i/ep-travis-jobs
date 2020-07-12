@@ -1,0 +1,13 @@
+Build #5545:  ensure author is not null before pushing item to author array
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4122)
+Commit:        776b0df
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4122
+Duration:      4 min 14 sec
+Started:       2020-06-17 11:53:39
+Finished:      2020-06-17 11:55:13
+
+#5545.1 passed:  1 min 7 sec    os: linux, node_js: lts/*, env:
+#5545.2 failed:  1 min 34 sec   os: linux, node_js: lts/*, env:
+#5545.3 passed:  1 min 33 sec   os: linux, node_js: lts/*, env:

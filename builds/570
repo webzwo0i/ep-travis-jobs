@@ -1,0 +1,11 @@
+Job #570.1:  Removed debug code, moved hash-setting after the param-checking
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1466)
+Commit:        708745a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1466
+Duration:      11 min 2 sec
+Started:       2013-02-07 17:31:22
+Finished:      2013-02-07 17:42:24
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

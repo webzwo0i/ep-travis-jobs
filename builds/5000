@@ -1,0 +1,13 @@
+Build #5000:  pad.js: wait write callback instead of buffer callback
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3562)
+Commit:        9d50b70
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3562
+Duration:      2 min 20 sec
+Started:       2020-04-26 04:13:18
+Finished:      2020-04-26 04:14:08
+
+#5000.1 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5000.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#5000.3 errored: 45 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #418.1:  fix issue #1110
+State:         failed
+Type:          push
+Branch:        more-plugin-details
+Commit:        441dd37
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8bfa8a7e7314...441dd3785a59
+Duration:      4 min 14 sec
+Started:       2013-01-21 00:12:54
+Finished:      2013-01-21 00:17:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

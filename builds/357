@@ -1,0 +1,11 @@
+Job #357.1:  better shindig
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1352)
+Commit:        598a6c0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1352
+Duration:      12 min 59 sec
+Started:       2013-01-13 19:24:49
+Finished:      2013-01-13 19:37:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

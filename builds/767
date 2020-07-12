@@ -1,0 +1,11 @@
+Job #767.1:  a different approach
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1537)
+Commit:        9cd2fdd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1537
+Duration:      10 min 55 sec
+Started:       2013-02-18 22:05:03
+Finished:      2013-02-18 22:15:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

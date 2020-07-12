@@ -1,0 +1,11 @@
+Job #3938.1:  NodeVersion.js: do not use callbacks, simplify calling style in server.js
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9d9b7c9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b16b98f8ca2f...9d9b7c9fafb7
+Duration:      11 min 50 sec
+Started:       2019-02-19 21:43:22
+Finished:      2019-02-19 21:55:12
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

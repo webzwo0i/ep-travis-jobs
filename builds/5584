@@ -1,0 +1,13 @@
+Build #5584:  import without jQ
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4153)
+Commit:        b67ec15
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4153
+Duration:      4 min 25 sec
+Started:       2020-07-07 22:55:09
+Finished:      2020-07-07 22:57:09
+
+#5584.1 passed:  56 sec         os: linux, node_js: lts/*, env:
+#5584.2 failed:  1 min 55 sec   os: linux, node_js: lts/*, env:
+#5584.3 passed:  1 min 34 sec   os: linux, node_js: lts/*, env:

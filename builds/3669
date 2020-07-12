@@ -1,0 +1,11 @@
+Job #3669.1:  Merge pull request #3356 from meetbryce/patch-1
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        074c9c6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/09c2c034c473...074c9c6dddc2
+Duration:      12 min 49 sec
+Started:       2018-04-03 13:58:39
+Finished:      2018-04-03 14:11:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

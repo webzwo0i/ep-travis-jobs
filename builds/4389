@@ -1,0 +1,12 @@
+Build #4389:  hook for goToRevision event
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3749)
+Commit:        8d1562e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3749
+Duration:      12 min 31 sec
+Started:       2020-03-24 00:56:50
+Finished:      2020-03-24 01:07:38
+
+#4389.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4389.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

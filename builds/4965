@@ -1,0 +1,13 @@
+Build #4965:  fix for last issue on 3915
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3925)
+Commit:        abaa3e4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3925
+Duration:      2 min 12 sec
+Started:       2020-04-23 17:38:43
+Finished:      2020-04-23 17:39:35
+
+#4965.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4965.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4965.3 errored: 42 sec         os: linux, node_js: lts/*, env:

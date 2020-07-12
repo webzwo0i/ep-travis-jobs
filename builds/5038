@@ -1,0 +1,13 @@
+Build #5038:  working but FML what a stress
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        7e18a18
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 23 sec
+Started:       2020-04-29 15:28:55
+Finished:      2020-04-29 15:29:48
+
+#5038.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5038.2 errored: 52 sec         os: linux, node_js: lts/*, env:
+#5038.3 errored: 47 sec         os: linux, node_js: lts/*, env:

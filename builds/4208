@@ -1,0 +1,12 @@
+Build #4208:  Localisation updates from https://translatewiki.net.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bb868be
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5773e6cea007...bb868beb9cf6
+Duration:      12 min 54 sec
+Started:       2020-02-24 15:39:55
+Finished:      2020-02-24 15:51:33
+
+#4208.1 passed:  11 min 38 sec  node_js: lts/*, os: linux
+#4208.2 passed:  1 min 16 sec   node_js: lts/*, os: linux

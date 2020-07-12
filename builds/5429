@@ -1,0 +1,14 @@
+Build #5429:  Merge branch 'develop' of https://github.com/ether/etherpad-lite into a-different-approach-to-txt-export
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3839)
+Commit:        8a9c504
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3839
+Duration:      2 min 50 sec
+Started:       2020-06-06 11:35:01
+Finished:      2020-06-06 11:35:55
+
+#5429.1 errored: 49 sec         os: linux, node_js: lts/*, env:
+#5429.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5429.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5429.4 errored: 43 sec         os: linux, node_js: lts/*, env:

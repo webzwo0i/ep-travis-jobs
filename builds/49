@@ -1,0 +1,11 @@
+Job #49.1:  Added Translator Assistant
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1182)
+Commit:        9b3ea5d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1182
+Duration:      13 min 11 sec
+Started:       2012-11-18 23:45:45
+Finished:      2012-11-18 23:58:56
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

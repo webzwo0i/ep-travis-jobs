@@ -1,0 +1,12 @@
+Build #4341:  FF suport for undo keypress
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        b26ce7c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      21 min 32 sec
+Started:       2020-03-22 21:14:29
+Finished:      2020-03-22 21:25:19
+
+#4341.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4341.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

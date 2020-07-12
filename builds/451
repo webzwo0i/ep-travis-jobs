@@ -1,0 +1,11 @@
+Job #451.1:  index wrapper block
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1403)
+Commit:        121f88c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1403
+Duration:      6 min 2 sec
+Started:       2013-01-24 21:21:20
+Finished:      2013-01-24 21:27:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

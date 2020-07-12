@@ -1,0 +1,11 @@
+Job #783.1:  more mess, again dont merge, just for me
+State:         failed
+Type:          push
+Branch:        err-on-bad-data
+Commit:        850cf40
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e6fc26780fa...850cf401575d
+Duration:      7 min 10 sec
+Started:       2013-02-21 02:58:32
+Finished:      2013-02-21 03:05:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

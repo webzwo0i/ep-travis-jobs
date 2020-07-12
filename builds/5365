@@ -1,0 +1,14 @@
+Build #5365:  Merge branch 'develop' into saferun-cleanup
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4008)
+Commit:        90e3979
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4008
+Duration:      2 min 46 sec
+Started:       2020-06-01 21:57:36
+Finished:      2020-06-01 21:58:24
+
+#5365.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5365.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5365.3 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5365.4 errored: 47 sec         os: linux, node_js: lts/*, env:

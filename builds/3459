@@ -1,0 +1,11 @@
+Job #3459.1:  [fix] Fix path on test script
+State:         passed
+Type:          push
+Branch:        fix_connection_to_sauce_labs
+Commit:        a85eb39
+Compare URL:   https://github.com/ether/etherpad-lite/compare/db003a1460ab...a85eb395b4ee
+Duration:      5 min 30 sec
+Started:       2017-04-06 08:13:36
+Finished:      2017-04-06 08:19:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

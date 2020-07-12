@@ -1,0 +1,12 @@
+Build #4552:  Bump Ueber to 0.4.3
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4db91cb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b7ac0f799136...4db91cb2ed1a
+Duration:      13 min 10 sec
+Started:       2020-04-01 12:50:01
+Finished:      2020-04-01 13:01:26
+
+#4552.1 failed:  11 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4552.2 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

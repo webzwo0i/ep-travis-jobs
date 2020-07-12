@@ -1,0 +1,11 @@
+Job #85.1:  improving the translation of the timeline
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1199)
+Commit:        e9c4fbc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1199
+Duration:      12 min 52 sec
+Started:       2012-11-23 06:24:27
+Finished:      2012-11-23 06:37:19
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

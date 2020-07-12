@@ -1,0 +1,11 @@
+Job #4127.1:  Clean-up after removing list attribute: Remove list numbering attribute
+State:         errored
+Type:          push
+Branch:        fix/clean-up-after-removing-list-attrs
+Commit:        cfe75c7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix/clean-up-after-removing-list-attrs
+Duration:      1 min 1 sec
+Started:       2019-12-07 19:17:39
+Finished:      2019-12-07 19:18:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

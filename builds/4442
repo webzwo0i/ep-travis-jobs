@@ -1,0 +1,11 @@
+Job #4442.1:  docker: do not include .git and .gitignore in the Docker image
+State:         passed
+Type:          pull request
+Branch:        master (PR #3776)
+Commit:        9f3e69c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3776
+Duration:      1 min 32 sec
+Started:       2020-03-28 18:26:37
+Finished:      2020-03-28 18:28:09
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

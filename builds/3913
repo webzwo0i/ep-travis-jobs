@@ -1,0 +1,11 @@
+Job #3913.1:  Fix Dutch translation error
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3530)
+Commit:        f00b06a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3530
+Duration:      1 min 46 sec
+Started:       2018-12-26 00:20:28
+Finished:      2018-12-26 00:22:14
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,12 @@
+Build #4513:  gracefluly handle hash and password being null
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3792)
+Commit:        e76f8ce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3792
+Duration:      21 min 36 sec
+Started:       2020-03-30 14:49:06
+Finished:      2020-03-30 14:59:58
+
+#4513.1 errored: 10 min 52 sec  os: linux, node_js: lts/*, env:
+#4513.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

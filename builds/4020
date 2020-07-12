@@ -1,0 +1,11 @@
+Job #4020.1:  Actually fix the Referrer issue
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3636)
+Commit:        834509f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3636
+Duration:      1 min 31 sec
+Started:       2019-08-26 00:19:38
+Finished:      2019-08-26 00:21:09
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

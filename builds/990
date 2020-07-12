@@ -1,0 +1,11 @@
+Job #990.1:  Merge pull request #1633 from ether/mobile-msg-css
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d40a648
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d14c3708d6b...d40a64893cf4
+Duration:      2 min 25 sec
+Started:       2013-03-20 02:18:19
+Finished:      2013-03-20 02:20:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

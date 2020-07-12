@@ -1,0 +1,11 @@
+Job #701.1:  Fixed typo thats made server hang
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1518)
+Commit:        22e717a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1518
+Duration:      11 min 2 sec
+Started:       2013-02-13 17:54:23
+Finished:      2013-02-13 18:05:25
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

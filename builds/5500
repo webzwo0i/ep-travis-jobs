@@ -1,0 +1,14 @@
+Build #5500:  tests: testing exiting with code 0 to make SL not run
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4093)
+Commit:        50c193d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4093
+Duration:      4 min 49 sec
+Started:       2020-06-08 00:21:34
+Finished:      2020-06-08 00:23:09
+
+#5500.1 passed:  1 min 9 sec    os: linux, node_js: lts/*, env:
+#5500.2 failed:  35 sec         os: linux, node_js: lts/*, env:
+#5500.3 failed:  1 min 33 sec   os: linux, node_js: lts/*, env:
+#5500.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #4159.1:  freeze deps
+State:         errored
+Type:          push
+Branch:        static-deps
+Commit:        531d25a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/static-deps
+Duration:      10 min 50 sec
+Started:       2019-12-07 20:05:53
+Finished:      2019-12-07 20:16:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

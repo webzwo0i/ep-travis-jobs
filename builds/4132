@@ -1,0 +1,11 @@
+Job #4132.1:  temp bodge fix
+State:         errored
+Type:          push
+Branch:        ie-fix-backspace
+Commit:        c315def
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ie-fix-backspace
+Duration:      10 min 58 sec
+Started:       2019-12-07 19:27:48
+Finished:      2019-12-07 19:38:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

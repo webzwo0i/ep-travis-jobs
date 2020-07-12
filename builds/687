@@ -1,0 +1,11 @@
+Job #687.1:  Update doc/api/http_api.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1512)
+Commit:        a675f1a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1512
+Duration:      10 min 55 sec
+Started:       2013-02-12 21:59:13
+Finished:      2013-02-12 22:10:08
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #522.1:  Merge pull request #1430 from mluto/notification-on-startup
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5b285e2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e7cb7c46c153...5b285e2ffaf6
+Duration:      4 min 57 sec
+Started:       2013-01-30 15:37:39
+Finished:      2013-01-30 15:42:36
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

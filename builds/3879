@@ -1,0 +1,11 @@
+Job #3879.1:  doc: passwordHash does not contain a bcrypted password, but a salted sha512 sum
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        66d87ba
+Compare URL:   https://github.com/ether/etherpad-lite/compare/74b2bd1a4ff4...66d87babfaed
+Duration:      13 min 38 sec
+Started:       2018-11-05 22:46:19
+Finished:      2018-11-05 22:59:57
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

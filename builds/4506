@@ -1,0 +1,12 @@
+Build #4506:  contentcollector: pasting an OL in Chrome inserted an additional line break. Fixed.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        85217b5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b2fe75867fb...85217b55e025
+Duration:      13 min 15 sec
+Started:       2020-03-30 02:28:32
+Finished:      2020-03-30 02:40:03
+
+#4506.1 failed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4506.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

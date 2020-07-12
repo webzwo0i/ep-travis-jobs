@@ -1,0 +1,11 @@
+Job #78.1:  fixing fr locale typos
+State:         failed
+Type:          pull request
+Branch:        master (PR #1195)
+Commit:        29c8e0f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1195
+Duration:      14 min 34 sec
+Started:       2012-11-21 23:23:21
+Finished:      2012-11-21 23:37:55
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

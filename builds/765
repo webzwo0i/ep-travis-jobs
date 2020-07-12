@@ -1,0 +1,11 @@
+Job #765.1:  Merge pull request #1535 from ether/fix-extractPadData
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c986a85
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4592397bd982...c986a8565ad9
+Duration:      7 min 18 sec
+Started:       2013-02-18 21:42:27
+Finished:      2013-02-18 21:49:45
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

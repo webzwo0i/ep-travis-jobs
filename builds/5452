@@ -1,0 +1,14 @@
+Build #5452:  comment out text
+State:         failed
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        f18d3f7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e0fd8f85231d...f18d3f7c4602
+Duration:      12 min 41 sec
+Started:       2020-06-07 00:21:04
+Finished:      2020-06-07 00:30:14
+
+#5452.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5452.2 failed:  7 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5452.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5452.4 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

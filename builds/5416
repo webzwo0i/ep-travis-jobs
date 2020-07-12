@@ -1,0 +1,14 @@
+Build #5416:  fix settings path
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        a9d4180
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      2 min 57 sec
+Started:       2020-06-05 22:18:20
+Finished:      2020-06-05 22:19:12
+
+#5416.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5416.2 errored: 37 sec         os: linux, node_js: lts/*, env:
+#5416.3 errored: 50 sec         os: linux, node_js: lts/*, env:
+#5416.4 errored: 48 sec         os: linux, node_js: lts/*, env:

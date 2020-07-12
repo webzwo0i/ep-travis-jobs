@@ -1,0 +1,11 @@
+Job #3470.1:  Use HTTPS for images in README.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3173)
+Commit:        f32819e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3173
+Duration:      11 min 15 sec
+Started:       2017-04-19 14:41:16
+Finished:      2017-04-19 14:52:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

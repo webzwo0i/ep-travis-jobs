@@ -1,0 +1,11 @@
+Job #3580.1:  Catch SIGTERM for graceful shutdown
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3266)
+Commit:        f47b5a8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3266
+Duration:      1 min 37 sec
+Started:       2017-10-17 00:26:26
+Finished:      2017-10-17 00:28:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

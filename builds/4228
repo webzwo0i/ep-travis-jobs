@@ -1,0 +1,12 @@
+Build #4228:  APIHandler: return HTTP/404 when non existing API methods are invoked
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a0579c9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0d61d6bb13e2...a0579c90dbcc
+Duration:      12 min 54 sec
+Started:       2020-03-16 23:32:18
+Finished:      2020-03-16 23:43:57
+
+#4228.1 passed:  11 min 39 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4228.2 passed:  1 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #3612.1:  [refactor] some refactor
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3282)
+Commit:        d580d8d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3282
+Duration:      1 min 50 sec
+Started:       2018-01-03 19:03:16
+Finished:      2018-01-03 19:05:06
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

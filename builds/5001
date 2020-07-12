@@ -1,0 +1,13 @@
+Build #5001:  pad.js: wait write callback instead of buffer callback
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6cb78e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/09ddfb9e20f2...6cb78e51b085
+Duration:      14 min 30 sec
+Started:       2020-04-26 04:14:42
+Finished:      2020-04-26 04:26:08
+
+#5001.1 passed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5001.2 failed:  11 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5001.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

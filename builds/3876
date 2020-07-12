@@ -1,0 +1,11 @@
+Job #3876.1:  Try/catch to skip invalid JSON in dirtyDB
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3509)
+Commit:        89f691e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3509
+Duration:      1 min 22 sec
+Started:       2018-11-02 20:14:27
+Finished:      2018-11-02 20:15:49
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

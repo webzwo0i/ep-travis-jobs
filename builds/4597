@@ -1,0 +1,12 @@
+Build #4597:  bump package lock for ueber
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0a606de
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4db91cb2ed1a...0a606de44a4c
+Duration:      13 min 23 sec
+Started:       2020-04-01 18:24:21
+Finished:      2020-04-01 18:35:47
+
+#4597.1 failed:  11 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4597.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

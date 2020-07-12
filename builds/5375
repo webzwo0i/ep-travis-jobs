@@ -1,0 +1,14 @@
+Build #5375:  updating mocha and refactoring the custom html reporter using events
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4074)
+Commit:        cf404ab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4074
+Duration:      2 min 35 sec
+Started:       2020-06-02 13:45:46
+Finished:      2020-06-02 13:46:28
+
+#5375.1 errored: 38 sec         os: linux, node_js: lts/*, env:
+#5375.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5375.3 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5375.4 errored: 41 sec         os: linux, node_js: lts/*, env:

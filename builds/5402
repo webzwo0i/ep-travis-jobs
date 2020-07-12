@@ -1,0 +1,14 @@
+Build #5402:  tests: Use the correct Travis shield URI
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b51c85e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dfada2c04a84...b51c85e4588b
+Duration:      27 min 18 sec
+Started:       2020-06-05 00:24:23
+Finished:      2020-06-05 00:46:20
+
+#5402.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5402.2 passed:  21 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5402.3 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5402.4 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

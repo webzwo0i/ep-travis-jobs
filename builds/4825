@@ -1,0 +1,13 @@
+Build #4825:  AbsolutePaths: be able to read the git commit version independently on CWD
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3885)
+Commit:        dd6b861
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3885
+Duration:      2 min 7 sec
+Started:       2020-04-19 04:44:01
+Finished:      2020-04-19 04:44:46
+
+#4825.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4825.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4825.3 errored: 41 sec         os: linux, node_js: lts/*, env:

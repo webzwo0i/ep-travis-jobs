@@ -1,0 +1,14 @@
+Build #5407:  editor: ul/ol/li - outdent on ol and ul button press
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fc88f12
+Compare URL:   https://github.com/ether/etherpad-lite/compare/13bd859f315f...fc88f12bbad7
+Duration:      32 min
+Started:       2020-06-06 16:03:19
+Finished:      2020-06-06 16:30:13
+
+#5407.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5407.2 failed:  26 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5407.3 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5407.4 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

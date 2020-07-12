@@ -1,0 +1,11 @@
+Job #3701.1:  Password check fix
+State:         failed
+Type:          push
+Branch:        1.6.4
+Commit:        fa83de7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1.6.4
+Duration:      1 min 52 sec
+Started:       2018-04-07 12:04:43
+Finished:      2018-04-07 12:06:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

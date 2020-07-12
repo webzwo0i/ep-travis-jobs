@@ -1,0 +1,13 @@
+Build #5121:  Merge branch 'develop' of github.com:ether/etherpad-lite into fix-timeslider-rev-tests
+State:         errored
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        49c5dc3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ca6679d4772d...49c5dc300474
+Duration:      19 min 39 sec
+Started:       2020-05-13 21:15:49
+Finished:      2020-05-13 21:32:11
+
+#5121.1 passed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5121.2 errored: 16 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5121.3 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

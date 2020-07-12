@@ -1,0 +1,11 @@
+Job #3832.1:  skins: describe the skins in the documentation
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        6620014
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6c56e7ca7aea...6620014b775f
+Duration:      1 min 58 sec
+Started:       2018-08-26 21:17:37
+Finished:      2018-08-26 21:19:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

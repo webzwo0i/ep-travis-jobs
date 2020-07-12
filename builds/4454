@@ -1,0 +1,12 @@
+Build #4454:  just trigger me!
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        1f1bd27
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      3 min 23 sec
+Started:       2020-03-29 01:40:38
+Finished:      2020-03-29 01:42:24
+
+#4454.1 failed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4454.2 passed:  1 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

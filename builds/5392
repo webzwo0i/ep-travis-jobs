@@ -1,0 +1,14 @@
+Build #5392:  performance: Use worker threads to minify JS/CSS files (#3823)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        c854cce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/02af7d0c2d3a...c854cced659d
+Duration:      16 min 17 sec
+Started:       2020-06-04 15:01:13
+Finished:      2020-06-04 15:12:29
+
+#5392.1 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5392.2 errored: 11 min 16 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5392.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5392.4 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #3936.1:  Inital working version of DnD
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3556)
+Commit:        4056248
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3556
+Duration:      34 sec
+Started:       2019-02-18 02:57:22
+Finished:      2019-02-18 02:57:56
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #504.1:  gritter now implemented
+State:         passed
+Type:          push
+Branch:        notifications
+Commit:        1c78107
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2ae3dae492e2^...1c7810783cf8
+Duration:      4 min 43 sec
+Started:       2013-01-29 03:29:22
+Finished:      2013-01-29 03:34:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

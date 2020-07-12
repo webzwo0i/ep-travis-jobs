@@ -1,0 +1,14 @@
+Build #5374:  fix 4071 by using a slightly more dirty approach but should invite less edge cases
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4073)
+Commit:        b5df0e6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4073
+Duration:      2 min 41 sec
+Started:       2020-06-02 12:32:33
+Finished:      2020-06-02 12:33:22
+
+#5374.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5374.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5374.3 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5374.4 errored: 43 sec         os: linux, node_js: lts/*, env:

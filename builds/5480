@@ -1,0 +1,14 @@
+Build #5480:  socketio230
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fbb7b51
+Compare URL:   https://github.com/ether/etherpad-lite/compare/128f3e15ebf8...fbb7b5123b8a
+Duration:      27 min 41 sec
+Started:       2020-06-07 15:39:57
+Finished:      2020-06-07 15:42:00
+
+#5480.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5480.2 passed:  22 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5480.3 failed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5480.4 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

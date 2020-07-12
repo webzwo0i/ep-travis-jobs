@@ -1,0 +1,14 @@
+Build #5331:  tests: load testing into core
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        add3b23
+Compare URL:   https://github.com/ether/etherpad-lite/compare/04cbebc165e3...add3b23f66b3
+Duration:      3 min 21 sec
+Started:       2020-05-30 20:17:57
+Finished:      2020-05-30 20:19:59
+
+#5331.1 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5331.2 errored: 29 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5331.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5331.4 errored: 30 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

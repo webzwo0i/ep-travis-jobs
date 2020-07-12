@@ -1,0 +1,13 @@
+Build #5562:  remove timeslider follow from here
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4116)
+Commit:        a64f92a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4116
+Duration:      4 min 23 sec
+Started:       2020-06-26 22:24:47
+Finished:      2020-06-26 22:26:27
+
+#5562.1 passed:  1 min 10 sec   os: linux, node_js: lts/*, env:
+#5562.2 failed:  1 min 39 sec   os: linux, node_js: lts/*, env:
+#5562.3 passed:  1 min 34 sec   os: linux, node_js: lts/*, env:

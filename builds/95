@@ -1,0 +1,11 @@
+Job #95.1:  reverted wrong patch in pad.html
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1213)
+Commit:        4427ea4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1213
+Duration:      12 min 51 sec
+Started:       2012-11-25 22:55:16
+Finished:      2012-11-25 23:08:07
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

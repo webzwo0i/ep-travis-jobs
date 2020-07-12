@@ -1,0 +1,11 @@
+Job #3907.1:  easysync-full-description: regenerate the pdf document
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        aca8fae
+Compare URL:   https://github.com/ether/etherpad-lite/compare/49449453c9b2...aca8fae68290
+Duration:      11 min 36 sec
+Started:       2018-12-09 16:14:30
+Finished:      2018-12-09 16:26:06
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

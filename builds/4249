@@ -1,0 +1,12 @@
+Build #4249:  let is block scoped, if we keept it, it would shadow the function parameter
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3720)
+Commit:        7513e36
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3720
+Duration:      2 min 47 sec
+Started:       2020-03-20 19:04:39
+Finished:      2020-03-20 19:06:09
+
+#4249.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env:
+#4249.2 passed:  1 min 18 sec   os: linux, node_js: lts/*, env:

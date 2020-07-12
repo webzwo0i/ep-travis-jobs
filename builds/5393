@@ -1,0 +1,14 @@
+Build #5393:  Merge remote-tracking branch 'rhansen/fix-bad-conflict-resolution' into develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d35f93e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c854cced659d...d35f93ed5013
+Duration:      26 min 54 sec
+Started:       2020-06-04 17:17:07
+Finished:      2020-06-04 17:38:45
+
+#5393.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5393.2 passed:  21 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5393.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5393.4 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

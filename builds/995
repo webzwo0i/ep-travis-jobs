@@ -1,0 +1,11 @@
+Job #995.1:  Bumped the ueberDB package version to 0.1.96 to add in Cassandra support.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1655)
+Commit:        5d28848
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1655
+Duration:      10 min 57 sec
+Started:       2013-03-22 16:23:20
+Finished:      2013-03-22 16:34:17
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

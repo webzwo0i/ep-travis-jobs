@@ -1,0 +1,13 @@
+Build #5164:  more error handling
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4018)
+Commit:        c81eba0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4018
+Duration:      2 min 16 sec
+Started:       2020-05-16 13:02:38
+Finished:      2020-05-16 13:03:27
+
+#5164.1 errored: 48 sec         os: linux, node_js: lts/*, env:
+#5164.2 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5164.3 errored: 44 sec         os: linux, node_js: lts/*, env:

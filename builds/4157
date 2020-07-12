@@ -1,0 +1,11 @@
+Job #4157.1:  chrome list handling fix for #2412
+State:         errored
+Type:          push
+Branch:        chrome-list-handling
+Commit:        5dce72d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/chrome-list-handling
+Duration:      10 min 42 sec
+Started:       2019-12-07 20:04:43
+Finished:      2019-12-07 20:15:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

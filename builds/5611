@@ -1,0 +1,14 @@
+Build #5611:  package-lock.json
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        5326b8d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/537ab653b7e3...5326b8d20731
+Duration:      4 min 49 sec
+Started:       2020-07-10 01:54:05
+Finished:      2020-07-10 01:55:53
+
+#5611.1 failed:  39 sec         os: linux, node_js: lts/*
+#5611.2 passed:  52 sec         os: linux, node_js: lts/*
+#5611.3 failed:  1 min 47 sec   os: linux, node_js: lts/*
+#5611.4 passed:  1 min 31 sec   os: linux, node_js: lts/*

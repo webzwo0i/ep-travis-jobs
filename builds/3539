@@ -1,0 +1,11 @@
+Job #3539.1:  Make APIKEY file customizable
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3232)
+Commit:        923f514
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3232
+Duration:      1 min 32 sec
+Started:       2017-07-31 14:45:59
+Finished:      2017-07-31 14:47:31
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

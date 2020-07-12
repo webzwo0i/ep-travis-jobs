@@ -1,0 +1,11 @@
+Job #905.1:  missed an evt
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1616)
+Commit:        11eda64
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1616
+Duration:      11 min 14 sec
+Started:       2013-03-14 17:56:14
+Finished:      2013-03-14 18:07:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

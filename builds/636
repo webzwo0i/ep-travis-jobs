@@ -1,0 +1,11 @@
+Job #636.1:  replaced opera regex check with jquery browser check
+State:         failed
+Type:          push
+Branch:        feature/cleanup
+Commit:        1fbd408
+Compare URL:   https://github.com/ether/etherpad-lite/compare/60de52477cf2^...1fbd408e82dc
+Duration:      12 min 52 sec
+Started:       2013-02-10 22:24:31
+Finished:      2013-02-10 22:37:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

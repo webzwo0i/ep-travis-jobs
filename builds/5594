@@ -1,0 +1,14 @@
+Build #5594:  switch back to sauce connect version 4.5.4
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        5a0fa50
+Compare URL:   https://github.com/ether/etherpad-lite/compare/125ba310feb8...5a0fa50a46a0
+Duration:      14 min 13 sec
+Started:       2020-07-09 20:55:10
+Finished:      2020-07-09 21:05:36
+
+#5594.1 errored: 10 min 24 sec  os: linux, node_js: lts/*
+#5594.2 passed:  51 sec         os: linux, node_js: lts/*
+#5594.3 failed:  1 min 41 sec   os: linux, node_js: lts/*
+#5594.4 failed:  1 min 17 sec   os: linux, node_js: lts/*

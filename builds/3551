@@ -1,0 +1,11 @@
+Job #3551.1:  FIX
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3242)
+Commit:        a4a34a3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3242
+Duration:      3 min 53 sec
+Started:       2017-08-07 16:43:30
+Finished:      2017-08-07 16:47:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

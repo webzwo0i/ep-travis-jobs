@@ -1,0 +1,12 @@
+Build #4337:  hopefully fixed all tests to be working in edge
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        52ba76b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      21 min 26 sec
+Started:       2020-03-22 19:20:17
+Finished:      2020-03-22 19:31:02
+
+#4337.1 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4337.2 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

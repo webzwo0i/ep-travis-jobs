@@ -1,0 +1,11 @@
+Job #3464.1:  fix 3169, delete wildcards in export-links
+State:         errored
+Type:          push
+Branch:        fix-export-wildcards
+Commit:        d0f2310
+Compare URL:   https://github.com/ether/etherpad-lite/commit/d0f2310ae8a8
+Duration:      11 min 8 sec
+Started:       2017-04-15 20:27:14
+Finished:      2017-04-15 20:38:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

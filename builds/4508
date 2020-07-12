@@ -1,0 +1,12 @@
+Build #4508:  settings: document the possibility of using Unix sockets
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3790)
+Commit:        09cd7e1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3790
+Duration:      21 min 32 sec
+Started:       2020-03-30 03:31:22
+Finished:      2020-03-30 03:42:12
+
+#4508.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4508.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env:

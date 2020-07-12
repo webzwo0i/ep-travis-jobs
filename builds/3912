@@ -1,0 +1,11 @@
+Job #3912.1:  [chore] Allow debug mode on node versions >= 6.3 (#3527)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        59cae81
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7275cdc91568...59cae8115213
+Duration:      11 min 34 sec
+Started:       2018-12-22 13:29:26
+Finished:      2018-12-22 13:41:00
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #3806.1:  docs: "```js" -> "```json" in Markdown of some json blocks
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        e9fb63f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3cedf474e561...e9fb63f42641
+Duration:      26 sec
+Started:       2018-08-11 15:53:42
+Finished:      2018-08-11 15:54:08
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

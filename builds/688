@@ -1,0 +1,11 @@
+Job #688.1:  dont die on bad html but only warn to api logger but dont tell client that it failed cause html was bad
+State:         failed
+Type:          push
+Branch:        dont-die-on-bad-html
+Commit:        086132d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/086132de6671
+Duration:      7 min 23 sec
+Started:       2013-02-13 00:25:01
+Finished:      2013-02-13 00:32:24
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

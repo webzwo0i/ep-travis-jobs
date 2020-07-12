@@ -1,0 +1,11 @@
+Job #3888.1:  colibris: use a darker default font and do not use OpenDyslexic
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3496)
+Commit:        7a7d05f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3496
+Duration:      1 min 29 sec
+Started:       2018-11-12 22:05:02
+Finished:      2018-11-12 22:06:31
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,14 @@
+Build #5501:  other location
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4093)
+Commit:        901ac9c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4093
+Duration:      4 min 41 sec
+Started:       2020-06-08 00:23:46
+Finished:      2020-06-08 00:25:16
+
+#5501.1 passed:  1 min 7 sec    os: linux, node_js: lts/*, env:
+#5501.2 passed:  36 sec         os: linux, node_js: lts/*, env:
+#5501.3 failed:  1 min 29 sec   os: linux, node_js: lts/*, env:
+#5501.4 passed:  1 min 29 sec   os: linux, node_js: lts/*, env:

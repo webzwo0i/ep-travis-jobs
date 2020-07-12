@@ -1,0 +1,11 @@
+Job #3838.1:  url encode pad name
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        07bc163
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c0e257835c0c...07bc163cb698
+Duration:      12 min 13 sec
+Started:       2018-08-27 14:16:22
+Finished:      2018-08-27 14:28:35
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #848.1:  allow chrome to do control z type functionality, not sure why this was never in..  broken when we last updated jQ anyway
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1589)
+Commit:        cc71087
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1589
+Duration:      11 min 13 sec
+Started:       2013-03-05 21:33:46
+Finished:      2013-03-05 21:44:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3638.1:  Merge pull request #3321 from mmosemmle/jsonp_fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f8e7a24
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0c9475e36662...f8e7a24f5ef9
+Duration:      11 min 42 sec
+Started:       2018-02-08 17:19:43
+Finished:      2018-02-08 17:31:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

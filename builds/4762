@@ -1,0 +1,13 @@
+Build #4762:  quick client side fix, feels like the server should never send atext.text of '' tho!
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3863)
+Commit:        9975d9d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3863
+Duration:      2 min 18 sec
+Started:       2020-04-13 20:19:06
+Finished:      2020-04-13 20:19:55
+
+#4762.1 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4762.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4762.3 errored: 43 sec         os: linux, node_js: lts/*, env:

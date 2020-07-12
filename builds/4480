@@ -1,0 +1,12 @@
+Build #4480:  Fix schema references
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3786)
+Commit:        257ea7c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3786
+Duration:      21 min 31 sec
+Started:       2020-03-29 22:12:13
+Finished:      2020-03-29 22:23:43
+
+#4480.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4480.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

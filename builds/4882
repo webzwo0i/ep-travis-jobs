@@ -1,0 +1,13 @@
+Build #4882:  test bump
+State:         errored
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        fd9298e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9070c3de3a72...fd9298ec1f7f
+Duration:      16 min 18 sec
+Started:       2020-04-19 18:31:51
+Finished:      2020-04-19 18:44:58
+
+#4882.1 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4882.2 errored: 12 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4882.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #79.1:  language test should pass int ravis now
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        aebf6ee
+Compare URL:   https://github.com/ether/etherpad-lite/compare/28cd6e64b3a1...aebf6ee1e868
+Duration:      6 min 53 sec
+Started:       2012-11-21 23:22:15
+Finished:      2012-11-21 23:29:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

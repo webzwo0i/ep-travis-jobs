@@ -1,0 +1,11 @@
+Job #3623.1:  better sanitize jsonp
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3314)
+Commit:        eaf4d96
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3314
+Duration:      2 min 19 sec
+Started:       2018-01-31 09:22:44
+Finished:      2018-01-31 09:25:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

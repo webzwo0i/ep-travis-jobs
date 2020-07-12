@@ -1,0 +1,11 @@
+Job #3614.1:  Add settings to scroll on edition out of viewport  (#3282)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f1fcd16
+Compare URL:   https://github.com/ether/etherpad-lite/compare/291f700376fe...f1fcd16894e5
+Duration:      11 min 38 sec
+Started:       2018-01-03 22:58:05
+Finished:      2018-01-03 23:09:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

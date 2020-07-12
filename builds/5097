@@ -1,0 +1,13 @@
+Build #5097:  whoop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3980)
+Commit:        a3a5835
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3980
+Duration:      2 min 17 sec
+Started:       2020-05-09 14:36:39
+Finished:      2020-05-09 14:37:28
+
+#5097.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5097.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#5097.3 errored: 44 sec         os: linux, node_js: lts/*, env:

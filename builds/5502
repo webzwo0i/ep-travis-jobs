@@ -1,0 +1,15 @@
+Build #5502:  testing a new approach using travis
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4094)
+Commit:        d68c1b4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4094
+Duration:      3 min 21 sec
+Started:       2020-06-08 13:23:53
+Finished:      2020-06-08 13:24:44
+
+#5502.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5502.2 errored: 37 sec         os: linux, node_js: lts/*, env:
+#5502.3 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5502.4 errored: 37 sec         os: linux, node_js: lts/*, env:
+#5502.5 errored: 44 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #4610:  dependencies: bump ueberdb2 0.4.3 -> 0.4.5
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3a46e01
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ccf406708e25...3a46e010cea6
+Duration:      13 min 13 sec
+Started:       2020-04-03 01:29:11
+Finished:      2020-04-03 01:40:42
+
+#4610.1 failed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4610.2 passed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

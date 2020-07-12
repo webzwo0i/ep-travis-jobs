@@ -1,0 +1,14 @@
+Build #5530:  pluginfw: Make the NEW_CHANGES payload include the message in handleClientMessage
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        045ac70
+Compare URL:   https://github.com/ether/etherpad-lite/compare/85383a316d35...045ac70db863
+Duration:      25 min 24 sec
+Started:       2020-06-12 13:26:53
+Finished:      2020-06-12 13:48:13
+
+#5530.1 passed:  21 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5530.2 passed:  1 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5530.3 failed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5530.4 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

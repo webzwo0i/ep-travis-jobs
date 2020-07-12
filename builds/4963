@@ -1,0 +1,13 @@
+Build #4963:  Update hooks_server-side.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3791)
+Commit:        d4451c0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3791
+Duration:      2 min 18 sec
+Started:       2020-04-23 12:51:12
+Finished:      2020-04-23 12:52:03
+
+#4963.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4963.2 errored: 50 sec         os: linux, node_js: lts/*, env:
+#4963.3 errored: 44 sec         os: linux, node_js: lts/*, env:

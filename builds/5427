@@ -1,0 +1,14 @@
+Build #5427:  tests: comment out some chat tests for now until we can find a fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        16d9ca7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/552b6d7adb1c...16d9ca774be9
+Duration:      32 min 57 sec
+Started:       2020-06-06 09:59:37
+Finished:      2020-06-06 10:27:26
+
+#5427.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5427.2 failed:  27 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5427.3 failed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5427.4 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

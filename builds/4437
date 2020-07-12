@@ -1,0 +1,12 @@
+Build #4437:  working logic, now I just need to build the JSON blob up with each test we want to do
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        ce6ed3b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 41 sec
+Started:       2020-03-28 16:35:43
+Finished:      2020-03-28 16:46:37
+
+#4437.1 errored: 10 min 54 sec  os: linux, node_js: lts/*, env:
+#4437.2 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:

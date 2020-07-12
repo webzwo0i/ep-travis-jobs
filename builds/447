@@ -1,0 +1,11 @@
+Job #447.1:  silly little bug now resolved
+State:         passed
+Type:          push
+Branch:        slider-position
+Commit:        569fb8d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/569fb8d3c8b2
+Duration:      5 min 16 sec
+Started:       2013-01-24 18:01:58
+Finished:      2013-01-24 18:07:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3634.1:  Handle socketio errors properly
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3318)
+Commit:        c337abc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3318
+Duration:      1 min 53 sec
+Started:       2018-02-05 18:08:47
+Finished:      2018-02-05 18:10:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

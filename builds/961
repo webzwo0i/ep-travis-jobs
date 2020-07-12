@@ -1,0 +1,11 @@
+Job #961.1:  update ueber for pg
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e49620e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/65e51473bc2c...e49620ea0771
+Duration:      12 min 34 sec
+Started:       2013-03-18 22:38:44
+Finished:      2013-03-18 22:51:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

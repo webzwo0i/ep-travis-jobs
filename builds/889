@@ -1,0 +1,11 @@
+Job #889.1:  not z, is b!
+State:         failed
+Type:          push
+Branch:        frontend-tests-refactor
+Commit:        5690f2d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b4ec07312b89...5690f2d01ea0
+Duration:      7 min 59 sec
+Started:       2013-03-13 19:13:24
+Finished:      2013-03-13 19:21:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

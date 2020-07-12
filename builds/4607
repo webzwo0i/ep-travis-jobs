@@ -1,0 +1,12 @@
+Build #4607:  openapi: support standard http error codes
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3786)
+Commit:        3139388
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3786
+Duration:      21 min 30 sec
+Started:       2020-04-03 00:42:46
+Finished:      2020-04-03 00:53:33
+
+#4607.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4607.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env:

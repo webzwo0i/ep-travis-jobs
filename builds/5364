@@ -1,0 +1,14 @@
+Build #5364:  ux: Better ux for if cookies are disabled or not available.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0d51e71
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a4713a830803...0d51e7157849
+Duration:      24 min 45 sec
+Started:       2020-06-01 21:41:27
+Finished:      2020-06-01 21:43:21
+
+#5364.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5364.2 passed:  19 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5364.3 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5364.4 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

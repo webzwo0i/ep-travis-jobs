@@ -1,0 +1,13 @@
+Build #5187:  feat(i18n) Custom i18n strings (#4000)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        61c7bb9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/170f47129957...61c7bb96994c
+Duration:      19 min 39 sec
+Started:       2020-05-19 14:21:56
+Finished:      2020-05-19 14:38:20
+
+#5187.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5187.2 failed:  16 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5187.3 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

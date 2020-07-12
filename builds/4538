@@ -1,0 +1,12 @@
+Build #4538:  beta.etherpad.org been down a while
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b74a481
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4ee5ddb496bd...b74a4819aef6
+Duration:      13 min 20 sec
+Started:       2020-03-31 20:55:11
+Finished:      2020-03-31 21:06:46
+
+#4538.1 failed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4538.2 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

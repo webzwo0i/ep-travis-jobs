@@ -1,0 +1,12 @@
+Build #4494:  logging messages. This should be it.
+State:         passed
+Type:          push
+Branch:        ci
+Commit:        fccef0a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7fa0e3955e17...fccef0ad58ef
+Duration:      18 min 37 sec
+Started:       2020-03-29 23:29:50
+Finished:      2020-03-29 23:46:43
+
+#4494.1 passed:  16 min 53 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4494.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

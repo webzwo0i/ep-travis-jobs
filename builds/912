@@ -1,0 +1,11 @@
+Job #912.1:  Merge pull request #1617 from ether/replace-html-with-text
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        019b25d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dab82ca3802b...019b25daa201
+Duration:      13 min 2 sec
+Started:       2013-03-14 22:31:26
+Finished:      2013-03-14 22:44:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #5317:  tests: remove more edge settimeout issues (#4060)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        174e68d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/be2ba34d3c20...174e68d46855
+Duration:      14 min 47 sec
+Started:       2020-05-29 21:43:35
+Finished:      2020-05-29 21:55:06
+
+#5317.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5317.2 failed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5317.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

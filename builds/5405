@@ -1,0 +1,14 @@
+Build #5405:  Merge branch 'develop' of https://github.com/ether/etherpad-lite into fix3032
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3769)
+Commit:        65abb19
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3769
+Duration:      1 min 39 sec
+Started:       2020-06-05 20:58:09
+Finished:      2020-06-05 20:58:45
+
+#5405.1 errored: 23 sec         os: linux, node_js: lts/*, env:
+#5405.2 errored: 25 sec         os: linux, node_js: lts/*, env:
+#5405.3 errored: 26 sec         os: linux, node_js: lts/*, env:
+#5405.4 errored: 25 sec         os: linux, node_js: lts/*, env:

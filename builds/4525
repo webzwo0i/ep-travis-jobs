@@ -1,0 +1,12 @@
+Build #4525:  caching_midleware: also run when nodejs does not have crypto module
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3797)
+Commit:        b8a8a1e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3797
+Duration:      21 min 33 sec
+Started:       2020-03-31 04:08:57
+Finished:      2020-03-31 04:19:46
+
+#4525.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4525.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

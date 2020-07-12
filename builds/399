@@ -1,0 +1,11 @@
+Job #399.1:  listAllPads needs findKeys from ueberDB 0.1.9
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1376)
+Commit:        5aaf3ce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1376
+Duration:      6 min 26 sec
+Started:       2013-01-20 14:43:15
+Finished:      2013-01-20 14:49:41
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

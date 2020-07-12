@@ -1,0 +1,11 @@
+Job #741.1:  Try to add some sanity to indentation
+State:         failed
+Type:          push
+Branch:        indenting-text
+Commit:        77d03d3
+Compare URL:   https://github.com/ether/etherpad-lite/commit/77d03d34731f
+Duration:      12 min 31 sec
+Started:       2013-02-18 02:41:47
+Finished:      2013-02-18 02:54:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

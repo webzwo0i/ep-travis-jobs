@@ -1,0 +1,11 @@
+Job #3698.1:  Include CVE #
+State:         passed
+Type:          push
+Branch:        release/1.6.4
+Commit:        0132f4d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c34350f3075d...0132f4d1da98
+Duration:      12 min 4 sec
+Started:       2018-04-07 11:14:03
+Finished:      2018-04-07 11:26:07
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

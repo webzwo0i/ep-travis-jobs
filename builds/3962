@@ -1,0 +1,11 @@
+Job #3962.1:  docker: remove supervisord from the Docker image
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3577)
+Commit:        ef63821
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3577
+Duration:      58 sec
+Started:       2019-03-21 23:51:44
+Finished:      2019-03-21 23:52:42
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

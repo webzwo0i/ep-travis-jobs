@@ -1,0 +1,11 @@
+Job #4000.1:  trim text entries upon import. Fixes: #3620
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3622)
+Commit:        588de17
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3622
+Duration:      1 min 25 sec
+Started:       2019-07-03 18:29:29
+Finished:      2019-07-03 18:30:54
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

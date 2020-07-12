@@ -1,0 +1,12 @@
+Build #4340:  FF suport for undo keypress
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        ea4cab1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c5f930fda74c...ea4cab1633ef
+Duration:      21 min 30 sec
+Started:       2020-03-22 21:14:22
+Finished:      2020-03-22 21:25:10
+
+#4340.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4340.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

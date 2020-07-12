@@ -1,0 +1,11 @@
+Job #713.1:  no need for prefix and tidy double semi
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1523)
+Commit:        727d683
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1523
+Duration:      11 min 2 sec
+Started:       2013-02-14 00:47:31
+Finished:      2013-02-14 00:58:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

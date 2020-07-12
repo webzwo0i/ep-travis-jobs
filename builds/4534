@@ -1,0 +1,12 @@
+Build #4534:  msg
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3801)
+Commit:        e4149d9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3801
+Duration:      21 min 32 sec
+Started:       2020-03-31 13:09:57
+Finished:      2020-03-31 13:20:45
+
+#4534.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4534.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

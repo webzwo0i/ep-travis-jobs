@@ -1,0 +1,11 @@
+Job #4118.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into hook_for_exportHTMLStyles
+State:         errored
+Type:          push
+Branch:        hook_for_exportHTMLStyles
+Commit:        fdc930d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/hook_for_exportHTMLStyles
+Duration:      1 min 5 sec
+Started:       2019-12-07 19:05:20
+Finished:      2019-12-07 19:06:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

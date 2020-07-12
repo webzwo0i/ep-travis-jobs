@@ -1,0 +1,12 @@
+Build #4367:  hook for goToRevision event
+State:         errored
+Type:          push
+Branch:        3408cleanCommit
+Commit:        deda1f4
+Compare URL:   https://github.com/ether/etherpad-lite/commit/deda1f4727ca
+Duration:      21 min 31 sec
+Started:       2020-03-23 16:33:05
+Finished:      2020-03-23 16:43:57
+
+#4367.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4367.2 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #834.1:  basic toolbar setup
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1579)
+Commit:        1c0e10a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1579
+Duration:      10 min 57 sec
+Started:       2013-03-04 01:13:58
+Finished:      2013-03-04 01:24:55
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

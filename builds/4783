@@ -1,0 +1,13 @@
+Build #4783:  PadMessageHandler: fix for scoping error hiding original error
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f0fdb94
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4ddcaefed26e...f0fdb94eb084
+Duration:      14 min 48 sec
+Started:       2020-04-16 02:59:11
+Finished:      2020-04-16 03:10:41
+
+#4783.1 failed:  1 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4783.2 failed:  11 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4783.3 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

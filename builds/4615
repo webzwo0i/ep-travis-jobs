@@ -1,0 +1,12 @@
+Build #4615:  webaccess: do not resave session
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c2ea2b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1f0058dd6fb9...c2ea2b3a6d15
+Duration:      12 min 57 sec
+Started:       2020-04-03 02:55:55
+Finished:      2020-04-03 03:07:20
+
+#4615.1 failed:  11 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4615.2 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

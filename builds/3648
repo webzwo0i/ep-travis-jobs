@@ -1,0 +1,11 @@
+Job #3648.1:  use apt instead of apt-get
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3330)
+Commit:        df75b81
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3330
+Duration:      1 min 51 sec
+Started:       2018-02-25 16:00:33
+Finished:      2018-02-25 16:02:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

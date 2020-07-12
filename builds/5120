@@ -1,0 +1,13 @@
+Build #5120:  tests: properly clear cookies in test helper
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        770c1c8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/95fd5ce2a45e...770c1c80b7a5
+Duration:      19 min 41 sec
+Started:       2020-05-13 19:30:18
+Finished:      2020-05-13 19:46:49
+
+#5120.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5120.2 failed:  16 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5120.3 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

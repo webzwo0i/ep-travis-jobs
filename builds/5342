@@ -1,0 +1,14 @@
+Build #5342:  move to sensible location
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3829)
+Commit:        0e06963
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3829
+Duration:      1 min 59 sec
+Started:       2020-06-01 18:25:55
+Finished:      2020-06-01 18:26:38
+
+#5342.1 errored: 25 sec         os: linux, node_js: lts/*, env:
+#5342.2 errored: 25 sec         os: linux, node_js: lts/*, env:
+#5342.3 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5342.4 errored: 28 sec         os: linux, node_js: lts/*, env:

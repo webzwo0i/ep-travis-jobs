@@ -1,0 +1,11 @@
+Job #962.1:  Merge pull request #1643 from ether/fix/html10n-update
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        07adb45
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e49620ea0771...07adb4550337
+Duration:      9 min 23 sec
+Started:       2013-03-18 22:40:36
+Finished:      2013-03-18 22:49:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3665.1:  Fix bug with cleanRun.sh
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3356)
+Commit:        5d71659
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3356
+Duration:      1 min 52 sec
+Started:       2018-03-28 13:39:29
+Finished:      2018-03-28 13:41:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

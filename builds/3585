@@ -1,0 +1,11 @@
+Job #3585.1:  Fix #3111 updating request to 2.83.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e7b72f2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e347f12c71f6...e7b72f2234bb
+Duration:      11 min 46 sec
+Started:       2017-11-04 17:20:25
+Finished:      2017-11-04 17:32:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

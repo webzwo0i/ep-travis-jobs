@@ -1,0 +1,13 @@
+Build #5217:  pewpew
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4045)
+Commit:        9c683af
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4045
+Duration:      15 min 4 sec
+Started:       2020-05-27 18:20:23
+Finished:      2020-05-27 18:32:02
+
+#5217.1 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5217.2 errored: 11 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5217.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

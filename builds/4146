@@ -1,0 +1,11 @@
+Job #4146.1:  aria-labels for everything
+State:         errored
+Type:          push
+Branch:        aria-label-for-button
+Commit:        9057506
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aria-label-for-button
+Duration:      10 min 54 sec
+Started:       2019-12-07 19:51:15
+Finished:      2019-12-07 20:02:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

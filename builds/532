@@ -1,0 +1,11 @@
+Job #532.1:  Merge pull request #1434 from spcsser/admin-index-plugable
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        24c4572
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7a0ad3235a5d...24c457248891
+Duration:      0 sec
+Started:       not yet
+Finished:      not yet
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

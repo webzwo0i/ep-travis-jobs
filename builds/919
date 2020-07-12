@@ -1,0 +1,11 @@
+Job #919.1:  Fix clearing authorship colors which was broken by #1609
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1622)
+Commit:        e7d7710
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1622
+Duration:      11 min 6 sec
+Started:       2013-03-15 18:07:29
+Finished:      2013-03-15 18:18:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

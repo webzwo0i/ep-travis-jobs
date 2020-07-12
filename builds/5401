@@ -1,0 +1,14 @@
+Build #5401:  Docker: Don't copy backup files or Docker files into the image
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4083)
+Commit:        613e5b7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4083
+Duration:      6 min 38 sec
+Started:       2020-06-04 22:50:51
+Finished:      2020-06-04 22:53:52
+
+#5401.1 errored: 2 min 52 sec   os: linux, node_js: lts/*, env:
+#5401.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5401.3 errored: 1 min 50 sec   os: linux, node_js: lts/*, env:
+#5401.4 errored: 1 min 21 sec   os: linux, node_js: lts/*, env:

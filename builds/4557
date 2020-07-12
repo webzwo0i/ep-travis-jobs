@@ -1,0 +1,11 @@
+Job #4557.1:  referer: do not send referrer when opening a link
+State:         errored
+Type:          pull request
+Branch:        master (PR #3798)
+Commit:        c2fd4e6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3798
+Duration:      21 sec
+Started:       2020-04-01 15:06:13
+Finished:      2020-04-01 15:06:34
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

@@ -1,0 +1,11 @@
+Job #84.1:  Merge pull request #1197 from hcartiaux/urlfix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1899e3f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a662db222f3e...1899e3f48d4b
+Duration:      6 min 53 sec
+Started:       2012-11-22 01:22:27
+Finished:      2012-11-22 01:29:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

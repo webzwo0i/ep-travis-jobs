@@ -1,0 +1,12 @@
+Build #4398:  tests: disable a scroll test that needs to be looked at
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        e4183d5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      13 min 52 sec
+Started:       2020-03-24 23:20:47
+Finished:      2020-03-24 23:32:56
+
+#4398.1 failed:  12 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4398.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

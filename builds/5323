@@ -1,0 +1,13 @@
+Build #5323:  tests: Disable all Travis Caching (#4063)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        82ee1da
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8c669682c499...82ee1da8e798
+Duration:      9 min 54 sec
+Started:       2020-05-29 23:10:33
+Finished:      2020-05-29 23:17:19
+
+#5323.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5323.2 passed:  6 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5323.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

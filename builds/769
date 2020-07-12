@@ -1,0 +1,11 @@
+Job #769.1:  timeslider init hook
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1538)
+Commit:        0106cf1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1538
+Duration:      10 min 58 sec
+Started:       2013-02-18 23:07:40
+Finished:      2013-02-18 23:18:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

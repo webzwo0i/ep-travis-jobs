@@ -1,0 +1,12 @@
+Build #4227:  ui: on mobile, move the right toolbar to the bottom and make the top toolbar scrollable
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0d61d6b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6323f59c3a55...0d61d6bb13e2
+Duration:      12 min 50 sec
+Started:       2020-03-16 22:28:43
+Finished:      2020-03-16 22:40:18
+
+#4227.1 passed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4227.2 passed:  1 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

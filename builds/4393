@@ -1,0 +1,11 @@
+Job #4393.1:  Use a set instead of an array in padlist
+State:         passed
+Type:          pull request
+Branch:        master (PR #3752)
+Commit:        27315e2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3752
+Duration:      1 min 30 sec
+Started:       2020-03-24 11:52:00
+Finished:      2020-03-24 11:53:30
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

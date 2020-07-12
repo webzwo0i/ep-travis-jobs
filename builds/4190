@@ -1,0 +1,11 @@
+Job #4190.1:  Fix freeze on pad deletion
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3562)
+Commit:        5cfb63a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3562
+Duration:      1 min 40 sec
+Started:       2019-12-19 17:34:42
+Finished:      2019-12-19 17:36:22
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

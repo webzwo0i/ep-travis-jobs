@@ -1,0 +1,12 @@
+Build #4243:  contentcollector: backed out changeset 3292429ab312
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        840b4a0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/826122932380...840b4a098847
+Duration:      12 min 46 sec
+Started:       2020-03-19 02:54:04
+Finished:      2020-03-19 03:05:36
+
+#4243.1 passed:  11 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4243.2 passed:  1 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

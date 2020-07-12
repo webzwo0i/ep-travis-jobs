@@ -1,0 +1,14 @@
+Build #5553:  Update issue templates
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        d8ae83e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/afcdbfe99ec4...d8ae83e2cbbf
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-06-21 17:18:47
+
+#5553.1 canceled: 47 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5553.2 canceled: 47 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5553.3 canceled: 47 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5553.4 canceled: 47 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

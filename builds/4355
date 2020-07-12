@@ -1,0 +1,12 @@
+Build #4355:  some scroll tests fixed
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        c9327e5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/58e61a8e5ea8...c9327e547890
+Duration:      21 min 29 sec
+Started:       2020-03-23 14:06:16
+Finished:      2020-03-23 14:17:06
+
+#4355.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4355.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

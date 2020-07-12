@@ -1,0 +1,12 @@
+Build #4287:  wow this is weird...
+State:         errored
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        814fec1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/faed9409b4bd...814fec1f1277
+Duration:      13 min 17 sec
+Started:       2020-03-22 13:29:59
+Finished:      2020-03-22 13:41:28
+
+#4287.1 errored: 11 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4287.2 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

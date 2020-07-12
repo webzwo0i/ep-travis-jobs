@@ -1,0 +1,12 @@
+Build #4281:  testing to see if these operating systems work
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        0c2d3e1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      12 min 40 sec
+Started:       2020-03-22 13:00:30
+Finished:      2020-03-22 13:11:18
+
+#4281.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4281.2 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

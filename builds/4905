@@ -1,0 +1,13 @@
+Build #4905:  hrm I don't think this should have been removed...
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3865)
+Commit:        91c4c5c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3865
+Duration:      2 min 7 sec
+Started:       2020-04-20 01:59:16
+Finished:      2020-04-20 02:00:04
+
+#4905.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#4905.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4905.3 errored: 40 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #538.1:  Update bin/installDeps.sh
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1445)
+Commit:        e4aed2e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1445
+Duration:      10 min 54 sec
+Started:       2013-02-02 02:30:45
+Finished:      2013-02-02 02:41:39
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

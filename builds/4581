@@ -1,0 +1,11 @@
+Job #4581.1:  revert
+State:         failed
+Type:          push
+Branch:        backend-test-runner
+Commit:        720ca6e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a1dc28e720bb...720ca6e5e90f
+Duration:      1 min 14 sec
+Started:       2020-04-01 16:42:03
+Finished:      2020-04-01 16:43:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

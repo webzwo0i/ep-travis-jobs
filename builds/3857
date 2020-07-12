@@ -1,0 +1,11 @@
+Job #3857.1:  installDeps: no need to download jquery at starting time. Remove curl dependency
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3495)
+Commit:        d254c9c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3495
+Duration:      1 min 34 sec
+Started:       2018-10-06 02:32:31
+Finished:      2018-10-06 02:34:05
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

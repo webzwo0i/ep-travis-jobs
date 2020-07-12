@@ -1,0 +1,14 @@
+Build #5638:  run 4 browsers at a time during frontend testing
+State:         failed
+Type:          push
+Branch:        remoterunner-fix
+Commit:        5d605d5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c931a7808103^...5d605d5cdf0f
+Duration:      11 min 58 sec
+Started:       2020-07-10 21:30:27
+Finished:      2020-07-10 21:38:14
+
+#5638.1 passed:  7 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5638.2 passed:  52 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5638.3 failed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5638.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #4543:  SessionStore: replace password with PASSWORD_HIDDEN when storing in db
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        53f1260
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e8b4268471d...53f126082a8b
+Duration:      13 min 4 sec
+Started:       2020-04-01 03:39:27
+Finished:      2020-04-01 03:50:47
+
+#4543.1 failed:  11 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4543.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #4570.1:  change env var format
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        7b4c5f5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      1 min 56 sec
+Started:       2020-04-01 16:17:24
+Finished:      2020-04-01 16:19:20
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

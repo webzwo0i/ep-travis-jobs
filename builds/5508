@@ -1,0 +1,13 @@
+Build #5508:  tests: using travis conditions to decide if front end tests should be run or not. (#4094)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9b875d9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0158a4fa02ed...9b875d934f80
+Duration:      5 min
+Started:       2020-06-08 13:39:39
+Finished:      2020-06-08 13:41:33
+
+#5508.1 passed:  1 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5508.2 failed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5508.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

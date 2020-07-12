@@ -1,0 +1,11 @@
+Job #631.1:  stop urls being encoded, not sure about other security implications here...
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1491)
+Commit:        29d5dc7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1491
+Duration:      10 min 56 sec
+Started:       2013-02-10 20:22:45
+Finished:      2013-02-10 20:33:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

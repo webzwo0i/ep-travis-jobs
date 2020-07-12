@@ -1,0 +1,11 @@
+Job #4154.1:  Toolbar: Fix timeslider button
+State:         errored
+Type:          push
+Branch:        fix/toolbar-timeslider-button
+Commit:        6b5e3ea
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix/toolbar-timeslider-button
+Duration:      27 sec
+Started:       2019-12-07 20:03:08
+Finished:      2019-12-07 20:03:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

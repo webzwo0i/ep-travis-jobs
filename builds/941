@@ -1,0 +1,11 @@
+Job #941.1:  beginning of FE tests for caret tracking which is easily broken when you add weird line heights to pads
+State:         failed
+Type:          push
+Branch:        caret-refactor
+Commit:        81f0ef7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/81f0ef73abfb
+Duration:      7 min 27 sec
+Started:       2013-03-17 23:16:45
+Finished:      2013-03-17 23:24:12
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

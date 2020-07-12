@@ -1,0 +1,12 @@
+Build #4614:  webaccess: do not resave session
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3793)
+Commit:        6b6a7df
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3793
+Duration:      47 sec
+Started:       2020-04-03 02:55:25
+Finished:      2020-04-03 02:55:50
+
+#4614.1 errored: 24 sec         os: linux, node_js: lts/*, env:
+#4614.2 errored: 23 sec         os: linux, node_js: lts/*, env:

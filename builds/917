@@ -1,0 +1,11 @@
+Job #917.1:  allow strict transport if ssl is on and stop x-frame-options, this might break embedded pads, please test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1619)
+Commit:        5b5a7a1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1619
+Duration:      11 min 3 sec
+Started:       2013-03-14 23:06:32
+Finished:      2013-03-14 23:17:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

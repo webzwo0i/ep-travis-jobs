@@ -1,0 +1,11 @@
+Job #3994.1:  colibris: the "ok" button was misaligned in Chrome
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3606)
+Commit:        caf8c7c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3606
+Duration:      1 min 22 sec
+Started:       2019-05-10 09:49:19
+Finished:      2019-05-10 09:50:41
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

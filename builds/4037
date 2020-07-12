@@ -1,0 +1,11 @@
+Job #4037.1:  settings: do not create a user if he has no password field, or if his password is null.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7c099fe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5879037ddca4...7c099fef5e08
+Duration:      11 min 39 sec
+Started:       2019-10-19 02:12:05
+Finished:      2019-10-19 02:23:44
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

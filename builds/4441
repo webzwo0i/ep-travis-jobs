@@ -1,0 +1,12 @@
+Build #4441:  just tell admins to ignore the msg
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3777)
+Commit:        d25a554
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3777
+Duration:      21 min 36 sec
+Started:       2020-03-28 18:13:19
+Finished:      2020-03-28 18:24:10
+
+#4441.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4441.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #44.1:  mh, maybe this?
+State:         failed
+Type:          push
+Branch:        travis-debug
+Commit:        0a39a8c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ab5ce84e2bb5...0a39a8ca976c
+Duration:      9 min 51 sec
+Started:       2012-11-18 21:15:42
+Finished:      2012-11-18 21:25:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

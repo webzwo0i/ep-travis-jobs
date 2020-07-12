@@ -1,0 +1,12 @@
+Build #4504:  toolbar: don't show the "saved revision" button in timeslider
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8b2fe75
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4a17443a2e6a...8b2fe75867fb
+Duration:      9 min
+Started:       2020-03-30 02:00:13
+Finished:      2020-03-30 02:07:40
+
+#4504.1 failed:  7 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4504.2 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

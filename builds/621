@@ -1,0 +1,11 @@
+Job #621.1:  begin support for better txt output
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1490)
+Commit:        be25e38
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1490
+Duration:      11 min 9 sec
+Started:       2013-02-10 18:38:25
+Finished:      2013-02-10 18:49:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

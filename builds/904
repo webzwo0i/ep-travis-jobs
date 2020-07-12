@@ -1,0 +1,11 @@
+Job #904.1:  missed an evt
+State:         failed
+Type:          push
+Branch:        ff-key-tests
+Commit:        6bac010
+Compare URL:   https://github.com/ether/etherpad-lite/compare/12107859bb23...6bac01009b67
+Duration:      7 min 10 sec
+Started:       2013-03-14 17:54:53
+Finished:      2013-03-14 18:02:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

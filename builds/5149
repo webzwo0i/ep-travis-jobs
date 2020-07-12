@@ -1,0 +1,13 @@
+Build #5149:  release: prepare for 1.8.4
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4365598
+Compare URL:   https://github.com/ether/etherpad-lite/compare/37abb21a5567...436559865859
+Duration:      19 min 41 sec
+Started:       2020-05-15 02:09:40
+Finished:      2020-05-15 02:26:05
+
+#5149.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5149.2 failed:  16 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5149.3 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

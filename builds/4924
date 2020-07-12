@@ -1,0 +1,13 @@
+Build #4924:  css: hide toolbar popup and nice-select when clicking on pad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3914)
+Commit:        c405e3b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3914
+Duration:      2 min 11 sec
+Started:       2020-04-21 16:52:26
+Finished:      2020-04-21 16:53:11
+
+#4924.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4924.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4924.3 errored: 43 sec         os: linux, node_js: lts/*, env:

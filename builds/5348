@@ -1,0 +1,14 @@
+Build #5348:  ui: hide create/open pad buttons on index page (#3974)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0b7ace8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bfca481b0b72...0b7ace83d5e7
+Duration:      25 min 55 sec
+Started:       2020-06-01 19:28:35
+Finished:      2020-06-01 19:49:35
+
+#5348.1 failed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5348.2 failed:  20 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5348.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5348.4 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #3902.1:  skins:colibris fixes #3514 hide sidediv and "show line number" option on mobile
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3496)
+Commit:        2a77228
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3496
+Duration:      1 min 29 sec
+Started:       2018-11-28 18:12:27
+Finished:      2018-11-28 18:13:56
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

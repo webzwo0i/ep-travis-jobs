@@ -1,0 +1,13 @@
+Build #4645:  ugh I hate having to bump twice
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3827)
+Commit:        87080bc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3827
+Duration:      2 min 14 sec
+Started:       2020-04-04 10:54:50
+Finished:      2020-04-04 10:55:38
+
+#4645.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4645.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4645.3 errored: 42 sec         os: linux, node_js: lts/*, env:

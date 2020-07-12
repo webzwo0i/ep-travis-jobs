@@ -1,0 +1,11 @@
+Job #878.1:  Merge pull request #1602 from ether/chrome-linux-indent
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0717ac7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b16d96c970d...0717ac7b88c9
+Duration:      6 min 48 sec
+Started:       2013-03-08 18:08:30
+Finished:      2013-03-08 18:15:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

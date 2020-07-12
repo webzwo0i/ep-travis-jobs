@@ -1,0 +1,13 @@
+Build #5062:  tidy
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        6c936a1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 27 sec
+Started:       2020-05-01 16:23:05
+Finished:      2020-05-01 16:24:03
+
+#5062.1 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5062.2 errored: 55 sec         os: linux, node_js: lts/*, env:
+#5062.3 errored: 45 sec         os: linux, node_js: lts/*, env:

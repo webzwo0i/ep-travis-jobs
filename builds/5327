@@ -1,0 +1,13 @@
+Build #5327:  tests: make the waitFor helper more reliable and less spammy (#4065)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5000997
+Compare URL:   https://github.com/ether/etherpad-lite/compare/520b20a3ca49...5000997a9fd3
+Duration:      24 min 24 sec
+Started:       2020-05-30 18:11:10
+Finished:      2020-05-30 18:32:41
+
+#5327.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5327.2 failed:  21 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5327.3 passed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

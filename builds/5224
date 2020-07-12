@@ -1,0 +1,13 @@
+Build #5224:  Docker: Add arg for the Etherpad directory
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4021)
+Commit:        0491037
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4021
+Duration:      2 min 17 sec
+Started:       2020-05-27 19:46:19
+Finished:      2020-05-27 19:47:30
+
+#5224.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5224.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5224.3 errored: 47 sec         os: linux, node_js: lts/*, env:

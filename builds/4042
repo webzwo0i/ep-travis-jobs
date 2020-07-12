@@ -1,0 +1,11 @@
+Job #4042.1:  core: allow URL parameters and POST bodies to co-exist.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fc661ee
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6d9264cf3cd7...fc661ee13af1
+Duration:      11 min 36 sec
+Started:       2019-10-19 03:10:55
+Finished:      2019-10-19 03:22:31
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

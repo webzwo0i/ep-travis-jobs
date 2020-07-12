@@ -1,0 +1,12 @@
+Build #4457:  tests: change the logic that is used to start Etherpad in Travis
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        87f720b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      3 min 25 sec
+Started:       2020-03-29 03:01:18
+Finished:      2020-03-29 03:03:05
+
+#4457.1 failed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4457.2 passed:  1 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

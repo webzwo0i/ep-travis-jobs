@@ -1,0 +1,12 @@
+Build #4237:  include warning for 3719
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3720)
+Commit:        4b68ddd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3720
+Duration:      1 min 38 sec
+Started:       2020-03-18 22:34:03
+Finished:      2020-03-18 22:35:27
+
+#4237.1 errored: 22 sec         os: linux, node_js: lts/*, env:
+#4237.2 passed:  1 min 16 sec   os: linux, node_js: lts/*, env:

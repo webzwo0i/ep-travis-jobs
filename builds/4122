@@ -1,0 +1,11 @@
+Job #4122.1:  indentation
+State:         errored
+Type:          push
+Branch:        go-away-npm
+Commit:        e5d77c3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/go-away-npm
+Duration:      10 min 37 sec
+Started:       2019-12-07 19:06:43
+Finished:      2019-12-07 19:17:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #519.1:  Added test for ignoring global settings
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1415)
+Commit:        f139ae4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1415
+Duration:      10 min 55 sec
+Started:       2013-01-30 12:47:37
+Finished:      2013-01-30 12:58:32
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

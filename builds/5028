@@ -1,0 +1,11 @@
+Job #5028.1:  expose modernIE value
+State:         errored
+Type:          push
+Branch:        IE-again
+Commit:        3cd8759
+Compare URL:   https://github.com/ether/etherpad-lite/compare/IE-again
+Duration:      10 min 45 sec
+Started:       2020-04-28 12:49:42
+Finished:      2020-04-28 13:00:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

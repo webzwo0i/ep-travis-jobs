@@ -1,0 +1,11 @@
+Job #3749.1:  Merge pull request #3268 from citizenos/develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fe08d2a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bacc37cf9b3a...fe08d2a1db5b
+Duration:      1 min 41 sec
+Started:       2018-05-21 16:57:39
+Finished:      2018-05-21 16:59:20
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

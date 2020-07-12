@@ -1,0 +1,13 @@
+Build #5153:  startup: use "npm ci" instead of "npm install" in startup scripts
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2087a2e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/436559865859...2087a2e5643d
+Duration:      19 min 38 sec
+Started:       2020-05-15 02:23:02
+Finished:      2020-05-15 02:41:13
+
+#5153.1 passed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5153.2 failed:  16 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5153.3 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

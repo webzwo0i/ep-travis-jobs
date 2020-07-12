@@ -1,0 +1,10 @@
+Job #6.1:  Dont include .git in the windows .zip
+State:         failed
+Type:          push
+Branch:        windows-build-script-exclusions
+Commit:        6e48870
+Compare URL:   https://github.com/ether/etherpad-lite/commit/6e488703ad1d
+Duration:      25 sec
+Started:       2012-11-14 21:42:02
+Finished:      2012-11-14 21:42:27
+Allow Failure: false

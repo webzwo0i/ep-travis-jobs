@@ -1,0 +1,12 @@
+Build #4502:  example config
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3790)
+Commit:        b0b366a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3790
+Duration:      26 min 36 sec
+Started:       2020-03-30 00:31:52
+Finished:      2020-03-30 00:45:18
+
+#4502.1 errored: 13 min 26 sec  os: linux, node_js: lts/*, env:
+#4502.2 errored: 13 min 10 sec  os: linux, node_js: lts/*, env:

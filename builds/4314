@@ -1,0 +1,12 @@
+Build #4314:  test again
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        884ae1c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      8 min 10 sec
+Started:       2020-03-22 15:07:33
+Finished:      2020-03-22 15:13:44
+
+#4314.1 failed:  6 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4314.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

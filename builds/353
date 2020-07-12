@@ -1,0 +1,11 @@
+Job #353.1:  Add log4js config setting
+State:         failed
+Type:          push
+Branch:        feature/log4js-config-setting
+Commit:        f4b95c5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/797db83a2183...f4b95c5ca4cd
+Duration:      4 min 3 sec
+Started:       2013-01-13 12:21:31
+Finished:      2013-01-13 12:25:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

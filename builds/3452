@@ -1,0 +1,11 @@
+Job #3452.1:  Merge pull request #3160 from pageye123/develop
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        23969c3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cf6b246688ea...23969c33b966
+Duration:      11 min 9 sec
+Started:       2017-04-04 19:58:01
+Finished:      2017-04-04 20:09:10
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

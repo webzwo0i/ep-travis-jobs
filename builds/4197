@@ -1,0 +1,12 @@
+Build #4197:  db/SecurityManager.js: accessing without session a public group pad no longer causes a crash
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3b24c97
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0b3cf7cc966f...3b24c97d1eb4
+Duration:      12 min 47 sec
+Started:       2019-12-26 01:17:59
+Finished:      2019-12-26 01:29:39
+
+#4197.1 passed:  11 min 33 sec  os: linux, node_js: lts/*
+#4197.2 passed:  1 min 14 sec   os: linux, node_js: lts/*

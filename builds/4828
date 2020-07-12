@@ -1,0 +1,13 @@
+Build #4828:  Test pinned versions of SauceLabs remote runner.
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3887)
+Commit:        acb0640
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3887
+Duration:      14 min 48 sec
+Started:       2020-04-19 12:17:29
+Finished:      2020-04-19 12:29:06
+
+#4828.1 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4828.2 failed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4828.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

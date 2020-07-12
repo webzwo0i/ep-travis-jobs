@@ -1,0 +1,11 @@
+Job #3927.1:  windows: 1.7.5 was released with node 8.15.0. Document it here.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        acc0b05
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4f0a2785da3c...acc0b05702e6
+Duration:      11 min 36 sec
+Started:       2019-01-27 13:49:42
+Finished:      2019-01-27 14:01:18
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

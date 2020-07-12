@@ -1,0 +1,11 @@
+Job #3817.1:  cleanRun.sh: get rid of "Bad substitution" error
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        5f9de69
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4408a1e50539...5f9de6948c46
+Duration:      1 min 58 sec
+Started:       2018-08-17 22:23:44
+Finished:      2018-08-17 22:25:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

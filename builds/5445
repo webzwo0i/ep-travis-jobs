@@ -1,0 +1,14 @@
+Build #5445:  remove cruft
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4088)
+Commit:        86d384b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4088
+Duration:      30 min 2 sec
+Started:       2020-06-06 23:43:54
+Finished:      2020-06-07 00:00:28
+
+#5445.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5445.2 errored: 16 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5445.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5445.4 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

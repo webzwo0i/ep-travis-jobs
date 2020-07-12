@@ -1,0 +1,13 @@
+Build #5558:  percent based on new to old
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4116)
+Commit:        4f45090
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4116
+Duration:      4 min 10 sec
+Started:       2020-06-26 20:01:18
+Finished:      2020-06-26 20:02:51
+
+#5558.1 passed:  1 min 7 sec    os: linux, node_js: lts/*, env:
+#5558.2 failed:  1 min 33 sec   os: linux, node_js: lts/*, env:
+#5558.3 passed:  1 min 30 sec   os: linux, node_js: lts/*, env:

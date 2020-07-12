@@ -1,0 +1,14 @@
+Build #5458:  lets try this
+State:         canceled
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        3eec0a0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34ea1e0438b3...3eec0a0f7f9f
+Duration:      17 min 27 sec
+Started:       2020-06-07 01:05:29
+Finished:      2020-06-07 01:17:59
+
+#5458.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5458.2 canceled: 12 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5458.3 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5458.4 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

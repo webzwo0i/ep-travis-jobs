@@ -1,0 +1,14 @@
+Build #5373:  Various UI improvement (#4017)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7aa7e02
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f45d85f615f3...7aa7e02e273c
+Duration:      24 min 25 sec
+Started:       2020-06-02 11:26:06
+Finished:      2020-06-02 11:45:39
+
+#5373.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5373.2 failed:  19 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5373.3 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5373.4 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

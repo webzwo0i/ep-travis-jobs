@@ -1,0 +1,11 @@
+Job #4151.1:  Finally fix AttribManager#removeAttributeOnLine
+State:         errored
+Type:          push
+Branch:        fix/attribmanager-removeattribonline
+Commit:        751adb2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix/attribmanager-removeattribonline
+Duration:      1 min 1 sec
+Started:       2019-12-07 20:01:46
+Finished:      2019-12-07 20:02:47
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

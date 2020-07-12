@@ -1,0 +1,12 @@
+Build #4334:  fix development of plugins which break when a developer is editing a test!
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        9b93f4e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/9b93f4e1a9bc
+Duration:      21 min 27 sec
+Started:       2020-03-22 18:42:31
+Finished:      2020-03-22 18:53:17
+
+#4334.1 errored: 10 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4334.2 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,14 @@
+Build #5437:  tests: testing parallel runners
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        e0ae501
+Compare URL:   https://github.com/ether/etherpad-lite/compare/82fb6ddc99fc...e0ae5010adc2
+Duration:      12 min 2 sec
+Started:       2020-06-06 22:08:12
+Finished:      2020-06-06 22:14:58
+
+#5437.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5437.2 canceled: 6 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5437.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5437.4 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

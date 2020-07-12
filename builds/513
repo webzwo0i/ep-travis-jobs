@@ -1,0 +1,11 @@
+Job #513.1:  Merge pull request #1426 from ether/notifications
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9ed2a2b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4c5ef1f81429...9ed2a2bb8fbf
+Duration:      5 min 36 sec
+Started:       2013-01-29 18:01:42
+Finished:      2013-01-29 18:07:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

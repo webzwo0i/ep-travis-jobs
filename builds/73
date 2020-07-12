@@ -1,0 +1,11 @@
+Job #73.1:  More stuff into changelog
+State:         failed
+Type:          push
+Branch:        release/releases-1.2.1
+Commit:        a75d17f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/064051a30dd7...a75d17f55a50
+Duration:      9 min 2 sec
+Started:       2012-11-21 19:51:14
+Finished:      2012-11-21 20:00:16
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

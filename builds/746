@@ -1,0 +1,11 @@
+Job #746.1:  fix extract and checkPad
+State:         failed
+Type:          push
+Branch:        fix-extractPadData
+Commit:        4cfac2f
+Compare URL:   https://github.com/ether/etherpad-lite/commit/4cfac2f62452
+Duration:      7 min 45 sec
+Started:       2013-02-18 17:13:42
+Finished:      2013-02-18 17:21:27
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

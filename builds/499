@@ -1,0 +1,11 @@
+Job #499.1:  Added tests for revision-jumping
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1418)
+Commit:        ee311a2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1418
+Duration:      11 min 7 sec
+Started:       2013-01-28 21:35:21
+Finished:      2013-01-28 21:46:28
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

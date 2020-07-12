@@ -1,0 +1,11 @@
+Job #988.1:  mm k
+State:         passed
+Type:          push
+Branch:        mobile-msg-css
+Commit:        2a1859c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4ea7ccd104dd...2a1859cc6dd9
+Duration:      2 min 5 sec
+Started:       2013-03-20 02:16:15
+Finished:      2013-03-20 02:18:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

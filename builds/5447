@@ -1,0 +1,14 @@
+Build #5447:  remember-to-define
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4088)
+Commit:        91444fb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4088
+Duration:      18 min 28 sec
+Started:       2020-06-06 23:57:15
+Finished:      2020-06-07 00:09:43
+
+#5447.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5447.2 failed:  4 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5447.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5447.4 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

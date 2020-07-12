@@ -1,0 +1,14 @@
+Build #5632:  fix
+State:         errored
+Type:          push
+Branch:        sl-chained
+Commit:        61d56f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d9d472879d5f...61d56f51eeec
+Duration:      15 min 39 sec
+Started:       2020-07-10 19:59:47
+Finished:      2020-07-10 20:11:32
+
+#5632.1 errored: 11 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5632.2 passed:  56 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5632.3 failed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5632.4 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

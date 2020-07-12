@@ -1,0 +1,11 @@
+Job #468.1:  Merge pull request #1389 from ether/disconnect-eejs-block
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0905089
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0ccd1a30e962...090508909e8e
+Duration:      4 min 23 sec
+Started:       2013-01-26 18:13:42
+Finished:      2013-01-26 18:18:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

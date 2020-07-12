@@ -1,0 +1,11 @@
+Job #3443.1:  Merge pull request #3150 from AdamNiederer/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f91534d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5eadc715a6a3...f91534d57a3c
+Duration:      12 min 14 sec
+Started:       2017-03-13 10:55:10
+Finished:      2017-03-13 11:07:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

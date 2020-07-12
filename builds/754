@@ -1,0 +1,11 @@
+Job #754.1:  Merge pull request #1533 from ether/indenting-text
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2ee3d04
+Compare URL:   https://github.com/ether/etherpad-lite/compare/abadfb7b6a2c...2ee3d0469e91
+Duration:      7 min
+Started:       2013-02-18 20:26:53
+Finished:      2013-02-18 20:33:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

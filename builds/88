@@ -1,0 +1,11 @@
+Job #88.1:  Merge remote branch 'ether/develop'
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1205)
+Commit:        2d6c01c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1205
+Duration:      13 min 3 sec
+Started:       2012-11-23 23:11:58
+Finished:      2012-11-23 23:25:01
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

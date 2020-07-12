@@ -1,0 +1,11 @@
+Job #794.1:  post url with pad error msg
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1559)
+Commit:        7bc7445
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1559
+Duration:      10 min 59 sec
+Started:       2013-02-26 14:16:54
+Finished:      2013-02-26 14:27:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3940.1:  chat: Adds placeholder to input. Translate stick button
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3554)
+Commit:        aeea917
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3554
+Duration:      1 min 46 sec
+Started:       2019-02-20 21:30:48
+Finished:      2019-02-20 21:32:34
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

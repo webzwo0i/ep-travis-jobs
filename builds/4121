@@ -1,0 +1,11 @@
+Job #4121.1:  cleaner fix for queue issue
+State:         errored
+Type:          push
+Branch:        fix-chat-scroll
+Commit:        ebff7d1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix-chat-scroll
+Duration:      10 min 51 sec
+Started:       2019-12-07 19:05:22
+Finished:      2019-12-07 19:16:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

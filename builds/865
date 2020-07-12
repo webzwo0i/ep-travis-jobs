@@ -1,0 +1,11 @@
+Job #865.1:  ltr test and fix rtl test
+State:         failed
+Type:          push
+Branch:        rtl-ltr-tests
+Commit:        60df48e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/60df48e48508
+Duration:      17 min 12 sec
+Started:       2013-03-06 16:03:05
+Finished:      2013-03-06 16:20:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

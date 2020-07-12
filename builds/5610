@@ -1,0 +1,14 @@
+Build #5610:  wd back
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        537ab65
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c9723eda7f3a...537ab653b7e3
+Duration:      3 min 2 sec
+Started:       2020-07-10 01:49:41
+Finished:      2020-07-10 01:51:27
+
+#5610.1 errored: 26 sec         os: linux, node_js: lts/*
+#5610.2 errored: 25 sec         os: linux, node_js: lts/*
+#5610.3 failed:  1 min 45 sec   os: linux, node_js: lts/*
+#5610.4 errored: 26 sec         os: linux, node_js: lts/*

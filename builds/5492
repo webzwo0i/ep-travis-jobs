@@ -1,0 +1,14 @@
+Build #5492:  including terser, again
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        49cd270
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0ab9e1e8c31e...49cd2705929c
+Duration:      25 min 15 sec
+Started:       2020-06-07 19:55:31
+Finished:      2020-06-07 20:16:01
+
+#5492.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5492.2 errored: 20 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5492.3 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5492.4 passed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

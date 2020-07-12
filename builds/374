@@ -1,0 +1,11 @@
+Job #374.1:  Load npm before everything else in checkPad.js
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1361)
+Commit:        f4e9a8c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1361
+Duration:      13 min 12 sec
+Started:       2013-01-15 07:34:23
+Finished:      2013-01-15 07:47:35
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #972.1:  add a test to show weird behavior
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1640)
+Commit:        18b7a17
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1640
+Duration:      12 min 15 sec
+Started:       2013-03-19 13:53:31
+Finished:      2013-03-19 14:05:46
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

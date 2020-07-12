@@ -1,0 +1,11 @@
+Job #37.1:  updated sauce_key env for new repo
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a99ff13
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d6c0f9608403...a99ff139c9d8
+Duration:      8 min 4 sec
+Started:       2012-11-17 20:47:09
+Finished:      2012-11-17 20:55:13
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3985.1:  Fix a few vulnerabilities
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3597)
+Commit:        279949e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3597
+Duration:      1 min 43 sec
+Started:       2019-04-16 11:00:33
+Finished:      2019-04-16 11:02:16
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

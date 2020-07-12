@@ -1,0 +1,12 @@
+Build #4329:  all platforms should now bw efixed, that was too much time wasted
+State:         failed
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        cf82589
+Compare URL:   https://github.com/ether/etherpad-lite/compare/044d5848ccb5...cf825899ac35
+Duration:      19 min 3 sec
+Started:       2020-03-22 15:52:55
+Finished:      2020-03-22 16:10:14
+
+#4329.1 failed:  17 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4329.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

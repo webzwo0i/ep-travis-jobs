@@ -1,0 +1,11 @@
+Job #401.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        280359a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b282547dbf06...280359a36de7
+Duration:      7 min 7 sec
+Started:       2013-01-20 14:48:00
+Finished:      2013-01-20 14:55:07
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

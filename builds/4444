@@ -1,0 +1,12 @@
+Build #4444:  Settings: when restarting via UI, tell the admins to ignore a warning about sessionKey
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1ad6e9c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7a999ee39859...1ad6e9c2880e
+Duration:      13 min 52 sec
+Started:       2020-03-28 19:09:46
+Finished:      2020-03-28 19:21:52
+
+#4444.1 failed:  12 min 6 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4444.2 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

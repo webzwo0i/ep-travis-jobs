@@ -1,0 +1,11 @@
+Job #3481.1:  Merge pull request #3188 from lex111/patch-1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        983946e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b43137ad2c30...983946e66428
+Duration:      6 min 29 sec
+Started:       2017-05-10 14:59:20
+Finished:      2017-05-10 15:05:49
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

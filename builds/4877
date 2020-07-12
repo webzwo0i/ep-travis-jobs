@@ -1,0 +1,13 @@
+Build #4877:  Update Readme with new screenshots
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        11f88a9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0f827ca104b1...11f88a9b36bc
+Duration:      14 min 44 sec
+Started:       2020-04-19 18:06:20
+Finished:      2020-04-19 18:17:49
+
+#4877.1 passed:  1 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4877.2 failed:  11 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4877.3 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

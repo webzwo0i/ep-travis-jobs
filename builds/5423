@@ -1,0 +1,14 @@
+Build #5423:  import/export: Timeslider export links numeric pad IDs (#4073)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        56f6973
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6dbfe5e43c2a...56f6973209cc
+Duration:      16 min 36 sec
+Started:       2020-06-06 00:40:30
+Finished:      2020-06-06 00:51:55
+
+#5423.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5423.2 errored: 11 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5423.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5423.4 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

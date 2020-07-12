@@ -1,0 +1,13 @@
+Build #5141:  safeRun.sh: Use ISO 8601 date format
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4008)
+Commit:        64be389
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4008
+Duration:      2 min 13 sec
+Started:       2020-05-15 00:43:18
+Finished:      2020-05-15 00:44:04
+
+#5141.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5141.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5141.3 errored: 43 sec         os: linux, node_js: lts/*, env:

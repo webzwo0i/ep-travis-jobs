@@ -1,0 +1,11 @@
+Job #3899.1:  migrateDirtyDBtoRealDB: disabled write buffer, #2214
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3519)
+Commit:        643a247
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3519
+Duration:      1 min 22 sec
+Started:       2018-11-27 13:37:42
+Finished:      2018-11-27 13:39:04
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

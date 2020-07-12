@@ -1,0 +1,14 @@
+Build #5406:  Import/export: Fix3032 - importing document botches pad options (#3769)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        13bd859
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e859edd8ab48...13bd859f315f
+Duration:      25 min 39 sec
+Started:       2020-06-06 17:40:37
+Finished:      2020-06-06 18:01:25
+
+#5406.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5406.2 passed:  20 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5406.3 passed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5406.4 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

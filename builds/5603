@@ -1,0 +1,14 @@
+Build #5603:  extra logging for remote_runner.js
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        27a4f52
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a26d32bf818c...27a4f52069bb
+Duration:      5 min 57 sec
+Started:       2020-07-09 23:07:00
+Finished:      2020-07-09 23:08:46
+
+#5603.1 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5603.2 passed:  53 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5603.3 failed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5603.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #4012.1:  NODE_ENV controls run-time behaviour, thus needs to be set by ENV
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3633)
+Commit:        48e9ac1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3633
+Duration:      1 min 27 sec
+Started:       2019-08-07 12:46:22
+Finished:      2019-08-07 12:47:49
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #601.1:  Add missing export entry for the browser object
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1483)
+Commit:        d4eb7f1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1483
+Duration:      10 min 57 sec
+Started:       2013-02-09 22:36:46
+Finished:      2013-02-09 22:47:43
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

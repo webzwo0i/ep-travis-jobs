@@ -1,0 +1,11 @@
+Job #4163.1:  seems right
+State:         errored
+Type:          push
+Branch:        rewrite-pad-path
+Commit:        275592e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/rewrite-pad-path
+Duration:      10 min 43 sec
+Started:       2019-12-07 20:16:12
+Finished:      2019-12-07 20:26:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

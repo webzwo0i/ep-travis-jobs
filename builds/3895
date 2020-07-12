@@ -1,0 +1,11 @@
+Job #3895.1:  index.html: generate unique pad names
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3517)
+Commit:        75a3334
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3517
+Duration:      1 min 30 sec
+Started:       2018-11-23 11:23:45
+Finished:      2018-11-23 11:25:15
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

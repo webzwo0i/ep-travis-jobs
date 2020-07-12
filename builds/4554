@@ -1,0 +1,12 @@
+Build #4554:  cleaner fix
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3809)
+Commit:        64f4047
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3809
+Duration:      21 min 35 sec
+Started:       2020-04-01 13:27:01
+Finished:      2020-04-01 13:37:52
+
+#4554.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4554.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

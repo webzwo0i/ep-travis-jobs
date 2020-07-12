@@ -1,0 +1,11 @@
+Job #3461.1:  Merge pull request #3162 from ether/fix_connection_to_sauce_labs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9bea5a6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eea9304b4d51...9bea5a64b8f3
+Duration:      5 min 25 sec
+Started:       2017-04-06 08:21:44
+Finished:      2017-04-06 08:27:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

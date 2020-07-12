@@ -1,0 +1,12 @@
+Build #4354:  quick tidy up of bold.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3745)
+Commit:        92fd906
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3745
+Duration:      21 min 29 sec
+Started:       2020-03-23 12:20:49
+Finished:      2020-03-23 12:38:28
+
+#4354.1 errored: 10 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4354.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

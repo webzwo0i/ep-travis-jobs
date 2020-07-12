@@ -1,0 +1,13 @@
+Build #4861:  fix timeslider revision tests
+State:         errored
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        0085637
+Compare URL:   https://github.com/ether/etherpad-lite/compare/82b7e16cab17^...00856377ff1c
+Duration:      14 min 52 sec
+Started:       2020-04-19 16:06:28
+Finished:      2020-04-19 16:18:08
+
+#4861.1 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4861.2 errored: 11 min 39 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4861.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

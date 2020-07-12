@@ -1,0 +1,11 @@
+Job #960.1:  Update html10n.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1643)
+Commit:        653670b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1643
+Duration:      11 min 23 sec
+Started:       2013-03-18 22:33:43
+Finished:      2013-03-18 22:45:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,12 @@
+Build #4332:  formatting
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3743)
+Commit:        45b3b92
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3743
+Duration:      20 min 46 sec
+Started:       2020-03-22 16:01:41
+Finished:      2020-03-22 16:20:44
+
+#4332.1 failed:  19 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4332.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

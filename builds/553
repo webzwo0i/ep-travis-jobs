@@ -1,0 +1,11 @@
+Job #553.1:  fix IE8 styling y u no do this 0ip?
+State:         failed
+Type:          push
+Branch:        fix-IE8-error
+Commit:        9fcabfa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dd49c71af998...9fcabfa8ac08
+Duration:      6 min 39 sec
+Started:       2013-02-06 21:05:26
+Finished:      2013-02-06 21:12:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #4780:  test: fix settings loading in api/instance backend test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3869)
+Commit:        a667229
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3869
+Duration:      2 min 14 sec
+Started:       2020-04-14 23:50:47
+Finished:      2020-04-14 23:51:35
+
+#4780.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4780.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4780.3 errored: 43 sec         os: linux, node_js: lts/*, env:

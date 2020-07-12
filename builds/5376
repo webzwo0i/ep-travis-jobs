@@ -1,0 +1,14 @@
+Build #5376:  new build
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4074)
+Commit:        4c2aa6c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4074
+Duration:      2 min 46 sec
+Started:       2020-06-02 13:54:30
+Finished:      2020-06-02 13:55:15
+
+#5376.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5376.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5376.3 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5376.4 errored: 44 sec         os: linux, node_js: lts/*, env:

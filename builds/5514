@@ -1,0 +1,14 @@
+Build #5514:  should run them
+State:         canceled
+Type:          push
+Branch:        travis-conditional
+Commit:        76cf22c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6869b03ee0c4...76cf22c3b842
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-06-08 14:53:05
+
+#5514.1 canceled: 23 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5514.2 canceled: 23 min 8 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5514.3 canceled: 23 min 8 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5514.4 canceled: 23 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

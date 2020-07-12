@@ -1,0 +1,11 @@
+Job #3487.1:  [fix] Do not close ANY "force reconnect" message
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3182)
+Commit:        56be4c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3182
+Duration:      10 min 55 sec
+Started:       2017-05-12 12:09:47
+Finished:      2017-05-12 12:20:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

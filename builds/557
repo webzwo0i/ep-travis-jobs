@@ -1,0 +1,11 @@
+Job #557.1:  timeslider label tests
+State:         failed
+Type:          push
+Branch:        timeslider-labels
+Commit:        e4032f4
+Compare URL:   https://github.com/ether/etherpad-lite/commit/e4032f4d7438
+Duration:      7 min 15 sec
+Started:       2013-02-07 01:22:00
+Finished:      2013-02-07 01:29:15
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

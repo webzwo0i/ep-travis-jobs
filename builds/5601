@@ -1,0 +1,14 @@
+Build #5601:  test async update to 3.2.0
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        7025b4c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/340f98d6de42...7025b4cbb172
+Duration:      3 min 15 sec
+Started:       2020-07-09 22:05:30
+Finished:      2020-07-09 22:07:13
+
+#5601.1 errored: 42 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5601.2 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5601.3 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5601.4 errored: 26 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,14 @@
+Build #5586:  Dont use jquery in import handler (#4153)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        a3386e3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/27c56109c7d0...a3386e3e55c6
+Duration:      23 min 42 sec
+Started:       2020-07-08 15:51:13
+Finished:      2020-07-08 16:10:54
+
+#5586.1 errored: 19 min 37 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5586.2 passed:  51 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5586.3 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5586.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

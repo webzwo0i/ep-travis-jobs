@@ -1,0 +1,13 @@
+Build #4701:  undomodule: disallow undoing "clear authorship colors"
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        babf671
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ffc718e8c06e...babf67175c83
+Duration:      15 min
+Started:       2020-04-08 15:20:58
+Finished:      2020-04-08 15:32:38
+
+#4701.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4701.2 failed:  11 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4701.3 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

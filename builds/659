@@ -1,0 +1,11 @@
+Job #659.1:  Brought scheduler back completly, fixes #1502
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1503)
+Commit:        f14c9d2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1503
+Duration:      10 min 56 sec
+Started:       2013-02-11 21:53:14
+Finished:      2013-02-11 22:04:10
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

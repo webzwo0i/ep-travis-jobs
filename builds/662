@@ -1,0 +1,11 @@
+Job #662.1:  Merge pull request #1503 from ether/feature/ffFixes
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        00af6d9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e87843c5aedd...00af6d9c6a20
+Duration:      7 min 41 sec
+Started:       2013-02-11 23:06:22
+Finished:      2013-02-11 23:14:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

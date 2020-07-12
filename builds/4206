@@ -1,0 +1,12 @@
+Build #4206:  Pretty sure you need elevated command prompt in windows..
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        74fa47e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7950d336eb11...74fa47e295db
+Duration:      12 min 51 sec
+Started:       2020-02-15 00:36:38
+Finished:      2020-02-15 00:48:11
+
+#4206.1 passed:  11 min 32 sec  node_js: lts/*, os: linux
+#4206.2 passed:  1 min 19 sec   node_js: lts/*, os: linux

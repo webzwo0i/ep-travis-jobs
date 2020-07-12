@@ -1,0 +1,14 @@
+Build #5634:  remove tunnel-identifier again
+State:         errored
+Type:          push
+Branch:        sl-chained
+Commit:        08576af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4e3e95ffa9af...08576af27940
+Duration:      19 min 1 sec
+Started:       2020-07-10 20:12:08
+Finished:      2020-07-10 20:27:06
+
+#5634.1 errored: 14 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5634.2 passed:  53 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5634.3 failed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5634.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

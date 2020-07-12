@@ -1,0 +1,11 @@
+Job #4178.1:  correct file links
+State:         errored
+Type:          push
+Branch:        new-icons
+Commit:        28c7b66
+Compare URL:   https://github.com/ether/etherpad-lite/compare/new-icons
+Duration:      10 min 46 sec
+Started:       2019-12-07 20:40:52
+Finished:      2019-12-07 20:51:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3916.1:  simplify version table
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3537)
+Commit:        e49aff7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3537
+Duration:      1 min 42 sec
+Started:       2019-01-11 14:18:28
+Finished:      2019-01-11 14:20:10
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

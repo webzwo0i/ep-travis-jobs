@@ -1,0 +1,12 @@
+Build #4452:  fixing the package-lock.json that got out of sync after 06d961f2b66d
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        e365d0b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      12 min 41 sec
+Started:       2020-03-29 01:07:13
+Finished:      2020-03-29 01:18:01
+
+#4452.1 failed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4452.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

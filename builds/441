@@ -1,0 +1,11 @@
+Job #441.1:  Merge pull request #1396 from goldquest/dev_importfix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c632e3d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/557b5c1ad089...c632e3d37996
+Duration:      4 min 38 sec
+Started:       2013-01-23 17:05:14
+Finished:      2013-01-23 17:09:52
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

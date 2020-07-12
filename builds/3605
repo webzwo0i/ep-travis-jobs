@@ -1,0 +1,11 @@
+Job #3605.1:  [feat] Improve performance on detection of line position
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3282)
+Commit:        a76a629
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3282
+Duration:      1 min 45 sec
+Started:       2017-12-28 21:43:59
+Finished:      2017-12-28 21:45:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

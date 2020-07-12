@@ -1,0 +1,13 @@
+Build #4561:  dont continue if env variables arent set
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3812)
+Commit:        9165198
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3812
+Duration:      3 min 46 sec
+Started:       2020-04-01 15:47:09
+Finished:      2020-04-01 15:49:46
+
+#4561.1 failed:  55 sec         os: linux, node_js: lts/*, env:
+#4561.2 passed:  1 min 25 sec   os: linux, node_js: lts/*, env:
+#4561.3 failed:  1 min 26 sec   os: linux, node_js: lts/*, env:

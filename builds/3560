@@ -1,0 +1,11 @@
+Job #3560.1:  [feat] Update l10n lib (#3248)
+State:         passed
+Type:          push
+Branch:        update_html10n
+Commit:        9afad86
+Compare URL:   https://github.com/ether/etherpad-lite/compare/877c4dc25d23...9afad8667f24
+Duration:      11 min 45 sec
+Started:       2017-08-15 16:06:08
+Finished:      2017-08-15 16:17:53
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

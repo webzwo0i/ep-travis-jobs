@@ -1,0 +1,11 @@
+Job #495.1:  change to createDiffHTML
+State:         passed
+Type:          push
+Branch:        diff-view
+Commit:        51eff0d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/437856188239...51eff0d659a8
+Duration:      4 min 37 sec
+Started:       2013-01-28 18:12:30
+Finished:      2013-01-28 18:17:07
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

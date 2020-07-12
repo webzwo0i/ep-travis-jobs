@@ -1,0 +1,11 @@
+Job #719.1:  Added getJSON and setJSON to the API
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1515)
+Commit:        0ba4adc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1515
+Duration:      11 min 6 sec
+Started:       2013-02-14 18:49:41
+Finished:      2013-02-14 19:00:47
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

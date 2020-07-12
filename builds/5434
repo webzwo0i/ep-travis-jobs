@@ -1,0 +1,14 @@
+Build #5434:  final test coverage
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4086)
+Commit:        3c99418
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4086
+Duration:      2 min 45 sec
+Started:       2020-06-06 15:29:40
+Finished:      2020-06-06 15:30:24
+
+#5434.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5434.2 errored: 39 sec         os: linux, node_js: lts/*, env:
+#5434.3 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5434.4 errored: 42 sec         os: linux, node_js: lts/*, env:

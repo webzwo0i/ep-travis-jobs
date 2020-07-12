@@ -1,0 +1,11 @@
+Job #506.1:  spacing
+State:         failed
+Type:          push
+Branch:        notifications
+Commit:        fa79525
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1c7810783cf8...fa7952523e2c
+Duration:      4 min 47 sec
+Started:       2013-01-29 03:41:53
+Finished:      2013-01-29 03:46:40
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

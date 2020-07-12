@@ -1,0 +1,11 @@
+Job #976.1:  Don't break the whole server if an import failed because no files were uploaded
+State:         passed
+Type:          push
+Branch:        fix/import-without-files
+Commit:        a2556a0
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a2556a04f1ae
+Duration:      2 min 47 sec
+Started:       2013-03-19 18:38:22
+Finished:      2013-03-19 18:41:09
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,12 @@
+Build #4459:  tests: use bash instead of sh in travis/runner.sh
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        ffc20f1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      3 min 15 sec
+Started:       2020-03-29 03:04:43
+Finished:      2020-03-29 03:06:26
+
+#4459.1 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4459.2 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

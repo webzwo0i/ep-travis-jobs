@@ -1,0 +1,11 @@
+Job #89.1:  Fix 1203: non-escaped html in plugins info
+State:         failed
+Type:          pull request
+Branch:        master (PR #1207)
+Commit:        8ee7eed
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1207
+Duration:      12 min 55 sec
+Started:       2012-11-24 01:39:08
+Finished:      2012-11-24 01:52:03
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

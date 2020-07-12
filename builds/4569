@@ -1,0 +1,11 @@
+Job #4569.1:  change env var format
+State:         failed
+Type:          push
+Branch:        backend-test-runner
+Commit:        917d5d4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/95a3de3ec3f2...917d5d48df08
+Duration:      1 min 48 sec
+Started:       2020-04-01 16:16:49
+Finished:      2020-04-01 16:18:37
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

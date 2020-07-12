@@ -1,0 +1,11 @@
+Job #773.1:  Merge pull request #1545 from ether/fix-clients-conn-count
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ec4a6bb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c986a8565ad9...ec4a6bbaf286
+Duration:      6 min 49 sec
+Started:       2013-02-20 17:29:01
+Finished:      2013-02-20 17:35:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #443.1:  Merge pull request #1398 from marcelklehr/fix/html10n-ie8-array.indexOf
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        28aa1ec
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c632e3d37996...28aa1ecc24a2
+Duration:      6 min 47 sec
+Started:       2013-01-23 17:50:08
+Finished:      2013-01-23 17:56:55
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

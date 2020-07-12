@@ -1,0 +1,13 @@
+Build #4910:  css: Fix colorpicker for mobile
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3908)
+Commit:        69cbb6d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3908
+Duration:      2 min 11 sec
+Started:       2020-04-20 14:19:22
+Finished:      2020-04-20 14:20:08
+
+#4910.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4910.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4910.3 errored: 43 sec         os: linux, node_js: lts/*, env:

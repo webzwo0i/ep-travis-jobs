@@ -1,0 +1,11 @@
+Job #3512.1:  [feat] New server-side hook: onAccessCheck
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3218)
+Commit:        917f966
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3218
+Duration:      10 min 58 sec
+Started:       2017-07-12 00:28:53
+Finished:      2017-07-12 00:39:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

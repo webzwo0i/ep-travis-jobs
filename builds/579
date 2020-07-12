@@ -1,0 +1,11 @@
+Job #579.1:  Update LICENSE
+State:         errored
+Type:          pull request
+Branch:        master (PR #1470)
+Commit:        89bef4c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1470
+Duration:      11 min 3 sec
+Started:       2013-02-07 22:58:20
+Finished:      2013-02-07 23:09:23
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #5575:  Fix for better user color selection.
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4142)
+Commit:        e655ec5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4142
+Duration:      4 min 4 sec
+Started:       2020-06-29 14:59:37
+Finished:      2020-06-29 15:01:26
+
+#5575.1 passed:  50 sec         os: linux, node_js: lts/*, env:
+#5575.2 failed:  1 min 31 sec   os: linux, node_js: lts/*, env:
+#5575.3 passed:  1 min 43 sec   os: linux, node_js: lts/*, env:

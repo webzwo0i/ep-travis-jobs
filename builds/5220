@@ -1,0 +1,13 @@
+Build #5220:  hrm, is htis a chrome bug?
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4045)
+Commit:        7422e2a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4045
+Duration:      15 min 6 sec
+Started:       2020-05-27 18:35:57
+Finished:      2020-05-27 18:47:29
+
+#5220.1 passed:  1 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5220.2 failed:  11 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5220.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

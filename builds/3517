@@ -1,0 +1,11 @@
+Job #3517.1:  Fixed the lost fonts. Everything is back in order again.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3205)
+Commit:        e7ca160
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3205
+Duration:      11 min 1 sec
+Started:       2017-07-12 17:02:39
+Finished:      2017-07-12 17:13:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

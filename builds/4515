@@ -1,0 +1,12 @@
+Build #4515:  Switches cacheKey from base64 of path to sha256 of path; fixes #3502
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3794)
+Commit:        851cffa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3794
+Duration:      21 min 33 sec
+Started:       2020-03-30 18:10:51
+Finished:      2020-03-30 18:21:39
+
+#4515.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4515.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

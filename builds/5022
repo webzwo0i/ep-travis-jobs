@@ -1,0 +1,13 @@
+Build #5022:  Add etherpad update check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3950)
+Commit:        baa8124
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3950
+Duration:      2 min 8 sec
+Started:       2020-04-27 19:58:14
+Finished:      2020-04-27 19:59:00
+
+#5022.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5022.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5022.3 errored: 41 sec         os: linux, node_js: lts/*, env:

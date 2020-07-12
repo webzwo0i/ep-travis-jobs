@@ -1,0 +1,14 @@
+Build #5388:  tests: fix font select test
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        02af7d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f925d5fc7416...02af7d0c2d3a
+Duration:      26 min 56 sec
+Started:       2020-06-03 12:48:41
+Finished:      2020-06-03 12:58:20
+
+#5388.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5388.2 passed:  22 min         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5388.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5388.4 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #4087.1:  referer: change referrer policy. Stop sending referers as much as possible
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0a0b90c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/14d81ecef8f1...0a0b90c4d0aa
+Duration:      11 min 32 sec
+Started:       2019-11-25 00:06:06
+Finished:      2019-11-25 00:17:38
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

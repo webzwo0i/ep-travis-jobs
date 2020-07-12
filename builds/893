@@ -1,0 +1,11 @@
+Job #893.1:  Merge pull request #1610 from ether/frontend-tests-refactor
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0bceac9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/acb4b4ebafd3...0bceac98e3a3
+Duration:      8 min
+Started:       2013-03-13 21:50:00
+Finished:      2013-03-13 21:58:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

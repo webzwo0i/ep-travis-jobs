@@ -1,0 +1,11 @@
+Job #926.1:  Fix path.join in Settings.js
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1623)
+Commit:        c1f44d7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1623
+Duration:      10 min 49 sec
+Started:       2013-03-16 09:48:45
+Finished:      2013-03-16 09:59:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

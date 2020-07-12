@@ -1,0 +1,11 @@
+Job #484.1:  take two at fixin Mac issue
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1412)
+Commit:        fb11c73
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1412
+Duration:      10 min 58 sec
+Started:       2013-01-27 18:02:26
+Finished:      2013-01-27 18:13:24
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

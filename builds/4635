@@ -1,0 +1,13 @@
+Build #4635:  beginning of tests and files
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3829)
+Commit:        06596ab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3829
+Duration:      2 min 22 sec
+Started:       2020-04-03 16:02:38
+Finished:      2020-04-03 16:03:30
+
+#4635.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4635.2 errored: 51 sec         os: linux, node_js: lts/*, env:
+#4635.3 errored: 46 sec         os: linux, node_js: lts/*, env:

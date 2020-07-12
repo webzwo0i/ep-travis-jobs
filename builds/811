@@ -1,0 +1,11 @@
+Job #811.1:  Merge pull request #1565 from ether/dont-crash-on-mismatch
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        22bfe78
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3986835f58f7...22bfe78c4fc7
+Duration:      6 min 37 sec
+Started:       2013-02-27 17:21:28
+Finished:      2013-02-27 17:28:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

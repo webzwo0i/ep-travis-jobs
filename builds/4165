@@ -1,0 +1,11 @@
+Job #4165.1:  make additional line break at end of imported doc
+State:         errored
+Type:          push
+Branch:        jsdom-go-away
+Commit:        0a84379
+Compare URL:   https://github.com/ether/etherpad-lite/compare/jsdom-go-away
+Duration:      10 min 39 sec
+Started:       2019-12-07 20:17:02
+Finished:      2019-12-07 20:27:41
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

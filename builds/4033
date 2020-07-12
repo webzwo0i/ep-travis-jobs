@@ -1,0 +1,11 @@
+Job #4033.1:  security: support for clean & safe error handling on IE 11
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5879037
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c65c5f17aa26...5879037ddca4
+Duration:      11 min 36 sec
+Started:       2019-10-18 22:54:54
+Finished:      2019-10-18 23:06:30
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

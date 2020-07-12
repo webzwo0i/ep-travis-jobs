@@ -1,0 +1,11 @@
+Job #4139.1:  clean up
+State:         errored
+Type:          push
+Branch:        applySettings
+Commit:        a8c2833
+Compare URL:   https://github.com/ether/etherpad-lite/compare/applySettings
+Duration:      10 min 44 sec
+Started:       2019-12-07 19:40:04
+Finished:      2019-12-07 19:50:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #3799.1:  security: suggest installing ep_hash_auth to get rid of plain text passwords
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        10f0cb3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d23cf924c99f...10f0cb325304
+Duration:      25 sec
+Started:       2018-08-09 00:22:23
+Finished:      2018-08-09 00:22:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

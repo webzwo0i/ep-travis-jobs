@@ -1,0 +1,12 @@
+Build #4473:  best fix I can find for the 2412
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3784)
+Commit:        9f9e401
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3784
+Duration:      21 min 34 sec
+Started:       2020-03-29 16:11:11
+Finished:      2020-03-29 16:22:01
+
+#4473.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4473.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,14 @@
+Build #5581:  Update ueberdb big update (#4149)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        313bba0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4b721785e033...313bba09d6a0
+Duration:      24 min 24 sec
+Started:       2020-07-05 12:06:21
+Finished:      2020-07-05 12:26:44
+
+#5581.1 passed:  20 min 22 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5581.2 passed:  53 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5581.3 failed:  1 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5581.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5204:  removing console
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4041)
+Commit:        aeb25cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4041
+Duration:      2 min 13 sec
+Started:       2020-05-23 14:38:41
+Finished:      2020-05-23 14:39:38
+
+#5204.1 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5204.2 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5204.3 errored: 45 sec         os: linux, node_js: lts/*, env:

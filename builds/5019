@@ -1,0 +1,13 @@
+Build #5019:  Release version 1.8.3
+State:         failed
+Type:          push
+Branch:        1.8.3
+Commit:        6210114
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1.8.3
+Duration:      14 min 44 sec
+Started:       2020-04-27 03:36:39
+Finished:      2020-04-27 03:48:15
+
+#5019.1 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5019.2 failed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5019.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

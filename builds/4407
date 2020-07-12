@@ -1,0 +1,12 @@
+Build #4407:  working solution, needs test coverage
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3715)
+Commit:        d18b27a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3715
+Duration:      21 min 32 sec
+Started:       2020-03-25 14:20:35
+Finished:      2020-03-25 14:31:27
+
+#4407.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4407.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,14 @@
+Build #5340:  tests: allow tests to run for more than 10 minutes because browsers are slow on saucelabs
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4f37865
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c9c2adbdb39a...4f37865d9716
+Duration:      26 min 56 sec
+Started:       2020-05-31 23:00:17
+Finished:      2020-05-31 23:21:59
+
+#5340.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5340.2 passed:  21 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5340.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5340.4 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

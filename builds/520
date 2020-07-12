@@ -1,0 +1,11 @@
+Job #520.1:  Check for missing userInfo
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1431)
+Commit:        e87d889
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1431
+Duration:      10 min 58 sec
+Started:       2013-01-30 15:25:07
+Finished:      2013-01-30 15:36:05
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

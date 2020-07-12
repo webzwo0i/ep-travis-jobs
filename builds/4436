@@ -1,0 +1,12 @@
+Build #4436:  backend tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        7a6172f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 37 sec
+Started:       2020-03-28 15:32:50
+Finished:      2020-03-28 15:43:41
+
+#4436.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4436.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #4451:  fixing the package-lock.json that got out of sync after 06d961f2b66d
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        1a4a53e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/30694fad2d93...1a4a53e1f8ee
+Duration:      3 min 39 sec
+Started:       2020-03-29 01:07:09
+Finished:      2020-03-29 01:09:04
+
+#4451.1 failed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4451.2 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,14 @@
+Build #5336:  tests: run bcakend tests for 50 seconds instead of 60 because this is the point of optimization
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1b772c4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f7e73515cd40...1b772c449d7e
+Duration:      25 min 30 sec
+Started:       2020-05-30 22:33:26
+Finished:      2020-05-30 22:53:43
+
+#5336.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5336.2 failed:  20 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5336.3 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5336.4 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

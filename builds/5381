@@ -1,0 +1,14 @@
+Build #5381:  Add a home icon
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4076)
+Commit:        90ad6a2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4076
+Duration:      2 min 41 sec
+Started:       2020-06-02 16:42:07
+Finished:      2020-06-02 16:43:06
+
+#5381.1 errored: 39 sec         os: linux, node_js: lts/*, env:
+#5381.2 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5381.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5381.4 errored: 45 sec         os: linux, node_js: lts/*, env:

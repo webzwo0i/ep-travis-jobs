@@ -1,0 +1,11 @@
+Job #378.1:  Increased timeouts to make IE9 happy, made button-test more strict
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1365)
+Commit:        2e0150d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1365
+Duration:      13 min
+Started:       2013-01-15 23:02:50
+Finished:      2013-01-15 23:15:50
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

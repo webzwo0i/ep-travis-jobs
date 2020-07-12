@@ -1,0 +1,13 @@
+Build #4689:  ace2_inner: remove Chrome specific hack
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3872690
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8987c5d813a4...3872690715a4
+Duration:      14 min 59 sec
+Started:       2020-04-07 03:48:08
+Finished:      2020-04-07 04:00:13
+
+#4689.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4689.2 failed:  12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4689.3 passed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #4939:  ace2_inner: close all gritters when hitting escape key
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ffa7244
+Compare URL:   https://github.com/ether/etherpad-lite/compare/51d924c1f89b...ffa7244e8114
+Duration:      14 min 34 sec
+Started:       2020-04-22 01:52:19
+Finished:      2020-04-22 02:03:38
+
+#4939.1 passed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4939.2 failed:  11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4939.3 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

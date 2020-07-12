@@ -1,0 +1,13 @@
+Build #5320:  trying to remove the last setTimeout..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4062)
+Commit:        bb4f355
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4062
+Duration:      1 min 14 sec
+Started:       2020-05-29 22:06:33
+Finished:      2020-05-29 22:07:02
+
+#5320.1 errored: 24 sec         os: linux, node_js: lts/*, env:
+#5320.2 errored: 26 sec         os: linux, node_js: lts/*, env:
+#5320.3 errored: 24 sec         os: linux, node_js: lts/*, env:

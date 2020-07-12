@@ -1,0 +1,11 @@
+Job #999.1:  this is why cookies weren't working in plugins
+State:         passed
+Type:          push
+Branch:        re-enable-cookies
+Commit:        06532a0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/23415eae492c^...06532a04f33a
+Duration:      2 min 39 sec
+Started:       2013-03-23 03:20:02
+Finished:      2013-03-23 03:22:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

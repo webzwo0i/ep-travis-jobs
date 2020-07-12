@@ -1,0 +1,11 @@
+Job #872.1:  Fix variable name typo in PadMessageHandler.padUsers
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1599)
+Commit:        84c720c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1599
+Duration:      11 min 19 sec
+Started:       2013-03-07 15:41:52
+Finished:      2013-03-07 15:53:11
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

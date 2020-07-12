@@ -1,0 +1,11 @@
+Job #4171.1:  Timeslider: Fix "Return to pad" button
+State:         errored
+Type:          push
+Branch:        timeslider-fix
+Commit:        04a26a3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/timeslider-fix
+Duration:      10 min 50 sec
+Started:       2019-12-07 20:28:01
+Finished:      2019-12-07 20:38:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,13 @@
+Build #4981:  docs: also mention the infos we have about sessionID cookie
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        1aebbe8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/01497aa39969...1aebbe8892cf
+Duration:      13 min 57 sec
+Started:       2020-04-24 03:06:35
+Finished:      2020-04-24 03:17:23
+
+#4981.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4981.2 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4981.3 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

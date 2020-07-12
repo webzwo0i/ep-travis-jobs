@@ -1,0 +1,11 @@
+Job #3486.1:  Merge pull request #3191 from ether/fix/adjustments_of_2891
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8345fd1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1ebcf0dc4709...8345fd153904
+Duration:      6 min 10 sec
+Started:       2017-05-11 20:21:53
+Finished:      2017-05-11 20:28:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

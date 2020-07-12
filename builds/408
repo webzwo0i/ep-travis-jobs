@@ -1,0 +1,11 @@
+Job #408.1:  mheh
+State:         errored
+Type:          pull request
+Branch:        master (PR #1378)
+Commit:        b5baaca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1378
+Duration:      6 min 27 sec
+Started:       2013-01-20 15:28:12
+Finished:      2013-01-20 15:34:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

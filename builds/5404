@@ -1,0 +1,14 @@
+Build #5404:  merge
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3769)
+Commit:        2cc3787
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3769
+Duration:      2 min 54 sec
+Started:       2020-06-05 20:56:52
+Finished:      2020-06-05 20:57:39
+
+#5404.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5404.2 errored: 39 sec         os: linux, node_js: lts/*, env:
+#5404.3 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5404.4 errored: 47 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #3732.1:  html export fix
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3268)
+Commit:        12e01ff
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3268
+Duration:      2 min 3 sec
+Started:       2018-05-02 10:13:45
+Finished:      2018-05-02 10:15:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

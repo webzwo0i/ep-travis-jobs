@@ -1,0 +1,13 @@
+Build #4775:  languages and html
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3865)
+Commit:        8400b62
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3865
+Duration:      2 min 18 sec
+Started:       2020-04-14 13:02:33
+Finished:      2020-04-14 13:03:22
+
+#4775.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4775.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4775.3 errored: 44 sec         os: linux, node_js: lts/*, env:

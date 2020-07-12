@@ -1,0 +1,12 @@
+Build #4492:  now there should be no abrupt failure, because etherpad will start
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        7fa0e39
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8c1db77a4056...7fa0e3955e17
+Duration:      13 min 15 sec
+Started:       2020-03-29 23:25:43
+Finished:      2020-03-29 23:37:12
+
+#4492.1 failed:  11 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4492.2 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

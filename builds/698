@@ -1,0 +1,11 @@
+Job #698.1:  Added JSON export
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1515)
+Commit:        39a4cc2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1515
+Duration:      11 min 21 sec
+Started:       2013-02-13 11:29:39
+Finished:      2013-02-13 11:41:00
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

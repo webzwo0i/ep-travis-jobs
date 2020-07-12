@@ -1,0 +1,12 @@
+Build #4518:  instead of failing (badly) when a non Ascii code is uploaded just convert it then convert it back, this should mitigate the risk
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3737)
+Commit:        ad4327c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3737
+Duration:      21 min 40 sec
+Started:       2020-03-30 22:56:49
+Finished:      2020-03-30 23:07:50
+
+#4518.1 errored: 10 min 55 sec  os: linux, node_js: lts/*, env:
+#4518.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

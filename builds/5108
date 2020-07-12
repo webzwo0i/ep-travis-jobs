@@ -1,0 +1,13 @@
+Build #5108:  bump v
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3994)
+Commit:        0a680c7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3994
+Duration:      2 min 14 sec
+Started:       2020-05-12 15:17:46
+Finished:      2020-05-12 15:18:34
+
+#5108.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5108.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5108.3 errored: 43 sec         os: linux, node_js: lts/*, env:

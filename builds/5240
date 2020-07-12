@@ -1,0 +1,13 @@
+Build #5240:  zom
+State:         failed
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        93e7e92
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c3c29dc1f5c9...93e7e92dba98
+Duration:      9 min 48 sec
+Started:       2020-05-28 12:22:54
+Finished:      2020-05-28 12:29:01
+
+#5240.1 passed:  1 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5240.2 failed:  6 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5240.3 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

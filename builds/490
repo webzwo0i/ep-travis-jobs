@@ -1,0 +1,11 @@
+Job #490.1:  Made warning bold and gray, sync checkbox-states, fixed initial checkbox-states, fixed engrish
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1415)
+Commit:        67d4942
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1415
+Duration:      10 min 55 sec
+Started:       2013-01-27 20:59:03
+Finished:      2013-01-27 21:09:58
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

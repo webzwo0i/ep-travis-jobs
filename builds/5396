@@ -1,0 +1,14 @@
+Build #5396:  tests: CSS frontend runner (#4081)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7608482
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c9ffe59b5587...76084820caaf
+Duration:      27 min 29 sec
+Started:       2020-06-04 18:03:56
+Finished:      2020-06-04 18:26:05
+
+#5396.1 passed:  1 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5396.2 passed:  22 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5396.3 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5396.4 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

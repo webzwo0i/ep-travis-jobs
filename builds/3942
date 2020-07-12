@@ -1,0 +1,11 @@
+Job #3942.1:  colibris: Fixes #3548 #3549 chat improvements
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9848a60
+Compare URL:   https://github.com/ether/etherpad-lite/compare/401db8fce31a...9848a600e333
+Duration:      21 min 22 sec
+Started:       2019-02-22 19:49:30
+Finished:      2019-02-22 20:10:52
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

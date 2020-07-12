@@ -1,0 +1,12 @@
+Build #4232:  pass file ending
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8261229
+Compare URL:   https://github.com/ether/etherpad-lite/compare/28102d8e1ff4...826122932380
+Duration:      13 min 3 sec
+Started:       2020-03-17 14:09:09
+Finished:      2020-03-17 14:20:55
+
+#4232.1 passed:  11 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4232.2 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

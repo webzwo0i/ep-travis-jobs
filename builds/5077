@@ -1,0 +1,13 @@
+Build #5077:  timeslider: important fix pad content was cropped when bigger than screen size
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3969)
+Commit:        958ed98
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3969
+Duration:      2 min 15 sec
+Started:       2020-05-05 12:44:48
+Finished:      2020-05-05 12:45:46
+
+#5077.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5077.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#5077.3 errored: 44 sec         os: linux, node_js: lts/*, env:

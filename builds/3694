@@ -1,0 +1,11 @@
+Job #3694.1:  Update CONTRIBUTING.md
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0225acf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/68d81e839c58...0225acfa0695
+Duration:      19 min 45 sec
+Started:       2018-04-06 11:41:11
+Finished:      2018-04-06 12:00:56
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

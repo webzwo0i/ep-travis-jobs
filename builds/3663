@@ -1,0 +1,11 @@
+Job #3663.1:  remove unused package
+State:         failed
+Type:          push
+Branch:        bumpDeps
+Commit:        7bee7f7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7bee7f7dabaa
+Duration:      1 min 39 sec
+Started:       2018-03-23 14:19:15
+Finished:      2018-03-23 14:20:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

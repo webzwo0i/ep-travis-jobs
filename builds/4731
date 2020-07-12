@@ -1,0 +1,13 @@
+Build #4731:  this is semi the right approach, I still want to seperate the variables but I don't know how to iterate over each one because opiter only processes a single value then iterates
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3846)
+Commit:        3cb5e4e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3846
+Duration:      2 min 14 sec
+Started:       2020-04-10 13:27:02
+Finished:      2020-04-10 13:27:50
+
+#4731.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4731.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4731.3 errored: 44 sec         os: linux, node_js: lts/*, env:

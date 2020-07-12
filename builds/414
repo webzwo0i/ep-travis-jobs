@@ -1,0 +1,11 @@
+Job #414.1:  open in external window
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1379)
+Commit:        7e24419
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1379
+Duration:      6 min 26 sec
+Started:       2013-01-20 23:38:55
+Finished:      2013-01-20 23:45:21
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

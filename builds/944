@@ -1,0 +1,11 @@
+Job #944.1:  collecting all available API versions to a list
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1638)
+Commit:        ea6f21b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1638
+Duration:      11 min 13 sec
+Started:       2013-03-18 01:02:40
+Finished:      2013-03-18 01:13:53
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #907.1:  this should pass more tests..
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1616)
+Commit:        09ec8c4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1616
+Duration:      11 min 23 sec
+Started:       2013-03-14 18:39:38
+Finished:      2013-03-14 18:51:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

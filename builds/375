@@ -1,0 +1,11 @@
+Job #375.1:  Merge pull request #1361 from mluto/fix-checkPad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        53b2de5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5eb09f981ba0...53b2de51ebf6
+Duration:      4 min 16 sec
+Started:       2013-01-15 15:14:47
+Finished:      2013-01-15 15:19:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

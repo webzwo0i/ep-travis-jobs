@@ -1,0 +1,11 @@
+Job #938.1:  remove console log
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1633)
+Commit:        286390e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1633
+Duration:      11 min 5 sec
+Started:       2013-03-17 16:19:51
+Finished:      2013-03-17 16:30:56
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

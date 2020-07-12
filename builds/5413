@@ -1,0 +1,14 @@
+Build #5413:  stale code: update package-lock.json and force re-run tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        33ad487
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a4bdcc3392ab...33ad48714ca1
+Duration:      31 min 40 sec
+Started:       2020-06-05 22:19:09
+Finished:      2020-06-05 22:45:34
+
+#5413.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5413.2 failed:  26 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5413.3 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5413.4 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

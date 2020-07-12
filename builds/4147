@@ -1,0 +1,11 @@
+Job #4147.1:  remove pointless comments
+State:         errored
+Type:          push
+Branch:        new-sethtml-tests
+Commit:        860c584
+Compare URL:   https://github.com/ether/etherpad-lite/compare/new-sethtml-tests
+Duration:      10 min 53 sec
+Started:       2019-12-07 19:51:11
+Finished:      2019-12-07 20:02:04
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

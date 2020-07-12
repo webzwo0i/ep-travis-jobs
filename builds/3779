@@ -1,0 +1,11 @@
+Job #3779.1:  updated htmlExport test
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3408)
+Commit:        f092307
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3408
+Duration:      1 min 45 sec
+Started:       2018-07-17 10:13:28
+Finished:      2018-07-17 10:15:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,14 @@
+Build #5387:  ui: Add a home icon (#4076)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f925d5f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/66a56234faa5...f925d5fc7416
+Duration:      25 min 36 sec
+Started:       2020-06-03 11:57:49
+Finished:      2020-06-03 12:19:58
+
+#5387.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5387.2 failed:  20 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5387.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5387.4 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

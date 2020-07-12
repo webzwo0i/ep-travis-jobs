@@ -1,0 +1,11 @@
+Job #839.1:  update ueberdb
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1584)
+Commit:        1d0a9ed
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1584
+Duration:      10 min 55 sec
+Started:       2013-03-05 14:42:48
+Finished:      2013-03-05 14:53:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

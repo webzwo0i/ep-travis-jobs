@@ -1,0 +1,11 @@
+Job #361.1:  more sensible timeslider blocks..
+State:         failed
+Type:          push
+Branch:        better-timeslider-blocks
+Commit:        1e7bcdb
+Compare URL:   https://github.com/ether/etherpad-lite/commit/1e7bcdba59f8
+Duration:      7 min 39 sec
+Started:       2013-01-14 04:43:14
+Finished:      2013-01-14 04:50:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #521.1:  Check for missing payload on CLIENT_MESSAGE
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1431)
+Commit:        19eb1e3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1431
+Duration:      10 min 56 sec
+Started:       2013-01-30 15:32:26
+Finished:      2013-01-30 15:43:22
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

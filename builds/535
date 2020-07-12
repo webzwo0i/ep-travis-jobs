@@ -1,0 +1,11 @@
+Job #535.1:  Update src/static/js/html10n.js
+State:         errored
+Type:          pull request
+Branch:        master (PR #1443)
+Commit:        3ae5cc0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1443
+Duration:      10 min 59 sec
+Started:       2013-02-01 20:41:14
+Finished:      2013-02-01 20:52:13
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

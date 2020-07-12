@@ -1,0 +1,11 @@
+Job #561.1:  timeslider label tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1460)
+Commit:        f3aa3eb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1460
+Duration:      10 min 58 sec
+Started:       2013-02-07 02:20:21
+Finished:      2013-02-07 02:31:19
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

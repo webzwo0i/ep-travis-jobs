@@ -1,0 +1,11 @@
+Job #4167.1:  ie now uses keydown
+State:         errored
+Type:          push
+Branch:        export-privacy
+Commit:        cbeb464
+Compare URL:   https://github.com/ether/etherpad-lite/compare/export-privacy
+Duration:      10 min 47 sec
+Started:       2019-12-07 20:24:26
+Finished:      2019-12-07 20:35:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

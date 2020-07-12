@@ -1,0 +1,14 @@
+Build #5588:  Fix typo in comment (#4154)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        358af5f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a3386e3e55c6...358af5fea1be
+Duration:      25 min 9 sec
+Started:       2020-07-09 13:33:17
+Finished:      2020-07-09 13:54:17
+
+#5588.1 passed:  20 min 59 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5588.2 passed:  51 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5588.3 failed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5588.4 passed:  1 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

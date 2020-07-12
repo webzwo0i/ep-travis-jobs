@@ -1,0 +1,14 @@
+Build #5598:  comment tunnelIdentifier...
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        398a18c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/49468bc0b4c4...398a18c1c8b7
+Duration:      6 min 9 sec
+Started:       2020-07-09 21:22:07
+Finished:      2020-07-09 21:24:09
+
+#5598.1 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5598.2 passed:  51 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5598.3 failed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5598.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

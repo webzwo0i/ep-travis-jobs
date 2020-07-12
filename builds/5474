@@ -1,0 +1,14 @@
+Build #5474:  Revert "Revert "tests: updating mocha and refactoring the custom html reporter using events""
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4089)
+Commit:        7b4c3c5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4089
+Duration:      21 min 41 sec
+Started:       2020-06-07 12:02:49
+Finished:      2020-06-07 12:19:06
+
+#5474.1 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5474.2 errored: 16 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5474.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5474.4 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

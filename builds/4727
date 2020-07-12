@@ -1,0 +1,13 @@
+Build #4727:  Localisation updates from https://translatewiki.net.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4699c3e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/684f374eceb0...4699c3e22e24
+Duration:      19 min 40 sec
+Started:       2020-04-09 16:00:53
+Finished:      2020-04-09 16:17:18
+
+#4727.1 passed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4727.2 failed:  16 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4727.3 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #859.1:  Fix ace rtlIsTrue property setter
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1594)
+Commit:        e8495cd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1594
+Duration:      10 min 55 sec
+Started:       2013-03-06 15:41:49
+Finished:      2013-03-06 15:52:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

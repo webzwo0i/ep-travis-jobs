@@ -1,0 +1,11 @@
+Job #498.1:  Merge pull request #1413 from mluto/clean-getParams
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        dcff3bd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/75b861e93b4c...dcff3bddda30
+Duration:      5 min 4 sec
+Started:       2013-01-28 21:23:05
+Finished:      2013-01-28 21:28:09
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

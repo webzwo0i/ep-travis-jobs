@@ -1,0 +1,11 @@
+Job #784.1:  Merge pull request #1530 from ether/dont-lose-caret
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        654175d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/945d5b98e82c...654175dd36ec
+Duration:      7 min 1 sec
+Started:       2013-02-21 17:21:51
+Finished:      2013-02-21 17:28:52
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #5105:  assets: add random string to query string to bust cache on restart and deploys
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3958)
+Commit:        f286cad
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3958
+Duration:      2 min 18 sec
+Started:       2020-05-12 03:11:59
+Finished:      2020-05-12 03:12:55
+
+#5105.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5105.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#5105.3 errored: 45 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #3864.1:  skins: colibris fix default color and font
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3496)
+Commit:        2590308
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3496
+Duration:      1 min 28 sec
+Started:       2018-10-29 21:35:39
+Finished:      2018-10-29 21:37:07
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

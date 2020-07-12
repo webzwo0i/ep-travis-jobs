@@ -1,0 +1,13 @@
+Build #4698:  docker: add support for arbitrary user ids (for OpenShift compatibility)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3766)
+Commit:        f9045e7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3766
+Duration:      2 min 17 sec
+Started:       2020-04-08 15:04:39
+Finished:      2020-04-08 15:05:30
+
+#4698.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4698.2 errored: 50 sec         os: linux, node_js: lts/*, env:
+#4698.3 errored: 45 sec         os: linux, node_js: lts/*, env:

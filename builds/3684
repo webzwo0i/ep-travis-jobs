@@ -1,0 +1,11 @@
+Job #3684.1:  Merge pull request #3280 from lmagniez/ImprovedReadibility
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f15c7d7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8edd8e1291ec...f15c7d7186db
+Duration:      11 min 55 sec
+Started:       2018-04-03 18:22:50
+Finished:      2018-04-03 18:34:45
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

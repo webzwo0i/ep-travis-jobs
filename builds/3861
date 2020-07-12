@@ -1,0 +1,11 @@
+Job #3861.1:  dependencies: update graceful-fs, 4.1.3 -> 4.1.11
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9774518
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4f756d395372...9774518525fe
+Duration:      11 min 42 sec
+Started:       2018-10-17 00:41:50
+Finished:      2018-10-17 00:53:32
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

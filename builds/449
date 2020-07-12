@@ -1,0 +1,11 @@
+Job #449.1:  Merge pull request #1401 from ether/slider-position
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0c3d90b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/18b96b33c6d4...0c3d90b7535a
+Duration:      5 min 18 sec
+Started:       2013-01-24 18:16:12
+Finished:      2013-01-24 18:21:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

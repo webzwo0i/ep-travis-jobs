@@ -1,0 +1,11 @@
+Job #3704.1:  Merge pull request #3366 from ether/release/1.6.4
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3367)
+Commit:        07e858a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3367
+Duration:      35 sec
+Started:       2018-04-07 12:06:23
+Finished:      2018-04-07 12:06:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

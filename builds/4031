@@ -1,0 +1,11 @@
+Job #4031.1:  Merge pull request #1 from aaron-costello/aaron-costello-patch-1
+State:         passed
+Type:          pull request
+Branch:        master (PR #3647)
+Commit:        6e3c430
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3647
+Duration:      1 min 34 sec
+Started:       2019-10-18 22:03:53
+Finished:      2019-10-18 22:05:27
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,13 @@
+Build #4991:  plugins: ep.json now supports regexes in pre/post sections
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3791)
+Commit:        a3fa813
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3791
+Duration:      2 min 14 sec
+Started:       2020-04-26 01:32:11
+Finished:      2020-04-26 01:33:00
+
+#4991.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4991.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4991.3 errored: 43 sec         os: linux, node_js: lts/*, env:

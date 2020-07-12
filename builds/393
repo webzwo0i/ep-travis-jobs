@@ -1,0 +1,11 @@
+Job #393.1:  listAllPads should return an object, not an arraay. issue #1374
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1375)
+Commit:        83a3fdb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1375
+Duration:      6 min 28 sec
+Started:       2013-01-18 17:16:10
+Finished:      2013-01-18 17:22:38
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

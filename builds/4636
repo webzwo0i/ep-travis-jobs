@@ -1,0 +1,13 @@
+Build #4636:  include a word test file
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3829)
+Commit:        182f0cf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3829
+Duration:      2 min 21 sec
+Started:       2020-04-03 16:21:54
+Finished:      2020-04-03 16:22:47
+
+#4636.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4636.2 errored: 51 sec         os: linux, node_js: lts/*, env:
+#4636.3 errored: 45 sec         os: linux, node_js: lts/*, env:

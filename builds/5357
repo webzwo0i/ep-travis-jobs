@@ -1,0 +1,14 @@
+Build #5357:  script: Delete group sessions script and fix issue where loadSettings has been moved breaking deletePad (#3973)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        930e80d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0dd9db4e99c1...930e80d3638c
+Duration:      35 min 43 sec
+Started:       2020-06-01 20:37:02
+Finished:      2020-06-01 20:59:21
+
+#5357.1 failed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5357.2 failed:  21 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5357.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5357.4 errored: 10 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

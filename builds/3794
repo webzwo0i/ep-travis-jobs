@@ -1,0 +1,11 @@
+Job #3794.1:  installDeps: made version detection more robust. Require Node >= 6.9, npm >= 3.10
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        a3ae374
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1056bf01a4f...a3ae374a67f8
+Duration:      31 sec
+Started:       2018-07-28 23:33:56
+Finished:      2018-07-28 23:34:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

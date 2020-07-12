@@ -1,0 +1,14 @@
+Build #5409:  remove csso errornous insert
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        6c4b388
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 47 sec
+Started:       2020-06-05 21:41:01
+Finished:      2020-06-05 21:41:53
+
+#5409.1 errored: 37 sec         os: linux, node_js: lts/*, env:
+#5409.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5409.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5409.4 errored: 43 sec         os: linux, node_js: lts/*, env:

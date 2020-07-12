@@ -1,0 +1,11 @@
+Job #367.1:  Added test for empty-message-block
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1355)
+Commit:        37468bc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1355
+Duration:      13 min 3 sec
+Started:       2013-01-14 17:48:42
+Finished:      2013-01-14 18:01:45
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

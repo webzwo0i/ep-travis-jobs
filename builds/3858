@@ -1,0 +1,11 @@
+Job #3858.1:  skins: colibris various improvements, including author_hover, cursortrace plugins
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3496)
+Commit:        d811381
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3496
+Duration:      1 min 31 sec
+Started:       2018-10-07 17:18:48
+Finished:      2018-10-07 17:20:19
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

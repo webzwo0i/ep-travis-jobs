@@ -1,0 +1,12 @@
+Build #4271:  dependencies: update mocha 5.2.0 -> 7.1.1
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b075d1f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6a55e7e03fc1...b075d1fd7cc6
+Duration:      12 min 46 sec
+Started:       2020-03-22 02:31:22
+Finished:      2020-03-22 02:43:02
+
+#4271.1 passed:  11 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4271.2 passed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

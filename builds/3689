@@ -1,0 +1,11 @@
+Job #3689.1:  hint to --sessionkey, --apikey and --credentials in README.md
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3360)
+Commit:        6245def
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3360
+Duration:      2 min
+Started:       2018-04-04 14:12:23
+Finished:      2018-04-04 14:14:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

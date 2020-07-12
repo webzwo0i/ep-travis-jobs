@@ -1,0 +1,13 @@
+Build #4797:  bin: add fastRun.sh script for developers and advanced users
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3878)
+Commit:        17ee4ff
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3878
+Duration:      2 min 16 sec
+Started:       2020-04-17 22:40:40
+Finished:      2020-04-17 22:41:36
+
+#4797.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4797.2 errored: 53 sec         os: linux, node_js: lts/*, env:
+#4797.3 errored: 42 sec         os: linux, node_js: lts/*, env:

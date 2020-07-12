@@ -1,0 +1,11 @@
+Job #5030.1:  db/Pad: reversed truthy condition to make core logic evident
+State:         passed
+Type:          push
+Branch:        flatten-code
+Commit:        1a93ab4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/flatten-code
+Duration:      14 min 50 sec
+Started:       2020-04-28 12:58:35
+Finished:      2020-04-28 13:13:25
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

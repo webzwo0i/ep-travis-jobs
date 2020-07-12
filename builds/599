@@ -1,0 +1,11 @@
+Job #599.1:  Merge pull request #1480 from 0ip/admin-ui
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        56de693
+Compare URL:   https://github.com/ether/etherpad-lite/compare/43b2971a54b5...56de6937e2bb
+Duration:      7 min 19 sec
+Started:       2013-02-09 21:44:39
+Finished:      2013-02-09 21:51:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

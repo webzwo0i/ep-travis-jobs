@@ -1,0 +1,14 @@
+Build #5491:  ffs npm how you get so broke
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0ab9e1e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4b37034f0cb4...0ab9e1e8c31e
+Duration:      5 min 9 sec
+Started:       2020-06-07 18:54:16
+Finished:      2020-06-07 18:56:00
+
+#5491.1 failed:  1 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5491.2 failed:  1 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5491.3 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5491.4 failed:  1 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

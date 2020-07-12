@@ -1,0 +1,13 @@
+Build #5049:  shoot the bomb
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        e1fcd8c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 34 sec
+Started:       2020-04-30 14:33:47
+Finished:      2020-04-30 14:34:50
+
+#5049.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5049.2 errored: 1 min 3 sec    os: linux, node_js: lts/*, env:
+#5049.3 errored: 47 sec         os: linux, node_js: lts/*, env:

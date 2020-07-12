@@ -1,0 +1,11 @@
+Job #3699.1:  merged
+State:         failed
+Type:          push
+Branch:        release/1.6.4
+Commit:        6d5dc93
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0132f4d1da98...6d5dc93dbf80
+Duration:      1 min 40 sec
+Started:       2018-04-07 11:25:56
+Finished:      2018-04-07 11:27:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

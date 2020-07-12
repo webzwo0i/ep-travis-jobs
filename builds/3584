@@ -1,0 +1,11 @@
+Job #3584.1:  Updated node version for windows to 8.9.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e347f12
+Compare URL:   https://github.com/ether/etherpad-lite/compare/097c07adecfc...e347f12c71f6
+Duration:      11 min 43 sec
+Started:       2017-11-04 17:08:44
+Finished:      2017-11-04 17:20:27
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,12 @@
+Build #4517:  chat: in addMessage(), be tolerant when userId is missing
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        25bf460
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa3e4b146a97...25bf460ac684
+Duration:      13 min 26 sec
+Started:       2020-03-30 22:16:17
+Finished:      2020-03-30 22:27:47
+
+#4517.1 failed:  11 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4517.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

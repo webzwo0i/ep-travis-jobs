@@ -1,0 +1,11 @@
+Job #857.1:  Merge pull request #1593 from marcelklehr/feature/rtl-pad-setting
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2a8038b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/603115c4bfa8...2a8038b9febd
+Duration:      6 min 51 sec
+Started:       2013-03-06 14:59:50
+Finished:      2013-03-06 15:06:41
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

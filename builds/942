@@ -1,0 +1,11 @@
+Job #942.1:  A nicer way to handle the API versions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1638)
+Commit:        66b2a87
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1638
+Duration:      10 min 49 sec
+Started:       2013-03-17 23:46:16
+Finished:      2013-03-17 23:57:05
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #647.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into dep-cleanup
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1487)
+Commit:        821ded6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1487
+Duration:      11 min 4 sec
+Started:       2013-02-10 23:43:30
+Finished:      2013-02-10 23:54:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

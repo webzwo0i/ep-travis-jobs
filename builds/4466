@@ -1,0 +1,12 @@
+Build #4466:  I think I found remote_runner.js. Is injected by something in frontend/travis
+State:         failed
+Type:          push
+Branch:        ci
+Commit:        25bd301
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1145dfa4b783...25bd3016e439
+Duration:      13 min 41 sec
+Started:       2020-03-29 03:35:22
+Finished:      2020-03-29 03:47:21
+
+#4466.1 failed:  11 min 59 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4466.2 passed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

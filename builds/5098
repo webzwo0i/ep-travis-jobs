@@ -1,0 +1,13 @@
+Build #5098:  token
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3990)
+Commit:        d9172ce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3990
+Duration:      2 min 11 sec
+Started:       2020-05-10 15:59:48
+Finished:      2020-05-10 16:00:35
+
+#5098.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5098.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5098.3 errored: 43 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #4479:  test: reverting installDeps.sh to "npm save". If nothing changes, travis/runner.sh can be promoted to the development branch
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        856b5fb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      17 min 20 sec
+Started:       2020-03-29 22:11:08
+Finished:      2020-03-29 22:26:55
+
+#4479.1 failed:  15 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4479.2 passed:  1 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

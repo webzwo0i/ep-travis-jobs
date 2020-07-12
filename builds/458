@@ -1,0 +1,11 @@
+Job #458.1:  [/admin/plugins] remove progress history
+State:         failed
+Type:          push
+Branch:        feature/real-time-plugin-search
+Commit:        3e793b8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/23dd4c73e225...3e793b8a6339
+Duration:      7 min 12 sec
+Started:       2013-01-25 14:51:52
+Finished:      2013-01-25 14:59:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

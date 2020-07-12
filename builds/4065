@@ -1,0 +1,11 @@
+Job #4065.1:  settings: fix incorrect implementation of conditional user creation.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        28a3bba
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9ee131ca1fdb...28a3bba4c106
+Duration:      11 min 33 sec
+Started:       2019-11-02 23:24:31
+Finished:      2019-11-02 23:36:04
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

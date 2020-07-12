@@ -1,0 +1,12 @@
+Build #4194:  ci: test basic application response of the docker build
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3677)
+Commit:        5d4b572
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3677
+Duration:      2 min 49 sec
+Started:       2019-12-25 00:14:34
+Finished:      2019-12-25 00:16:05
+
+#4194.1 passed:  1 min 30 sec   os: linux, node_js: lts/*
+#4194.2 passed:  1 min 19 sec   os: linux, node_js: lts/*

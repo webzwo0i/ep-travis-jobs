@@ -1,0 +1,14 @@
+Build #5495:  socket.io bump to 2.3.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        166e137
+Compare URL:   https://github.com/ether/etherpad-lite/compare/512a51149d74...166e1371da86
+Duration:      25 min 46 sec
+Started:       2020-06-07 21:47:22
+Finished:      2020-06-07 22:07:36
+
+#5495.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5495.2 passed:  20 min 14 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5495.3 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5495.4 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

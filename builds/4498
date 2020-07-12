@@ -1,0 +1,12 @@
+Build #4498:  tests: future proof travis/runner.sh and make it more robust
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3789)
+Commit:        2dfecb9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3789
+Duration:      24 min 12 sec
+Started:       2020-03-29 23:56:29
+Finished:      2020-03-30 00:08:57
+
+#4498.1 errored: 11 min 45 sec  os: linux, node_js: lts/*, env:
+#4498.2 errored: 12 min 27 sec  os: linux, node_js: lts/*, env:

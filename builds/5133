@@ -1,0 +1,13 @@
+Build #5133:  doc: in the Docker example with custom plugins, replace ep_codepad -> ep_comments_page
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4816785
+Compare URL:   https://github.com/ether/etherpad-lite/compare/94921b53fddb...4816785aef45
+Duration:      14 min 37 sec
+Started:       2020-05-13 23:19:23
+Finished:      2020-05-13 23:31:27
+
+#5133.1 passed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5133.2 failed:  11 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5133.3 passed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

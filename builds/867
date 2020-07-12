@@ -1,0 +1,11 @@
+Job #867.1:  Merge pull request #1596 from ether/rtl-ltr-tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        830357c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/29d8482ce702...830357c81ce6
+Duration:      6 min 55 sec
+Started:       2013-03-06 16:03:39
+Finished:      2013-03-06 16:10:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

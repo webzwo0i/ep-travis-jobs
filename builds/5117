@@ -1,0 +1,13 @@
+Build #5117:  iframe attribute: move quote
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fda0d28
+Compare URL:   https://github.com/ether/etherpad-lite/compare/35f021705610...fda0d2884e90
+Duration:      14 min 33 sec
+Started:       2020-05-13 18:51:30
+Finished:      2020-05-13 19:03:01
+
+#5117.1 passed:  1 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5117.2 failed:  11 min 28 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5117.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #803.1:  Merge pull request #1523 from ether/store-sessions-in-db
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        18b6cf1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/57d923e82249...18b6cf1534fb
+Duration:      17 min 36 sec
+Started:       2013-02-27 03:04:37
+Finished:      2013-02-27 03:22:13
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

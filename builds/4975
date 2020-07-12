@@ -1,0 +1,13 @@
+Build #4975:  doc: remove old vendorized marked module and replace with 0.8.2
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        db77302
+Compare URL:   https://github.com/ether/etherpad-lite/compare/13dddde1d9cb...db7730288399
+Duration:      19 min 22 sec
+Started:       2020-04-24 02:25:14
+Finished:      2020-04-24 02:41:36
+
+#4975.1 passed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4975.2 failed:  16 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4975.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

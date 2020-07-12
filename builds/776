@@ -1,0 +1,11 @@
+Job #776.1:  resolve merge conflict
+State:         failed
+Type:          push
+Branch:        dont-lose-caret
+Commit:        4a98ec3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ab81b5cfe979...4a98ec3c23c9
+Duration:      7 min 24 sec
+Started:       2013-02-20 23:39:47
+Finished:      2013-02-20 23:47:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

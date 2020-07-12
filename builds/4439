@@ -1,0 +1,12 @@
+Build #4439:  wrkin
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        1f7b21f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 35 sec
+Started:       2020-03-28 17:11:25
+Finished:      2020-03-28 17:22:15
+
+#4439.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4439.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

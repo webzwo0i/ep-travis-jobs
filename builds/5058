@@ -1,0 +1,13 @@
+Build #5058:  more magic dust
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        c349ee9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 22 sec
+Started:       2020-05-01 14:47:09
+Finished:      2020-05-01 14:48:02
+
+#5058.1 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5058.2 errored: 52 sec         os: linux, node_js: lts/*, env:
+#5058.3 errored: 44 sec         os: linux, node_js: lts/*, env:

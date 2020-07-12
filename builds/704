@@ -1,0 +1,11 @@
+Job #704.1:  fix various issues dont stop random *'s appearing
+State:         failed
+Type:          push
+Branch:        export-txt-with-indent
+Commit:        d3f730e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/da246d183daa...d3f730e2ba06
+Duration:      6 min 59 sec
+Started:       2013-02-13 20:14:00
+Finished:      2013-02-13 20:20:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

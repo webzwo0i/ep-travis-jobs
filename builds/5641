@@ -1,0 +1,14 @@
+Build #5641:  time is in test.duration, not test.speed
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4161)
+Commit:        5464533
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4161
+Duration:      14 min 50 sec
+Started:       2020-07-10 22:06:12
+Finished:      2020-07-10 22:15:08
+
+#5641.1 passed:  8 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5641.2 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5641.3 failed:  2 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5641.4 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

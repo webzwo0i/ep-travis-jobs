@@ -1,0 +1,11 @@
+Job #3840.1:  Merge pull request #3478 from muxator/flatten-code
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        727fbc2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/07bc163cb698...727fbc26695e
+Duration:      11 min 37 sec
+Started:       2018-08-29 21:25:05
+Finished:      2018-08-29 21:36:42
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

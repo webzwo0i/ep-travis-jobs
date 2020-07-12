@@ -1,0 +1,11 @@
+Job #689.1:  dont die on bad html but only warn to api logger but dont tell client that it failed cause html was bad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1514)
+Commit:        5f59930
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1514
+Duration:      11 min
+Started:       2013-02-13 00:25:02
+Finished:      2013-02-13 00:36:02
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

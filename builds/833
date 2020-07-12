@@ -1,0 +1,11 @@
+Job #833.1:  Merge pull request #1578 from yourcelf/patch-2
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2b62e9a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/71f10bff5b4e...2b62e9a211e8
+Duration:      12 min 42 sec
+Started:       2013-03-03 22:35:11
+Finished:      2013-03-03 22:47:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

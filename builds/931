@@ -1,0 +1,11 @@
+Job #931.1:  Merge pull request #1629 from accolade/patch-1
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d26660b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a31605216fe7...d26660bce1b0
+Duration:      6 min 47 sec
+Started:       2013-03-16 17:17:27
+Finished:      2013-03-16 17:24:14
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

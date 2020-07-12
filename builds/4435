@@ -1,0 +1,11 @@
+Job #4435.1:  .git is not needed in docker image
+State:         passed
+Type:          pull request
+Branch:        master (PR #3776)
+Commit:        f0e2f81
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3776
+Duration:      1 min 30 sec
+Started:       2020-03-28 13:48:35
+Finished:      2020-03-28 13:50:05
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

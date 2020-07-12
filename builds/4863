@@ -1,0 +1,13 @@
+Build #4863:  switch back to 99 revs
+State:         errored
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        dfc7ea2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/00856377ff1c...dfc7ea26aceb
+Duration:      14 min 27 sec
+Started:       2020-04-19 16:10:53
+Finished:      2020-04-19 16:21:41
+
+#4863.1 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4863.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4863.3 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

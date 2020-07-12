@@ -1,0 +1,14 @@
+Build #5399:  housekeeping: Stale Github Issues (#4082)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        dfada2c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/76084820caaf...dfada2c04a84
+Duration:      25 min 56 sec
+Started:       2020-06-04 22:38:23
+Finished:      2020-06-04 22:59:26
+
+#5399.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5399.2 passed:  20 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5399.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5399.4 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

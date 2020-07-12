@@ -1,0 +1,12 @@
+Build #4474:  patch to handle some weird use case we discovered cant be replicated but may aswell do this here
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3785)
+Commit:        a5614b9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3785
+Duration:      21 min 31 sec
+Started:       2020-03-29 20:42:41
+Finished:      2020-03-29 20:53:29
+
+#4474.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4474.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env:

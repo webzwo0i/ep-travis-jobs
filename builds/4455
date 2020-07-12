@@ -1,0 +1,12 @@
+Build #4455:  package-lock.json: resync. This should have been part of 06d961f2b66d ("Checks MySQL for charset")
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2b753f1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a181ea8fbe9f...2b753f13ea3d
+Duration:      13 min 41 sec
+Started:       2020-03-29 01:46:26
+Finished:      2020-03-29 01:58:27
+
+#4455.1 failed:  12 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4455.2 passed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

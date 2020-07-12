@@ -1,0 +1,11 @@
+Job #770.1:  dont reset head count, use the one we should :)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1523)
+Commit:        d1b6d3c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1523
+Duration:      11 min
+Started:       2013-02-19 03:07:07
+Finished:      2013-02-19 03:18:07
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

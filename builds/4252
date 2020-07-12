@@ -1,0 +1,12 @@
+Build #4252:  properly formatted emojis file and test nearly working
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3737)
+Commit:        5282bcb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3737
+Duration:      2 min 47 sec
+Started:       2020-03-20 22:21:53
+Finished:      2020-03-20 22:23:21
+
+#4252.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env:
+#4252.2 passed:  1 min 19 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #634.1:  dont use HTML filter hooks on txt export
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1491)
+Commit:        cf96152
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1491
+Duration:      10 min 56 sec
+Started:       2013-02-10 20:39:33
+Finished:      2013-02-10 20:50:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3976.1:  Chat bubble: by default hide in CSS
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3595)
+Commit:        84bbdcb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3595
+Duration:      1 min 31 sec
+Started:       2019-04-15 12:25:10
+Finished:      2019-04-15 12:26:41
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

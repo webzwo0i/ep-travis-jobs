@@ -1,0 +1,13 @@
+Build #4649:  actually working better
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3827)
+Commit:        8510243
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3827
+Duration:      2 min 19 sec
+Started:       2020-04-04 21:20:31
+Finished:      2020-04-04 21:21:21
+
+#4649.1 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4649.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4649.3 errored: 44 sec         os: linux, node_js: lts/*, env:

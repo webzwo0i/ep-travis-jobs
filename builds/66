@@ -1,0 +1,11 @@
+Job #66.1:  Test for PR 1188
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2260b1f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4fb46c0063e2...2260b1fc6282
+Duration:      9 min 16 sec
+Started:       2012-11-21 18:54:22
+Finished:      2012-11-21 19:03:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

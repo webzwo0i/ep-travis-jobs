@@ -1,0 +1,11 @@
+Job #98.1:  fix timeslider rightstep button position
+State:         failed
+Type:          pull request
+Branch:        develop (PR #)
+Commit:        cd71092
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1215
+Duration:      12 min 53 sec
+Started:       2012-11-26 09:01:44
+Finished:      2012-11-26 09:14:37
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #4044.1:  package.json: reduced npm minimum version here, too (6.4.1 -> 5.5.1)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f3a80e0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4f753809fe13...f3a80e0eda0e
+Duration:      11 min 36 sec
+Started:       2019-10-20 01:13:12
+Finished:      2019-10-20 01:24:48
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

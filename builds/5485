@@ -1,0 +1,14 @@
+Build #5485:  attempt to restore package files
+State:         failed
+Type:          push
+Branch:        replace-package-files
+Commit:        0fc69b1
+Compare URL:   https://github.com/ether/etherpad-lite/commit/0fc69b1b612a
+Duration:      5 min 55 sec
+Started:       2020-06-07 16:49:25
+Finished:      2020-06-07 16:50:37
+
+#5485.1 failed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5485.2 failed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5485.3 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5485.4 failed:  1 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

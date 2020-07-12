@@ -1,0 +1,11 @@
+Job #3636.1:  fix jsonp checking.
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3321)
+Commit:        e965c93
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3321
+Duration:      1 min 40 sec
+Started:       2018-02-07 09:49:17
+Finished:      2018-02-07 09:50:57
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

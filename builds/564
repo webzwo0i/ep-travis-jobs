@@ -1,0 +1,11 @@
+Job #564.1:  Merge pull request #1460 from ether/timeslider-labels
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7bf8dad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/488ebc20a4a3...7bf8dad6f993
+Duration:      12 min 58 sec
+Started:       2013-02-07 03:28:52
+Finished:      2013-02-07 03:41:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

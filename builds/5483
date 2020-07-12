@@ -1,0 +1,14 @@
+Build #5483:  staleCode: Async update
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        009e1d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0669280af063...009e1d01f70a
+Duration:      3 min 9 sec
+Started:       2020-06-07 15:57:09
+Finished:      2020-06-07 15:59:09
+
+#5483.1 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5483.2 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5483.3 failed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5483.4 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

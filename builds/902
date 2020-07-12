@@ -1,0 +1,11 @@
+Job #902.1:  Merge pull request #1615 from ether/fix/admin-relative-links
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        f0dee2d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/10231db10336...f0dee2d2ceaf
+Duration:      7 min 30 sec
+Started:       2013-03-14 16:02:20
+Finished:      2013-03-14 16:09:50
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

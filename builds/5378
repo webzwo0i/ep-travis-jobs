@@ -1,0 +1,14 @@
+Build #5378:  drop uglifyJS due to lack of EC6 support
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4075)
+Commit:        f7ac8f9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4075
+Duration:      2 min 43 sec
+Started:       2020-06-02 14:36:00
+Finished:      2020-06-02 14:36:47
+
+#5378.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5378.2 errored: 34 sec         os: linux, node_js: lts/*, env:
+#5378.3 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5378.4 errored: 44 sec         os: linux, node_js: lts/*, env:

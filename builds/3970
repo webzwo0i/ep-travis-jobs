@@ -1,0 +1,11 @@
+Job #3970.1:  Fix typos in docker/Dockerfile
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3588)
+Commit:        d64e32d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3588
+Duration:      1 min 50 sec
+Started:       2019-03-30 01:12:15
+Finished:      2019-03-30 01:14:05
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

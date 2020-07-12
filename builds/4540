@@ -1,0 +1,12 @@
+Build #4540:  ui: initialize color picker with the user's color
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3730)
+Commit:        b6a4a9d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3730
+Duration:      21 min 30 sec
+Started:       2020-04-01 02:32:13
+Finished:      2020-04-01 02:43:01
+
+#4540.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4540.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env:

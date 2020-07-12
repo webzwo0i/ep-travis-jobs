@@ -1,0 +1,12 @@
+Build #4605:  package-lock: restore baseline package-lock.json after 4db91cb2ed1a
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3e3b0de
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0a606de44a4c...3e3b0dec97ba
+Duration:      13 min 6 sec
+Started:       2020-04-02 23:35:30
+Finished:      2020-04-02 23:46:55
+
+#4605.1 failed:  11 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4605.2 passed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

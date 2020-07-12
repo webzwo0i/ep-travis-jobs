@@ -1,0 +1,11 @@
+Job #400.1:  Merge pull request #1376 from t-8ch/patch-2
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b282547
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0a06b07f7d7f...b282547dbf06
+Duration:      6 min 28 sec
+Started:       2013-01-20 14:43:20
+Finished:      2013-01-20 14:49:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

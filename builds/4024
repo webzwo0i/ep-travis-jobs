@@ -1,0 +1,11 @@
+Job #4024.1:  jQuery: update vendored version (1.9.1 -> 1.12.4)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5eb60ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b3d8f857b718...5eb60cef01c8
+Duration:      11 min 35 sec
+Started:       2019-09-16 23:09:38
+Finished:      2019-09-16 23:21:13
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

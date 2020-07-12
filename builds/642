@@ -1,0 +1,11 @@
+Job #642.1:  Windows and Mobile tests should be case insensitive
+State:         failed
+Type:          push
+Branch:        feature/browserTests
+Commit:        25fd3c5
+Compare URL:   https://github.com/ether/etherpad-lite/commit/25fd3c59019d
+Duration:      7 min 39 sec
+Started:       2013-02-10 23:13:43
+Finished:      2013-02-10 23:21:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

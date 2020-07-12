@@ -1,0 +1,11 @@
+Job #3649.1:  specify python version
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3331)
+Commit:        880f5cb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3331
+Duration:      2 min 12 sec
+Started:       2018-02-25 16:28:32
+Finished:      2018-02-25 16:30:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

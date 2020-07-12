@@ -1,0 +1,11 @@
+Job #3909.1:  added a new line
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3526)
+Commit:        878b435
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3526
+Duration:      1 min 20 sec
+Started:       2018-12-13 08:57:40
+Finished:      2018-12-13 08:59:00
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,13 @@
+Build #5288:  hopefully final commit for tihs problem
+State:         failed
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        7c45e38
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3003ecb71473...7c45e38d5ae8
+Duration:      20 min 20 sec
+Started:       2020-05-29 13:25:37
+Finished:      2020-05-29 13:42:41
+
+#5288.1 failed:  1 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5288.2 passed:  17 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5288.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

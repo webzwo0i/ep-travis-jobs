@@ -1,0 +1,11 @@
+Job #4579.1:  trying it this way
+State:         failed
+Type:          push
+Branch:        backend-test-runner
+Commit:        a1dc28e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/22688efc369c...a1dc28e720bb
+Duration:      1 min 8 sec
+Started:       2020-04-01 16:40:44
+Finished:      2020-04-01 16:41:52
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

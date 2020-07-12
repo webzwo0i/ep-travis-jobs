@@ -1,0 +1,13 @@
+Build #4716:  settings: "http://etherpad.org" -> "https://etherpad.org" in the default text of a pad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6cba0f1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/963d12e61470...6cba0f1dc57c
+Duration:      15 min 6 sec
+Started:       2020-04-09 03:56:30
+Finished:      2020-04-09 04:08:03
+
+#4716.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4716.2 failed:  11 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4716.3 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

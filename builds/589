@@ -1,0 +1,11 @@
+Job #589.1:  it's time to move on
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1474)
+Commit:        83294b4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1474
+Duration:      11 min 2 sec
+Started:       2013-02-09 17:57:11
+Finished:      2013-02-09 18:08:13
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

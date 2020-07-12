@@ -1,0 +1,11 @@
+Job #813.1:  stop the client disconnecting of the server sends out a bad revision #, this is very dangerous, the server really shouldn't be sending the same rev #, we could really do with some strong tests case that cover this.  Either way this commit 'resolves' #1510
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1568)
+Commit:        93372ce
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1568
+Duration:      10 min 52 sec
+Started:       2013-02-27 20:32:13
+Finished:      2013-02-27 20:43:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

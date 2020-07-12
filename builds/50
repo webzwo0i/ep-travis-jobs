@@ -1,0 +1,11 @@
+Job #50.1:  encrypted the key again, please travis accept this
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a7e6c6b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/323517c6dc4b...a7e6c6b0abd6
+Duration:      6 min 42 sec
+Started:       2012-11-19 14:53:48
+Finished:      2012-11-19 15:00:30
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

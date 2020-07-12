@@ -1,0 +1,11 @@
+Job #56.1:  Clarify English strings and rephrase some stupid-sounding messages.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4053ab2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/383e1fb604f4...4053ab2dfa6f
+Duration:      7 min 51 sec
+Started:       2012-11-20 21:35:24
+Finished:      2012-11-20 21:43:15
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

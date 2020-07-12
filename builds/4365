@@ -1,0 +1,12 @@
+Build #4365:  scroll tests need seperately looking at
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        2a28489
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b2a5c7bffcfd...2a284895cb50
+Duration:      21 min 29 sec
+Started:       2020-03-23 15:23:43
+Finished:      2020-03-23 15:34:28
+
+#4365.1 errored: 10 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4365.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

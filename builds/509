@@ -1,0 +1,11 @@
+Job #509.1:  make tinycon update on all chat messages not just ones that mention your name
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1426)
+Commit:        485533a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1426
+Duration:      10 min 56 sec
+Started:       2013-01-29 13:11:27
+Finished:      2013-01-29 13:22:23
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

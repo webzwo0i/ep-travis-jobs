@@ -1,0 +1,13 @@
+Build #5296:  dont spam log with curl request
+State:         canceled
+Type:          push
+Branch:        backend-test
+Commit:        23c2c43
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5bfb8f45a7ab...23c2c4340bcc
+Duration:      23 min 17 sec
+Started:       2020-05-29 14:18:21
+Finished:      2020-05-29 14:29:16
+
+#5296.1 errored: 10 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5296.2 canceled: 10 min 55 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5296.3 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

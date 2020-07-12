@@ -1,0 +1,11 @@
+Job #4034.1:  docker: reformat docker/settings.json to keep it close to setting.json.template
+State:         passed
+Type:          push
+Branch:        docker_env_settings
+Commit:        54dec96
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e37c0548ce83^...54dec962b6d3
+Duration:      21 min 32 sec
+Started:       2019-10-18 22:55:00
+Finished:      2019-10-18 23:16:32
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

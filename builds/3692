@@ -1,0 +1,11 @@
+Job #3692.1:  Fix line-wrapping in WebKit
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3364)
+Commit:        b71f0a0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3364
+Duration:      1 min 40 sec
+Started:       2018-04-05 22:53:48
+Finished:      2018-04-05 22:55:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

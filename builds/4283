@@ -1,0 +1,12 @@
+Build #4283:  trying again...
+State:         passed
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        4675b0d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bad2d9e3136a...4675b0d5eb80
+Duration:      13 min 35 sec
+Started:       2020-03-22 13:13:22
+Finished:      2020-03-22 13:25:24
+
+#4283.1 passed:  12 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4283.2 passed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

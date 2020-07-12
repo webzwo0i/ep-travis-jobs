@@ -1,0 +1,11 @@
+Job #500.1:  Added a test to check the export-url
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1418)
+Commit:        62804e3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1418
+Duration:      5 sec
+Started:       2013-01-28 22:00:35
+Finished:      2013-01-28 22:00:40
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

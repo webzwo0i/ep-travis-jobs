@@ -1,0 +1,11 @@
+Job #723.1:  Moved semver logic to API.
+State:         errored
+Type:          pull request
+Branch:        dont-die-on-bad-html (PR #1528)
+Commit:        0e14816
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1528
+Duration:      10 min 52 sec
+Started:       2013-02-16 13:38:27
+Finished:      2013-02-16 13:49:19
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

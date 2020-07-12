@@ -1,0 +1,13 @@
+Build #5262:  more fixes for showchat
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4049)
+Commit:        e7f05c6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4049
+Duration:      1 min 13 sec
+Started:       2020-05-28 16:18:13
+Finished:      2020-05-28 16:18:42
+
+#5262.1 errored: 24 sec         os: linux, node_js: lts/*, env:
+#5262.2 errored: 25 sec         os: linux, node_js: lts/*, env:
+#5262.3 errored: 24 sec         os: linux, node_js: lts/*, env:

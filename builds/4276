@@ -1,0 +1,12 @@
+Build #4276:  explicit tunnel version URI as latest was failing..
+State:         passed
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        e1c58a4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/003dacecfb19...e1c58a4844ec
+Duration:      13 min 35 sec
+Started:       2020-03-22 12:17:24
+Finished:      2020-03-22 12:29:21
+
+#4276.1 passed:  11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4276.2 passed:  1 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

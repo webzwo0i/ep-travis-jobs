@@ -1,0 +1,14 @@
+Build #5344:  tests: include mocha froth in package lock and better syntax for package.json
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8deac52
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dc11b85e62b6...8deac52c8492
+Duration:      26 min 2 sec
+Started:       2020-06-01 18:36:04
+Finished:      2020-06-01 18:56:49
+
+#5344.1 failed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5344.2 passed:  20 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5344.3 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5344.4 failed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #4097:  WORKDIR chown
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3677)
+Commit:        c0cad98
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3677
+Duration:      1 min 59 sec
+Started:       2019-12-01 22:28:50
+Finished:      2019-12-01 22:30:19
+
+#4097.1 passed:  1 min 29 sec   os: linux, node_js: lts/*
+#4097.2 failed:  30 sec         os: linux, node_js: lts/*

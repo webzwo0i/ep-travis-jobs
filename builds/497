@@ -1,0 +1,11 @@
+Job #497.1:  Renamed paramSettings to getParameters, to cause less confusion
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1413)
+Commit:        4fb9130
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1413
+Duration:      11 min
+Started:       2013-01-28 20:36:08
+Finished:      2013-01-28 20:47:08
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

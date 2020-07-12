@@ -1,0 +1,11 @@
+Job #935.1:  better mobile support for gritter messages, before it was awful
+State:         failed
+Type:          push
+Branch:        mobile-msg-css
+Commit:        693b9b9
+Compare URL:   https://github.com/ether/etherpad-lite/commit/693b9b9b9449
+Duration:      7 min 44 sec
+Started:       2013-03-17 02:26:17
+Finished:      2013-03-17 02:34:01
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

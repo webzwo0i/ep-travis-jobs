@@ -1,0 +1,13 @@
+Build #4726:  Merge branch 'develop' of github.com:JohnMcLear/etherpad-lite into cccoverage
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3846)
+Commit:        33f460d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3846
+Duration:      2 min 17 sec
+Started:       2020-04-09 11:17:25
+Finished:      2020-04-09 11:18:15
+
+#4726.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4726.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4726.3 errored: 44 sec         os: linux, node_js: lts/*, env:

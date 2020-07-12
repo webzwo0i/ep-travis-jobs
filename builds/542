@@ -1,0 +1,11 @@
+Job #542.1:  Make async and cleaner
+State:         failed
+Type:          push
+Branch:        allow-plugins-to-specify-specs
+Commit:        da0b331
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0ff9f53297d1...da0b331502a8
+Duration:      8 min 52 sec
+Started:       2013-02-04 01:02:28
+Finished:      2013-02-04 01:11:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

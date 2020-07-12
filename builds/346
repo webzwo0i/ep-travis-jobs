@@ -1,0 +1,11 @@
+Job #346.1:  Added tests
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1334)
+Commit:        6bb57d0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1334
+Duration:      13 min 7 sec
+Started:       2013-01-13 10:40:15
+Finished:      2013-01-13 10:53:22
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,14 @@
+Build #5432:  refactor
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3839)
+Commit:        9d885e9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3839
+Duration:      2 min 49 sec
+Started:       2020-06-06 12:04:05
+Finished:      2020-06-06 12:04:54
+
+#5432.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5432.2 errored: 38 sec         os: linux, node_js: lts/*, env:
+#5432.3 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5432.4 errored: 47 sec         os: linux, node_js: lts/*, env:

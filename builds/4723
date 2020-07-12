@@ -1,0 +1,13 @@
+Build #4723:  Use worker threads to minify JS/CSS files
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3823)
+Commit:        5d163a9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3823
+Duration:      2 min 11 sec
+Started:       2020-04-09 08:55:50
+Finished:      2020-04-09 08:56:46
+
+#4723.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4723.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4723.3 errored: 42 sec         os: linux, node_js: lts/*, env:

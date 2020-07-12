@@ -1,0 +1,14 @@
+Build #5454:  Revert "tests: testing parallel runners"
+State:         passed
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        d292ed6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f18d3f7c4602...d292ed667825
+Duration:      26 min 7 sec
+Started:       2020-06-07 00:30:30
+Finished:      2020-06-07 00:52:04
+
+#5454.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5454.2 passed:  20 min 59 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5454.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5454.4 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

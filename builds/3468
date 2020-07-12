@@ -1,0 +1,11 @@
+Job #3468.1:  replace not only one wildcard and replace % too
+State:         passed
+Type:          push
+Branch:        fix/export-wildcards
+Commit:        8786903
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d87cc904384f^...8786903230de
+Duration:      5 min 11 sec
+Started:       2017-04-16 03:00:37
+Finished:      2017-04-16 03:05:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

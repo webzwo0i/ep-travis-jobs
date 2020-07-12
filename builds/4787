@@ -1,0 +1,13 @@
+Build #4787:  colibris: fix coloring text when authorship background color is activated #3641
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        d14318d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      2 min 22 sec
+Started:       2020-04-16 08:23:40
+Finished:      2020-04-16 08:24:37
+
+#4787.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4787.2 errored: 56 sec         os: linux, node_js: lts/*, env:
+#4787.3 errored: 45 sec         os: linux, node_js: lts/*, env:

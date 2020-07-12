@@ -1,0 +1,13 @@
+Build #5140:  like #2998 : fix ueberdb module path
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4005)
+Commit:        0f22b55
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4005
+Duration:      2 min 11 sec
+Started:       2020-05-14 20:30:46
+Finished:      2020-05-14 20:31:35
+
+#5140.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5140.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#5140.3 errored: 41 sec         os: linux, node_js: lts/*, env:

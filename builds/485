@@ -1,0 +1,11 @@
+Job #485.1:  Merge pull request #1412 from ether/fix-doc-build
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        189f434
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e81103730012...189f4347b1ca
+Duration:      4 min 1 sec
+Started:       2013-01-27 18:09:36
+Finished:      2013-01-27 18:13:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

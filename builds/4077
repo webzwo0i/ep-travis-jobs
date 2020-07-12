@@ -1,0 +1,11 @@
+Job #4077.1:  docker: incorporate the docker docs into the official documentation
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        76c1055
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dd164decbdf7...76c1055186a3
+Duration:      11 min 43 sec
+Started:       2019-11-14 19:33:26
+Finished:      2019-11-14 19:45:09
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

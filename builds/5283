@@ -1,0 +1,13 @@
+Build #5283:  debugging error when importing jquery
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4041)
+Commit:        5d37ccd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4041
+Duration:      2 min 2 sec
+Started:       2020-05-29 11:54:59
+Finished:      2020-05-29 11:55:43
+
+#5283.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#5283.2 errored: 39 sec         os: linux, node_js: lts/*, env:
+#5283.3 errored: 41 sec         os: linux, node_js: lts/*, env:

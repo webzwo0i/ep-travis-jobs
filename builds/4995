@@ -1,0 +1,13 @@
+Build #4995:  pad.js: in switchToPad() remove the first iframe before loading the pad
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c9a9b7a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a471dbeebfb9...c9a9b7ae42af
+Duration:      14 min 29 sec
+Started:       2020-04-26 03:31:22
+Finished:      2020-04-26 03:42:44
+
+#4995.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4995.2 failed:  11 min 22 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4995.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

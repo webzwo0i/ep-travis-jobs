@@ -1,0 +1,11 @@
+Job #3744.1:  Update settings.json.template
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3391)
+Commit:        d0561ef
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3391
+Duration:      1 min 41 sec
+Started:       2018-05-11 01:11:22
+Finished:      2018-05-11 01:13:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,13 @@
+Build #4860:  fsk it, removing the damn scroll tests (#3897)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c0b9575
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6466ecae933c...c0b9575e190b
+Duration:      9 min 22 sec
+Started:       2020-04-19 15:26:22
+Finished:      2020-04-19 15:33:13
+
+#4860.1 passed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4860.2 failed:  6 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4860.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

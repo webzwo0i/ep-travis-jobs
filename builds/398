@@ -1,0 +1,11 @@
+Job #398.1:  Merge pull request #1377 from mluto/add-users-block
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0a06b07
+Compare URL:   https://github.com/ether/etherpad-lite/compare/74c86da0ae38...0a06b07f7d7f
+Duration:      6 min 27 sec
+Started:       2013-01-20 14:35:55
+Finished:      2013-01-20 14:42:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

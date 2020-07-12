@@ -1,0 +1,11 @@
+Job #720.1:  dont lose focus on key up, doesn't work yet
+State:         failed
+Type:          push
+Branch:        dont-lose-caret
+Commit:        140ff6f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/14dca926927b...140ff6f1bf06
+Duration:      7 min 1 sec
+Started:       2013-02-15 13:25:17
+Finished:      2013-02-15 13:32:18
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

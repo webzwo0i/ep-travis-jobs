@@ -1,0 +1,14 @@
+Build #5593:  remove script in .travis.yml because we run it explicitly in the job description. make sauce_connect verbose
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        125ba31
+Compare URL:   https://github.com/ether/etherpad-lite/compare/88fb0fa44f3c...125ba310feb8
+Duration:      14 min 37 sec
+Started:       2020-07-09 20:51:28
+Finished:      2020-07-09 21:02:00
+
+#5593.1 errored: 10 min 32 sec  os: linux, node_js: lts/*
+#5593.2 passed:  51 sec         os: linux, node_js: lts/*
+#5593.3 failed:  1 min 43 sec   os: linux, node_js: lts/*
+#5593.4 passed:  1 min 31 sec   os: linux, node_js: lts/*

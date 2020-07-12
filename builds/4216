@@ -1,0 +1,12 @@
+Build #4216:  Fixed typo in en i18n
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3712)
+Commit:        263e028
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3712
+Duration:      2 min 37 sec
+Started:       2020-03-15 02:41:07
+Finished:      2020-03-15 02:42:31
+
+#4216.1 passed:  1 min 24 sec   os: linux, node_js: lts/*, env:
+#4216.2 passed:  1 min 13 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,14 @@
+Build #5370:  editor: fix the wrong URL when we use etherpad without /p/ in the URL (#4070)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f45d85f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b1e50ab83590...f45d85f615f3
+Duration:      25 min 25 sec
+Started:       2020-06-02 00:19:33
+Finished:      2020-06-02 00:21:23
+
+#5370.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5370.2 passed:  20 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5370.3 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5370.4 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

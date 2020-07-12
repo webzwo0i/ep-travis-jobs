@@ -1,0 +1,13 @@
+Build #5304:  testing: New chrome testing hack slash workaround (#4055)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        59b54b4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2011c24f5727...59b54b477200
+Duration:      8 min 52 sec
+Started:       2020-05-29 18:34:51
+Finished:      2020-05-29 18:40:38
+
+#5304.1 passed:  1 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5304.2 passed:  5 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5304.3 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

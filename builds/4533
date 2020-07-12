@@ -1,0 +1,12 @@
+Build #4533:  interesting discovery RE 3612 and 2802
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3799)
+Commit:        5bd8e75
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3799
+Duration:      21 min 34 sec
+Started:       2020-03-31 12:09:47
+Finished:      2020-03-31 12:20:37
+
+#4533.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env:
+#4533.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

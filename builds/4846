@@ -1,0 +1,13 @@
+Build #4846:  fix scroll tests...  again
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3891)
+Commit:        1b50e47
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3891
+Duration:      2 min 20 sec
+Started:       2020-04-19 13:59:56
+Finished:      2020-04-19 14:01:41
+
+#4846.1 errored: 52 sec         os: linux, node_js: lts/*, env:
+#4846.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4846.3 errored: 41 sec         os: linux, node_js: lts/*, env:

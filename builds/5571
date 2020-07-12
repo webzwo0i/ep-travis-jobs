@@ -1,0 +1,13 @@
+Build #5571:  remove some debug logging
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4141)
+Commit:        e2a03f7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4141
+Duration:      4 min 11 sec
+Started:       2020-06-27 20:09:34
+Finished:      2020-06-27 20:11:42
+
+#5571.1 passed:  1 min 8 sec    os: linux, node_js: lts/*, env:
+#5571.2 failed:  1 min 32 sec   os: linux, node_js: lts/*, env:
+#5571.3 passed:  1 min 31 sec   os: linux, node_js: lts/*, env:

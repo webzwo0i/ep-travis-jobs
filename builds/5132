@@ -1,0 +1,11 @@
+Job #5132.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into getattrselectionlogic
+State:         errored
+Type:          push
+Branch:        getattrselectionlogic
+Commit:        4b80119
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c23525465d84^...4b80119546f9
+Duration:      20 sec
+Started:       2020-05-13 23:19:20
+Finished:      2020-05-13 23:19:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

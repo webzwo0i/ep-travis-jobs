@@ -1,0 +1,12 @@
+Build #4485:  test: this should fail abruptly, but will not.
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        3559442
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      23 min 35 sec
+Started:       2020-03-29 22:39:58
+Finished:      2020-03-29 23:01:50
+
+#4485.1 failed:  21 min 52 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4485.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

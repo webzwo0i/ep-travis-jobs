@@ -1,0 +1,11 @@
+Job #3756.1:  Merge branch 'html_export_fix' into develop
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3408)
+Commit:        5cc8796
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3408
+Duration:      1 min 44 sec
+Started:       2018-06-21 23:14:19
+Finished:      2018-06-21 23:16:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

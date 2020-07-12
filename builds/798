@@ -1,0 +1,11 @@
+Job #798.1:  remove console error
+State:         failed
+Type:          push
+Branch:        callback-for-delete-script
+Commit:        ea4307a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1fd99bfd4396^...ea4307ae9748
+Duration:      7 min 33 sec
+Started:       2013-02-27 01:29:23
+Finished:      2013-02-27 01:36:56
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

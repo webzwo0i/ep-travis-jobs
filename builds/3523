@@ -1,0 +1,11 @@
+Job #3523.1:  Fix typos in docs
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3223)
+Commit:        f2e7aae
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3223
+Duration:      10 min 51 sec
+Started:       2017-07-22 22:16:08
+Finished:      2017-07-22 22:26:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

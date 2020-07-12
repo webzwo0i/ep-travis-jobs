@@ -1,0 +1,11 @@
+Job #3480.1:  Fix links to README.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3188)
+Commit:        24d1cd2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3188
+Duration:      10 min 54 sec
+Started:       2017-05-09 07:31:04
+Finished:      2017-05-09 07:41:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

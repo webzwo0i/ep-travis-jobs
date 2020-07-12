@@ -1,0 +1,13 @@
+Build #4866:  comment out the attribute tests for now
+State:         failed
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        3967e50
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dfc7ea26aceb...3967e50b584f
+Duration:      9 min 27 sec
+Started:       2020-04-19 16:49:31
+Finished:      2020-04-19 16:55:38
+
+#4866.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4866.2 failed:  6 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4866.3 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

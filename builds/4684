@@ -1,0 +1,13 @@
+Build #4684:  customError: rewrite the module using class syntax
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3edd727
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e6251687bf6f...3edd727a943c
+Duration:      14 min 45 sec
+Started:       2020-04-07 02:03:38
+Finished:      2020-04-07 02:15:22
+
+#4684.1 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4684.2 failed:  11 min 34 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4684.3 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

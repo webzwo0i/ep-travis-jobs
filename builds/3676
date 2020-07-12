@@ -1,0 +1,11 @@
+Job #3676.1:  Merge pull request #3197 from User1m/patch-1
+State:         passed
+Type:          push
+Branch:        master
+Commit:        bb83d39
+Compare URL:   https://github.com/ether/etherpad-lite/compare/89ad3cb809c9...bb83d39ff009
+Duration:      19 min 58 sec
+Started:       2018-04-03 14:25:48
+Finished:      2018-04-03 14:45:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

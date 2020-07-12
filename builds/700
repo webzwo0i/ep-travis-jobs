@@ -1,0 +1,11 @@
+Job #700.1:  Merge pull request #1512 from disy-mk/patch-3
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        602d603
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a4e5adab3e42...602d60365845
+Duration:      7 min 11 sec
+Started:       2013-02-13 13:16:00
+Finished:      2013-02-13 13:23:11
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

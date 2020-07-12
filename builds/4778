@@ -1,0 +1,13 @@
+Build #4778:  dont allow edits during reconnectin...
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3868)
+Commit:        f9ef7e7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3868
+Duration:      2 min 17 sec
+Started:       2020-04-14 20:58:15
+Finished:      2020-04-14 20:59:03
+
+#4778.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4778.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4778.3 errored: 47 sec         os: linux, node_js: lts/*, env:

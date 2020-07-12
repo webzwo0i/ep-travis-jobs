@@ -1,0 +1,11 @@
+Job #470.1:  typo fix
+State:         failed
+Type:          push
+Branch:        admin-css-fix
+Commit:        1290fa3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9d0672c1c811...1290fa36c3b3
+Duration:      6 min 29 sec
+Started:       2013-01-26 21:08:07
+Finished:      2013-01-26 21:14:36
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

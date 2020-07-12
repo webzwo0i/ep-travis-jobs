@@ -1,0 +1,14 @@
+Build #5363:  Docker: Abort image build when `npm install` fails (#4026)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        a4713a8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/07c73d4f2d31...a4713a830803
+Duration:      33 min 12 sec
+Started:       2020-06-01 21:16:48
+Finished:      2020-06-01 21:36:03
+
+#5363.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5363.2 errored: 19 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5363.3 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5363.4 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

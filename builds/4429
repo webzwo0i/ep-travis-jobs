@@ -1,0 +1,12 @@
+Build #4429:  Better test color in test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3730)
+Commit:        0ad9936
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3730
+Duration:      21 min 38 sec
+Started:       2020-03-27 23:46:21
+Finished:      2020-03-27 23:57:15
+
+#4429.1 errored: 10 min 53 sec  os: linux, node_js: lts/*, env:
+#4429.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

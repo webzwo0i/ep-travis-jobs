@@ -1,0 +1,12 @@
+Build #4273:  initial commit
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3717)
+Commit:        798cee5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3717
+Duration:      2 min 46 sec
+Started:       2020-03-22 02:56:58
+Finished:      2020-03-22 02:58:24
+
+#4273.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env:
+#4273.2 passed:  1 min 20 sec   os: linux, node_js: lts/*, env:

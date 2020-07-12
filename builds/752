@@ -1,0 +1,11 @@
+Job #752.1:  dont exposrt sendSocketMs
+State:         errored
+Type:          push
+Branch:        expose-socket-timeslider
+Commit:        7fcc717
+Compare URL:   https://github.com/ether/etherpad-lite/compare/75fd27998e81...7fcc71710fc2
+Duration:      11 min 49 sec
+Started:       2013-02-18 20:00:47
+Finished:      2013-02-18 20:12:36
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

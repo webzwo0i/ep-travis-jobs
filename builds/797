@@ -1,0 +1,11 @@
+Job #797.1:  Merge pull request #1559 from ether/url-report
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        80be45a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ad82c8d7549a...80be45ad71fb
+Duration:      7 min 19 sec
+Started:       2013-02-26 14:27:44
+Finished:      2013-02-26 14:35:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

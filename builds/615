@@ -1,0 +1,11 @@
+Job #615.1:  Merge pull request #1489 from marcelklehr/feature/log-client-ips
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        3760b97
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2634e8120a39...3760b97170f6
+Duration:      6 min 46 sec
+Started:       2013-02-10 16:10:58
+Finished:      2013-02-10 16:17:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

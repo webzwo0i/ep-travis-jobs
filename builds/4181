@@ -1,0 +1,11 @@
+Job #4181.1:  fixes #2945
+State:         errored
+Type:          push
+Branch:        fixes-2945
+Commit:        d545630
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fixes-2945
+Duration:      10 min 56 sec
+Started:       2019-12-07 20:49:50
+Finished:      2019-12-07 21:00:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

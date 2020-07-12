@@ -1,0 +1,14 @@
+Build #5532:  Remove unnecessary robots.txt entry
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4113)
+Commit:        4e6ac01
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4113
+Duration:      25 min 23 sec
+Started:       2020-06-13 02:10:58
+Finished:      2020-06-13 02:32:13
+
+#5532.1 passed:  21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5532.2 passed:  1 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5532.3 failed:  1 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5532.4 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

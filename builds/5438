@@ -1,0 +1,14 @@
+Build #5438:  Revert "tests: updating mocha and refactoring the custom html reporter using events"
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2ce7983
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e0ae5010adc2...2ce798339d42
+Duration:      13 min 23 sec
+Started:       2020-06-06 22:28:56
+Finished:      2020-06-06 22:37:09
+
+#5438.1 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5438.2 failed:  8 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5438.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5438.4 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

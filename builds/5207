@@ -1,0 +1,13 @@
+Build #5207:  Testing: Add and test padPrefs for helper.newPad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4042)
+Commit:        89dfc68
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4042
+Duration:      2 min 10 sec
+Started:       2020-05-25 20:44:08
+Finished:      2020-05-25 20:44:55
+
+#5207.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5207.2 errored: 44 sec         os: linux, node_js: lts/*, env:
+#5207.3 errored: 42 sec         os: linux, node_js: lts/*, env:

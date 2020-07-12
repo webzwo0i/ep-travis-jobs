@@ -1,0 +1,12 @@
+Build #4600:  fix colibris skin after refactor
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3744)
+Commit:        b2fc650
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3744
+Duration:      21 min 32 sec
+Started:       2020-04-02 08:03:08
+Finished:      2020-04-02 08:14:10
+
+#4600.1 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:
+#4600.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #3712.1:  Escape data when listing available plugins
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        92eee85
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5b1e1f0c3556...92eee85f3619
+Duration:      2 min 3 sec
+Started:       2018-04-09 22:32:27
+Finished:      2018-04-09 22:34:30
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

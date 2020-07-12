@@ -1,0 +1,13 @@
+Build #4740:  more tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3846)
+Commit:        09a6115
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3846
+Duration:      2 min 20 sec
+Started:       2020-04-12 12:20:54
+Finished:      2020-04-12 12:21:44
+
+#4740.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4740.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4740.3 errored: 47 sec         os: linux, node_js: lts/*, env:

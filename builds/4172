@@ -1,0 +1,11 @@
+Job #4172.1:  pass error messages to pad text if shown during startup
+State:         errored
+Type:          push
+Branch:        warnings-in-pad-contents
+Commit:        3a969f8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/warnings-in-pad-contents
+Duration:      10 min 52 sec
+Started:       2019-12-07 20:29:36
+Finished:      2019-12-07 20:40:28
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

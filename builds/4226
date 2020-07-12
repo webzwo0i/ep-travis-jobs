@@ -1,0 +1,12 @@
+Build #4226:  fix for #3710
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3722)
+Commit:        7aeb9e4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3722
+Duration:      2 min 44 sec
+Started:       2020-03-16 20:00:14
+Finished:      2020-03-16 20:01:41
+
+#4226.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env:
+#4226.2 passed:  1 min 18 sec   os: linux, node_js: lts/*, env:

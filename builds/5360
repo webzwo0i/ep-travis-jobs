@@ -1,0 +1,14 @@
+Build #5360:  tests: path to request require fix
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4497d37
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f84837ef9b67...4497d37af9cc
+Duration:      24 min 42 sec
+Started:       2020-06-01 21:06:30
+Finished:      2020-06-01 21:07:55
+
+#5360.1 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5360.2 failed:  19 min 34 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5360.3 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5360.4 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

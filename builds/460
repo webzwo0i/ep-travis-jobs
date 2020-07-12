@@ -1,0 +1,11 @@
+Job #460.1:  re-formated onelined en.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1406)
+Commit:        5361ca4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1406
+Duration:      6 min 2 sec
+Started:       2013-01-25 17:29:45
+Finished:      2013-01-25 17:35:47
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

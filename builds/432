@@ -1,0 +1,11 @@
+Job #432.1:  make it crash
+State:         failed
+Type:          push
+Branch:        diff-view
+Commit:        205d983
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5d416579ee3a...205d9832253b
+Duration:      6 min 49 sec
+Started:       2013-01-22 23:49:44
+Finished:      2013-01-22 23:56:33
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

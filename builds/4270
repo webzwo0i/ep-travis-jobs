@@ -1,0 +1,12 @@
+Build #4270:  dependencies: upgrade npm 6.13.4 -> 6.14.3
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6a55e7e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/40d3d400a1ba...6a55e7e03fc1
+Duration:      15 min 4 sec
+Started:       2020-03-22 01:13:24
+Finished:      2020-03-22 01:27:10
+
+#4270.1 passed:  13 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4270.2 passed:  1 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

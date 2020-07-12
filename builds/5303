@@ -1,0 +1,13 @@
+Build #5303:  derp
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4055)
+Commit:        c174cb9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4055
+Duration:      1 min 57 sec
+Started:       2020-05-29 18:32:28
+Finished:      2020-05-29 18:33:04
+
+#5303.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#5303.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5303.3 errored: 41 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #4201:  skin colibris: Fix table of content with ep_resizable_bar
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6d4ea36
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3b24c97d1eb4...6d4ea366469f
+Duration:      12 min 47 sec
+Started:       2020-01-03 19:35:34
+Finished:      2020-01-03 19:47:10
+
+#4201.1 passed:  11 min 35 sec  os: linux, node_js: lts/*
+#4201.2 passed:  1 min 12 sec   os: linux, node_js: lts/*

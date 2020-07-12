@@ -1,0 +1,11 @@
+Job #881.1:  new function for handling custom messages, allows objects to be sent, before we only allowed strings
+State:         failed
+Type:          push
+Branch:        custom-obj-msg
+Commit:        83a820b
+Compare URL:   https://github.com/ether/etherpad-lite/commit/83a820b720cb
+Duration:      7 min 6 sec
+Started:       2013-03-12 19:41:58
+Finished:      2013-03-12 19:49:04
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

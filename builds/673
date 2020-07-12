@@ -1,0 +1,11 @@
+Job #673.1:  Merge pull request #1505 from ether/fix-for-long-strings
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        14dca92
+Compare URL:   https://github.com/ether/etherpad-lite/compare/760bebc429c1...14dca926927b
+Duration:      6 min 51 sec
+Started:       2013-02-12 20:07:56
+Finished:      2013-02-12 20:14:47
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3483.1:  Merge pull request #2891 from bhldev/padShortcutDisable
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        1ebcf0d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ef415880f0e4...1ebcf0dc4709
+Duration:      6 min 17 sec
+Started:       2017-05-11 16:31:12
+Finished:      2017-05-11 16:37:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

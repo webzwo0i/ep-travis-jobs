@@ -1,0 +1,11 @@
+Job #4170.1:  mheh I suck at css 0ip would do a way better job of this
+State:         errored
+Type:          push
+Branch:        chat-and-users
+Commit:        13eff60
+Compare URL:   https://github.com/ether/etherpad-lite/compare/chat-and-users
+Duration:      11 min 9 sec
+Started:       2019-12-07 20:27:23
+Finished:      2019-12-07 20:38:32
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

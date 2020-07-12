@@ -1,0 +1,13 @@
+Build #5045:  on import/export still create new lines
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3877)
+Commit:        38b9889
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3877
+Duration:      2 min 26 sec
+Started:       2020-04-30 10:42:32
+Finished:      2020-04-30 10:43:26
+
+#5045.1 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5045.2 errored: 52 sec         os: linux, node_js: lts/*, env:
+#5045.3 errored: 47 sec         os: linux, node_js: lts/*, env:

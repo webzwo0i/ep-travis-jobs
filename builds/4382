@@ -1,0 +1,12 @@
+Build #4382:  tests: enable sauce labs tests again
+State:         failed
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        d1f3cd6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/724e85a6c02b...d1f3cd67f039
+Duration:      19 min 40 sec
+Started:       2020-03-23 23:10:26
+Finished:      2020-03-23 23:28:21
+
+#4382.1 failed:  17 min 55 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4382.2 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

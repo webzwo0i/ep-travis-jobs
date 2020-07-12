@@ -1,0 +1,14 @@
+Build #5359:  plugins: add hooks for index.html template
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        f84837e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2c944eba34ed...f84837ef9b67
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-06-01 20:45:11
+
+#5359.1 canceled: 20 min 7 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5359.2 canceled: 20 min 7 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5359.3 canceled: 20 min 7 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5359.4 canceled: 20 min 7 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

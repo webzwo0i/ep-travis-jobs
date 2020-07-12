@@ -1,0 +1,11 @@
+Job #3690.1:  remove license thing from exports
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5a0afab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f5aed706b79c...5a0afab02e7d
+Duration:      12 min 3 sec
+Started:       2018-04-04 14:34:22
+Finished:      2018-04-04 14:46:25
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #933.1:  much cleaner way of showing / hiding overlay
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1632)
+Commit:        72f5749
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1632
+Duration:      11 min 10 sec
+Started:       2013-03-16 18:59:18
+Finished:      2013-03-16 19:10:28
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

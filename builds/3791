@@ -1,0 +1,11 @@
+Job #3791.1:  tests: introduce istanbul.js to check code coverage
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3436)
+Commit:        10afa90
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3436
+Duration:      1 min 54 sec
+Started:       2018-07-28 03:59:41
+Finished:      2018-07-28 04:01:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

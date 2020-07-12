@@ -1,0 +1,15 @@
+Build #5535:  bug: Update packages before netcat install
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3855)
+Commit:        d6d4754
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3855
+Duration:      7 min 41 sec
+Started:       2020-06-14 02:37:17
+Finished:      2020-06-14 02:39:03
+
+#5535.1 passed:  1 min 5 sec    os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5535.2 failed:  1 min 34 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5535.3 failed:  1 min 46 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5535.4 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5535.5 passed:  1 min 34 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test

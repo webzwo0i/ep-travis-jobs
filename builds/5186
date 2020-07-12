@@ -1,0 +1,13 @@
+Build #5186:  hrm, Im not so sure on this change
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4034)
+Commit:        d581116
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4034
+Duration:      2 min 16 sec
+Started:       2020-05-19 12:41:58
+Finished:      2020-05-19 12:42:55
+
+#5186.1 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5186.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5186.3 errored: 44 sec         os: linux, node_js: lts/*, env:

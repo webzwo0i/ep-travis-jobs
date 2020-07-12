@@ -1,0 +1,13 @@
+Build #4642:  temp fix for 3487 wrap
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3831)
+Commit:        c606311
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3831
+Duration:      2 min 20 sec
+Started:       2020-04-03 22:56:42
+Finished:      2020-04-03 22:57:31
+
+#4642.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4642.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4642.3 errored: 47 sec         os: linux, node_js: lts/*, env:

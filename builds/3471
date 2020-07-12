@@ -1,0 +1,11 @@
+Job #3471.1:  Merge pull request #3173 from therealshredder/use-https-in-readme
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        9a3b021
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8081164a7254...9a3b021c23bd
+Duration:      6 min 28 sec
+Started:       2017-04-19 15:06:18
+Finished:      2017-04-19 15:12:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

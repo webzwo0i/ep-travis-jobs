@@ -1,0 +1,11 @@
+Job #4068.1:  Release version 1.8.0-beta.1
+State:         passed
+Type:          push
+Branch:        1.8.0-beta.1
+Commit:        503b117
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1.8.0-beta.1
+Duration:      11 min 36 sec
+Started:       2019-11-03 01:06:53
+Finished:      2019-11-03 01:18:29
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

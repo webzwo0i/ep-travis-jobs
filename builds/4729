@@ -1,0 +1,13 @@
+Build #4729:  scroll: replace absolute import with relative one
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        83d72d2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4699c3e22e24...83d72d27a405
+Duration:      19 min 48 sec
+Started:       2020-04-09 21:10:02
+Finished:      2020-04-09 21:26:26
+
+#4729.1 passed:  1 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4729.2 failed:  16 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4729.3 passed:  2 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

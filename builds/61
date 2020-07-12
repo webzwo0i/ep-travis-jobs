@@ -1,0 +1,11 @@
+Job #61.1:  Allow ! in urls autodetection
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1188)
+Commit:        d0cd97e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1188
+Duration:      12 min 55 sec
+Started:       2012-11-21 03:43:43
+Finished:      2012-11-21 03:56:38
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

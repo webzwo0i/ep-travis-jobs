@@ -1,0 +1,11 @@
+Job #3672.1:  Merge pull request #3242 from BenaeSan/master
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0c8b9e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ad89cb7d7811...0c8b9e13fa73
+Duration:      21 min 57 sec
+Started:       2018-04-03 14:12:01
+Finished:      2018-04-03 14:33:58
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

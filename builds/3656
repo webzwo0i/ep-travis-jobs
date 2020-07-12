@@ -1,0 +1,11 @@
+Job #3656.1:  Fix .doc export with LibreOffice (soffice)
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3338)
+Commit:        c5f65f9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3338
+Duration:      2 min 13 sec
+Started:       2018-03-08 14:35:30
+Finished:      2018-03-08 14:37:43
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

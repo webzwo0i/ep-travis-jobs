@@ -1,0 +1,14 @@
+Build #5639:  try to include test.speed in output
+State:         failed
+Type:          push
+Branch:        remoterunner-fix
+Commit:        a974d45
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5d605d5cdf0f...a974d45066bd
+Duration:      12 min 44 sec
+Started:       2020-07-10 21:38:47
+Finished:      2020-07-10 21:47:25
+
+#5639.1 passed:  8 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5639.2 passed:  55 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5639.3 failed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5639.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

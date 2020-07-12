@@ -1,0 +1,11 @@
+Job #934.1:  Merge pull request #1632 from ether/enable-buttons-reconnect
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        755965d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d26660bce1b0...755965d904e8
+Duration:      7 min 18 sec
+Started:       2013-03-16 18:59:16
+Finished:      2013-03-16 19:06:34
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

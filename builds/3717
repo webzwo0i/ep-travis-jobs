@@ -1,0 +1,11 @@
+Job #3717.1:  Release version 1.6.5
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1d4e2b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/92eee85f3619...1d4e2b3b1145
+Duration:      2 min 1 sec
+Started:       2018-04-10 00:48:11
+Finished:      2018-04-10 00:50:12
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

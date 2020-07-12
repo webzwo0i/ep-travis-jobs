@@ -1,0 +1,11 @@
+Job #4156.1:  whoopsi
+State:         errored
+Type:          push
+Branch:        javascript-bower
+Commit:        5f2e830
+Compare URL:   https://github.com/ether/etherpad-lite/compare/javascript-bower
+Duration:      10 min 42 sec
+Started:       2019-12-07 20:03:57
+Finished:      2019-12-07 20:14:39
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #387.1:  Merge pull request #1371 from ether/fix/ie8-onload-html10n
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c731269
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c8786bfdf53a...c731269a8707
+Duration:      8 min 8 sec
+Started:       2013-01-17 17:41:43
+Finished:      2013-01-17 17:49:51
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

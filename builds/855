@@ -1,0 +1,11 @@
+Job #855.1:  Add a setting for RTL text direction (integrating the url paramter)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1593)
+Commit:        a367e22
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1593
+Duration:      11 min 5 sec
+Started:       2013-03-06 13:29:33
+Finished:      2013-03-06 13:40:38
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

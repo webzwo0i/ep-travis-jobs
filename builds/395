@@ -1,0 +1,11 @@
+Job #395.1:  basic ideas
+State:         failed
+Type:          push
+Branch:        backend-tests
+Commit:        256ea0e
+Compare URL:   https://github.com/ether/etherpad-lite/commit/256ea0eaa619
+Duration:      3 min 53 sec
+Started:       2013-01-19 14:55:46
+Finished:      2013-01-19 14:59:39
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

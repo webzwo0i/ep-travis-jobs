@@ -1,0 +1,11 @@
+Job #577.1:  Fixed "jumps to a revision given in the url" test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1468)
+Commit:        7e79068
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1468
+Duration:      11 min 4 sec
+Started:       2013-02-07 19:02:17
+Finished:      2013-02-07 19:13:21
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

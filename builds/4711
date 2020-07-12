@@ -1,0 +1,13 @@
+Build #4711:  SecurityManager: remove double quotes from session cookie content
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3820)
+Commit:        9db760d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3820
+Duration:      2 min 13 sec
+Started:       2020-04-09 00:42:55
+Finished:      2020-04-09 00:43:42
+
+#4711.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4711.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4711.3 errored: 43 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #431.1:  bring in some padDiff stuff that doesnt suck
+State:         failed
+Type:          push
+Branch:        diff-view
+Commit:        5d41657
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5d416579ee3a
+Duration:      5 min 39 sec
+Started:       2013-01-22 23:36:14
+Finished:      2013-01-22 23:41:53
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

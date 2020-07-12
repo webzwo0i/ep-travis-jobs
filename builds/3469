@@ -1,0 +1,11 @@
+Job #3469.1:  Merge pull request #3161 from ether/feature/automatic_force_reconnect
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        8081164
+Compare URL:   https://github.com/ether/etherpad-lite/compare/991155c8d4cc...8081164a7254
+Duration:      6 min 21 sec
+Started:       2017-04-18 16:44:15
+Finished:      2017-04-18 16:50:36
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

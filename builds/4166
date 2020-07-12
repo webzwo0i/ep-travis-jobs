@@ -1,0 +1,11 @@
+Job #4166.1:  whoops I missed this one
+State:         errored
+Type:          push
+Branch:        socket-io-1
+Commit:        053ff30
+Compare URL:   https://github.com/ether/etherpad-lite/compare/socket-io-1
+Duration:      10 min 43 sec
+Started:       2019-12-07 20:18:33
+Finished:      2019-12-07 20:29:16
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

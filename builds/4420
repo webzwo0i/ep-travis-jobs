@@ -1,0 +1,12 @@
+Build #4420:  checkPadDeltas: version by JohnMcLear
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        14ae2ee
+Compare URL:   https://github.com/ether/etherpad-lite/compare/06d961f2b66d...14ae2ee95094
+Duration:      9 min 51 sec
+Started:       2020-03-27 01:57:56
+Finished:      2020-03-27 02:06:02
+
+#4420.1 failed:  8 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4420.2 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #4091.1:  startup scripts: get rid of $* and replace it with properly quoted "$@"
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0a86024
+Compare URL:   https://github.com/ether/etherpad-lite/compare/695c2d2e84b3...0a86024797ed
+Duration:      11 min 35 sec
+Started:       2019-12-01 01:54:01
+Finished:      2019-12-01 02:05:36
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

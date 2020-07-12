@@ -1,0 +1,14 @@
+Build #5618:  set concurrency level to 10
+State:         failed
+Type:          push
+Branch:        saucelabs-parallel
+Commit:        1975149
+Compare URL:   https://github.com/ether/etherpad-lite/compare/14fc00dc021b...1975149a04ff
+Duration:      20 min 5 sec
+Started:       2020-07-10 04:33:37
+Finished:      2020-07-10 04:49:42
+
+#5618.1 failed:  16 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5618.2 passed:  50 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5618.3 failed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5618.4 passed:  1 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

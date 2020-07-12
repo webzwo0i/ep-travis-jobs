@@ -1,0 +1,12 @@
+Build #4423:  Add env var for defaultPadText
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3765)
+Commit:        f49ca0e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3765
+Duration:      21 min 33 sec
+Started:       2020-03-27 06:43:44
+Finished:      2020-03-27 06:54:33
+
+#4423.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4423.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

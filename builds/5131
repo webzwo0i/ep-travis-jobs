@@ -1,0 +1,11 @@
+Job #5131.1:  replace U+FFFF in chat msgs, revs and setText
+State:         errored
+Type:          push
+Branch:        issue-2522-broken-json
+Commit:        624d773
+Compare URL:   https://github.com/ether/etherpad-lite/compare/74769659e52c^...624d773cff8e
+Duration:      22 sec
+Started:       2020-05-13 23:19:16
+Finished:      2020-05-13 23:19:38
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

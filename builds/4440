@@ -1,0 +1,12 @@
+Build #4440:  final commit RE last few tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3771)
+Commit:        1f2f6b1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3771
+Duration:      21 min 35 sec
+Started:       2020-03-28 17:47:47
+Finished:      2020-03-28 17:58:36
+
+#4440.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4440.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

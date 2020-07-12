@@ -1,0 +1,11 @@
+Job #4054.1:  docker: Fix the comments about settings.json copy
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3656)
+Commit:        6f28ec4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3656
+Duration:      1 min 33 sec
+Started:       2019-10-24 11:13:30
+Finished:      2019-10-24 11:15:03
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

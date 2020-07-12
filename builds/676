@@ -1,0 +1,11 @@
+Job #676.1:  Move code from Html export to a Helper file
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1491)
+Commit:        18db868
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1491
+Duration:      10 min 56 sec
+Started:       2013-02-12 20:47:10
+Finished:      2013-02-12 20:58:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

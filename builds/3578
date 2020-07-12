@@ -1,0 +1,11 @@
+Job #3578.1:  Merge pull request #3241 from djmaze/fix-socket-io-crash
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c85ffd6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bb80085c9acc...c85ffd663eba
+Duration:      11 min 40 sec
+Started:       2017-10-12 23:13:39
+Finished:      2017-10-12 23:25:19
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

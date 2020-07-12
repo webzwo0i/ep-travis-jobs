@@ -1,0 +1,12 @@
+Build #4601:  Fix #3819 Strip cookie value from optional quotes
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3820)
+Commit:        733f15f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3820
+Duration:      21 min 33 sec
+Started:       2020-04-02 09:45:53
+Finished:      2020-04-02 09:56:42
+
+#4601.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4601.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

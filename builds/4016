@@ -1,0 +1,11 @@
+Job #4016.1:  minor typo fix
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2c9383b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1789129b35de...2c9383b69ebe
+Duration:      17 min 1 sec
+Started:       2019-08-08 21:59:00
+Finished:      2019-08-08 22:16:01
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

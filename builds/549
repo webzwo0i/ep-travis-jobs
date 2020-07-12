@@ -1,0 +1,11 @@
+Job #549.1:  socket.io rooms instead of own session management
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1454)
+Commit:        7cfc790
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1454
+Duration:      11 min 11 sec
+Started:       2013-02-05 20:37:23
+Finished:      2013-02-05 20:48:34
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

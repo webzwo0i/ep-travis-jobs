@@ -1,0 +1,14 @@
+Build #5591:  remove sauce_tunnel.sh from .travis.yml
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        c2ebf4d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7b38d7fb5a3a...c2ebf4d9ddcc
+Duration:      3 min 35 sec
+Started:       2020-07-09 20:36:00
+Finished:      2020-07-09 20:37:16
+
+#5591.1 errored: 48 sec         os: linux, node_js: lts/*
+#5591.2 errored: 53 sec         os: linux, node_js: lts/*
+#5591.3 errored: 55 sec         os: linux, node_js: lts/*
+#5591.4 errored: 59 sec         os: linux, node_js: lts/*

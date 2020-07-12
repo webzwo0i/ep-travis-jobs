@@ -1,0 +1,13 @@
+Build #4651:  api: test coverage for getStats()
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e625168
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eb45934788cd...e6251687bf6f
+Duration:      14 min 17 sec
+Started:       2020-04-04 22:04:07
+Finished:      2020-04-04 22:15:28
+
+#4651.1 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4651.2 failed:  11 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4651.3 passed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

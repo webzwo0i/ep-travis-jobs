@@ -1,0 +1,11 @@
+Job #3917.1:  Fix typos
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3538)
+Commit:        299c6e1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3538
+Duration:      1 min 21 sec
+Started:       2019-01-12 19:46:36
+Finished:      2019-01-12 19:47:57
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

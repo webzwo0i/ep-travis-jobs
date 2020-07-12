@@ -1,0 +1,11 @@
+Job #4184.1:  dependencies: upgrade npm 6.13.1 -> 6.13.4
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        140d5c4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b6105d8c7509...140d5c4b41b1
+Duration:      11 min 22 sec
+Started:       2019-12-18 01:20:18
+Finished:      2019-12-18 01:31:40
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

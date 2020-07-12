@@ -1,0 +1,11 @@
+Job #639.1:  Make iframe selectors work with jquery 1.9
+State:         failed
+Type:          push
+Branch:        feature/fixtests
+Commit:        70c0591
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8d8487dfa68c^...70c0591d354f
+Duration:      7 min 42 sec
+Started:       2013-02-10 23:05:14
+Finished:      2013-02-10 23:12:56
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

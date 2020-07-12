@@ -1,0 +1,11 @@
+Job #3610.1:  [refactor] Extract code to a module
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3282)
+Commit:        acb1c5f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3282
+Duration:      1 min 59 sec
+Started:       2018-01-02 22:03:14
+Finished:      2018-01-02 22:05:13
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

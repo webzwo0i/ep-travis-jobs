@@ -1,0 +1,11 @@
+Job #3768.1:  [fix:test] Use promise chain instead of chain (is deprecated)
+State:         passed
+Type:          push
+Branch:        fix_build
+Commit:        ddb1b0c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ad898b701a35...ddb1b0cbc394
+Duration:      12 min 17 sec
+Started:       2018-07-09 21:40:57
+Finished:      2018-07-09 21:53:14
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

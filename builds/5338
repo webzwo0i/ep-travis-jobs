@@ -1,0 +1,14 @@
+Build #5338:  tests: make test runner width 80/20
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        7be701d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6d34e5b427ea...7be701dbeaac
+Duration:      26 min 47 sec
+Started:       2020-05-30 23:35:38
+Finished:      2020-05-30 23:57:18
+
+#5338.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5338.2 passed:  21 min 39 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5338.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5338.4 failed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

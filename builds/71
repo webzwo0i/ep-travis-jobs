@@ -1,0 +1,11 @@
+Job #71.1:  Update src/static/js/pad.js
+State:         failed
+Type:          pull request
+Branch:        develop (PR #1193)
+Commit:        c3e8e0c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1193
+Duration:      13 min 28 sec
+Started:       2012-11-21 19:36:44
+Finished:      2012-11-21 19:50:12
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

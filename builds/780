@@ -1,0 +1,11 @@
+Job #780.1:  throw and post err on bad pad data
+State:         failed
+Type:          push
+Branch:        err-on-bad-data
+Commit:        1e6fc26
+Compare URL:   https://github.com/ether/etherpad-lite/commit/1e6fc26780fa
+Duration:      8 min 42 sec
+Started:       2013-02-21 02:39:58
+Finished:      2013-02-21 02:48:40
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

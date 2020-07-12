@@ -1,0 +1,11 @@
+Job #4046.1:  Release version 1.8.0
+State:         passed
+Type:          push
+Branch:        master
+Commit:        d967914
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6a3e4c69b8e8...d9679143413f
+Duration:      11 min 38 sec
+Started:       2019-10-20 04:19:59
+Finished:      2019-10-20 04:31:37
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

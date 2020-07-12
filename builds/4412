@@ -1,0 +1,12 @@
+Build #4412:  tests: use latest Safari in Saucelab front end tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3760)
+Commit:        d93d757
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3760
+Duration:      48 sec
+Started:       2020-03-26 23:26:34
+Finished:      2020-03-26 23:27:00
+
+#4412.1 errored: 24 sec         os: linux, node_js: lts/*, env:
+#4412.2 errored: 24 sec         os: linux, node_js: lts/*, env:

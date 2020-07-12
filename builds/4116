@@ -1,0 +1,11 @@
+Job #4116.1:  security: when served over https, set the "secure" flag for "express_sid" and "language" cookie
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a817acb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5e44a94d2a35...a817acbbccad
+Duration:      11 min 26 sec
+Started:       2019-12-07 05:54:55
+Finished:      2019-12-07 06:06:21
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

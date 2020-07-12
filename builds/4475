@@ -1,0 +1,12 @@
+Build #4475:  Add comment about exposed openapi definition
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3786)
+Commit:        306e2ab
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3786
+Duration:      21 min 32 sec
+Started:       2020-03-29 20:49:05
+Finished:      2020-03-29 20:59:52
+
+#4475.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env:
+#4475.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #903.1:  fix tests in firefox as firefox fires on keypress not down
+State:         failed
+Type:          push
+Branch:        ff-key-tests
+Commit:        1210785
+Compare URL:   https://github.com/ether/etherpad-lite/commit/12107859bb23
+Duration:      7 min 10 sec
+Started:       2013-03-14 17:43:19
+Finished:      2013-03-14 17:50:29
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

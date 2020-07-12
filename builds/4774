@@ -1,0 +1,13 @@
+Build #4774:  require contribution to pad prior to import
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3865)
+Commit:        f2530da
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3865
+Duration:      2 min 18 sec
+Started:       2020-04-14 13:01:20
+Finished:      2020-04-14 13:02:10
+
+#4774.1 errored: 44 sec         os: linux, node_js: lts/*, env:
+#4774.2 errored: 50 sec         os: linux, node_js: lts/*, env:
+#4774.3 errored: 44 sec         os: linux, node_js: lts/*, env:

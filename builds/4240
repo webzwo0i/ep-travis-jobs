@@ -1,0 +1,12 @@
+Build #4240:  toolbar: the "star" button no longer disappears when visiting a read-only pad
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3714)
+Commit:        7929304
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3714
+Duration:      2 min 46 sec
+Started:       2020-03-19 01:55:51
+Finished:      2020-03-19 01:57:18
+
+#4240.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env:
+#4240.2 passed:  1 min 19 sec   os: linux, node_js: lts/*, env:

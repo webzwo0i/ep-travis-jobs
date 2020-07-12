@@ -1,0 +1,14 @@
+Build #5600:  add tunnel-identifier in capabilities
+State:         failed
+Type:          push
+Branch:        test-saucelabs
+Commit:        340f98d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fcaac0f0f415...340f98d6de42
+Duration:      5 min 46 sec
+Started:       2020-07-09 21:52:12
+Finished:      2020-07-09 21:53:59
+
+#5600.1 passed:  1 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5600.2 passed:  50 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5600.3 failed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5600.4 passed:  1 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

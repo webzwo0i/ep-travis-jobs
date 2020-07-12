@@ -1,0 +1,13 @@
+Build #4954:  refresh the page instead, ungraceful but works
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3915)
+Commit:        ed9f1aa
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3915
+Duration:      2 min 8 sec
+Started:       2020-04-22 22:26:31
+Finished:      2020-04-22 22:27:16
+
+#4954.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4954.2 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4954.3 errored: 41 sec         os: linux, node_js: lts/*, env:

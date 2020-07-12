@@ -1,0 +1,13 @@
+Build #4873:  testing another travis file
+State:         errored
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        c379460
+Compare URL:   https://github.com/ether/etherpad-lite/compare/15151361e602...c379460169b4
+Duration:      18 min 32 sec
+Started:       2020-04-19 17:39:23
+Finished:      2020-04-19 17:50:05
+
+#4873.1 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4873.2 failed:  5 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4873.3 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

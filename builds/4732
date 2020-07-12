@@ -1,0 +1,13 @@
+Build #4732:  Merge remote-tracking branch 'upstream/develop' into pad-deletion
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3562)
+Commit:        38d9b4a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3562
+Duration:      2 min 14 sec
+Started:       2020-04-10 16:17:39
+Finished:      2020-04-10 16:18:31
+
+#4732.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4732.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#4732.3 errored: 44 sec         os: linux, node_js: lts/*, env:

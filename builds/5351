@@ -1,0 +1,14 @@
+Build #5351:  tests: second fix for mocha froth, remembered it's not available globally
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4068)
+Commit:        03fabb7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4068
+Duration:      1 min 41 sec
+Started:       2020-06-01 19:55:06
+Finished:      2020-06-01 19:58:16
+
+#5351.1 errored: 27 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5351.2 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5351.3 errored: 24 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5351.4 errored: 25 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

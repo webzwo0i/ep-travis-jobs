@@ -1,0 +1,11 @@
+Job #625.1:  a bit fairer
+State:         failed
+Type:          push
+Branch:        dep-cleanup
+Commit:        69a6d54
+Compare URL:   https://github.com/ether/etherpad-lite/compare/85f18d1f928c...69a6d5468e0a
+Duration:      12 min 26 sec
+Started:       2013-02-10 18:55:17
+Finished:      2013-02-10 19:07:43
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

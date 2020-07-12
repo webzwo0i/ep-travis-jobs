@@ -1,0 +1,11 @@
+Job #4135.1:  should be final logic for chatandusers
+State:         errored
+Type:          push
+Branch:        chat-users-flow-css
+Commit:        b216f92
+Compare URL:   https://github.com/ether/etherpad-lite/compare/chat-users-flow-css
+Duration:      10 min 45 sec
+Started:       2019-12-07 19:29:57
+Finished:      2019-12-07 19:40:42
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,14 @@
+Build #5443:  outdent on ol
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4088)
+Commit:        5f18c15
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4088
+Duration:      40 min 57 sec
+Started:       2020-06-06 23:29:25
+Finished:      2020-06-06 23:47:44
+
+#5443.1 passed:  1 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5443.2 errored: 18 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5443.3 errored: 10 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5443.4 errored: 10 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

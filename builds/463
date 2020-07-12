@@ -1,0 +1,11 @@
+Job #463.1:  Added a comment to clearify *why* this works
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1407)
+Commit:        955070b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1407
+Duration:      6 min 4 sec
+Started:       2013-01-25 20:39:39
+Finished:      2013-01-25 20:45:43
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #5255:  go go magic charms
+State:         failed
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        671d823
+Compare URL:   https://github.com/ether/etherpad-lite/compare/13b4122cf5b2...671d823eee20
+Duration:      9 min 2 sec
+Started:       2020-05-28 15:12:30
+Finished:      2020-05-28 15:18:24
+
+#5255.1 failed:  1 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5255.2 failed:  5 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5255.3 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

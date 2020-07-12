@@ -1,0 +1,12 @@
+Build #4254:  PadMessageHandler: use a predefined color when authorInfo.colorId is not defined
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3720)
+Commit:        9727d4b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3720
+Duration:      48 sec
+Started:       2020-03-20 22:31:58
+Finished:      2020-03-20 22:32:26
+
+#4254.1 errored: 24 sec         os: linux, node_js: lts/*, env:
+#4254.2 errored: 24 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #4225:  slightly better error handling
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3720)
+Commit:        97153ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3720
+Duration:      2 min 43 sec
+Started:       2020-03-16 15:49:15
+Finished:      2020-03-16 15:50:45
+
+#4225.1 passed:  1 min 29 sec   os: linux, node_js: lts/*, env:
+#4225.2 passed:  1 min 14 sec   os: linux, node_js: lts/*, env:

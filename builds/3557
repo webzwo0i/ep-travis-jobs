@@ -1,0 +1,11 @@
+Job #3557.1:  Revert "[feat] Update l10n lib (#3248)"
+State:         passed
+Type:          push
+Branch:        revert-3248-update_html10n
+Commit:        cab0380
+Compare URL:   https://github.com/ether/etherpad-lite/commit/cab0380bec9b
+Duration:      11 min 38 sec
+Started:       2017-08-15 15:38:21
+Finished:      2017-08-15 15:49:59
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

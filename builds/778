@@ -1,0 +1,11 @@
+Job #778.1:  this is probably the wrong way to do this but for now this is how I do it, it helps resolves the broken test pad issue and makes broken pads send an error to the server
+State:         failed
+Type:          push
+Branch:        throw-err-on-bad-pad
+Commit:        4662482
+Compare URL:   https://github.com/ether/etherpad-lite/commit/4662482dddb5
+Duration:      9 min 56 sec
+Started:       2013-02-21 02:28:40
+Finished:      2013-02-21 02:38:36
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

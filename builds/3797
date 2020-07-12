@@ -1,0 +1,11 @@
+Job #3797.1:  installDeps: replace GNU specific long options whith short ones
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        d23cf92
+Compare URL:   https://github.com/ether/etherpad-lite/compare/65b962666955...d23cf924c99f
+Duration:      16 sec
+Started:       2018-07-31 14:56:36
+Finished:      2018-07-31 14:56:52
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,12 @@
+Build #4229:  ImportHandler: importing files with unknown extension work again when allowUnknownFileEnds is true
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3722)
+Commit:        b03d9e5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3722
+Duration:      2 min 46 sec
+Started:       2020-03-17 12:27:08
+Finished:      2020-03-17 12:28:35
+
+#4229.1 passed:  1 min 27 sec   os: linux, node_js: lts/*, env:
+#4229.2 passed:  1 min 19 sec   os: linux, node_js: lts/*, env:

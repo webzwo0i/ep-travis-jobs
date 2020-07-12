@@ -1,0 +1,11 @@
+Job #372.1:  Merge pull request #1355 from mluto/chat-no-empty-line
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        bb9097e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/92325a3780f4...bb9097e52813
+Duration:      7 min 4 sec
+Started:       2013-01-14 23:27:38
+Finished:      2013-01-14 23:34:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

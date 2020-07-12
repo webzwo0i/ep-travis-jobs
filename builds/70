@@ -1,0 +1,11 @@
+Job #70.1:  Bump stuff to 1.2.1
+State:         failed
+Type:          push
+Branch:        release/releases-1.2.1
+Commit:        064051a
+Compare URL:   https://github.com/ether/etherpad-lite/commit/064051a30dd7
+Duration:      8 min 16 sec
+Started:       2012-11-21 19:22:26
+Finished:      2012-11-21 19:30:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

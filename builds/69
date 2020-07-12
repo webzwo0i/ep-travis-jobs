@@ -1,0 +1,11 @@
+Job #69.1:  Actually fix the language tests...
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1220939
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34df9d651e49...122093904fb5
+Duration:      9 min 24 sec
+Started:       2012-11-21 19:16:18
+Finished:      2012-11-21 19:25:42
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

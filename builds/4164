@@ -1,0 +1,11 @@
+Job #4164.1:  check file system that abiword exists
+State:         errored
+Type:          push
+Branch:        check-for-abiword-path
+Commit:        26c8390
+Compare URL:   https://github.com/ether/etherpad-lite/compare/check-for-abiword-path
+Duration:      1 min 5 sec
+Started:       2019-12-07 20:17:06
+Finished:      2019-12-07 20:18:11
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

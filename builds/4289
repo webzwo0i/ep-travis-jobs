@@ -1,0 +1,12 @@
+Build #4289:  should be correct syntax to run 5 tests
+State:         errored
+Type:          push
+Branch:        testing-travis-ci-sauce-labs
+Commit:        4d5aea7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/814fec1f1277...4d5aea73a955
+Duration:      25 min 57 sec
+Started:       2020-03-22 13:37:05
+Finished:      2020-03-22 13:52:20
+
+#4289.1 failed:  15 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4289.2 errored: 10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

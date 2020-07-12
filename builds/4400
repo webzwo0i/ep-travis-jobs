@@ -1,0 +1,12 @@
+Build #4400:  DB.js: remove else clause, since we are already exiting early
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        39f271b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3c78ada8dacb...39f271bfed78
+Duration:      21 min 41 sec
+Started:       2020-03-24 23:27:49
+Finished:      2020-03-24 23:38:45
+
+#4400.1 errored: 10 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4400.2 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

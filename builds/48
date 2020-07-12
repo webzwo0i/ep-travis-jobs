@@ -1,0 +1,11 @@
+Job #48.1:  Merge pull request #1181 from marcelklehr/fix/lang-test-dont-use-setimeout
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        323517c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/39ec36552f6a...323517c6dc4b
+Duration:      6 min 59 sec
+Started:       2012-11-18 22:11:39
+Finished:      2012-11-18 22:18:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3576.1:  Allow 'placeholder' to be a localizable attribute on HTML elements (#3257)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        0e1414d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/67439545a6c5...0e1414dccac1
+Duration:      11 min 42 sec
+Started:       2017-09-21 22:50:58
+Finished:      2017-09-21 23:02:40
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

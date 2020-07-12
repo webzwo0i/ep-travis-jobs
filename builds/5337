@@ -1,0 +1,14 @@
+Build #5337:  tests: make default timeout a bit longer and allow it to be spammy
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        6d34e5b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1b772c449d7e...6d34e5b427ea
+Duration:      26 min 27 sec
+Started:       2020-05-30 23:19:18
+Finished:      2020-05-30 23:40:26
+
+#5337.1 passed:  1 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5337.2 errored: 21 min 8 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5337.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5337.4 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,15 @@
+Build #5533:  config: Forward ports and set default IMAGE_NAME
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3855)
+Commit:        2a74705
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3855
+Duration:      9 min 3 sec
+Started:       2020-06-14 01:00:39
+Finished:      2020-06-14 01:03:19
+
+#5533.1 passed:  1 min 8 sec    os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5533.2 failed:  1 min 33 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5533.3 failed:  2 min 40 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5533.4 failed:  2 min 10 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test
+#5533.5 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: IMAGE_NAME=etherpad:test

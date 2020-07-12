@@ -1,0 +1,11 @@
+Job #3995.1:  colibris: the "ok" button was misaligned in Chrome
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d88726b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f2b888e3ff0e...d88726b58de3
+Duration:      11 min 46 sec
+Started:       2019-05-10 09:50:56
+Finished:      2019-05-10 10:02:42
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

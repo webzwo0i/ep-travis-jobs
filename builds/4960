@@ -1,0 +1,13 @@
+Build #4960:  docker: remove git-objects from final docker image
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3918)
+Commit:        7306cf8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3918
+Duration:      2 min 12 sec
+Started:       2020-04-23 05:11:39
+Finished:      2020-04-23 05:12:25
+
+#4960.1 errored: 42 sec         os: linux, node_js: lts/*, env:
+#4960.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4960.3 errored: 44 sec         os: linux, node_js: lts/*, env:

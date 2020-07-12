@@ -1,0 +1,13 @@
+Build #4884:  readd the damn npm module because wtf
+State:         failed
+Type:          push
+Branch:        fix-timeslider-rev-tests
+Commit:        c8c5604
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fd9298ec1f7f...c8c560452df3
+Duration:      14 min 28 sec
+Started:       2020-04-19 18:46:02
+Finished:      2020-04-19 18:57:20
+
+#4884.1 passed:  1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4884.2 failed:  11 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4884.3 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

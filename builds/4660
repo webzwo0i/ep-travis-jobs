@@ -1,0 +1,13 @@
+Build #4660:  works until you go left on line then breaks Again
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3837)
+Commit:        1dea17d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3837
+Duration:      2 min 19 sec
+Started:       2020-04-05 18:43:18
+Finished:      2020-04-05 18:44:13
+
+#4660.1 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4660.2 errored: 50 sec         os: linux, node_js: lts/*, env:
+#4660.3 errored: 43 sec         os: linux, node_js: lts/*, env:

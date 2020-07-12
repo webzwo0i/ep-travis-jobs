@@ -1,0 +1,11 @@
+Job #3711.1:  Fix typo in `apicalls.js` which prevents from importing `isValidJSONPName`.
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5b1e1f0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1fdb01fd7591...5b1e1f0c3556
+Duration:      1 min 41 sec
+Started:       2018-04-09 20:57:22
+Finished:      2018-04-09 20:59:03
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

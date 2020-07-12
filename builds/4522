@@ -1,0 +1,12 @@
+Build #4522:  tests: backend tests for utf8 & emojis support
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6c12a7f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/25bf460ac684...6c12a7fb1f6e
+Duration:      13 min 11 sec
+Started:       2020-03-31 02:11:48
+Finished:      2020-03-31 02:23:15
+
+#4522.1 failed:  11 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4522.2 passed:  1 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

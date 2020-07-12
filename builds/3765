@@ -1,0 +1,11 @@
+Job #3765.1:  [fix] Ignore default line attribs when detecting edges of changeset
+State:         failed
+Type:          push
+Branch:        fix_3354
+Commit:        8eb7d5f
+Compare URL:   https://github.com/ether/etherpad-lite/commit/8eb7d5fd53b6
+Duration:      1 min 40 sec
+Started:       2018-07-09 20:47:11
+Finished:      2018-07-09 20:48:51
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

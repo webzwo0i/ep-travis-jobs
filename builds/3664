@@ -1,0 +1,11 @@
+Job #3664.1:  Fix numbering line when plugin add padding-top (like ep_page_view)
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3352)
+Commit:        7685b28
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3352
+Duration:      1 min 31 sec
+Started:       2018-03-25 21:08:17
+Finished:      2018-03-25 21:09:48
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

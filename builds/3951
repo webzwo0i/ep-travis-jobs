@@ -1,0 +1,11 @@
+Job #3951.1:  docker: move the docker image creation inside the main repository
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bf68666
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e9be94e3cf44...bf68666ae14c
+Duration:      11 min 31 sec
+Started:       2019-03-08 01:58:14
+Finished:      2019-03-08 02:09:45
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

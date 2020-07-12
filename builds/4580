@@ -1,0 +1,11 @@
+Job #4580.1:  trying it this way
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        203e4e3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      1 min 20 sec
+Started:       2020-04-01 16:40:46
+Finished:      2020-04-01 16:42:06
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

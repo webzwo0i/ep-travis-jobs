@@ -1,0 +1,11 @@
+Job #3555.1:  [feat] Update l10n lib
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3248)
+Commit:        adc9cc6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3248
+Duration:      14 sec
+Started:       2017-08-15 15:23:15
+Finished:      2017-08-15 15:23:29
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

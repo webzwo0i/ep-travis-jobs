@@ -1,0 +1,13 @@
+Build #5181:  Revert "SessionStore: replace password with PASSWORD_HIDDEN when storing in db"
+State:         errored
+Type:          pull request
+Branch:        master (PR #4027)
+Commit:        46706c9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4027
+Duration:      2 min 19 sec
+Started:       2020-05-17 18:29:37
+Finished:      2020-05-17 18:30:27
+
+#5181.1 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5181.2 errored: 50 sec         os: linux, node_js: lts/*, env:
+#5181.3 errored: 42 sec         os: linux, node_js: lts/*, env:

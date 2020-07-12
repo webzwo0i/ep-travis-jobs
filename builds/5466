@@ -1,0 +1,14 @@
+Build #5466:  resolve conflict
+State:         canceled
+Type:          push
+Branch:        outdent-ol-on-click
+Commit:        394c063
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3d0c7166f4a4...394c0631e31f
+Duration:      18 min 38 sec
+Started:       2020-06-07 09:44:10
+Finished:      2020-06-07 09:57:43
+
+#5466.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5466.2 canceled: 13 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5466.3 passed:  1 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5466.4 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

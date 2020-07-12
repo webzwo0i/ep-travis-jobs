@@ -1,0 +1,14 @@
+Build #5362:  webaccess: Log authentication attempts (#4022)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        07c73d4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/addb9b957a6e...07c73d4f2d31
+Duration:      34 min 57 sec
+Started:       2020-06-01 21:12:18
+Finished:      2020-06-01 21:32:04
+
+#5362.1 passed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5362.2 failed:  19 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5362.3 errored: 11 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5362.4 passed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

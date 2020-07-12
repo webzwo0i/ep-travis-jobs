@@ -1,0 +1,11 @@
+Job #3831.1:  skins: describe the skins in the documentation
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3475)
+Commit:        0b70e61
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3475
+Duration:      13 sec
+Started:       2018-08-26 21:14:10
+Finished:      2018-08-26 21:14:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

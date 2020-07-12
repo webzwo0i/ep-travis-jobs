@@ -1,0 +1,11 @@
+Job #3490.1:  Merge pull request #3195 from ether/feature/new_hook_when_pad_is_copied
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        48ead83
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8345fd153904...48ead83d62f7
+Duration:      6 min 15 sec
+Started:       2017-05-19 00:22:29
+Finished:      2017-05-19 00:28:44
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

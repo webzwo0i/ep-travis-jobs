@@ -1,0 +1,11 @@
+Job #818.1:  fix a test
+State:         failed
+Type:          push
+Branch:        fix-tests
+Commit:        3460159
+Compare URL:   https://github.com/ether/etherpad-lite/commit/3460159f68d9
+Duration:      6 min 36 sec
+Started:       2013-03-01 15:06:08
+Finished:      2013-03-01 15:12:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

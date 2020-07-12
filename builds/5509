@@ -1,0 +1,15 @@
+Build #5509:  tests: travis config
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8f8a949
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9b875d934f80...8f8a94915528
+Duration:      49 min 13 sec
+Started:       2020-06-08 13:45:31
+Finished:      2020-06-08 14:07:46
+
+#5509.1 passed:  21 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5509.2 failed:  22 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5509.3 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5509.4 failed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5509.5 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

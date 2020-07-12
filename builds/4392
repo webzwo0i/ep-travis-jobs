@@ -1,0 +1,11 @@
+Job #4392.1:  Use a Set for padlist
+State:         passed
+Type:          pull request
+Branch:        master (PR #3752)
+Commit:        821c865
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3752
+Duration:      1 min 28 sec
+Started:       2020-03-24 09:00:54
+Finished:      2020-03-24 09:02:22
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

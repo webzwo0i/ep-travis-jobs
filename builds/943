@@ -1,0 +1,11 @@
+Job #943.1:  working caret position function
+State:         failed
+Type:          push
+Branch:        caret-refactor
+Commit:        99ac407
+Compare URL:   https://github.com/ether/etherpad-lite/compare/81f0ef73abfb...99ac407f089e
+Duration:      8 min 31 sec
+Started:       2013-03-18 00:17:38
+Finished:      2013-03-18 00:26:09
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

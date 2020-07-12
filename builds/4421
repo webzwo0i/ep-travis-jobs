@@ -1,0 +1,12 @@
+Build #4421:  hooks: allow to set the duration of the gritter notification when a new chat message arrives
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3064)
+Commit:        2a8a64f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3064
+Duration:      21 min 38 sec
+Started:       2020-03-27 02:38:03
+Finished:      2020-03-27 02:48:55
+
+#4421.1 errored: 10 min 52 sec  os: linux, node_js: lts/*, env:
+#4421.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

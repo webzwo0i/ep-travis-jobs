@@ -1,0 +1,11 @@
+Job #927.1:  a safer approach I think but still be careful
+State:         failed
+Type:          push
+Branch:        custom-obj-msg
+Commit:        13ad46a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83a820b720cb...13ad46aa67cf
+Duration:      6 min 57 sec
+Started:       2013-03-16 14:21:11
+Finished:      2013-03-16 14:28:08
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

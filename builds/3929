@@ -1,0 +1,11 @@
+Job #3929.1:  NodeVersion.js: factor out require('semver')
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        78c057a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2e4ee39cc36f...78c057af3117
+Duration:      12 min
+Started:       2019-02-09 02:58:07
+Finished:      2019-02-09 03:10:07
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

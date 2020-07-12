@@ -1,0 +1,11 @@
+Job #356.1:  better shindig
+State:         failed
+Type:          push
+Branch:        timeslider-eejs
+Commit:        eb0338d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e137919c3d44...eb0338d40c79
+Duration:      6 min 40 sec
+Started:       2013-01-13 19:24:40
+Finished:      2013-01-13 19:31:20
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

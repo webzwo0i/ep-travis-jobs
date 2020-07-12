@@ -1,0 +1,14 @@
+Build #5573:  cruft: Remove unecessary consolelogs (#4141)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b7dff55
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bbee833b89ba...b7dff552f0eb
+Duration:      23 min 59 sec
+Started:       2020-06-27 21:12:30
+Finished:      2020-06-27 21:32:31
+
+#5573.1 passed:  20 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5573.2 passed:  54 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5573.3 failed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5573.4 passed:  1 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

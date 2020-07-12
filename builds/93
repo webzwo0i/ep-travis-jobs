@@ -1,0 +1,11 @@
+Job #93.1:  Merge pull request #1202 from Wikinaut/fix-1148-add-native-node-https-support
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fdf0b1a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/22c6fd08864f...fdf0b1a3844b
+Duration:      4 min 25 sec
+Started:       2012-11-25 01:37:23
+Finished:      2012-11-25 01:41:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

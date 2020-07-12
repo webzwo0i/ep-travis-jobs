@@ -1,0 +1,12 @@
+Build #4406:  latest for safari does actually work
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3760)
+Commit:        5a7b89f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3760
+Duration:      21 min 35 sec
+Started:       2020-03-25 13:55:53
+Finished:      2020-03-25 14:06:44
+
+#4406.1 errored: 10 min 51 sec  os: linux, node_js: lts/*, env:
+#4406.2 errored: 10 min 44 sec  os: linux, node_js: lts/*, env:

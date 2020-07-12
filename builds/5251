@@ -1,0 +1,13 @@
+Build #5251:  test clean cache
+State:         canceled
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        42c86f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0d5690525daf...42c86f5f14e5
+Duration:      13 min 17 sec
+Started:       2020-05-28 14:28:48
+Finished:      2020-05-28 14:38:46
+
+#5251.1 passed:  1 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5251.2 canceled: 9 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5251.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

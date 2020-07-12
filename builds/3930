@@ -1,0 +1,11 @@
+Job #3930.1:  utils/AbsolutePaths.js: do not break when running as a Windows manual install
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3551)
+Commit:        94211e1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3551
+Duration:      1 min 33 sec
+Started:       2019-02-11 00:08:22
+Finished:      2019-02-11 00:09:55
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

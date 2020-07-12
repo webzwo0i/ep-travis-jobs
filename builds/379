@@ -1,0 +1,11 @@
+Job #379.1:  Merge pull request #1365 from mluto/fix-load-message-tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6055fa9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/92a0e60635a6...6055fa9ceccc
+Duration:      5 min 20 sec
+Started:       2013-01-15 23:28:28
+Finished:      2013-01-15 23:33:48
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

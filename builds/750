@@ -1,0 +1,11 @@
+Job #750.1:  timestlider script block
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1536)
+Commit:        100d71f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1536
+Duration:      10 min 55 sec
+Started:       2013-02-18 19:09:04
+Finished:      2013-02-18 19:19:59
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

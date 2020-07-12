@@ -1,0 +1,13 @@
+Build #5624:  testing installing LO first
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4159)
+Commit:        70290de
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4159
+Duration:      6 min 13 sec
+Started:       2020-07-10 17:04:47
+Finished:      2020-07-10 17:07:08
+
+#5624.1 passed:  1 min 39 sec   os: linux, node_js: lts/*, env:
+#5624.2 failed:  2 min 21 sec   os: linux, node_js: lts/*, env:
+#5624.3 passed:  2 min 13 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #4111:  docker: Test basic application response
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3677)
+Commit:        0b7b2ae
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3677
+Duration:      2 min
+Started:       2019-12-03 23:57:09
+Finished:      2019-12-03 23:58:41
+
+#4111.1 passed:  1 min 30 sec   os: linux, node_js: lts/*
+#4111.2 errored: 30 sec         os: linux, node_js: lts/*

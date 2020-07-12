@@ -1,0 +1,11 @@
+Job #475.1:  Merge pull request #1411 from ether/feature/plugin-update-checker
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e811037
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4dab76f78ac4...e81103730012
+Duration:      4 min 18 sec
+Started:       2013-01-26 22:36:45
+Finished:      2013-01-26 22:41:03
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

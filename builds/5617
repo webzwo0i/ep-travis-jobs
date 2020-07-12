@@ -1,0 +1,14 @@
+Build #5617:  typo
+State:         failed
+Type:          push
+Branch:        saucelabs-parallel
+Commit:        14fc00d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4500bd71cec7...14fc00dc021b
+Duration:      20 min 56 sec
+Started:       2020-07-10 04:08:56
+Finished:      2020-07-10 04:25:54
+
+#5617.1 passed:  16 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5617.2 passed:  49 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5617.3 failed:  1 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5617.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

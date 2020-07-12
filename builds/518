@@ -1,0 +1,11 @@
+Job #518.1:  Don't show notifications when loading the chat-messages.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1430)
+Commit:        900666a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1430
+Duration:      10 min 58 sec
+Started:       2013-01-30 12:19:56
+Finished:      2013-01-30 12:30:54
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

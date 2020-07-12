@@ -1,0 +1,11 @@
+Job #3789.1:  runtime: enforce minimal node version to 6.9.0
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3431)
+Commit:        34b4416
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3431
+Duration:      3 min 24 sec
+Started:       2018-07-27 01:08:59
+Finished:      2018-07-27 01:12:23
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

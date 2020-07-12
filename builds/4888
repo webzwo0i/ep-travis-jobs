@@ -1,0 +1,13 @@
+Build #4888:  docker: make configuration fully configurable via env vars
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3873)
+Commit:        9338212
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3873
+Duration:      2 min 12 sec
+Started:       2020-04-19 19:25:12
+Finished:      2020-04-19 19:26:01
+
+#4888.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4888.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#4888.3 errored: 41 sec         os: linux, node_js: lts/*, env:

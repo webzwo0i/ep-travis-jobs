@@ -1,0 +1,11 @@
+Job #455.1:  pluginfw/installer.js: Don't freak out users with cryptic errors, just use the error message
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1404)
+Commit:        1ddcdc4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1404
+Duration:      6 min 6 sec
+Started:       2013-01-24 22:48:32
+Finished:      2013-01-24 22:54:38
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

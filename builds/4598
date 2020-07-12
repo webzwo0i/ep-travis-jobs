@@ -1,0 +1,12 @@
+Build #4598:  dont pass empty author info to edit
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3818)
+Commit:        e499632
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3818
+Duration:      21 min 36 sec
+Started:       2020-04-01 22:49:37
+Finished:      2020-04-01 23:00:28
+
+#4598.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env:
+#4598.2 errored: 10 min 46 sec  os: linux, node_js: lts/*, env:

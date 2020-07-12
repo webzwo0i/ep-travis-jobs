@@ -1,0 +1,11 @@
+Job #3455.1:  [feature] Only automatically reconnect if can establish connection to server
+State:         errored
+Type:          push
+Branch:        feature/automatic_force_reconnect
+Commit:        384697f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0eae83f2527e...384697f65396
+Duration:      11 min 7 sec
+Started:       2017-04-06 08:21:55
+Finished:      2017-04-06 08:33:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

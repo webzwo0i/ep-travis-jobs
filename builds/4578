@@ -1,0 +1,11 @@
+Job #4578.1:  hrm weird
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        384a321
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      1 min 46 sec
+Started:       2020-04-01 16:36:00
+Finished:      2020-04-01 16:37:46
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

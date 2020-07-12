@@ -1,0 +1,13 @@
+Build #5024:  Merge pull request #11 from ether/develop
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3952)
+Commit:        5bbd9a0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3952
+Duration:      2 min 18 sec
+Started:       2020-04-27 20:03:06
+Finished:      2020-04-27 20:03:55
+
+#5024.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5024.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#5024.3 errored: 44 sec         os: linux, node_js: lts/*, env:

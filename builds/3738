@@ -1,0 +1,11 @@
+Job #3738.1:  changelog: better specified CVE description
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e13ae0a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/10d555bc91a0...e13ae0aec584
+Duration:      2 min 9 sec
+Started:       2018-05-04 23:26:12
+Finished:      2018-05-04 23:28:21
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

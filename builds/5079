@@ -1,0 +1,13 @@
+Build #5079:  iframe attribute: move quote
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3971)
+Commit:        a8dc342
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3971
+Duration:      2 min 12 sec
+Started:       2020-05-05 17:17:54
+Finished:      2020-05-05 17:18:42
+
+#5079.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5079.2 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5079.3 errored: 44 sec         os: linux, node_js: lts/*, env:

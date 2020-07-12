@@ -1,0 +1,13 @@
+Build #5092:  support to pop up prompt when select all then clear authorship
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3983)
+Commit:        d3b2cf2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3983
+Duration:      2 min 24 sec
+Started:       2020-05-08 20:19:34
+Finished:      2020-05-08 20:20:35
+
+#5092.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5092.2 errored: 53 sec         os: linux, node_js: lts/*, env:
+#5092.3 errored: 46 sec         os: linux, node_js: lts/*, env:

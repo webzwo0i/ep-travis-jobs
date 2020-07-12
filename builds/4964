@@ -1,0 +1,13 @@
+Build #4964:  Update gif demo
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3924)
+Commit:        1710c97
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3924
+Duration:      6 min 40 sec
+Started:       2020-04-23 15:09:10
+Finished:      2020-04-23 15:12:16
+
+#4964.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4964.2 errored: 2 min 58 sec   os: linux, node_js: lts/*, env:
+#4964.3 errored: 2 min 59 sec   os: linux, node_js: lts/*, env:

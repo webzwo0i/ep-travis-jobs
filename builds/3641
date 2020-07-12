@@ -1,0 +1,11 @@
+Job #3641.1:  Handle client reconnect properly
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3318)
+Commit:        6755a5d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3318
+Duration:      2 min 1 sec
+Started:       2018-02-12 11:00:08
+Finished:      2018-02-12 11:02:09
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

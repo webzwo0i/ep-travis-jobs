@@ -1,0 +1,14 @@
+Build #5522:  tests: no sauce tunnel on ALL test run
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        3e78b79
+Compare URL:   https://github.com/ether/etherpad-lite/compare/497704eb03f5...3e78b79d9d4f
+Duration:      9 min
+Started:       2020-06-08 18:18:56
+Finished:      2020-06-08 18:23:47
+
+#5522.1 canceled: 4 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5522.2 passed:  1 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5522.3 failed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5522.4 passed:  1 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

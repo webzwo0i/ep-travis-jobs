@@ -1,0 +1,13 @@
+Job #9.1:  Fix version number in changelog and package.json
+State:         failed
+Type:          pull request
+Branch:        master (PR #1160)
+Commit:        486b777
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1160
+Duration:      12 min 59 sec
+Started:       2012-11-14 22:04:16
+Finished:      2012-11-14 22:17:15
+Allow Failure: false
+Config:        env: oKA4KbSvyxMOFCiOa3hWswnaIrCmX60MfhBhD8xu8sodOqbdK5RUrxDJew9p
+1nNSewxoVmKhX0G5GxIABfGtdU1nrEzCEoejTDJIFmzEbcLcHpcyarouWLSY
+Opn11FKS1rnb69aflHM7K8l4dhrCkA2i0Dwwl8LN3HayGzDV2Rg=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

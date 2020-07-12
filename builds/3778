@@ -1,0 +1,11 @@
+Job #3778.1:  tests: print expected & received output for 'getHTML'
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f2b5f3b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7c971f24aa77...f2b5f3bca2bb
+Duration:      12 min 41 sec
+Started:       2018-07-17 01:00:54
+Finished:      2018-07-17 01:13:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

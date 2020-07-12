@@ -1,0 +1,11 @@
+Job #977.1:  Don't break the whole server if an import failed because no files were uploaded
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1645)
+Commit:        3b9b63d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1645
+Duration:      11 min 45 sec
+Started:       2013-03-19 18:38:21
+Finished:      2013-03-19 18:50:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

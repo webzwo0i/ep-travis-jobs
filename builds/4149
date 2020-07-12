@@ -1,0 +1,11 @@
+Job #4149.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into editbar-accessibility
+State:         errored
+Type:          push
+Branch:        editbar-accessibility
+Commit:        7e99724
+Compare URL:   https://github.com/ether/etherpad-lite/compare/editbar-accessibility
+Duration:      10 min 46 sec
+Started:       2019-12-07 19:53:40
+Finished:      2019-12-07 20:04:26
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #891.1:  typo
+State:         failed
+Type:          push
+Branch:        frontend-tests-refactor
+Commit:        b81be97
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5690f2d01ea0...b81be97f94f1
+Duration:      10 min 40 sec
+Started:       2013-03-13 19:13:26
+Finished:      2013-03-13 19:24:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

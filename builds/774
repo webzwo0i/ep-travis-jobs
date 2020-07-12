@@ -1,0 +1,11 @@
+Job #774.1:  Update link to dev guidelines
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1547)
+Commit:        d7cbcb2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1547
+Duration:      11 min 9 sec
+Started:       2013-02-20 21:52:58
+Finished:      2013-02-20 22:04:07
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

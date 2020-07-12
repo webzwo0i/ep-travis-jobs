@@ -1,0 +1,12 @@
+Build #4536:  openapi: disable cors headers for /api/** paths
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3786)
+Commit:        02abf04
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3786
+Duration:      21 min 31 sec
+Started:       2020-03-31 18:40:55
+Finished:      2020-03-31 18:51:43
+
+#4536.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4536.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env:

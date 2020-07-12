@@ -1,0 +1,12 @@
+Build #4095:  Merge branch 'fix_user_home' into test_docker
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3677)
+Commit:        70285d2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3677
+Duration:      2 min 18 sec
+Started:       2019-12-01 22:20:29
+Finished:      2019-12-01 22:21:59
+
+#4095.1 passed:  1 min 30 sec   os: linux, node_js: lts/*
+#4095.2 failed:  48 sec         os: linux, node_js: lts/*

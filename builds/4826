@@ -1,0 +1,13 @@
+Build #4826:  AbsolutePaths: be able to read the git commit version independently on CWD
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        48b0290
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5ade38c86bb7...48b0290977d2
+Duration:      14 min 31 sec
+Started:       2020-04-19 04:52:11
+Finished:      2020-04-19 05:03:39
+
+#4826.1 passed:  1 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4826.2 failed:  11 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4826.3 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5564:  Add prefers-reduced-motion query to chat.css
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4137)
+Commit:        096edee
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4137
+Duration:      4 min 23 sec
+Started:       2020-06-27 05:52:36
+Finished:      2020-06-27 05:54:27
+
+#5564.1 passed:  1 min 4 sec    os: linux, node_js: lts/*, env:
+#5564.2 failed:  1 min 48 sec   os: linux, node_js: lts/*, env:
+#5564.3 passed:  1 min 31 sec   os: linux, node_js: lts/*, env:

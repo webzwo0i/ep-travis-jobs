@@ -1,0 +1,14 @@
+Build #5482:  Revert "socketio230"
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0669280
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fbb7b5123b8a...0669280af063
+Duration:      27 min 25 sec
+Started:       2020-06-07 16:16:15
+Finished:      2020-06-07 16:18:19
+
+#5482.1 passed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5482.2 failed:  21 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5482.3 failed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5482.4 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

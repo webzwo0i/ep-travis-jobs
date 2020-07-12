@@ -1,0 +1,12 @@
+Build #4505:  contentcollector: pasting an OL in Chrome inserted an additional line break. Fixed.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3784)
+Commit:        bd30708
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3784
+Duration:      21 min 33 sec
+Started:       2020-03-30 02:14:32
+Finished:      2020-03-30 02:25:21
+
+#4505.1 errored: 10 min 48 sec  os: linux, node_js: lts/*, env:
+#4505.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

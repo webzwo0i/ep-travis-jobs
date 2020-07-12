@@ -1,0 +1,13 @@
+Build #5273:  one last test of multiple platforms to see whats failing
+State:         failed
+Type:          push
+Branch:        gateway-timeout-during-tests
+Commit:        2415f84
+Compare URL:   https://github.com/ether/etherpad-lite/compare/78a3dd64deb3...2415f84b89a8
+Duration:      14 min 35 sec
+Started:       2020-05-28 16:47:39
+Finished:      2020-05-28 16:59:04
+
+#5273.1 failed:  1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5273.2 failed:  11 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5273.3 passed:  1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

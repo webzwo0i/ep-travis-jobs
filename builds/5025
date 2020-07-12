@@ -1,0 +1,11 @@
+Job #5025.1:  fonts: add pencil, link and table icon
+State:         passed
+Type:          push
+Branch:        seballot-1
+Commit:        d3d1fd2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/seballot-1
+Duration:      11 min 39 sec
+Started:       2020-04-28 12:46:40
+Finished:      2020-04-28 12:58:19
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

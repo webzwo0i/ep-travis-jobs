@@ -1,0 +1,11 @@
+Job #479.1:  Added global settings for authorship-colors, line-numbers and font-type
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1415)
+Commit:        a738e67
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1415
+Duration:      10 min 54 sec
+Started:       2013-01-27 16:14:20
+Finished:      2013-01-27 16:25:14
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

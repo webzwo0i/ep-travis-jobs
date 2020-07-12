@@ -1,0 +1,14 @@
+Build #5605:  testing wdio
+State:         errored
+Type:          push
+Branch:        test-saucelabs
+Commit:        3f05a32
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0c046359807a...3f05a32e350a
+Duration:      15 min 18 sec
+Started:       2020-07-09 23:59:46
+Finished:      2020-07-10 00:10:28
+
+#5605.1 errored: 10 min 42 sec  os: linux, node_js: lts/*
+#5605.2 passed:  57 sec         os: linux, node_js: lts/*
+#5605.3 failed:  2 min          os: linux, node_js: lts/*
+#5605.4 passed:  1 min 39 sec   os: linux, node_js: lts/*

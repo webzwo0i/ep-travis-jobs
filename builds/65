@@ -1,0 +1,11 @@
+Job #65.1:  Merge pull request #1192 from marcelklehr/fix/l10n-ie-bug
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4fb46c0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a6cbcc9d5199...4fb46c0063e2
+Duration:      4 min 36 sec
+Started:       2012-11-21 17:49:04
+Finished:      2012-11-21 17:53:40
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

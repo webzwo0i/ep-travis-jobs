@@ -1,0 +1,13 @@
+Build #5559:  think this is nearly there now and able to be ported to web UI
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4116)
+Commit:        b2e6212
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4116
+Duration:      4 min 17 sec
+Started:       2020-06-26 20:36:17
+Finished:      2020-06-26 20:37:52
+
+#5559.1 passed:  1 min 13 sec   os: linux, node_js: lts/*, env:
+#5559.2 failed:  1 min 33 sec   os: linux, node_js: lts/*, env:
+#5559.3 passed:  1 min 31 sec   os: linux, node_js: lts/*, env:

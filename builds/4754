@@ -1,0 +1,13 @@
+Build #4754:  removing tests for now
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3833)
+Commit:        398bd44
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3833
+Duration:      2 min 17 sec
+Started:       2020-04-13 11:20:01
+Finished:      2020-04-13 11:20:52
+
+#4754.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#4754.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4754.3 errored: 43 sec         os: linux, node_js: lts/*, env:

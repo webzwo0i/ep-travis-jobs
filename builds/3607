@@ -1,0 +1,11 @@
+Job #3607.1:  [refactor] Improve clarity of comment
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3282)
+Commit:        f0a143d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3282
+Duration:      2 min 26 sec
+Started:       2017-12-29 21:44:56
+Finished:      2017-12-29 21:47:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

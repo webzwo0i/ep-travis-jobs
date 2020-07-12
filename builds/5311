@@ -1,0 +1,13 @@
+Build #5311:  Another change to the test name to make it run last...
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        3c190c1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e557723c8e4d...3c190c178217
+Duration:      11 min 22 sec
+Started:       2020-05-29 19:58:03
+Finished:      2020-05-29 20:06:18
+
+#5311.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5311.2 canceled: 8 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5311.3 passed:  1 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

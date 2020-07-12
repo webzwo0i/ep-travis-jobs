@@ -1,0 +1,11 @@
+Job #491.1:  Added tests for author-colors (local+global), line-numbers (local+global), font (global)
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1415)
+Commit:        68d2a5b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1415
+Duration:      10 min 56 sec
+Started:       2013-01-27 21:51:05
+Finished:      2013-01-27 22:02:01
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

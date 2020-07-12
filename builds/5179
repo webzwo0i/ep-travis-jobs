@@ -1,0 +1,13 @@
+Build #5179:  Docker: Abort image build when `npm install` fails
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4026)
+Commit:        6e46dc3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4026
+Duration:      2 min 11 sec
+Started:       2020-05-17 16:46:18
+Finished:      2020-05-17 16:47:05
+
+#5179.1 errored: 45 sec         os: linux, node_js: lts/*, env:
+#5179.2 errored: 41 sec         os: linux, node_js: lts/*, env:
+#5179.3 errored: 45 sec         os: linux, node_js: lts/*, env:

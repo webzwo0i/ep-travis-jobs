@@ -1,0 +1,11 @@
+Job #4174.1:  I prefer this..
+State:         errored
+Type:          push
+Branch:        fix-xss-on-useragent
+Commit:        0962f65
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fix-xss-on-useragent
+Duration:      10 min 38 sec
+Started:       2019-12-07 20:38:16
+Finished:      2019-12-07 20:48:54
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

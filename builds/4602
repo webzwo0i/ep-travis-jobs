@@ -1,0 +1,12 @@
+Build #4602:  merge and prioritize
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3822)
+Commit:        1f38982
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3822
+Duration:      21 min 34 sec
+Started:       2020-04-02 13:14:53
+Finished:      2020-04-02 13:25:42
+
+#4602.1 errored: 10 min 49 sec  os: linux, node_js: lts/*, env:
+#4602.2 errored: 10 min 45 sec  os: linux, node_js: lts/*, env:

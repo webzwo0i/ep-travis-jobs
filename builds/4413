@@ -1,0 +1,12 @@
+Build #4413:  tests: use latest Safari in Saucelab front end tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8f2ad7a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6fd2bf4472e2...8f2ad7a0e8b4
+Duration:      13 min 53 sec
+Started:       2020-03-26 23:26:48
+Finished:      2020-03-26 23:38:58
+
+#4413.1 failed:  12 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4413.2 passed:  1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

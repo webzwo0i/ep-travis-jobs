@@ -1,0 +1,11 @@
+Job #932.1:  much cleaner way of showing / hiding overlay
+State:         failed
+Type:          push
+Branch:        enable-buttons-reconnect
+Commit:        a1d9d27
+Compare URL:   https://github.com/ether/etherpad-lite/compare/69a4ab76cfb4^...a1d9d27cde3b
+Duration:      7 min 26 sec
+Started:       2013-03-16 18:59:18
+Finished:      2013-03-16 19:06:44
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,13 @@
+Build #4800:  HELP NEEDED: these changes should be part of the previous commit, but generate a HTTP/404 when selecting font in the UI
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3740)
+Commit:        61e86ad
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3740
+Duration:      2 min 11 sec
+Started:       2020-04-17 23:00:39
+Finished:      2020-04-17 23:02:18
+
+#4800.1 errored: 41 sec         os: linux, node_js: lts/*, env:
+#4800.2 errored: 49 sec         os: linux, node_js: lts/*, env:
+#4800.3 errored: 41 sec         os: linux, node_js: lts/*, env:

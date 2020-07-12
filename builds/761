@@ -1,0 +1,11 @@
+Job #761.1:  no need to parse already parsed json
+State:         failed
+Type:          push
+Branch:        fix-extractPadData
+Commit:        1996449
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f76cfad42b89...19964498f3b6
+Duration:      7 min 27 sec
+Started:       2013-02-18 21:39:38
+Finished:      2013-02-18 21:47:05
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

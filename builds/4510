@@ -1,0 +1,12 @@
+Build #4510:  settings: document the possibility of using Unix sockets
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        fa3e4b1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/85217b55e025...fa3e4b146a97
+Duration:      7 min 23 sec
+Started:       2020-03-30 03:37:16
+Finished:      2020-03-30 03:44:07
+
+#4510.1 failed:  5 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4510.2 passed:  1 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

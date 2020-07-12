@@ -1,0 +1,11 @@
+Job #383.1:  [html10n] Fix onload event listener (must be attached to window!)
+State:         failed
+Type:          push
+Branch:        fix/ie8-onload-html10n
+Commit:        a1188c1
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a1188c15c0eb
+Duration:      4 min 19 sec
+Started:       2013-01-16 19:49:39
+Finished:      2013-01-16 19:53:58
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

@@ -1,0 +1,11 @@
+Job #3999.1:  Docker image will now be built based on Alpine
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3614)
+Commit:        732b311
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3614
+Duration:      1 min 24 sec
+Started:       2019-06-16 21:55:53
+Finished:      2019-06-16 21:57:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

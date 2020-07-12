@@ -1,0 +1,12 @@
+Build #4495:  logging messages. This should be it.
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3780)
+Commit:        6027d6c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3780
+Duration:      14 min 3 sec
+Started:       2020-03-29 23:29:54
+Finished:      2020-03-29 23:40:40
+
+#4495.1 errored: 10 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4495.2 passed:  3 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

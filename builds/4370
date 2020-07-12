@@ -1,0 +1,11 @@
+Job #4370.1:  minify: make conditional requests work. No HTTP/304 was ever generated and file were reminified uselessly.
+State:         passed
+Type:          pull request
+Branch:        master (PR #3747)
+Commit:        8a22d1e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3747
+Duration:      1 min 29 sec
+Started:       2020-03-23 17:05:18
+Finished:      2020-03-23 17:06:47
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

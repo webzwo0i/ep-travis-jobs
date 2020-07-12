@@ -1,0 +1,11 @@
+Job #4018.1:  dependencies: update wd, 1.11.1 -> 1.11.3
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        161a38e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d555b052cbd5...161a38efd248
+Duration:      12 min 40 sec
+Started:       2019-08-08 22:31:18
+Finished:      2019-08-08 22:43:58
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

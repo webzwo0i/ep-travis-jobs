@@ -1,0 +1,11 @@
+Job #979.1:  Merge pull request #1646 from ether/feature/log-http-on-debug-level
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5e07f24
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cb45c44b4d1b...5e07f24c690f
+Duration:      2 min 25 sec
+Started:       2013-03-19 18:40:57
+Finished:      2013-03-19 18:43:22
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

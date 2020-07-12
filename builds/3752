@@ -1,0 +1,11 @@
+Job #3752.1:  added goToRevisionEvent hook
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3408)
+Commit:        41dfcc4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3408
+Duration:      1 min 44 sec
+Started:       2018-06-05 23:29:02
+Finished:      2018-06-05 23:30:46
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

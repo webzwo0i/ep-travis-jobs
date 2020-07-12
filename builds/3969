@@ -1,0 +1,11 @@
+Job #3969.1:  remove devdeps from prod builds
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c1321f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cbd393d56b16...c1321f5b14fa
+Duration:      11 min 49 sec
+Started:       2019-03-29 17:52:37
+Finished:      2019-03-29 18:04:26
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #3966.1:  handler/PadMessageHandler.js: handleMessage() got the wrong padId for read only pads
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3585)
+Commit:        269b7a8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3585
+Duration:      1 min 34 sec
+Started:       2019-03-27 00:43:00
+Finished:      2019-03-27 00:44:34
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

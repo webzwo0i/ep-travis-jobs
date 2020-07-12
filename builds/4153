@@ -1,0 +1,11 @@
+Job #4153.1:  stop death on no session
+State:         errored
+Type:          push
+Branch:        require-kernel-change
+Commit:        6fea3a2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/require-kernel-change
+Duration:      1 min
+Started:       2019-12-07 20:02:37
+Finished:      2019-12-07 20:03:37
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

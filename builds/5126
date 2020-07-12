@@ -1,0 +1,11 @@
+Job #5126.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into utf-8-check
+State:         errored
+Type:          push
+Branch:        utf-8-check
+Commit:        ff07939
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f5ff25e3756b^...ff079392a296
+Duration:      1 min
+Started:       2020-05-13 23:18:02
+Finished:      2020-05-13 23:19:02
+Allow Failure: false
+Config:        os: linux, node_js: 0.10, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

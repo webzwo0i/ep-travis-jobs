@@ -1,0 +1,11 @@
+Job #3989.1:  dependencies: update nyc, 12.0.1 -> 14.1.0
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        90b288b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a7220558d208...90b288b5761c
+Duration:      11 min 34 sec
+Started:       2019-05-03 23:44:24
+Finished:      2019-05-03 23:55:58
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

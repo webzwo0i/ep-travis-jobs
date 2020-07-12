@@ -1,0 +1,11 @@
+Job #4043.1:  runtime: decrease minimum command-line npm version from 6.4 to 5.5
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        4f75380
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fc661ee13af1...4f753809fe13
+Duration:      11 min 46 sec
+Started:       2019-10-19 23:12:09
+Finished:      2019-10-19 23:23:55
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

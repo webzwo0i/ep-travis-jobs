@@ -1,0 +1,11 @@
+Job #648.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into dep-cleanup
+State:         failed
+Type:          push
+Branch:        dep-cleanup
+Commit:        17a02bb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b0f555e669d3...17a02bb024f6
+Duration:      7 min 36 sec
+Started:       2013-02-10 23:43:30
+Finished:      2013-02-10 23:51:06
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

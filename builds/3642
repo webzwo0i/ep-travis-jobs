@@ -1,0 +1,11 @@
+Job #3642.1:  Send commits missed during the reconnect
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3318)
+Commit:        57ea4c5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3318
+Duration:      1 min 44 sec
+Started:       2018-02-14 08:49:49
+Finished:      2018-02-14 08:51:33
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

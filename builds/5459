@@ -1,0 +1,14 @@
+Build #5459:  lets try this
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4088)
+Commit:        2cbb738
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4088
+Duration:      26 min 33 sec
+Started:       2020-06-07 00:57:43
+Finished:      2020-06-07 01:20:12
+
+#5459.1 passed:  1 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5459.2 failed:  21 min 7 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5459.3 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5459.4 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

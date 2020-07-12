@@ -1,0 +1,13 @@
+Build #5107:  remove async from pluginfw requirements
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3994)
+Commit:        1c1bfb8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3994
+Duration:      2 min 19 sec
+Started:       2020-05-12 15:08:03
+Finished:      2020-05-12 15:08:53
+
+#5107.1 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5107.2 errored: 50 sec         os: linux, node_js: lts/*, env:
+#5107.3 errored: 43 sec         os: linux, node_js: lts/*, env:

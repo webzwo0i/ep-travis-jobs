@@ -1,0 +1,12 @@
+Build #4477:  Add jsonp support + test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3786)
+Commit:        e18e1d4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3786
+Duration:      21 min 33 sec
+Started:       2020-03-29 21:15:20
+Finished:      2020-03-29 21:26:10
+
+#4477.1 errored: 10 min 50 sec  os: linux, node_js: lts/*, env:
+#4477.2 errored: 10 min 43 sec  os: linux, node_js: lts/*, env:

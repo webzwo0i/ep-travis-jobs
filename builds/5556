@@ -1,0 +1,13 @@
+Build #5556:  reporting script to say X user did Y action and when
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4116)
+Commit:        4e4a5e8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4116
+Duration:      4 min 13 sec
+Started:       2020-06-26 18:41:19
+Finished:      2020-06-26 18:43:06
+
+#5556.1 passed:  1 min 10 sec   os: linux, node_js: lts/*, env:
+#5556.2 failed:  1 min 39 sec   os: linux, node_js: lts/*, env:
+#5556.3 failed:  1 min 24 sec   os: linux, node_js: lts/*, env:

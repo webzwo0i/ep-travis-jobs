@@ -1,0 +1,11 @@
+Job #711.1:  session key in settings file OR generate temp key for instance
+State:         failed
+Type:          push
+Branch:        store-sessions-in-db
+Commit:        efce99c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5c9d08139118...efce99c3a13c
+Duration:      12 min 57 sec
+Started:       2013-02-14 00:35:03
+Finished:      2013-02-14 00:48:00
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

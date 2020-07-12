@@ -1,0 +1,11 @@
+Job #952.1:  stop start point going negative
+State:         failed
+Type:          push
+Branch:        caret-refactor
+Commit:        3562672
+Compare URL:   https://github.com/ether/etherpad-lite/compare/27e9f918640a...3562672a757d
+Duration:      7 min 59 sec
+Started:       2013-03-18 19:46:18
+Finished:      2013-03-18 19:54:17
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

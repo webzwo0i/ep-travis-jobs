@@ -1,0 +1,11 @@
+Job #3787.1:  doc: review "Tweak the settings"
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3360)
+Commit:        9fe4f3c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3360
+Duration:      2 min 42 sec
+Started:       2018-07-27 00:40:42
+Finished:      2018-07-27 00:43:24
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

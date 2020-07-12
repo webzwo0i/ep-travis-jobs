@@ -1,0 +1,11 @@
+Job #3833.1:  javascript license: we cannot assert the license of a custom skin.
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        7f7efa2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6620014b775f...7f7efa22b733
+Duration:      12 sec
+Started:       2018-08-26 22:30:23
+Finished:      2018-08-26 22:30:35
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

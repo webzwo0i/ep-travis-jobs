@@ -1,0 +1,14 @@
+Build #5436:  Revert "editor: ul/ol/li - outdent on ol and ul button press"
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        82fb6dd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aff93d24dd0c...82fb6ddc99fc
+Duration:      9 min 2 sec
+Started:       2020-06-06 21:52:06
+Finished:      2020-06-06 21:55:50
+
+#5436.1 passed:  1 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5436.2 canceled: 3 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5436.3 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5436.4 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

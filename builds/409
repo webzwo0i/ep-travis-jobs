@@ -1,0 +1,11 @@
+Job #409.1:  Merge branch 'develop' of github.com:ether/etherpad-lite into release/releases-1.2.6
+State:         failed
+Type:          push
+Branch:        release/releases-1.2.6
+Commit:        76d571c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eedd8c6f13a0...76d571c9fac3
+Duration:      4 min 24 sec
+Started:       2013-01-20 15:33:13
+Finished:      2013-01-20 15:37:37
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

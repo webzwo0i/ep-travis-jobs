@@ -1,0 +1,11 @@
+Job #4180.1:  console msg should go to window
+State:         errored
+Type:          push
+Branch:        iframe-issues
+Commit:        361807e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/iframe-issues
+Duration:      10 min 44 sec
+Started:       2019-12-07 20:49:11
+Finished:      2019-12-07 20:59:55
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

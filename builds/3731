@@ -1,0 +1,11 @@
+Job #3731.1:  upgrade to 1.6.5
+State:         failed
+Type:          pull request
+Branch:        master (PR #3386)
+Commit:        b307983
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3386
+Duration:      1 min 42 sec
+Started:       2018-04-27 09:43:40
+Finished:      2018-04-27 09:45:22
+Allow Failure: false
+Config:        os: linux, node_js: 0.10

@@ -1,0 +1,11 @@
+Job #728.1:  Merge pull request #1529 from marcelklehr/fix/i18n/two-part-locale-specs
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2669961
+Compare URL:   https://github.com/ether/etherpad-lite/compare/93d58b93be53...26699618ac44
+Duration:      7 min 45 sec
+Started:       2013-02-17 21:37:50
+Finished:      2013-02-17 21:45:35
+Allow Failure: false
+Config:        env: SAUCE_KEY=[secure] SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

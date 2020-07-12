@@ -1,0 +1,14 @@
+Build #5516:  tests: Travis conditional only run frontend tests if it's not a fork. (#4097)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5e887c0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8f8a94915528...5e887c02a811
+Duration:      26 min 39 sec
+Started:       2020-06-08 14:53:28
+Finished:      2020-06-08 15:15:04
+
+#5516.1 passed:  21 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5516.2 passed:  1 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5516.3 failed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5516.4 passed:  1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

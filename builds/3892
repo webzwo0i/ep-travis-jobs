@@ -1,0 +1,11 @@
+Job #3892.1:  skins: Fixes #3510 show/hide line numbers
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3496)
+Commit:        9124665
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3496
+Duration:      1 min 27 sec
+Started:       2018-11-15 11:36:12
+Finished:      2018-11-15 11:37:39
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

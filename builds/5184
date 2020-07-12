@@ -1,0 +1,13 @@
+Build #5184:  better-ux-for-safari-iframe
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4034)
+Commit:        bd66279
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4034
+Duration:      2 min 19 sec
+Started:       2020-05-19 11:01:26
+Finished:      2020-05-19 11:02:15
+
+#5184.1 errored: 47 sec         os: linux, node_js: lts/*, env:
+#5184.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#5184.3 errored: 46 sec         os: linux, node_js: lts/*, env:

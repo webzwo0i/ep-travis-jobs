@@ -1,0 +1,11 @@
+Job #3984.1:  Display the version in the web interface
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        357780d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8453f072057b...357780d573a0
+Duration:      19 min 3 sec
+Started:       2019-04-16 01:18:07
+Finished:      2019-04-16 01:37:10
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

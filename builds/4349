@@ -1,0 +1,12 @@
+Build #4349:  helps if you remember to add the helper
+State:         errored
+Type:          push
+Branch:        fix-tests-during-edit
+Commit:        c3ed9c6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ef1e8fa744cf...c3ed9c66d1ad
+Duration:      21 min 27 sec
+Started:       2020-03-23 11:54:48
+Finished:      2020-03-23 12:16:13
+
+#4349.1 errored: 10 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#4349.2 errored: 10 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

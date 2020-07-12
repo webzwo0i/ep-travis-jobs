@@ -1,0 +1,11 @@
+Job #832.1:  Fix comma errors in settings.json.template
+State:         errored
+Type:          pull request
+Branch:        develop (PR #1578)
+Commit:        2239219
+Compare URL:   https://github.com/ether/etherpad-lite/pull/1578
+Duration:      10 min 57 sec
+Started:       2013-03-03 22:27:11
+Finished:      2013-03-03 22:38:08
+Allow Failure: false
+Config:        env: SAUCE_USER=pita, jdk: oraclejdk6, node_js: 0.8

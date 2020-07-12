@@ -1,0 +1,13 @@
+Build #5012:  changeset.js: do not lose sync in the timeslider if another user deletes text
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3934)
+Commit:        e6654df
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3934
+Duration:      2 min 14 sec
+Started:       2020-04-27 02:11:10
+Finished:      2020-04-27 02:11:58
+
+#5012.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#5012.2 errored: 48 sec         os: linux, node_js: lts/*, env:
+#5012.3 errored: 43 sec         os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #3903.1:  Merge pull request #3496 from seballot/develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        194697a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/799319882ced...194697a960ea
+Duration:      11 min 41 sec
+Started:       2018-11-28 18:16:59
+Finished:      2018-11-28 18:28:40
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

@@ -1,0 +1,11 @@
+Job #4590.1:  tidy up
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3813)
+Commit:        a231c0b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3813
+Duration:      1 min 52 sec
+Started:       2020-04-01 17:01:21
+Finished:      2020-04-01 17:03:13
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

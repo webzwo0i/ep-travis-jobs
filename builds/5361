@@ -1,0 +1,14 @@
+Build #5361:  import: Resolve error handling import causes instance crash
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        addb9b9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4497d37af9cc...addb9b957a6e
+Duration:      16 min 23 sec
+Started:       2020-06-01 21:09:30
+Finished:      2020-06-01 21:20:41
+
+#5361.1 passed:  1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5361.2 errored: 11 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5361.3 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5361.4 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

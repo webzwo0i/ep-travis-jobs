@@ -1,0 +1,13 @@
+Build #4909:  css: Fix sidedivinner padding  creating ui problems refs #3907
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3908)
+Commit:        5a780da
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3908
+Duration:      2 min 13 sec
+Started:       2020-04-20 11:59:41
+Finished:      2020-04-20 12:00:27
+
+#4909.1 errored: 43 sec         os: linux, node_js: lts/*, env:
+#4909.2 errored: 46 sec         os: linux, node_js: lts/*, env:
+#4909.3 errored: 44 sec         os: linux, node_js: lts/*, env:
