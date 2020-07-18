@@ -1,0 +1,13 @@
+Build #5649:  remove console log
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4163)
+Commit:        f217b73
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4163
+Duration:      6 min 42 sec
+Started:       2020-07-13 22:48:46
+Finished:      2020-07-13 22:51:36
+
+#5649.1 failed:  1 min 36 sec   os: linux, node_js: lts/*, env:
+#5649.2 failed:  2 min 18 sec   os: linux, node_js: lts/*, env:
+#5649.3 passed:  2 min 48 sec   os: linux, node_js: lts/*, env:

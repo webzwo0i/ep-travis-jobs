@@ -1,0 +1,12 @@
+Build #5664:  derp
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        9e7f91d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      3 min 42 sec
+Started:       2020-07-15 00:34:31
+Finished:      2020-07-15 00:36:43
+
+#5664.1 failed:  1 min 33 sec   os: linux, node_js: lts/*, env:
+#5664.2 passed:  2 min 9 sec    os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #5708:  attepmt to fix 3037
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4177)
+Commit:        b11691b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4177
+Duration:      4 min 25 sec
+Started:       2020-07-17 17:57:14
+Finished:      2020-07-17 17:59:48
+
+#5708.1 passed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#5708.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

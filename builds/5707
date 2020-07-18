@@ -1,0 +1,12 @@
+Build #5707:  Revert "bugfix / timeslider: timeslider firefox fix, resolves 4100"
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4175)
+Commit:        8467b22
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4175
+Duration:      4 min 19 sec
+Started:       2020-07-17 17:42:16
+Finished:      2020-07-17 17:46:26
+
+#5707.1 passed:  1 min 55 sec   os: linux, node_js: lts/*, env:
+#5707.2 failed:  2 min 24 sec   os: linux, node_js: lts/*, env:

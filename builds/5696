@@ -1,0 +1,13 @@
+Build #5696:  tests: Responsive test enable (#4174)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        864e76b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d1330a1e1c0f...864e76b300c6
+Duration:      23 min 45 sec
+Started:       2020-07-17 11:44:09
+Finished:      2020-07-17 12:03:04
+
+#5696.1 errored: 18 min 55 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5696.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5696.3 passed:  2 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

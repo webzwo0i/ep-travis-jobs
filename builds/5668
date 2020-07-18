@@ -1,0 +1,14 @@
+Build #5668:  docs: Readme full feature install guide (#4168)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        7873c76
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8ae823032db4...7873c76242b8
+Duration:      14 min 11 sec
+Started:       2020-07-15 18:55:48
+Finished:      2020-07-15 19:04:02
+
+#5668.1 passed:  8 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5668.2 errored: 1 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5668.3 failed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5668.4 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

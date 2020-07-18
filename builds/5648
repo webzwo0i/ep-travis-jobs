@@ -1,0 +1,14 @@
+Build #5648:  frontend test improvements (#4161)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2c8fb99
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3bd81e6d0124...2c8fb99be8de
+Duration:      15 min 4 sec
+Started:       2020-07-13 16:13:02
+Finished:      2020-07-13 16:22:00
+
+#5648.1 passed:  8 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5648.2 passed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5648.3 failed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5648.4 passed:  2 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

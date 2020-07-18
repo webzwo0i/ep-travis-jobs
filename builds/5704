@@ -1,0 +1,12 @@
+Build #5704:  bugfix / timeslider: timeslider firefox fix, resolves 4100
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4175)
+Commit:        ef29505
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4175
+Duration:      4 min 28 sec
+Started:       2020-07-17 17:38:41
+Finished:      2020-07-17 17:41:25
+
+#5704.1 passed:  1 min 52 sec   os: linux, node_js: lts/*, env:
+#5704.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:

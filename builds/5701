@@ -1,0 +1,13 @@
+Build #5701:  tests: make target versions inline with #4162
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        fad3830
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7c8c2665cb48...fad3830097db
+Duration:      13 min 44 sec
+Started:       2020-07-17 14:25:50
+Finished:      2020-07-17 14:35:02
+
+#5701.1 passed:  9 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5701.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5701.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

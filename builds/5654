@@ -1,0 +1,13 @@
+Build #5654:  err wtf
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        3e12611
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      6 min 44 sec
+Started:       2020-07-14 23:14:39
+Finished:      2020-07-14 23:17:05
+
+#5654.1 failed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#5654.2 failed:  2 min 26 sec   os: linux, node_js: lts/*, env:
+#5654.3 passed:  2 min 20 sec   os: linux, node_js: lts/*, env:

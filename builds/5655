@@ -1,0 +1,13 @@
+Build #5655:  valid
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        7c35466
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      6 min 52 sec
+Started:       2020-07-14 23:34:09
+Finished:      2020-07-14 23:37:03
+
+#5655.1 failed:  1 min 47 sec   os: linux, node_js: lts/*, env:
+#5655.2 failed:  2 min 48 sec   os: linux, node_js: lts/*, env:
+#5655.3 passed:  2 min 17 sec   os: linux, node_js: lts/*, env:

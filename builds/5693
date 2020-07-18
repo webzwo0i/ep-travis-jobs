@@ -1,0 +1,12 @@
+Build #5693:  properly working async dep update....
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4173)
+Commit:        821ba03
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4173
+Duration:      4 min 33 sec
+Started:       2020-07-17 11:07:39
+Finished:      2020-07-17 11:10:13
+
+#5693.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#5693.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

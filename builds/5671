@@ -1,0 +1,12 @@
+Build #5671:  test
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        b2ffde5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      4 min 35 sec
+Started:       2020-07-16 10:37:15
+Finished:      2020-07-16 10:39:57
+
+#5671.1 failed:  1 min 53 sec   os: linux, node_js: lts/*, env:
+#5671.2 passed:  2 min 42 sec   os: linux, node_js: lts/*, env:

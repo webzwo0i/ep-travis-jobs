@@ -1,0 +1,14 @@
+Build #5670:  bugfix / testing: Ie11 warning for not having Promises (#4167)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        9bf1b9f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e24ef6969e77...9bf1b9f2a2a2
+Duration:      14 min 6 sec
+Started:       2020-07-16 10:32:04
+Finished:      2020-07-16 10:40:34
+
+#5670.1 passed:  8 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5670.2 errored: 1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5670.3 failed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5670.4 failed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

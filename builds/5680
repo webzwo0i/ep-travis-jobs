@@ -1,0 +1,12 @@
+Build #5680:  trying using ppa
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        90aadbe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      3 min 39 sec
+Started:       2020-07-16 11:31:19
+Finished:      2020-07-16 11:33:11
+
+#5680.1 canceled: 1 min 52 sec   os: linux, node_js: lts/*, env:
+#5680.2 canceled: 1 min 47 sec   os: linux, node_js: lts/*, env:

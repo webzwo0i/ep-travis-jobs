@@ -1,0 +1,12 @@
+Build #5679:  different test pdf for LO
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        b2c5633
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      3 min 48 sec
+Started:       2020-07-16 11:23:56
+Finished:      2020-07-16 11:26:11
+
+#5679.1 failed:  1 min 35 sec   os: linux, node_js: lts/*, env:
+#5679.2 passed:  2 min 13 sec   os: linux, node_js: lts/*, env:

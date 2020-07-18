@@ -1,3 +1,66 @@
+#5709 passed:    develop (PR #4178) remove all password logic and ui
+#5708 passed:    develop (PR #4177) attepmt to fix 3037
+#5707 failed:    develop (PR #4175) Revert "bugfix / timeslider: timeslider firefox fix, resolves 4100"
+#5706 errored:   develop bugfix / timeslider: only update timeslider on correct message type -- resolves #4100
+#5705 errored:   develop (PR #4176) fixes #4100
+#5704 passed:    develop (PR #4175) bugfix / timeslider: timeslider firefox fix, resolves 4100
+#5703 errored:   develop tests: make target versions inline with #4162 part 3
+#5702 errored:   develop tests: make target versions inline with #4162 part 2
+#5701 passed:    develop tests: make target versions inline with #4162
+#5700 canceled:  develop Revert "tests: testing to see if responsiveness test enable broke travis...  Committing direct to ensure SL tests run"
+#5699 errored:   develop tests: testing to see if responsiveness test enable broke travis...  Committing direct to ensure SL tests run
+#5698 passed:    develop (PR #3953) ts
+#5697 failed:    develop (PR #3953) more stuff
+#5696 errored:   develop tests: Responsive test enable (#4174)
+#5695 passed:    develop (PR #4174) uncomment responsiveness test
+#5694 errored:   develop Bugfix: Async bump part 2
+#5693 passed:    develop (PR #4173) properly working async dep update....
+#5692 errored:   develop getChangesetInfo: print error message (#4172)
+#5691 errored:   develop (PR #4172) getChangesetInfo: print error message
+#5690 errored:   print-error-message getChangesetInfo: print error message
+#5689 errored:   develop Bumping async (#4171)
+#5688 passed:    develop (PR #4171) bupming async
+#5687 passed:    develop Script to create session and store token <> author more throughly (dont create ghosts) (#4012)
+#5686 passed:    develop Bugfix / tests: Travis use LibreOffice PPA and fix import /export tests for good. (#4166)
+#5685 passed:    develop (PR #4166) tidy up
+#5684 failed:    develop (PR #4166) working
+#5683 passed:    develop (PR #4166) heh wtf
+#5682 passed:    develop (PR #4166) hrm, why so old?
+#5681 failed:    develop (PR #4166) try this
+#5680 canceled:  develop (PR #4166) trying using ppa
+#5679 failed:    develop (PR #4166) different test pdf for LO
+#5678 failed:    develop (PR #4166) pdf is borked on Travis?
+#5677 failed:    develop (PR #4166) maybe?
+#5676 failed:    develop (PR #4166) thing
+#5675 failed:    develop (PR #4166) thing
+#5674 failed:    develop (PR #4166) doing doc export first
+#5673 failed:    develop (PR #4166) testing max limits
+#5672 failed:    develop (PR #4166) test to see if export works a tall
+#5671 failed:    develop (PR #4166) test
+#5670 errored:   develop bugfix / testing: Ie11 warning for not having Promises (#4167)
+#5669 errored:   develop Bugfix / tests: Specs list type (#4169)
+#5668 errored:   develop docs: Readme full feature install guide (#4168)
+#5667 errored:   develop (PR #4167) cleaner...
+#5666 failed:    develop (PR #4166) wtf
+#5665 errored:   develop (PR #4169) fix issue #3945
+#5664 failed:    develop (PR #4166) derp
+#5663 failed:    develop (PR #4166) move sed to runnerBackend.sh
+#5662 passed:    develop (PR #4166) warning msg
+#5661 passed:    develop (PR #4166) warning msg
+#5660 passed:    develop (PR #4166) skipping docker tests until they are fixed
+#5659 failed:    develop (PR #4166) debug msg
+#5658 failed:    develop (PR #4166) doh.
+#5657 failed:    develop (PR #4166) heh files..
+#5656 failed:    develop (PR #4166) testing something...
+#5655 failed:    develop (PR #4166) valid
+#5654 failed:    develop (PR #4166) err wtf
+#5653 errored:   develop (PR #4166) Merge branch 'develop' into travis-parse
+#5652 errored:   develop Bugfix: Travis parse (#4164)
+#5651 errored:   develop (PR #4164) escape-mistake
+#5650 failed:    develop Localisation updates from https://translatewiki.net.
+#5649 failed:    develop (PR #4163) remove console log
+#5648 failed:    develop frontend test improvements (#4161)
+#5647 failed:    consoleoutputintests frontend tests: dump server log
 #5646 failed:    develop (PR #4161) typo
 #5645 failed:    remoterunner-fix typo
 #5644 failed:    develop (PR #4161) frontend tests: 6 sessions in parallel, add OSX 10.14-safari and Windows7-firefox, pin all browsers instead of use latest
@@ -3098,6 +3161,7 @@
 #2551 failed:    chat-users-flow-css and even mroe polish
 #2551 failed:    develop (PR #2510) and even mroe polish
 #2550 failed:    develop (PR #2510) more styling stuff
+#2550 failed:    chat-users-flow-css more styling stuff
 #2549 errored:   develop (PR #2510) better css
 #2548 failed:    chat-users-flow-css better css
 #2547 errored:   develop (PR #2509) Adding api call for appending a chat message.
@@ -3809,7 +3873,6 @@
 #1862 errored:   develop (PR #2180) Cleaning up switchToPad functionality so that we only need one call to the server("SWITCH_TO_PAD") instead of two (cleaning session info and client ready).
 #1861 errored:   develop Merge pull request #2174 from ether/fix/copy-pad-update-lists
 #1860 failed:    develop (PR #2174) Fix Pad#copy routine for updating group list
-#1860 passed:    fix/copy-pad-update-lists Fix Pad#copy routine for updating group list
 #1859 errored:   develop (PR #2180) Fallback for browsers that don't support window.history.pushstate
 #1858 errored:   develop Merge pull request #2193 from kpn3m000/develop
 #1857 errored:   develop (PR #2193) Fixes search on plugins without Description
@@ -3960,7 +4023,6 @@
 #1721 passed:    preProcessDomLine fix dintenation
 #1720 failed:    preProcessDomLine preprocessor for domline attributes
 #1719 passed:    support-images cross platform but REALLY MESSY, do not use this as reference its just to show it existing
-#1719 passed:    develop (PR #2033) cross platform but REALLY MESSY, do not use this as reference its just to show it existing
 #1718 failed:    master (PR #2069) Merge pull request #2095 from vvision/develop
 #1717 failed:    release/1.4.0 Merge pull request #2095 from vvision/develop
 #1716 errored:   master (PR #2069) Merge pull request #2086 from bnchdrff/cleanse-npm-values
@@ -4248,6 +4310,7 @@
 #1443 failed:    develop Localisation updates from http://translatewiki.net.
 #1442 failed:    develop Merge pull request #1943 from ether/fix/listAllPads-fix
 #1441 failed:    fix/listAllPads-fix Pad list cache: You can't change the cache if it's not initiated
+#1441 passed:    develop (PR #1943) Pad list cache: You can't change the cache if it's not initiated
 #1440 failed:    develop Consistent spelling style
 #1439 passed:    develop Localisation updates from http://translatewiki.net.
 #1438 failed:    develop Merge pull request #1940 from piratenfraktion-nrw/fix_readonly_if_require_session
@@ -4260,7 +4323,6 @@
 #1431 failed:    develop Fix disconnect modals
 #1430 errored:   develop Merge branch 'release/1.2.12'
 #1429 failed:    master Merge branch 'release/1.2.12'
-#1429 errored:   1.2.12 Merge branch 'release/1.2.12'
 #1428 failed:    release/1.2.12 Update CHANGELOG
 #1427 passed:    release/1.2.12 Merge branch 'develop' into release/1.2.12
 #1426 errored:   develop Merge pull request #1938 from ether/fix/unknown-connection-message

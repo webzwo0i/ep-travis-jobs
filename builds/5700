@@ -1,0 +1,13 @@
+Build #5700:  Revert "tests: testing to see if responsiveness test enable broke travis...  Committing direct to ensure SL tests run"
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        7c8c266
+Compare URL:   https://github.com/ether/etherpad-lite/compare/423b99f4993c...7c8c2665cb48
+Duration:      7 min
+Started:       2020-07-17 13:58:04
+Finished:      2020-07-17 14:00:37
+
+#5700.1 canceled: 2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5700.2 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5700.3 canceled: 2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

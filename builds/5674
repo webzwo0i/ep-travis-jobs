@@ -1,0 +1,12 @@
+Build #5674:  doing doc export first
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        d28dab6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      3 min 34 sec
+Started:       2020-07-16 10:54:23
+Finished:      2020-07-16 10:56:25
+
+#5674.1 failed:  1 min 32 sec   os: linux, node_js: lts/*, env:
+#5674.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:

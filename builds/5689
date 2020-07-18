@@ -1,0 +1,13 @@
+Build #5689:  Bumping async (#4171)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        410d204
+Compare URL:   https://github.com/ether/etherpad-lite/compare/78c97d811cce...410d20417d30
+Duration:      16 min 22 sec
+Started:       2020-07-16 18:38:02
+Finished:      2020-07-16 18:50:21
+
+#5689.1 errored: 12 min 14 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5689.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5689.3 failed:  2 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

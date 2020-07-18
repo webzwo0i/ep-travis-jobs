@@ -1,0 +1,12 @@
+Build #5662:  warning msg
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        24123fc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      3 min 54 sec
+Started:       2020-07-15 00:21:41
+Finished:      2020-07-15 00:23:56
+
+#5662.1 passed:  1 min 39 sec   os: linux, node_js: lts/*, env:
+#5662.2 passed:  2 min 15 sec   os: linux, node_js: lts/*, env:

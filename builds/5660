@@ -1,0 +1,12 @@
+Build #5660:  skipping docker tests until they are fixed
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        7da9b7e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      4 min 5 sec
+Started:       2020-07-15 00:18:09
+Finished:      2020-07-15 00:20:42
+
+#5660.1 passed:  1 min 33 sec   os: linux, node_js: lts/*, env:
+#5660.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

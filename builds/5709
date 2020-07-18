@@ -1,0 +1,12 @@
+Build #5709:  remove all password logic and ui
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4178)
+Commit:        d782cb9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4178
+Duration:      4 min 18 sec
+Started:       2020-07-17 18:25:51
+Finished:      2020-07-17 18:28:18
+
+#5709.1 passed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#5709.2 passed:  2 min 27 sec   os: linux, node_js: lts/*, env:

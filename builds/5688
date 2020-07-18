@@ -1,0 +1,12 @@
+Build #5688:  bupming async
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4171)
+Commit:        f0b0964
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4171
+Duration:      4 min 36 sec
+Started:       2020-07-16 18:34:26
+Finished:      2020-07-16 18:37:09
+
+#5688.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#5688.2 passed:  2 min 38 sec   os: linux, node_js: lts/*, env:

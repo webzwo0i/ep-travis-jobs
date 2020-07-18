@@ -1,0 +1,13 @@
+Build #5694:  Bugfix: Async bump part 2
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        d1330a1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b3680058ff5b...d1330a1e1c0f
+Duration:      24 min 17 sec
+Started:       2020-07-17 11:09:00
+Finished:      2020-07-17 11:28:36
+
+#5694.1 errored: 19 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5694.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5694.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

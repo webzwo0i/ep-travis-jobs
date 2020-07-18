@@ -1,0 +1,14 @@
+Build #5669:  Bugfix / tests: Specs list type (#4169)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        e24ef69
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7873c76242b8...e24ef6969e77
+Duration:      15 min 50 sec
+Started:       2020-07-15 18:58:55
+Finished:      2020-07-15 19:08:40
+
+#5669.1 passed:  9 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5669.2 errored: 1 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5669.3 failed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5669.4 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

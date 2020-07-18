@@ -1,0 +1,12 @@
+Build #5698:  ts
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3953)
+Commit:        efbb8e1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3953
+Duration:      4 min 44 sec
+Started:       2020-07-17 12:09:08
+Finished:      2020-07-17 12:11:47
+
+#5698.1 passed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#5698.2 passed:  2 min 39 sec   os: linux, node_js: lts/*, env:

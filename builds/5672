@@ -1,0 +1,12 @@
+Build #5672:  test to see if export works a tall
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        2b6ae98
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      4 min 12 sec
+Started:       2020-07-16 10:41:16
+Finished:      2020-07-16 10:43:33
+
+#5672.1 failed:  1 min 55 sec   os: linux, node_js: lts/*, env:
+#5672.2 passed:  2 min 17 sec   os: linux, node_js: lts/*, env:

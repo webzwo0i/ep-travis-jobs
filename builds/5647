@@ -1,0 +1,14 @@
+Build #5647:  frontend tests: dump server log
+State:         failed
+Type:          push
+Branch:        consoleoutputintests
+Commit:        6806814
+Compare URL:   https://github.com/ether/etherpad-lite/commit/68068144aa9b
+Duration:      11 min 37 sec
+Started:       2020-07-12 19:10:32
+Finished:      2020-07-12 19:18:04
+
+#5647.1 failed:  7 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5647.2 passed:  54 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5647.3 failed:  1 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5647.4 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

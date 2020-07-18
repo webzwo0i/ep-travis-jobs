@@ -1,0 +1,14 @@
+Build #5652:  Bugfix: Travis parse (#4164)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        8ae8230
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ab8320d15bea...8ae823032db4
+Duration:      14 min 19 sec
+Started:       2020-07-14 19:47:56
+Finished:      2020-07-14 19:56:37
+
+#5652.1 passed:  8 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5652.2 errored: 1 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5652.3 failed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5652.4 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

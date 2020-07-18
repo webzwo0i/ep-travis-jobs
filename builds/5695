@@ -1,0 +1,12 @@
+Build #5695:  uncomment responsiveness test
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4174)
+Commit:        d4bda6a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4174
+Duration:      4 min 36 sec
+Started:       2020-07-17 11:20:19
+Finished:      2020-07-17 11:22:57
+
+#5695.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#5695.2 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:

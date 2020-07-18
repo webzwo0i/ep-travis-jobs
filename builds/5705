@@ -1,0 +1,12 @@
+Build #5705:  fixes #4100
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4176)
+Commit:        c2864f2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4176
+Duration:      1 min 12 sec
+Started:       2020-07-17 17:40:19
+Finished:      2020-07-17 17:41:00
+
+#5705.1 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5705.2 errored: 36 sec         os: linux, node_js: lts/*, env:

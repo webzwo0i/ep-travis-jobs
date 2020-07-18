@@ -1,0 +1,12 @@
+Build #5673:  testing max limits
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        777f55a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      4 min 6 sec
+Started:       2020-07-16 10:46:53
+Finished:      2020-07-16 10:49:05
+
+#5673.1 failed:  1 min 54 sec   os: linux, node_js: lts/*, env:
+#5673.2 passed:  2 min 12 sec   os: linux, node_js: lts/*, env:

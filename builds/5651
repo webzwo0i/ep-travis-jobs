@@ -1,0 +1,13 @@
+Build #5651:  escape-mistake
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4164)
+Commit:        22e6a1c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4164
+Duration:      1 min 46 sec
+Started:       2020-07-14 19:47:49
+Finished:      2020-07-14 19:48:27
+
+#5651.1 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5651.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#5651.3 errored: 35 sec         os: linux, node_js: lts/*, env:

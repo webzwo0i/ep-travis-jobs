@@ -1,0 +1,12 @@
+Build #5678:  pdf is borked on Travis?
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4166)
+Commit:        34cf7ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4166
+Duration:      3 min 46 sec
+Started:       2020-07-16 11:16:51
+Finished:      2020-07-16 11:19:05
+
+#5678.1 failed:  1 min 32 sec   os: linux, node_js: lts/*, env:
+#5678.2 passed:  2 min 14 sec   os: linux, node_js: lts/*, env:
