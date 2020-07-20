@@ -1,0 +1,13 @@
+Build #5716:  add some tests back in
+State:         errored
+Type:          push
+Branch:        travisfix
+Commit:        7b8b674
+Compare URL:   https://github.com/ether/etherpad-lite/compare/30aad6a956d1...7b8b6744e818
+Duration:      20 min 46 sec
+Started:       2020-07-18 13:59:37
+Finished:      2020-07-18 14:16:19
+
+#5716.1 errored: 16 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5716.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5716.3 failed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

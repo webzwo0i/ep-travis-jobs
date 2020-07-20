@@ -1,0 +1,12 @@
+Build #5770:  bugfix: chrome55 scroll timeslider
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4186)
+Commit:        4b078ca
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4186
+Duration:      1 min 13 sec
+Started:       2020-07-20 15:14:06
+Finished:      2020-07-20 15:14:46
+
+#5770.1 errored: 37 sec         os: linux, node_js: lts/*, env:
+#5770.2 errored: 36 sec         os: linux, node_js: lts/*, env:

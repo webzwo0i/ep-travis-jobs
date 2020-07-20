@@ -1,0 +1,12 @@
+Build #5757:  test coverage
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4133)
+Commit:        e332726
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4133
+Duration:      4 min 21 sec
+Started:       2020-07-20 00:33:55
+Finished:      2020-07-20 00:36:24
+
+#5757.1 passed:  1 min 52 sec   os: linux, node_js: lts/*, env:
+#5757.2 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:

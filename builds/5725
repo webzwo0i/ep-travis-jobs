@@ -1,0 +1,13 @@
+Build #5725:  frontend tests: timeout after 8 instead of 60 seconds if pad cannot be loaded
+State:         errored
+Type:          push
+Branch:        frontend-tests-work
+Commit:        f711878
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7cdeb0b50f3d...f7118784d913
+Duration:      22 min 59 sec
+Started:       2020-07-18 15:38:50
+Finished:      2020-07-18 15:57:08
+
+#5725.1 errored: 18 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5725.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5725.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

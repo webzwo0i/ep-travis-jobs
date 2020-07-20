@@ -1,0 +1,12 @@
+Build #5764:  we just cant have scroll tests, deal wit it
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4183)
+Commit:        160778c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4183
+Duration:      1 min 12 sec
+Started:       2020-07-20 01:12:05
+Finished:      2020-07-20 01:12:43
+
+#5764.1 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5764.2 errored: 37 sec         os: linux, node_js: lts/*, env:

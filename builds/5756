@@ -1,0 +1,12 @@
+Build #5756:  Merge branch 'develop' of github.com:ether/etherpad-lite into timeslider-follow
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4133)
+Commit:        2bd0730
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4133
+Duration:      4 min 25 sec
+Started:       2020-07-20 00:11:56
+Finished:      2020-07-20 00:14:32
+
+#5756.1 passed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#5756.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

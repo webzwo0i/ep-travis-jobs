@@ -1,0 +1,12 @@
+Build #5743:  code tidy
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4180)
+Commit:        16f10cf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4180
+Duration:      4 min 32 sec
+Started:       2020-07-19 17:23:41
+Finished:      2020-07-19 17:26:12
+
+#5743.1 passed:  2 min 1 sec    os: linux, node_js: lts/*, env:
+#5743.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

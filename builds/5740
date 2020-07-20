@@ -1,0 +1,12 @@
+Build #5740:  re-enable tests
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4180)
+Commit:        c3a5c62
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4180
+Duration:      4 min 21 sec
+Started:       2020-07-19 17:13:21
+Finished:      2020-07-19 17:15:56
+
+#5740.1 failed:  1 min 50 sec   os: linux, node_js: lts/*, env:
+#5740.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

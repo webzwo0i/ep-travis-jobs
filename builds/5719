@@ -1,0 +1,13 @@
+Build #5719:  disable alphabet bold and chat
+State:         errored
+Type:          push
+Branch:        travisfix
+Commit:        fd8d61b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3291c70588d4...fd8d61b8c36f
+Duration:      18 min 57 sec
+Started:       2020-07-18 14:34:29
+Finished:      2020-07-18 14:49:02
+
+#5719.1 errored: 14 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5719.2 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5719.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

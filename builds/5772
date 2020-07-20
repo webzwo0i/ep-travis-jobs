@@ -1,0 +1,13 @@
+Build #5772:  frontend tests: tests, that did not return, must result in an error
+State:         errored
+Type:          push
+Branch:        fix-runnerjs
+Commit:        402af85
+Compare URL:   https://github.com/ether/etherpad-lite/commit/402af85c4fc3
+Duration:      16 min 41 sec
+Started:       2020-07-20 15:39:25
+Finished:      2020-07-20 15:51:36
+
+#5772.1 errored: 12 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5772.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5772.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

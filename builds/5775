@@ -1,0 +1,12 @@
+Build #5775:  Fix doc typo
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4187)
+Commit:        a1b3419
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4187
+Duration:      4 min 26 sec
+Started:       2020-07-20 17:54:57
+Finished:      2020-07-20 17:57:23
+
+#5775.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#5775.2 passed:  2 min 26 sec   os: linux, node_js: lts/*, env:

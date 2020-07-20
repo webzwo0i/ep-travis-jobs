@@ -1,0 +1,13 @@
+Build #5713:  disable responsiveness test
+State:         passed
+Type:          push
+Branch:        travisfix
+Commit:        eeb858c
+Compare URL:   https://github.com/ether/etherpad-lite/commit/eeb858c9c47f
+Duration:      16 min 4 sec
+Started:       2020-07-18 13:22:42
+Finished:      2020-07-18 13:34:11
+
+#5713.1 passed:  11 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5713.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5713.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

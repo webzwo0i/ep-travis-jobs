@@ -1,0 +1,13 @@
+Build #5771:  tests / bugfix: Timeslider Chrome 55 Further scroll fix (#4186)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        1e5680a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3d89eed31a23...1e5680a870ae
+Duration:      23 min 55 sec
+Started:       2020-07-20 15:22:16
+Finished:      2020-07-20 15:33:47
+
+#5771.1 errored: 19 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5771.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5771.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

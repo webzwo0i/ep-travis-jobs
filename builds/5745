@@ -1,0 +1,12 @@
+Build #5745:  Merge branch 'develop' of github.com:ether/etherpad-lite into rateLimitCommits
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4036)
+Commit:        c3d5f0d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4036
+Duration:      3 min 1 sec
+Started:       2020-07-19 17:42:29
+Finished:      2020-07-19 17:44:02
+
+#5745.1 errored: 1 min 29 sec   os: linux, node_js: lts/*, env:
+#5745.2 errored: 1 min 32 sec   os: linux, node_js: lts/*, env:

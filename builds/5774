@@ -1,0 +1,13 @@
+Build #5774:  frontend tests: lower the max allowed test duration
+State:         passed
+Type:          push
+Branch:        fix-runnerjs
+Commit:        178598e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6298c9509314...178598ef5bac
+Duration:      17 min 32 sec
+Started:       2020-07-20 16:24:30
+Finished:      2020-07-20 16:37:06
+
+#5774.1 passed:  12 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5774.2 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5774.3 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

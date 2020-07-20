@@ -1,0 +1,13 @@
+Build #5744:  tests and bugfix: test coverage and fix for 4165 - bad HTML export of list items (#4180)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        4f5cf2d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8863ea804c8b...4f5cf2dc63e5
+Duration:      23 min 20 sec
+Started:       2020-07-19 17:31:34
+Finished:      2020-07-19 17:50:29
+
+#5744.1 errored: 18 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5744.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5744.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5723:  disable italic and language
+State:         errored
+Type:          push
+Branch:        travisfix
+Commit:        eb5dcaa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f777b3d9706a...eb5dcaa1c79b
+Duration:      18 min 41 sec
+Started:       2020-07-18 15:12:53
+Finished:      2020-07-18 15:27:22
+
+#5723.1 errored: 14 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5723.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5723.3 failed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

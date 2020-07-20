@@ -1,0 +1,12 @@
+Build #5758:  tests & setting
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4133)
+Commit:        7ad2c07
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4133
+Duration:      1 min 30 sec
+Started:       2020-07-20 00:46:30
+Finished:      2020-07-20 00:47:24
+
+#5758.1 errored: 37 sec         os: linux, node_js: lts/*, env:
+#5758.2 errored: 53 sec         os: linux, node_js: lts/*, env:

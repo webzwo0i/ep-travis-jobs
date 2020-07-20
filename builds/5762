@@ -1,0 +1,12 @@
+Build #5762:  tests: follow needs more lines
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4182)
+Commit:        f3ea18b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4182
+Duration:      1 min 12 sec
+Started:       2020-07-20 01:09:41
+Finished:      2020-07-20 01:10:18
+
+#5762.1 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5762.2 errored: 37 sec         os: linux, node_js: lts/*, env:

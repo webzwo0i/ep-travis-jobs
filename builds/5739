@@ -1,0 +1,12 @@
+Build #5739:  tidy up
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4180)
+Commit:        492674b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4180
+Duration:      4 min 22 sec
+Started:       2020-07-19 17:08:35
+Finished:      2020-07-19 17:11:02
+
+#5739.1 failed:  1 min 55 sec   os: linux, node_js: lts/*, env:
+#5739.2 passed:  2 min 27 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #5737:  dont incorrectly close lists
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4180)
+Commit:        dcfc701
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4180
+Duration:      5 min
+Started:       2020-07-19 17:05:58
+Finished:      2020-07-19 17:08:46
+
+#5737.1 failed:  2 min 12 sec   os: linux, node_js: lts/*, env:
+#5737.2 passed:  2 min 48 sec   os: linux, node_js: lts/*, env:

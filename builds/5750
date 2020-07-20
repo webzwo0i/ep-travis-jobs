@@ -1,0 +1,12 @@
+Build #5750:  sometimes me so stupid
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4036)
+Commit:        8d56dc5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4036
+Duration:      4 min 31 sec
+Started:       2020-07-19 18:12:18
+Finished:      2020-07-19 18:14:50
+
+#5750.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#5750.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

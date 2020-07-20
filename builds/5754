@@ -1,0 +1,12 @@
+Build #5754:  rename file
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4175)
+Commit:        b86d377
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4175
+Duration:      5 min 2 sec
+Started:       2020-07-19 23:57:00
+Finished:      2020-07-20 00:00:42
+
+#5754.1 passed:  2 min 17 sec   os: linux, node_js: lts/*, env:
+#5754.2 passed:  2 min 45 sec   os: linux, node_js: lts/*, env:

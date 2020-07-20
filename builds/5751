@@ -1,0 +1,12 @@
+Build #5751:  only rate limit when in production mode
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4036)
+Commit:        8d56dc5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4036
+Duration:      4 min 9 sec
+Started:       2020-07-19 18:50:24
+Finished:      2020-07-19 18:52:42
+
+#5751.1 passed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#5751.2 failed:  2 min 18 sec   os: linux, node_js: lts/*, env:

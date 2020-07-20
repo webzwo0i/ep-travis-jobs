@@ -1,0 +1,12 @@
+Build #5747:  include the library...
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4036)
+Commit:        fbd54b4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4036
+Duration:      4 min 11 sec
+Started:       2020-07-19 17:49:31
+Finished:      2020-07-19 17:51:44
+
+#5747.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#5747.2 failed:  2 min 13 sec   os: linux, node_js: lts/*, env:

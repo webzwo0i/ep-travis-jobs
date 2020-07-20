@@ -1,3 +1,70 @@
+#5776 started:   fix-runnerjs remote_runner.js: fix drain call (cf.
+#5775 passed:    develop (PR #4187) Fix doc typo
+#5774 passed:    fix-runnerjs frontend tests: lower the max allowed test duration
+#5773 errored:   fix-runnerjs syntax error fix
+#5772 errored:   fix-runnerjs frontend tests: tests, that did not return, must result in an error
+#5771 errored:   develop tests / bugfix: Timeslider Chrome 55 Further scroll fix (#4186)
+#5770 errored:   develop (PR #4186) bugfix: chrome55 scroll timeslider
+#5769 errored:   develop tests: Further scroll fix for bug in Chrome 55-59 with scrollTo not working (#4185)
+#5768 passed:    develop (PR #4185) resolve
+#5767 canceled:  develop tests: Further scroll frontend test fix- use var instead of let (#4184)
+#5766 errored:   develop (PR #4184) dont use let
+#5765 errored:   develop tests: Remove scroll tests again - Finally accept they will never work again due to browser changes. (#4183)
+#5764 errored:   develop (PR #4183) we just cant have scroll tests, deal wit it
+#5763 canceled:  develop tests: fix follow test to work on larger screens (#4182)
+#5762 errored:   develop (PR #4182) tests: follow needs more lines
+#5761 errored:   develop Changelog (#4181)
+#5760 errored:   develop (PR #4181) changelog
+#5759 errored:   develop Feature: Timeslider follow (#4133)
+#5758 errored:   develop (PR #4133) tests & setting
+#5757 passed:    develop (PR #4133) test coverage
+#5756 passed:    develop (PR #4133) Merge branch 'develop' of github.com:ether/etherpad-lite into timeslider-follow
+#5755 passed:    develop (PR #4175) Merge branch 'develop' of github.com:ether/etherpad-lite into large-test-file-timeslider
+#5754 passed:    develop (PR #4175) rename file
+#5753 errored:   develop tests: Scroll test update (but potentially not fix) (#4179)
+#5752 errored:   develop Rate limit Socket IO communication - WIP (#4036)
+#5751 failed:    develop (PR #4036) only rate limit when in production mode
+#5750 passed:    develop (PR #4036) sometimes me so stupid
+#5749 failed:    develop (PR #4036) move travis to right place
+#5748 failed:    develop (PR #4036) put load testing chage here
+#5747 failed:    develop (PR #4036) include the library...
+#5746 errored:   develop (PR #4036) rate limit increase
+#5745 errored:   develop (PR #4036) Merge branch 'develop' of github.com:ether/etherpad-lite into rateLimitCommits
+#5744 errored:   develop tests and bugfix: test coverage and fix for 4165 - bad HTML export of list items (#4180)
+#5743 passed:    develop (PR #4180) code tidy
+#5742 passed:    develop (PR #4180) fix rate limiter within tests
+#5741 failed:    develop (PR #4180) output logs
+#5740 failed:    develop (PR #4180) re-enable tests
+#5739 failed:    develop (PR #4180) tidy up
+#5738 failed:    develop (PR #4180) tidy up
+#5737 failed:    develop (PR #4180) dont incorrectly close lists
+#5736 failed:    develop (PR #4180) correct error msg
+#5735 failed:    develop (PR #4180) test coverage for 4165
+#5734 passed:    tests-fix remove extendedDebugging
+#5733 errored:   tests-fix test
+#5732 errored:   tests-fix test chrome on windows
+#5731 failed:    tests-fix more correct
+#5730 passed:    tests-fix nothing was done to it anyway
+#5729 passed:    tests-fix trust mochas end event
+#5728 failed:    frontendtests-error killtimeout back to 3 min
+#5727 passed:    frontendtests-error lower killtimeout if no tests are started and lower overall test timeout
+#5726 errored:   frontend-tests-work callback in several mocha hocks, need waitFor?
+#5725 errored:   frontend-tests-work frontend tests: timeout after 8 instead of 60 seconds if pad cannot be loaded
+#5724 passed:    frontend-tests-work remove unused variables
+#5723 errored:   travisfix disable italic and language
+#5722 errored:   travisfix some more tests
+#5721 failed:    travisfix enable multiple_authors_clear_authorship_colors and xxauto_reconnect
+#5720 failed:    travisfix Revert "Revert "disable authorship and caret""
+#5719 errored:   travisfix disable alphabet bold and chat
+#5718 errored:   travisfix disable authorship and caret
+#5717 errored:   travisfix disable timeslider_revisions
+#5716 errored:   travisfix add some tests back in
+#5715 failed:    travisfix disable a lot of tests
+#5714 errored:   travisfix disable auto_reconnect test
+#5713 passed:    travisfix disable responsiveness test
+#5712 errored:   travisfix frontend tests: disable console.logs again
+#5711 passed:    develop (PR #4179) changes to scroll tests to make them pass but afaik everything is broken due to browser restrictions RE sending keypresses so you cant trust these tests
+#5710 errored:   develop Revert "Revert "tests: testing to see if responsiveness test enable broke travis...  Committing direct to ensure SL tests run""
 #5709 passed:    develop (PR #4178) remove all password logic and ui
 #5708 passed:    develop (PR #4177) attepmt to fix 3037
 #5707 failed:    develop (PR #4175) Revert "bugfix / timeslider: timeslider firefox fix, resolves 4100"
@@ -3506,7 +3573,6 @@
 #2218 failed:    develop (PR #2368) this class was in before, it is used to show when a style is applied to a piece of content
 #2217 passed:    hook_for_exportHTMLStyles this class was in before, it is used to show when a style is applied to a piece of content
 #2216 passed:    develop (PR #2368) docs
-#2216 passed:    hook_for_exportHTMLStyles docs
 #2215 failed:    develop (PR #2368) docs
 #2214 passed:    hook_for_exportHTMLStyles docs
 #2213 passed:    hook_for_exportHTMLStyles blah use async
@@ -3582,7 +3648,6 @@
 #2145 passed:    develop (PR #2344) 60% of backend api tests written
 #2144 failed:    backend-tests 60% of backend api tests written
 #2143 passed:    backend-tests 30% of session and group tests done
-#2143 failed:    develop (PR #2344) 30% of session and group tests done
 #2142 failed:    develop (PR #2344) mowah pad tests, tea time
 #2141 errored:   backend-tests mowah pad tests, tea time
 #2140 errored:   develop (PR #2344) tidy up and re-organize
@@ -3633,7 +3698,6 @@
 #2097 errored:   develop (PR #2319) final commit
 #2096 errored:   fix-socket-admin-etc final commit
 #2095 errored:   develop (PR #2319) Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
-#2095 failed:    fix-socket-admin-etc Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
 #2094 passed:    develop (PR #2319) fix session management
 #2094 errored:   fix-socket-admin-etc fix session management
 #2093 errored:   develop (PR #2335) whoopsi
@@ -3873,6 +3937,7 @@
 #1862 errored:   develop (PR #2180) Cleaning up switchToPad functionality so that we only need one call to the server("SWITCH_TO_PAD") instead of two (cleaning session info and client ready).
 #1861 errored:   develop Merge pull request #2174 from ether/fix/copy-pad-update-lists
 #1860 failed:    develop (PR #2174) Fix Pad#copy routine for updating group list
+#1860 passed:    fix/copy-pad-update-lists Fix Pad#copy routine for updating group list
 #1859 errored:   develop (PR #2180) Fallback for browsers that don't support window.history.pushstate
 #1858 errored:   develop Merge pull request #2193 from kpn3m000/develop
 #1857 errored:   develop (PR #2193) Fixes search on plugins without Description
@@ -4023,6 +4088,7 @@
 #1721 passed:    preProcessDomLine fix dintenation
 #1720 failed:    preProcessDomLine preprocessor for domline attributes
 #1719 passed:    support-images cross platform but REALLY MESSY, do not use this as reference its just to show it existing
+#1719 passed:    develop (PR #2033) cross platform but REALLY MESSY, do not use this as reference its just to show it existing
 #1718 failed:    master (PR #2069) Merge pull request #2095 from vvision/develop
 #1717 failed:    release/1.4.0 Merge pull request #2095 from vvision/develop
 #1716 errored:   master (PR #2069) Merge pull request #2086 from bnchdrff/cleanse-npm-values
@@ -4323,6 +4389,7 @@
 #1431 failed:    develop Fix disconnect modals
 #1430 errored:   develop Merge branch 'release/1.2.12'
 #1429 failed:    master Merge branch 'release/1.2.12'
+#1429 errored:   1.2.12 Merge branch 'release/1.2.12'
 #1428 failed:    release/1.2.12 Update CHANGELOG
 #1427 passed:    release/1.2.12 Merge branch 'develop' into release/1.2.12
 #1426 errored:   develop Merge pull request #1938 from ether/fix/unknown-connection-message
@@ -5131,7 +5198,6 @@
 #634 errored:    develop (PR #1491) dont use HTML filter hooks on txt export
 #633 failed:     export-txt-with-indent dont use HTML filter hooks on txt export
 #632 errored:    develop (PR #1491) kinda brutal way of stopping plugins being able to pass *s instead of attributes
-#632 failed:     export-txt-with-indent kinda brutal way of stopping plugins being able to pass *s instead of attributes
 #631 errored:    develop (PR #1491) stop urls being encoded, not sure about other security implications here...
 #630 failed:     export-txt-with-indent stop urls being encoded, not sure about other security implications here...
 #629 failed:     develop Localisation updates from http://translatewiki.net.

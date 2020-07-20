@@ -1,0 +1,13 @@
+Build #5761:  Changelog (#4181)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        2a28ff8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bf24063234b2...2a28ff8526ad
+Duration:      26 min 5 sec
+Started:       2020-07-20 00:49:22
+Finished:      2020-07-20 01:11:07
+
+#5761.1 errored: 21 min 37 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5761.2 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5761.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

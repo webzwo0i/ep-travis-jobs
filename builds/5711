@@ -1,0 +1,12 @@
+Build #5711:  changes to scroll tests to make them pass but afaik everything is broken due to browser restrictions RE sending keypresses so you cant trust these tests
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4179)
+Commit:        80a0fd9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4179
+Duration:      5 min 12 sec
+Started:       2020-07-18 11:07:55
+Finished:      2020-07-18 11:10:36
+
+#5711.1 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:
+#5711.2 passed:  2 min 41 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,13 @@
+Build #5765:  tests: Remove scroll tests again - Finally accept they will never work again due to browser changes. (#4183)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        29e6dae
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bf295d42d7bf...29e6daedcb44
+Duration:      22 min 9 sec
+Started:       2020-07-20 01:22:50
+Finished:      2020-07-20 01:40:34
+
+#5765.1 errored: 17 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5765.2 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5765.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #5742:  fix rate limiter within tests
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4180)
+Commit:        d53787f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4180
+Duration:      4 min 37 sec
+Started:       2020-07-19 17:20:37
+Finished:      2020-07-19 17:23:14
+
+#5742.1 passed:  2 min 1 sec    os: linux, node_js: lts/*, env:
+#5742.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:

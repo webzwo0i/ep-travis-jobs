@@ -1,0 +1,13 @@
+Build #5727:  lower killtimeout if no tests are started and lower overall test timeout
+State:         passed
+Type:          push
+Branch:        frontendtests-error
+Commit:        a0fb663
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a0fb6639abfb
+Duration:      16 min 10 sec
+Started:       2020-07-18 17:45:50
+Finished:      2020-07-18 17:57:35
+
+#5727.1 passed:  11 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5727.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5727.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

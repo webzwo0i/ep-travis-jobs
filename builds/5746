@@ -1,0 +1,12 @@
+Build #5746:  rate limit increase
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4036)
+Commit:        8df4890
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4036
+Duration:      2 min 50 sec
+Started:       2020-07-19 17:44:34
+Finished:      2020-07-19 17:46:01
+
+#5746.1 errored: 1 min 27 sec   os: linux, node_js: lts/*, env:
+#5746.2 errored: 1 min 23 sec   os: linux, node_js: lts/*, env:

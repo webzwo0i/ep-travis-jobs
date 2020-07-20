@@ -1,0 +1,13 @@
+Build #5722:  some more tests
+State:         errored
+Type:          push
+Branch:        travisfix
+Commit:        f777b3d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/edfd3f5bbe5f...f777b3d9706a
+Duration:      18 min 49 sec
+Started:       2020-07-18 15:04:22
+Finished:      2020-07-18 15:19:02
+
+#5722.1 errored: 14 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5722.2 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5722.3 failed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

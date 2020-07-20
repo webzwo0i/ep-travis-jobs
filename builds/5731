@@ -1,0 +1,13 @@
+Build #5731:  more correct
+State:         failed
+Type:          push
+Branch:        tests-fix
+Commit:        7f3f1a8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6fff4fe15a6c...7f3f1a852ff0
+Duration:      15 min 49 sec
+Started:       2020-07-18 19:05:39
+Finished:      2020-07-18 19:17:11
+
+#5731.1 passed:  11 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5731.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5731.3 failed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

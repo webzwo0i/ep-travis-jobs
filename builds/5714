@@ -1,0 +1,13 @@
+Build #5714:  disable auto_reconnect test
+State:         errored
+Type:          push
+Branch:        travisfix
+Commit:        224dcc4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eeb858c9c47f...224dcc4a017a
+Duration:      23 min 32 sec
+Started:       2020-07-18 13:35:44
+Finished:      2020-07-18 13:54:22
+
+#5714.1 errored: 18 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5714.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5714.3 passed:  2 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

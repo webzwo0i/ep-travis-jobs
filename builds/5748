@@ -1,0 +1,12 @@
+Build #5748:  put load testing chage here
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4036)
+Commit:        45de4d2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4036
+Duration:      4 min
+Started:       2020-07-19 17:54:48
+Finished:      2020-07-19 17:57:08
+
+#5748.1 passed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#5748.2 failed:  2 min 9 sec    os: linux, node_js: lts/*, env:

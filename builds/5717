@@ -1,0 +1,13 @@
+Build #5717:  disable timeslider_revisions
+State:         errored
+Type:          push
+Branch:        travisfix
+Commit:        9f25d90
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7b8b6744e818...9f25d900d1f0
+Duration:      20 min 4 sec
+Started:       2020-07-18 14:00:54
+Finished:      2020-07-18 14:16:43
+
+#5717.1 errored: 15 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5717.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5717.3 failed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

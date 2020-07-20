@@ -1,0 +1,13 @@
+Build #5773:  syntax error fix
+State:         errored
+Type:          push
+Branch:        fix-runnerjs
+Commit:        6298c95
+Compare URL:   https://github.com/ether/etherpad-lite/compare/402af85c4fc3...6298c9509314
+Duration:      23 min 44 sec
+Started:       2020-07-20 15:56:19
+Finished:      2020-07-20 16:15:37
+
+#5773.1 errored: 19 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5773.2 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5773.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5720:  Revert "Revert "disable authorship and caret""
+State:         failed
+Type:          push
+Branch:        travisfix
+Commit:        78420d6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fd8d61b8c36f...78420d6a6880
+Duration:      8 min 40 sec
+Started:       2020-07-18 14:46:25
+Finished:      2020-07-18 14:50:59
+
+#5720.1 passed:  4 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5720.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5720.3 failed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

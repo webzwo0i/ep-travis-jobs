@@ -1,0 +1,12 @@
+Build #5766:  dont use let
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4184)
+Commit:        e12c0a1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4184
+Duration:      1 min 11 sec
+Started:       2020-07-20 10:08:45
+Finished:      2020-07-20 10:09:21
+
+#5766.1 errored: 35 sec         os: linux, node_js: lts/*, env:
+#5766.2 errored: 36 sec         os: linux, node_js: lts/*, env:

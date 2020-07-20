@@ -1,0 +1,13 @@
+Build #5730:  nothing was done to it anyway
+State:         passed
+Type:          push
+Branch:        tests-fix
+Commit:        6fff4fe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b47eb7943754...6fff4fe15a6c
+Duration:      15 min 7 sec
+Started:       2020-07-18 19:03:07
+Finished:      2020-07-18 19:13:49
+
+#5730.1 passed:  10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5730.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5730.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

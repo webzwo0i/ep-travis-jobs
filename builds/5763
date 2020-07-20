@@ -1,0 +1,13 @@
+Build #5763:  tests: fix follow test to work on larger screens (#4182)
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        bf295d4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2a28ff8526ad...bf295d42d7bf
+Duration:      6 min 3 sec
+Started:       2020-07-20 01:09:53
+Finished:      2020-07-20 01:12:15
+
+#5763.1 canceled: 2 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5763.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5763.3 canceled: 1 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

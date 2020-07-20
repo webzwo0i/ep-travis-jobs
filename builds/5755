@@ -1,0 +1,12 @@
+Build #5755:  Merge branch 'develop' of github.com:ether/etherpad-lite into large-test-file-timeslider
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4175)
+Commit:        9cfcd21
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4175
+Duration:      4 min 18 sec
+Started:       2020-07-19 23:58:26
+Finished:      2020-07-20 00:02:02
+
+#5755.1 passed:  1 min 49 sec   os: linux, node_js: lts/*, env:
+#5755.2 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:

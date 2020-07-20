@@ -1,0 +1,13 @@
+Build #5734:  remove extendedDebugging
+State:         passed
+Type:          push
+Branch:        tests-fix
+Commit:        d3734a4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8934f12e4243...d3734a491c1c
+Duration:      11 min 18 sec
+Started:       2020-07-18 21:31:47
+Finished:      2020-07-18 21:38:31
+
+#5734.1 passed:  6 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5734.2 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5734.3 passed:  2 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5732:  test chrome on windows
+State:         errored
+Type:          push
+Branch:        tests-fix
+Commit:        1e19203
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7f3f1a852ff0...1e19203859c3
+Duration:      22 min 6 sec
+Started:       2020-07-18 20:33:05
+Finished:      2020-07-18 20:50:23
+
+#5732.1 errored: 17 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5732.2 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5732.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
