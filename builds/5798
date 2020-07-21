@@ -1,0 +1,11 @@
+Job #5798.1:  timeslider.js,undo
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        5e17cca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cdd41cb52a5c...5e17ccaba884
+Duration:      2 min 7 sec
+Started:       2020-07-21 02:29:45
+Finished:      2020-07-21 02:31:52
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

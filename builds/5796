@@ -1,0 +1,11 @@
+Job #5796.1:  responsiveness,font_type
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        9c41c7a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa85c59cb5ab...9c41c7a232dc
+Duration:      10 min 48 sec
+Started:       2020-07-21 02:26:10
+Finished:      2020-07-21 02:36:58
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

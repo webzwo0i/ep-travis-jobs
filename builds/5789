@@ -1,0 +1,11 @@
+Job #5789.1:  drag_and_drop,enter
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        605a8ad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a78f8cb90789...605a8ad318c2
+Duration:      2 min 1 sec
+Started:       2020-07-21 02:00:29
+Finished:      2020-07-21 02:02:30
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

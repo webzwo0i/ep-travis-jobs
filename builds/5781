@@ -1,0 +1,13 @@
+Build #5781:  frontend tests: add proper calls to done
+State:         failed
+Type:          push
+Branch:        fix-runnerjs
+Commit:        96c608c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3555fcda559c...96c608cd419f
+Duration:      16 min 3 sec
+Started:       2020-07-20 22:26:23
+Finished:      2020-07-20 22:38:05
+
+#5781.1 failed:  11 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5781.2 passed:  1 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5781.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

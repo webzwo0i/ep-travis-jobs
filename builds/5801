@@ -1,0 +1,11 @@
+Job #5801.1:  ordered_list.js xxauto_reconnect.js
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        7e0be1b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8937fbab6cb2...7e0be1b25cfa
+Duration:      2 min 49 sec
+Started:       2020-07-21 02:35:51
+Finished:      2020-07-21 02:38:40
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

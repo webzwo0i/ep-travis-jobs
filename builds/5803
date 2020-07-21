@@ -1,0 +1,11 @@
+Job #5803.1:  timeslider_revisions.js select_formatting_buttons.js
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        86797b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7e3268eb5bb5...86797b3caf2d
+Duration:      3 min 38 sec
+Started:       2020-07-21 02:39:31
+Finished:      2020-07-21 02:43:09
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

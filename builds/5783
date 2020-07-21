@@ -1,0 +1,13 @@
+Build #5783:  update mocha to 7.2.0
+State:         errored
+Type:          push
+Branch:        mochaupdate
+Commit:        ece932b
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ece932b2d485
+Duration:      22 min 56 sec
+Started:       2020-07-20 23:26:19
+Finished:      2020-07-20 23:45:15
+
+#5783.1 errored: 18 min 39 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5783.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5783.3 failed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

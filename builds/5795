@@ -1,0 +1,11 @@
+Job #5795.1:  unordered list, multiple authors
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        fa85c59
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c6749be8c334...fa85c59cb5ab
+Duration:      1 min 59 sec
+Started:       2020-07-21 02:23:07
+Finished:      2020-07-21 02:25:06
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

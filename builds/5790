@@ -1,0 +1,11 @@
+Job #5790.1:  change_user_name, change_user_color
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        4db0446
+Compare URL:   https://github.com/ether/etherpad-lite/compare/605a8ad318c2...4db0446d0766
+Duration:      2 min 5 sec
+Started:       2020-07-21 02:12:16
+Finished:      2020-07-21 02:14:21
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

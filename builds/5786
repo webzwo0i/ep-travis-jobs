@@ -1,0 +1,11 @@
+Job #5786.1:  run bold and alphabet tests
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        7b5397a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ed22bd70de1b...7b5397a526d4
+Duration:      1 min 56 sec
+Started:       2020-07-21 01:47:47
+Finished:      2020-07-21 01:49:43
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

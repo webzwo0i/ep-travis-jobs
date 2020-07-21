@@ -1,0 +1,11 @@
+Job #5787.1:  run chat and chat_load_messages
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        a42e03a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7b5397a526d4...a42e03ae598c
+Duration:      2 min 22 sec
+Started:       2020-07-21 01:57:17
+Finished:      2020-07-21 01:59:39
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #5792.1:  redo,clear_authorship_colors
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        0109237
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c0382ce82fde...0109237abeea
+Duration:      1 min 59 sec
+Started:       2020-07-21 02:18:02
+Finished:      2020-07-21 02:20:01
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

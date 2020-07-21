@@ -1,0 +1,11 @@
+Job #5794.1:  language,indentation
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        c6749be
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec319eb85446...c6749be8c334
+Duration:      2 min 29 sec
+Started:       2020-07-21 02:21:48
+Finished:      2020-07-21 02:24:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

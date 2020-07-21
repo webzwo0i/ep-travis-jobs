@@ -1,0 +1,13 @@
+Build #5778:  clarify the case that not all tests returned
+State:         failed
+Type:          push
+Branch:        fix-runnerjs
+Commit:        99234f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1115b6fc9923...99234f502c3f
+Duration:      16 min 16 sec
+Started:       2020-07-20 20:09:02
+Finished:      2020-07-20 20:20:48
+
+#5778.1 failed:  11 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5778.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5778.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

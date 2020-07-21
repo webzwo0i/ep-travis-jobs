@@ -1,0 +1,11 @@
+Job #5791.1:  pad_modal, helper.js
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        c0382ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4db0446d0766...c0382ce82fde
+Duration:      2 min 18 sec
+Started:       2020-07-21 02:13:15
+Finished:      2020-07-21 02:15:33
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

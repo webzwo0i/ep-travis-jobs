@@ -1,0 +1,11 @@
+Job #5799.1:  urls_become_clickable,timeslider_numeric_padID
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        55b4392
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5e17ccaba884...55b43927fdf0
+Duration:      1 min 56 sec
+Started:       2020-07-21 02:32:47
+Finished:      2020-07-21 02:34:43
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

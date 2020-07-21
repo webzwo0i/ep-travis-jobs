@@ -1,0 +1,11 @@
+Job #5793.1:  delete,authorship_of_editions
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        ec319eb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0109237abeea...ec319eb85446
+Duration:      1 min 57 sec
+Started:       2020-07-21 02:20:44
+Finished:      2020-07-21 02:22:41
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

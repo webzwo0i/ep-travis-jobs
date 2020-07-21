@@ -1,0 +1,11 @@
+Job #5785.1:  chrome <57 compatible
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        ed22bd7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2ac311115787...ed22bd70de1b
+Duration:      1 min 52 sec
+Started:       2020-07-21 01:38:30
+Finished:      2020-07-21 01:40:22
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
