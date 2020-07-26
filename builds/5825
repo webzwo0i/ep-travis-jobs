@@ -1,0 +1,12 @@
+Build #5825:  Fix(locales): fix wiki links in several locales
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4189)
+Commit:        424b003
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4189
+Duration:      4 min 48 sec
+Started:       2020-07-22 15:32:28
+Finished:      2020-07-22 15:35:07
+
+#5825.1 passed:  2 min 9 sec    os: linux, node_js: lts/*, env:
+#5825.2 passed:  2 min 39 sec   os: linux, node_js: lts/*, env:

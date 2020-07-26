@@ -1,0 +1,11 @@
+Job #5809.1:  only win7 firefox 52.0
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        9e1f308
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dddf7646bbb8...9e1f3083d16e
+Duration:      4 min 50 sec
+Started:       2020-07-21 15:02:50
+Finished:      2020-07-21 15:07:40
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

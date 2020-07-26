@@ -1,0 +1,11 @@
+Job #5852.1:  saves two requests
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        e5f6840
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7685bf13256a...e5f68401f037
+Duration:      6 min 53 sec
+Started:       2020-07-26 16:01:41
+Finished:      2020-07-26 16:08:34
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

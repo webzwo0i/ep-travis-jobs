@@ -1,0 +1,12 @@
+Build #5829:  Bugfix: wait promise finish on hooks
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4194)
+Commit:        d200fda
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4194
+Duration:      4 min 30 sec
+Started:       2020-07-23 20:46:02
+Finished:      2020-07-23 20:48:34
+
+#5829.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#5829.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

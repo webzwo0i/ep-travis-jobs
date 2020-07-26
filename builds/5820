@@ -1,0 +1,11 @@
+Job #5820.1:  timeout 5sec
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        d6c8e81
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ed6c248c3ccd...d6c8e81331f3
+Duration:      1 min 25 sec
+Started:       2020-07-21 19:11:33
+Finished:      2020-07-21 19:12:58
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

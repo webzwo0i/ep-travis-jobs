@@ -1,0 +1,12 @@
+Build #5839:  bugfix
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        885b6d5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      4 min 33 sec
+Started:       2020-07-25 17:45:08
+Finished:      2020-07-25 17:47:59
+
+#5839.1 passed:  1 min 54 sec   os: linux, node_js: lts/*, env:
+#5839.2 passed:  2 min 39 sec   os: linux, node_js: lts/*, env:

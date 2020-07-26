@@ -1,0 +1,12 @@
+Build #5834:  autofix option starts
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        b9d92f7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      4 min 34 sec
+Started:       2020-07-25 15:24:41
+Finished:      2020-07-25 15:27:16
+
+#5834.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#5834.2 passed:  2 min 35 sec   os: linux, node_js: lts/*, env:

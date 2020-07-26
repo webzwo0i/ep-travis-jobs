@@ -1,0 +1,11 @@
+Job #5824.1:  another try
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        a78852b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/220c4ab50aa9...a78852b1317a
+Duration:      1 min 40 sec
+Started:       2020-07-22 02:15:49
+Finished:      2020-07-22 02:17:29
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

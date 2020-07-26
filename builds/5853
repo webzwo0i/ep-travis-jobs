@@ -1,0 +1,11 @@
+Job #5853.1:  drop json2
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        7401700
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e5f68401f037...740170038396
+Duration:      7 min 59 sec
+Started:       2020-07-26 16:40:08
+Finished:      2020-07-26 16:48:07
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

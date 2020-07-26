@@ -1,0 +1,13 @@
+Build #5830:  Bugfix: wait promise finish on hooks (#4194)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        0835bfe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ca6da2c724e2...0835bfeabb4b
+Duration:      22 min 57 sec
+Started:       2020-07-23 21:48:24
+Finished:      2020-07-23 22:06:44
+
+#5830.1 errored: 18 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5830.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5830.3 passed:  2 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #5811.1:  trigger osx10.14
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        c33afcb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eadf0df0bdc0...c33afcb9c4e0
+Duration:      6 min 56 sec
+Started:       2020-07-21 16:38:17
+Finished:      2020-07-21 16:45:13
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

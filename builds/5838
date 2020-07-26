@@ -1,0 +1,12 @@
+Build #5838:  err handling
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        e668a08
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      4 min 27 sec
+Started:       2020-07-25 17:43:53
+Finished:      2020-07-25 17:46:26
+
+#5838.1 passed:  1 min 55 sec   os: linux, node_js: lts/*, env:
+#5838.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

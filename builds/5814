@@ -1,0 +1,11 @@
+Job #5814.1:  add reconnect test
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        99b6a2b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/513fbfb2f39a...99b6a2bd9bbc
+Duration:      10 min 45 sec
+Started:       2020-07-21 17:44:37
+Finished:      2020-07-21 17:55:22
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

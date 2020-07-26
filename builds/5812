@@ -1,0 +1,11 @@
+Job #5812.1:  Revert "only osx 10.14 safari 12"
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        7923050
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c33afcb9c4e0...792305046c59
+Duration:      6 min 30 sec
+Started:       2020-07-21 17:12:47
+Finished:      2020-07-21 17:19:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

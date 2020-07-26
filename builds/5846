@@ -1,0 +1,11 @@
+Job #5846.1:  Revert "Revert "working frontend tests""
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        291c596
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5a2d6d071bfc...291c596200a7
+Duration:      6 min 46 sec
+Started:       2020-07-26 03:09:19
+Finished:      2020-07-26 03:16:05
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

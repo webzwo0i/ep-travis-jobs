@@ -1,0 +1,13 @@
+Build #5808:  Fix doc typo (#4187)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        ca6da2c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ae1b6442d8f4...ca6da2c724e2
+Duration:      24 min 21 sec
+Started:       2020-07-21 14:22:54
+Finished:      2020-07-21 14:42:25
+
+#5808.1 errored: 19 min 28 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5808.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5808.3 passed:  2 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #5854.1:  try out logging console messages
+State:         started
+Type:          push
+Branch:        mochaupdate
+Commit:        154cad8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/740170038396...154cad89a893
+Duration:      4 min 37 sec
+Started:       2020-07-26 19:50:17
+Finished:      not yet
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

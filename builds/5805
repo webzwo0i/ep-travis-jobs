@@ -1,0 +1,11 @@
+Job #5805.1:  log server messages to console
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        8b0213d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8646668c22bf...8b0213d3a64c
+Duration:      10 min 52 sec
+Started:       2020-07-21 13:07:55
+Finished:      2020-07-21 13:18:47
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #5804.1:  working frontend tests
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        8646668
+Compare URL:   https://github.com/ether/etherpad-lite/compare/86797b3caf2d...8646668c22bf
+Duration:      10 min 44 sec
+Started:       2020-07-21 12:09:34
+Finished:      2020-07-21 12:20:18
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #5817.1:  remove globals
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        c06d1cb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6d3c1bc9dcc2...c06d1cb5d0b0
+Duration:      10 min 40 sec
+Started:       2020-07-21 17:59:31
+Finished:      2020-07-21 18:10:11
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

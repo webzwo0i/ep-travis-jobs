@@ -1,0 +1,11 @@
+Job #5816.1:  update mocha to 8.0.1
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        6d3c1bc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fc4d87e53690...6d3c1bc9dcc2
+Duration:      10 min 39 sec
+Started:       2020-07-21 17:53:38
+Finished:      2020-07-21 18:04:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

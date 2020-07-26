@@ -1,0 +1,11 @@
+Job #5823.1:  test safari 13.1 test completion
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        220c4ab
+Compare URL:   https://github.com/ether/etherpad-lite/compare/046b74584e61...220c4ab50aa9
+Duration:      1 min 51 sec
+Started:       2020-07-22 02:11:15
+Finished:      2020-07-22 02:13:06
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

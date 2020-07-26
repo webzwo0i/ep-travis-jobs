@@ -1,0 +1,11 @@
+Job #5831.1:  update jquery to 3.1.1
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        5a2d6d0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3febe01104a7^...5a2d6d071bfc
+Duration:      1 min 35 sec
+Started:       2020-07-24 13:56:52
+Finished:      2020-07-24 13:58:27
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

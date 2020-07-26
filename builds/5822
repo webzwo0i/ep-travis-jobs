@@ -1,0 +1,11 @@
+Job #5822.1:  bring back 6 browsers
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        046b745
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bb910df1c519...046b74584e61
+Duration:      1 min 28 sec
+Started:       2020-07-21 19:17:44
+Finished:      2020-07-21 19:19:12
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

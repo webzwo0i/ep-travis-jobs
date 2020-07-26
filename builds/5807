@@ -1,0 +1,11 @@
+Job #5807.1:  add more warnings
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        dddf764
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cf30ab598780...dddf7646bbb8
+Duration:      10 min 40 sec
+Started:       2020-07-21 13:50:47
+Finished:      2020-07-21 14:01:27
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

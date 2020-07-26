@@ -1,0 +1,11 @@
+Job #5849.1:  padutils could be missing at this point
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        7685bf1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6ac9052a5ebe...7685bf13256a
+Duration:      6 min 19 sec
+Started:       2020-07-26 04:49:56
+Finished:      2020-07-26 04:56:15
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

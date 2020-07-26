@@ -1,0 +1,12 @@
+Build #5836:  more autofixes
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        32b4b35
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      4 min 31 sec
+Started:       2020-07-25 17:03:18
+Finished:      2020-07-25 17:05:52
+
+#5836.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#5836.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

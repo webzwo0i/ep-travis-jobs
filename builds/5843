@@ -1,0 +1,12 @@
+Build #5843:  update all script because someone will want it...
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        c439658
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      5 min 7 sec
+Started:       2020-07-26 00:42:06
+Finished:      2020-07-26 00:45:14
+
+#5843.1 passed:  2 min 3 sec    os: linux, node_js: lts/*, env:
+#5843.2 passed:  3 min 4 sec    os: linux, node_js: lts/*, env:

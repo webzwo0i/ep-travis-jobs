@@ -1,0 +1,11 @@
+Job #5815.1:  remove test files
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        fc4d87e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/99b6a2bd9bbc...fc4d87e53690
+Duration:      10 min 41 sec
+Started:       2020-07-21 17:49:40
+Finished:      2020-07-21 18:00:21
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

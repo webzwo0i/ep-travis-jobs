@@ -1,0 +1,12 @@
+Build #5832:  placeholders
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        f666b60
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      4 min 31 sec
+Started:       2020-07-24 23:38:58
+Finished:      2020-07-24 23:41:31
+
+#5832.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#5832.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #5840:  powerrrr
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        0991f3c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      4 min 20 sec
+Started:       2020-07-25 20:58:20
+Finished:      2020-07-25 21:00:55
+
+#5840.1 passed:  1 min 52 sec   os: linux, node_js: lts/*, env:
+#5840.2 failed:  2 min 28 sec   os: linux, node_js: lts/*, env:

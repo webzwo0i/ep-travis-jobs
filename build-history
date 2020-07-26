@@ -1,4 +1,82 @@
-#5776 started:   fix-runnerjs remote_runner.js: fix drain call (cf.
+#5854 started:   mochaupdate try out logging console messages
+#5853 failed:    mochaupdate drop json2
+#5852 failed:    mochaupdate saves two requests
+#5851 errored:   develop Plugin Developer Tools: Plugin check & fix tool
+#5850 passed:    develop (PR #4197) ready
+#5849 passed:    mochaupdate padutils could be missing at this point
+#5848 passed:    mochaupdate logs
+#5847 failed:    mochaupdate works
+#5846 failed:    mochaupdate Revert "Revert "working frontend tests""
+#5845 passed:    develop (PR #4197) script to allow retesting all plugins by pushing a commit to each one to force travis to run :D
+#5844 passed:    develop (PR #4197) erghhh if lots of plugins it goes weird
+#5843 passed:    develop (PR #4197) update all script because someone will want it...
+#5842 passed:    develop (PR #4197) remove code smell
+#5841 passed:    develop (PR #4197) this is fun...
+#5840 failed:    develop (PR #4197) powerrrr
+#5839 passed:    develop (PR #4197) bugfix
+#5838 passed:    develop (PR #4197) err handling
+#5837 passed:    develop (PR #4197) helper
+#5836 passed:    develop (PR #4197) more autofixes
+#5835 passed:    develop (PR #4197) getting there
+#5834 passed:    develop (PR #4197) autofix option starts
+#5833 passed:    develop (PR #4197) Merge branch 'develop' of github.com:ether/etherpad-lite into plugin-check-tool
+#5832 passed:    develop (PR #4197) placeholders
+#5831 passed:    mochaupdate update jquery to 3.1.1
+#5830 errored:   develop Bugfix: wait promise finish on hooks (#4194)
+#5829 passed:    develop (PR #4194) Bugfix: wait promise finish on hooks
+#5828 errored:   develop (PR #4192) Revert "made url relative"
+#5827 errored:   fix-connection-diagnostics Revert "made url relative"
+#5826 passed:    mochaupdate ensure webdriver session is closed before saucelabs teardown
+#5825 passed:    develop (PR #4189) Fix(locales): fix wiki links in several locales
+#5824 passed:    mochaupdate another try
+#5823 passed:    mochaupdate test safari 13.1 test completion
+#5822 passed:    mochaupdate bring back 6 browsers
+#5821 passed:    mochaupdate timeout 5sec
+#5820 failed:    mochaupdate timeout 5sec
+#5819 failed:    mochaupdate call done cb
+#5818 failed:    mochaupdate remove globals
+#5817 failed:    mochaupdate remove globals
+#5816 failed:    mochaupdate update mocha to 8.0.1
+#5815 failed:    mochaupdate remove test files
+#5814 failed:    mochaupdate add reconnect test
+#5813 failed:    mochaupdate done callbacks
+#5812 passed:    mochaupdate Revert "only osx 10.14 safari 12"
+#5811 passed:    mochaupdate trigger osx10.14
+#5810 passed:    mochaupdate only osx 10.14 safari 12
+#5809 passed:    mochaupdate only win7 firefox 52.0
+#5808 errored:   develop Fix doc typo (#4187)
+#5807 failed:    mochaupdate add more warnings
+#5806 failed:    mochaupdate debug jserror from client
+#5805 failed:    mochaupdate log server messages to console
+#5804 failed:    mochaupdate working frontend tests
+#5803 passed:    mochaupdate timeslider_revisions.js select_formatting_buttons.js
+#5802 passed:    mochaupdate timeslider_follow.js importexport.js
+#5801 passed:    mochaupdate ordered_list.js xxauto_reconnect.js
+#5800 passed:    mochaupdate timeslider_labels.js importindents.js
+#5799 passed:    mochaupdate urls_become_clickable,timeslider_numeric_padID
+#5798 failed:    mochaupdate timeslider.js,undo
+#5797 passed:    mochaupdate embed value, strikethrough
+#5796 failed:    mochaupdate responsiveness,font_type
+#5795 passed:    mochaupdate unordered list, multiple authors
+#5794 passed:    mochaupdate language,indentation
+#5793 passed:    mochaupdate delete,authorship_of_editions
+#5792 passed:    mochaupdate redo,clear_authorship_colors
+#5791 passed:    mochaupdate pad_modal, helper.js
+#5790 passed:    mochaupdate change_user_name, change_user_color
+#5789 passed:    mochaupdate drag_and_drop,enter
+#5788 failed:    mochaupdate caret,italic
+#5787 failed:    mochaupdate run chat and chat_load_messages
+#5786 passed:    mochaupdate run bold and alphabet tests
+#5785 passed:    mochaupdate chrome <57 compatible
+#5784 failed:    mochaupdate log when not all tests finished
+#5783 errored:   mochaupdate update mocha to 7.2.0
+#5782 failed:    fix-runnerjs frontend tests: add proper calls to done
+#5781 failed:    fix-runnerjs frontend tests: add proper calls to done
+#5780 failed:    fix-runnerjs log the last test that finished before the hanging one
+#5779 failed:    fix-runnerjs callback in several mocha hocks, need waitFor?
+#5778 failed:    fix-runnerjs clarify the case that not all tests returned
+#5777 errored:   develop Localisation updates from https://translatewiki.net.
+#5776 failed:    fix-runnerjs remote_runner.js: fix drain call (cf.
 #5775 passed:    develop (PR #4187) Fix doc typo
 #5774 passed:    fix-runnerjs frontend tests: lower the max allowed test duration
 #5773 errored:   fix-runnerjs syntax error fix
@@ -3445,7 +3523,6 @@
 #2341 passed:    develop (PR #2418) remove console log
 #2340 failed:    etherpad-export-and-import remove console log
 #2339 passed:    develop (PR #2418) working author import
-#2339 passed:    etherpad-export-and-import working author import
 #2338 errored:   develop (PR #2418) remove error logging
 #2337 passed:    etherpad-export-and-import remove error logging
 #2336 passed:    develop (PR #2418) more author logic
@@ -3573,6 +3650,7 @@
 #2218 failed:    develop (PR #2368) this class was in before, it is used to show when a style is applied to a piece of content
 #2217 passed:    hook_for_exportHTMLStyles this class was in before, it is used to show when a style is applied to a piece of content
 #2216 passed:    develop (PR #2368) docs
+#2216 passed:    hook_for_exportHTMLStyles docs
 #2215 failed:    develop (PR #2368) docs
 #2214 passed:    hook_for_exportHTMLStyles docs
 #2213 passed:    hook_for_exportHTMLStyles blah use async
@@ -3648,6 +3726,7 @@
 #2145 passed:    develop (PR #2344) 60% of backend api tests written
 #2144 failed:    backend-tests 60% of backend api tests written
 #2143 passed:    backend-tests 30% of session and group tests done
+#2143 failed:    develop (PR #2344) 30% of session and group tests done
 #2142 failed:    develop (PR #2344) mowah pad tests, tea time
 #2141 errored:   backend-tests mowah pad tests, tea time
 #2140 errored:   develop (PR #2344) tidy up and re-organize
@@ -3698,6 +3777,7 @@
 #2097 errored:   develop (PR #2319) final commit
 #2096 errored:   fix-socket-admin-etc final commit
 #2095 errored:   develop (PR #2319) Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
+#2095 failed:    fix-socket-admin-etc Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
 #2094 passed:    develop (PR #2319) fix session management
 #2094 errored:   fix-socket-admin-etc fix session management
 #2093 errored:   develop (PR #2335) whoopsi
@@ -3943,7 +4023,6 @@
 #1857 errored:   develop (PR #2193) Fixes search on plugins without Description
 #1856 failed:    develop Merge pull request #2186 from ether/font-on-innerdoc-body
 #1855 errored:   develop (PR #2186) change to line 73
-#1855 errored:   font-on-innerdoc-body change to line 73
 #1854 failed:    develop (PR #2186) gah can only do 1/2 a fix
 #1853 errored:   font-on-innerdoc-body gah can only do 1/2 a fix
 #1852 failed:    font-on-innerdoc-body don't lose comment
@@ -4319,7 +4398,6 @@
 #1497 errored:   fix-ol-indent attempt one breaks other fonts and monospace
 #1496 passed:    develop Merge pull request #1994 from ether/node11
 #1495 errored:   node11 support node 0.11
-#1495 errored:   develop (PR #1994) support node 0.11
 #1494 failed:    develop Localisation updates from http://translatewiki.net.
 #1493 failed:    develop Update installDeps.sh
 #1492 failed:    develop Merge pull request #1990 from ether/run-path-available-in-ps-aux
@@ -5095,7 +5173,6 @@
 #736 errored:    develop (PR #1523) this is probably bad, please sanity check
 #735 failed:     store-sessions-in-db this is probably bad, please sanity check
 #734 errored:    develop (PR #1523) eureka
-#734 failed:     store-sessions-in-db eureka
 #733 errored:    develop (PR #1531) better support for other browsers
 #732 failed:     fix-for-long-strings better support for other browsers
 #731 errored:    develop (PR #1531) make the focus jump back to the left if it's required
@@ -5198,6 +5275,7 @@
 #634 errored:    develop (PR #1491) dont use HTML filter hooks on txt export
 #633 failed:     export-txt-with-indent dont use HTML filter hooks on txt export
 #632 errored:    develop (PR #1491) kinda brutal way of stopping plugins being able to pass *s instead of attributes
+#632 failed:     export-txt-with-indent kinda brutal way of stopping plugins being able to pass *s instead of attributes
 #631 errored:    develop (PR #1491) stop urls being encoded, not sure about other security implications here...
 #630 failed:     export-txt-with-indent stop urls being encoded, not sure about other security implications here...
 #629 failed:     develop Localisation updates from http://translatewiki.net.

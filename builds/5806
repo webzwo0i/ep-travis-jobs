@@ -1,0 +1,11 @@
+Job #5806.1:  debug jserror from client
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        cf30ab5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b0213d3a64c...cf30ab598780
+Duration:      10 min 43 sec
+Started:       2020-07-21 13:33:56
+Finished:      2020-07-21 13:44:39
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

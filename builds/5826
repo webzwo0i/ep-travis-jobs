@@ -1,0 +1,11 @@
+Job #5826.1:  ensure webdriver session is closed before saucelabs teardown
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        cdf5ccc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a78852b1317a...cdf5cccf4989
+Duration:      8 min 8 sec
+Started:       2020-07-22 19:27:20
+Finished:      2020-07-22 19:35:28
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

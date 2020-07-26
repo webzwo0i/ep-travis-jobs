@@ -1,0 +1,12 @@
+Build #5844:  erghhh if lots of plugins it goes weird
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4197)
+Commit:        16bd2cc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4197
+Duration:      4 min 26 sec
+Started:       2020-07-26 00:47:33
+Finished:      2020-07-26 00:49:59
+
+#5844.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#5844.2 passed:  2 min 26 sec   os: linux, node_js: lts/*, env:

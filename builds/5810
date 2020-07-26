@@ -1,0 +1,11 @@
+Job #5810.1:  only osx 10.14 safari 12
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        eadf0df
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9e1f3083d16e...eadf0df0bdc0
+Duration:      5 min 39 sec
+Started:       2020-07-21 15:16:00
+Finished:      2020-07-21 15:21:39
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
