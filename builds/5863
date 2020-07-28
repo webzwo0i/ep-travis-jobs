@@ -1,0 +1,13 @@
+Build #5863:  fix
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        f1206f0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/082f1a81f8f4...f1206f0b746f
+Duration:      18 min 13 sec
+Started:       2020-07-27 14:58:00
+Finished:      2020-07-27 15:04:48
+
+#5863.1 passed:  6 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5863.2 failed:  5 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5863.3 passed:  6 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

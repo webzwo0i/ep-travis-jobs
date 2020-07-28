@@ -1,0 +1,13 @@
+Build #5872:  move killTimeout to pass/fail/pending instead of `test end` to guarantee that it is run
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        8297f6d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d913316ef3bc...8297f6ddde7d
+Duration:      16 min 29 sec
+Started:       2020-07-27 22:22:54
+Finished:      2020-07-27 22:34:42
+
+#5872.1 failed:  11 min 47 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5872.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5872.3 passed:  2 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

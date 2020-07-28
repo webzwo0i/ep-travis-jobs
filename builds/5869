@@ -1,0 +1,13 @@
+Build #5869:  remove json2, all supported browsers have JSON now
+State:         failed
+Type:          push
+Branch:        remove-json2
+Commit:        104f842
+Compare URL:   https://github.com/ether/etherpad-lite/commit/104f842f74fa
+Duration:      18 min 10 sec
+Started:       2020-07-27 19:16:33
+Finished:      2020-07-27 19:30:28
+
+#5869.1 passed:  13 min 55 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5869.2 passed:  1 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5869.3 failed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

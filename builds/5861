@@ -1,0 +1,11 @@
+Job #5861.1:  use minification in frontend tests
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        29841d6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1b6c0e1404f6...29841d64e2e8
+Duration:      9 min 57 sec
+Started:       2020-07-27 03:22:18
+Finished:      2020-07-27 03:32:15
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

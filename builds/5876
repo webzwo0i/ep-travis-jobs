@@ -1,0 +1,13 @@
+Build #5876:  unused variable
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        12ec549
+Compare URL:   https://github.com/ether/etherpad-lite/compare/856c14a1b8be...12ec54928f98
+Duration:      16 min 22 sec
+Started:       2020-07-28 01:21:13
+Finished:      2020-07-28 01:33:08
+
+#5876.1 failed:  11 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5876.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5876.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

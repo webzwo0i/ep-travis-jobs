@@ -1,0 +1,13 @@
+Build #5868:  mochas `test end` event is not called when a before/beforeEach-hooks
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        c2b5d70
+Compare URL:   https://github.com/ether/etherpad-lite/compare/437dfb8ea2d1^...c2b5d706a10f
+Duration:      16 min 15 sec
+Started:       2020-07-27 19:12:16
+Finished:      2020-07-27 19:24:03
+
+#5868.1 failed:  11 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5868.2 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5868.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

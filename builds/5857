@@ -1,0 +1,11 @@
+Job #5857.1:  ready returns promise
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        a06000e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0fb16eaf8541...a06000ee0a54
+Duration:      9 min 18 sec
+Started:       2020-07-27 02:32:53
+Finished:      2020-07-27 02:42:11
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

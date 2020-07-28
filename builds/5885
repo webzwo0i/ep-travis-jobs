@@ -1,0 +1,13 @@
+Build #5885:  test a premature saucelabs stop
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        1dab3b3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c035e69219b2...1dab3b31743a
+Duration:      7 min 50 sec
+Started:       2020-07-28 13:53:10
+Finished:      2020-07-28 13:56:32
+
+#5885.1 failed:  3 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5885.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5885.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

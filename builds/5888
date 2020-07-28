@@ -1,0 +1,13 @@
+Build #5888:  get rid of jquery.iframe.js, currently no support for IE<9
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        9d7f7eb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5a77b1c7b434...9d7f7eb4e44b
+Duration:      14 min 39 sec
+Started:       2020-07-28 16:57:31
+Finished:      2020-07-28 17:07:31
+
+#5888.1 failed:  9 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5888.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5888.3 passed:  2 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

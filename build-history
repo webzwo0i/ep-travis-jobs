@@ -1,4 +1,40 @@
-#5854 started:   mochaupdate try out logging console messages
+#5890 failed:    fix-frontendtests-4188 Call the logging code in stopSauce in a callback for `browser.quit()`.
+#5889 passed:    fix-frontendtests-4188 retry up to 3 times when pad could not be loaded
+#5888 failed:    fix-frontendtests-4188 get rid of jquery.iframe.js, currently no support for IE<9
+#5887 failed:    fix-frontendtests-4188 ensure `allowed test duration exceeded` message is printed for the last runner
+#5886 failed:    fix-frontendtests-4188 ensure `allowed test duration exceeded` message is printed for the last runner
+#5885 failed:    fix-frontendtests-4188 test a premature saucelabs stop
+#5884 failed:    fix-frontendtests-4188 unlikely edge case
+#5883 errored:   develop Command line argument for chromium test for fake webrtc (#4199)
+#5882 errored:   fix-frontend-tests-4188 dont write to global mocha variable
+#5881 failed:    develop (PR #4199) Command line argument for chromium test for fake webrtc
+#5880 errored:   develop remove json2, all supported browsers have JSON now (#4198)
+#5879 errored:   develop (PR #4198) remove json2, all supported browsers have JSON now
+#5878 failed:    fix-frontendtests-4188 fix regex
+#5877 failed:    fix-frontendtests-4188 fix regex
+#5876 failed:    fix-frontendtests-4188 unused variable
+#5875 passed:    fix-frontendtests-4188 more correct
+#5874 failed:    fix-frontendtests-4188 more logging
+#5873 failed:    fix-frontendtests-4188 remove unused callback in remote_runner.js
+#5872 failed:    fix-frontendtests-4188 move killTimeout to pass/fail/pending instead of `test end` to guarantee that it is run
+#5871 failed:    fix-frontendtests-4188 frontend tests: clarify why stats.tests and total differ
+#5870 failed:    fix-frontendtests-4188 pass the test in pending-event handler
+#5869 failed:    remove-json2 remove json2, all supported browsers have JSON now
+#5868 failed:    fix-frontendtests-4188 mochas `test end` event is not called when a before/beforeEach-hooks
+#5867 errored:   develop Localisation updates from https://translatewiki.net.
+#5866 errored:   mochaupdate fix
+#5865 errored:   mochaupdate browser is gone in quit callback
+#5864 errored:   mochaupdate fix test chat.js
+#5863 failed:    mochaupdate fix
+#5862 passed:    mochaupdate one browser per travis job
+#5861 failed:    mochaupdate use minification in frontend tests
+#5860 failed:    mochaupdate increase time to wait for pads to load
+#5859 failed:    mochaupdate Revert "stalecode: jQuery 3 (#3903)"
+#5858 failed:    mochaupdate original call
+#5857 failed:    mochaupdate ready returns promise
+#5856 failed:    mochaupdate recommended jquery ready
+#5855 failed:    mochaupdate recommended jquery ready
+#5854 failed:    mochaupdate try out logging console messages
 #5853 failed:    mochaupdate drop json2
 #5852 failed:    mochaupdate saves two requests
 #5851 errored:   develop Plugin Developer Tools: Plugin check & fix tool
@@ -3412,7 +3448,6 @@
 #2449 errored:   develop (PR #2477) Add subdirectory installation instructions
 #2448 failed:    develop Merge pull request #2469 from ether/new-sethtml-tests
 #2447 failed:    develop (PR #2469) remove pointless comments
-#2447 passed:    new-sethtml-tests remove pointless comments
 #2446 failed:    develop (PR #2469) fix ul tests
 #2445 passed:    new-sethtml-tests fix ul tests
 #2444 passed:    develop Merge pull request #2471 from ether/ie-fix-backspace
@@ -3523,6 +3558,7 @@
 #2341 passed:    develop (PR #2418) remove console log
 #2340 failed:    etherpad-export-and-import remove console log
 #2339 passed:    develop (PR #2418) working author import
+#2339 passed:    etherpad-export-and-import working author import
 #2338 errored:   develop (PR #2418) remove error logging
 #2337 passed:    etherpad-export-and-import remove error logging
 #2336 passed:    develop (PR #2418) more author logic
@@ -4023,6 +4059,7 @@
 #1857 errored:   develop (PR #2193) Fixes search on plugins without Description
 #1856 failed:    develop Merge pull request #2186 from ether/font-on-innerdoc-body
 #1855 errored:   develop (PR #2186) change to line 73
+#1855 errored:   font-on-innerdoc-body change to line 73
 #1854 failed:    develop (PR #2186) gah can only do 1/2 a fix
 #1853 errored:   font-on-innerdoc-body gah can only do 1/2 a fix
 #1852 failed:    font-on-innerdoc-body don't lose comment
@@ -4161,7 +4198,6 @@
 #1726 passed:    develop Localisation updates from https://translatewiki.net.
 #1725 failed:    develop Merge pull request #2101 from ether/preProcessDomLine
 #1724 errored:   develop (PR #2033) more sanity stuff
-#1724 failed:    support-images more sanity stuff
 #1723 passed:    preProcessDomLine cleaner logic
 #1722 failed:    develop (PR #2101) cleaner logic
 #1721 passed:    preProcessDomLine fix dintenation
@@ -4398,6 +4434,7 @@
 #1497 errored:   fix-ol-indent attempt one breaks other fonts and monospace
 #1496 passed:    develop Merge pull request #1994 from ether/node11
 #1495 errored:   node11 support node 0.11
+#1495 errored:   develop (PR #1994) support node 0.11
 #1494 failed:    develop Localisation updates from http://translatewiki.net.
 #1493 failed:    develop Update installDeps.sh
 #1492 failed:    develop Merge pull request #1990 from ether/run-path-available-in-ps-aux
@@ -5136,7 +5173,6 @@
 #772 errored:    develop (PR #1545) only show clients on this pad resolves issue #1544
 #771 failed:     fix-clients-conn-count only show clients on this pad resolves issue #1544
 #770 errored:    develop (PR #1523) dont reset head count, use the one we should :)
-#770 failed:     store-sessions-in-db dont reset head count, use the one we should :)
 #769 errored:    develop (PR #1538) timeslider init hook
 #768 failed:     timeslider-init-hook timeslider init hook
 #767 errored:    develop (PR #1537) a different approach
@@ -5173,6 +5209,7 @@
 #736 errored:    develop (PR #1523) this is probably bad, please sanity check
 #735 failed:     store-sessions-in-db this is probably bad, please sanity check
 #734 errored:    develop (PR #1523) eureka
+#734 failed:     store-sessions-in-db eureka
 #733 errored:    develop (PR #1531) better support for other browsers
 #732 failed:     fix-for-long-strings better support for other browsers
 #731 errored:    develop (PR #1531) make the focus jump back to the left if it's required

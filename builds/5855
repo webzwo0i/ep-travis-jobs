@@ -1,0 +1,11 @@
+Job #5855.1:  recommended jquery ready
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        a2eea66
+Compare URL:   https://github.com/ether/etherpad-lite/compare/154cad89a893...a2eea668d5a2
+Duration:      10 min 13 sec
+Started:       2020-07-27 02:12:07
+Finished:      2020-07-27 02:22:20
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

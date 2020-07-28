@@ -1,0 +1,13 @@
+Build #5871:  frontend tests: clarify why stats.tests and total differ
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        d913316
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b40fbe1d25ea...d913316ef3bc
+Duration:      16 min 9 sec
+Started:       2020-07-27 21:41:15
+Finished:      2020-07-27 21:52:59
+
+#5871.1 failed:  11 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5871.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5871.3 failed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

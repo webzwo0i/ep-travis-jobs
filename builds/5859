@@ -1,0 +1,11 @@
+Job #5859.1:  Revert "stalecode: jQuery 3 (#3903)"
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        64eab64
+Compare URL:   https://github.com/ether/etherpad-lite/compare/28e5a26f15f6...64eab647340a
+Duration:      8 min 42 sec
+Started:       2020-07-27 02:56:23
+Finished:      2020-07-27 03:05:05
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

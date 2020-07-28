@@ -1,0 +1,13 @@
+Build #5883:  Command line argument for chromium test for fake webrtc (#4199)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        859a128
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d25cd891ae2e...859a128c544d
+Duration:      23 min 14 sec
+Started:       2020-07-28 11:34:13
+Finished:      2020-07-28 11:53:27
+
+#5883.1 errored: 18 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5883.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5883.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

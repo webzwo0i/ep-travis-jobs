@@ -1,0 +1,13 @@
+Build #5882:  dont write to global mocha variable
+State:         errored
+Type:          push
+Branch:        fix-frontend-tests-4188
+Commit:        c7cc029
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c7cc02963762
+Duration:      23 min 6 sec
+Started:       2020-07-28 03:54:17
+Finished:      2020-07-28 04:13:09
+
+#5882.1 errored: 18 min 52 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5882.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5882.3 failed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

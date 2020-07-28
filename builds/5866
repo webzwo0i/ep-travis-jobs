@@ -1,0 +1,16 @@
+Build #5866:  fix
+State:         errored
+Type:          push
+Branch:        mochaupdate
+Commit:        f798e22
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f5431fc99445...f798e221938e
+Duration:      51 min 18 sec
+Started:       2020-07-27 17:08:16
+Finished:      2020-07-27 17:22:31
+
+#5866.1 errored: 10 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5866.2 passed:  5 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5866.3 errored: 10 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5866.4 passed:  9 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5866.5 passed:  8 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5866.6 passed:  7 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

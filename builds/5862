@@ -1,0 +1,11 @@
+Job #5862.1:  one browser per travis job
+State:         passed
+Type:          push
+Branch:        mochaupdate
+Commit:        a95c2fc
+Compare URL:   https://github.com/ether/etherpad-lite/compare/29841d64e2e8...a95c2fc6c89b
+Duration:      5 min 47 sec
+Started:       2020-07-27 14:41:22
+Finished:      2020-07-27 14:47:09
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

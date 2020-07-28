@@ -1,0 +1,13 @@
+Build #5884:  unlikely edge case
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        c035e69
+Compare URL:   https://github.com/ether/etherpad-lite/compare/437dfb8ea2d1^...c035e69219b2
+Duration:      15 min 43 sec
+Started:       2020-07-28 12:21:05
+Finished:      2020-07-28 12:32:12
+
+#5884.1 failed:  11 min 6 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5884.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5884.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

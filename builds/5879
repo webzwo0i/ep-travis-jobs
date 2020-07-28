@@ -1,0 +1,13 @@
+Build #5879:  remove json2, all supported browsers have JSON now
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4198)
+Commit:        19341ee
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4198
+Duration:      23 min 34 sec
+Started:       2020-07-28 01:51:15
+Finished:      2020-07-28 02:12:11
+
+#5879.1 errored: 20 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5879.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5879.3 errored: 36 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

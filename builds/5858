@@ -1,0 +1,11 @@
+Job #5858.1:  original call
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        28e5a26
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a06000ee0a54...28e5a26f15f6
+Duration:      9 min 55 sec
+Started:       2020-07-27 02:41:56
+Finished:      2020-07-27 02:51:51
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #5881:  Command line argument for chromium test for fake webrtc
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4199)
+Commit:        b429c36
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4199
+Duration:      4 min 21 sec
+Started:       2020-07-28 02:54:52
+Finished:      2020-07-28 02:57:15
+
+#5881.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#5881.2 failed:  2 min 23 sec   os: linux, node_js: lts/*, env:

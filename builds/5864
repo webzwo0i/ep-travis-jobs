@@ -1,0 +1,16 @@
+Build #5864:  fix test chat.js
+State:         errored
+Type:          push
+Branch:        mochaupdate
+Commit:        b7235e9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1206f0b746f...b7235e920c10
+Duration:      45 min 30 sec
+Started:       2020-07-27 16:44:25
+Finished:      2020-07-27 17:00:58
+
+#5864.1 passed:  6 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5864.2 passed:  5 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5864.3 passed:  6 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5864.4 passed:  8 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5864.5 passed:  7 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5864.6 errored: 10 min 25 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

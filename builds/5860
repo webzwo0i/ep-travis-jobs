@@ -1,0 +1,11 @@
+Job #5860.1:  increase time to wait for pads to load
+State:         failed
+Type:          push
+Branch:        mochaupdate
+Commit:        1b6c0e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/64eab647340a...1b6c0e1404f6
+Duration:      10 min 3 sec
+Started:       2020-07-27 03:15:15
+Finished:      2020-07-27 03:25:18
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5887:  ensure `allowed test duration exceeded` message is printed for the last runner
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        5a77b1c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/437dfb8ea2d1^...5a77b1c7b434
+Duration:      13 min 29 sec
+Started:       2020-07-28 14:24:41
+Finished:      2020-07-28 14:33:39
+
+#5887.1 failed:  8 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5887.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5887.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

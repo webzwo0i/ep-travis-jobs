@@ -1,0 +1,13 @@
+Build #5877:  fix regex
+State:         failed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        02686e8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/12ec54928f98...02686e8acf59
+Duration:      17 min 28 sec
+Started:       2020-07-28 01:26:04
+Finished:      2020-07-28 01:39:01
+
+#5877.1 failed:  12 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5877.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5877.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

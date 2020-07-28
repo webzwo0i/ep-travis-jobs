@@ -1,0 +1,13 @@
+Build #5875:  more correct
+State:         passed
+Type:          push
+Branch:        fix-frontendtests-4188
+Commit:        856c14a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a1d3df0de144...856c14a1b8be
+Duration:      16 min 32 sec
+Started:       2020-07-28 00:59:44
+Finished:      2020-07-28 01:11:42
+
+#5875.1 passed:  11 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5875.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5875.3 passed:  2 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
