@@ -1,0 +1,12 @@
+Build #5893:  Update README.md
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4201)
+Commit:        056be62
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4201
+Duration:      8 min 11 sec
+Started:       2020-07-29 04:09:00
+Finished:      2020-07-29 04:13:30
+
+#5893.1 passed:  3 min 41 sec   os: linux, node_js: lts/*, env:
+#5893.2 passed:  4 min 30 sec   os: linux, node_js: lts/*, env:

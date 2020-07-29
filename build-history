@@ -1,4 +1,8 @@
-#5890 failed:    fix-frontendtests-4188 Call the logging code in stopSauce in a callback for `browser.quit()`.
+#5894 passed:    develop (PR #4205) derp
+#5893 passed:    develop (PR #4201) Update README.md
+#5892 passed:    develop tests: Fix frontend tests (#4188), ugly work around for "Pad never loaded" (#4200)
+#5891 passed:    develop (PR #4200) Call the logging code in stopSauce in a callback for `browser.quit()`.
+#5890 passed:    fix-frontendtests-4188 Call the logging code in stopSauce in a callback for `browser.quit()`.
 #5889 passed:    fix-frontendtests-4188 retry up to 3 times when pad could not be loaded
 #5888 failed:    fix-frontendtests-4188 get rid of jquery.iframe.js, currently no support for IE<9
 #5887 failed:    fix-frontendtests-4188 ensure `allowed test duration exceeded` message is printed for the last runner
@@ -3448,6 +3452,7 @@
 #2449 errored:   develop (PR #2477) Add subdirectory installation instructions
 #2448 failed:    develop Merge pull request #2469 from ether/new-sethtml-tests
 #2447 failed:    develop (PR #2469) remove pointless comments
+#2447 passed:    new-sethtml-tests remove pointless comments
 #2446 failed:    develop (PR #2469) fix ul tests
 #2445 passed:    new-sethtml-tests fix ul tests
 #2444 passed:    develop Merge pull request #2471 from ether/ie-fix-backspace
@@ -3568,7 +3573,6 @@
 #2333 errored:   develop (PR #2418) msg for user
 #2332 passed:    etherpad-export-and-import msg for user
 #2331 errored:   etherpad-export-and-import allow only for pads less than 10 to be overwritten
-#2331 passed:    develop (PR #2418) allow only for pads less than 10 to be overwritten
 #2330 errored:   develop (PR #2418) working for all files
 #2329 passed:    etherpad-export-and-import working for all files
 #2328 failed:    develop (PR #2418) whoopsi, required files
@@ -3719,7 +3723,6 @@
 #2187 errored:   develop (PR #2350) correct kernel v#
 #2186 failed:    require-kernel-change correct kernel v#
 #2185 passed:    require-kernel-change Merge branch 'develop' of github.com:ether/etherpad-lite into require-kernel-change
-#2185 failed:    develop (PR #2350) Merge branch 'develop' of github.com:ether/etherpad-lite into require-kernel-change
 #2184 passed:    develop script to update all plugins with one command on CLI
 #2183 passed:    develop gritter css fix
 #2182 passed:    develop better fix
@@ -4070,8 +4073,6 @@
 #1847 passed:    develop Merge pull request #1619 from ether/stricter-transport
 #1846 passed:    develop Localisation updates from https://translatewiki.net.
 #1845 errored:   develop (PR #1619) Enable HSTS for TLS connections
-#1845 passed:    stricter-transport Enable HSTS for TLS connections
-#1845 errored:   develop (PR #1619) Enable HSTS for TLS connections
 #1844 failed:    develop Merge pull request #2150 from ether/export-file-name-hook
 #1843 errored:   develop (PR #2180) Added function to switch to a different pad without having to reload the whole page.
 #1842 failed:    develop Merge pull request #2175 from ether/fix-handleMessage
@@ -4198,6 +4199,7 @@
 #1726 passed:    develop Localisation updates from https://translatewiki.net.
 #1725 failed:    develop Merge pull request #2101 from ether/preProcessDomLine
 #1724 errored:   develop (PR #2033) more sanity stuff
+#1724 failed:    support-images more sanity stuff
 #1723 passed:    preProcessDomLine cleaner logic
 #1722 failed:    develop (PR #2101) cleaner logic
 #1721 passed:    preProcessDomLine fix dintenation
@@ -4471,7 +4473,6 @@
 #1461 errored:   develop (PR #1963) Added a better way of detecting when a url does not have a protocol specified
 #1460 errored:   develop Merge branch 'release/1.3'
 #1459 errored:   master Merge branch 'release/1.3'
-#1459 passed:    1.3.0 Merge branch 'release/1.3'
 #1458 passed:    master (PR #1956) Update changelog and bump version
 #1457 passed:    release/1.3 Update changelog and bump version
 #1456 failed:    master (PR #1955) update package.json
@@ -4771,7 +4772,6 @@
 #1171 passed:    develop Merge pull request #1693 from guyzmo/api_extension
 #1170 passed:    handleClientMessageTimesliderHook remove console log
 #1169 passed:    handleClientMessageTimesliderHook add hook
-#1168 errored:   develop (PR #1723) no need to declare var twice
 #1168 errored:   develop (PR #1723) no need to declare var twice
 #1167 passed:    expose-broadcastslider no need to declare var twice
 #1166 passed:    expose-broadcastslider expose broadcast slider so plugins can interact with it

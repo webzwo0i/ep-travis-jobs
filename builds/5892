@@ -1,0 +1,13 @@
+Build #5892:  tests: Fix frontend tests (#4188), ugly work around for "Pad never loaded" (#4200)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        1b6a9d8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/859a128c544d...1b6a9d8be04c
+Duration:      14 min
+Started:       2020-07-28 21:16:15
+Finished:      2020-07-28 21:20:45
+
+#5892.1 passed:  9 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5892.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5892.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
