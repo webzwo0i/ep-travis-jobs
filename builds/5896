@@ -1,0 +1,13 @@
+Build #5896:  frontend tests: retry should retry with the same padName, which was not true in case there was no padName supplied
+State:         passed
+Type:          push
+Branch:        fix-retry
+Commit:        456ec83
+Compare URL:   https://github.com/ether/etherpad-lite/commit/456ec830af2d
+Duration:      13 min 54 sec
+Started:       2020-07-29 20:12:44
+Finished:      2020-07-29 20:22:10
+
+#5896.1 passed:  9 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5896.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5896.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

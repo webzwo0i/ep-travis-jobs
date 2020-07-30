@@ -1,0 +1,13 @@
+Build #5901:  make SL environment variables only available to frontend tests
+State:         canceled
+Type:          push
+Branch:        saucelabs-secrets
+Commit:        993da7b
+Compare URL:   https://github.com/ether/etherpad-lite/commit/993da7ba0dfd
+Duration:      7 min 33 sec
+Started:       2020-07-30 01:21:15
+Finished:      2020-07-30 01:24:29
+
+#5901.1 canceled: 3 min 14 sec   os: linux, node_js: lts/*
+#5901.2 passed:  1 min 57 sec   os: linux, node_js: lts/*
+#5901.3 canceled: 2 min 22 sec   os: linux, node_js: lts/*
