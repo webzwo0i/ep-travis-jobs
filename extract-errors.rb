@@ -53,7 +53,7 @@ Dir.entries("jobs/").each do |filename|
     end
 
     if state == "fail"
-      if m=line.match(/^\[[^\]]+\](\s+)/) and m[1].size != indent
+      if m=line.match(/^\[[^\]]+\](\s+)/) and m[1].size < indent
         state = "skip"
         indent = 0
         next
