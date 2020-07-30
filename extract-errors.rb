@@ -71,6 +71,7 @@ Dir.entries("jobs/").each do |filename|
   if errors.size > 0
     File.open("failed/#{filename}","w") do |f|
       f.write errors.join("\n")
+      f.write "\n"
     end
   end
 
