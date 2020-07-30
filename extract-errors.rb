@@ -66,7 +66,7 @@ Dir.entries("jobs/").each do |filename|
   end
 
   errors.map! do |e|
-    e if not e.match(/Pad never loaded/)
+    e if not e.match(/Pad never loaded|Padnever loaded|Pad neverloaded/) # a space is somewhere lost in this script
   end
 
   # skip if more than 10 errors are in a file
