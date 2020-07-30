@@ -65,6 +65,10 @@ Dir.entries("jobs/").each do |filename|
 
   end
 
+  errors.map! do |e|
+    e if not e.match(/Pad never loaded/)
+  end
+
   # skip if more than 10 errors are in a file
   next if errors.size > 10
 
