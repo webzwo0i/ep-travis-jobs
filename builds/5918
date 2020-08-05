@@ -1,0 +1,13 @@
+Build #5918:  use new selenium standard
+State:         canceled
+Type:          push
+Branch:        w3c-compliant-webdriver
+Commit:        78acff0
+Compare URL:   https://github.com/ether/etherpad-lite/commit/78acff0024b5
+Duration:      15 min 53 sec
+Started:       2020-08-04 21:14:14
+Finished:      2020-08-04 21:25:37
+
+#5918.1 canceled: 11 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5918.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5918.3 failed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5917:  typo
+State:         failed
+Type:          push
+Branch:        integrate-easysync-tests
+Commit:        82da049
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4515aa294d0e...82da0493a90f
+Duration:      14 min 11 sec
+Started:       2020-08-04 20:42:46
+Finished:      2020-08-04 20:52:46
+
+#5917.1 failed:  9 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5917.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5917.3 passed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #5921:  change saucelabs driver host
+State:         failed
+Type:          push
+Branch:        w3c-compliant-webdriver
+Commit:        7c53701
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2e5444418934...7c537013f5cf
+Duration:      6 min 30 sec
+Started:       2020-08-04 21:44:59
+Finished:      2020-08-04 21:47:20
+
+#5921.1 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5921.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5921.3 failed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

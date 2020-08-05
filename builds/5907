@@ -1,0 +1,13 @@
+Build #5907:  docs: Update README.md (#4201)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        5f0fb55
+Compare URL:   https://github.com/ether/etherpad-lite/compare/451b82536acf235410bedfce176c4456bebc5871...5f0fb55fc55705b49a576e0e8cb457d536ffd0e9
+Duration:      13 min 37 sec
+Started:       2020-08-02 19:12:25
+Finished:      2020-08-02 19:21:36
+
+#5907.1 passed:  9 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5907.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5907.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

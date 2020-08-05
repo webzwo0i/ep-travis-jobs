@@ -1,0 +1,12 @@
+Build #5909:  Add link to Etherpad plugin list in README.md
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4211)
+Commit:        0e25630
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4211
+Duration:      4 min 31 sec
+Started:       2020-08-03 12:39:02
+Finished:      2020-08-03 12:41:39
+
+#5909.1 passed:  1 min 56 sec   os: linux, node_js: lts/*, env:
+#5909.2 passed:  2 min 35 sec   os: linux, node_js: lts/*, env:

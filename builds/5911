@@ -1,0 +1,13 @@
+Build #5911:  Add link to Etherpad plugin list in README.md (#4211)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        31d05d5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5f0fb55fc55705b49a576e0e8cb457d536ffd0e9...31d05d5c14eecc94bbb84d5d819d006d4e06b825
+Duration:      14 min 19 sec
+Started:       2020-08-03 19:12:24
+Finished:      2020-08-03 19:22:12
+
+#5911.1 passed:  9 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5911.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5911.3 passed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

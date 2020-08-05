@@ -1,0 +1,13 @@
+Build #5920:  name has to be in sauce:options
+State:         canceled
+Type:          push
+Branch:        w3c-compliant-webdriver
+Commit:        2e54444
+Compare URL:   https://github.com/ether/etherpad-lite/compare/72199bea0e70...2e5444418934
+Duration:      8 min 53 sec
+Started:       2020-08-04 21:33:57
+Finished:      2020-08-04 21:38:13
+
+#5920.1 canceled: 4 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5920.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5920.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

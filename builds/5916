@@ -1,0 +1,13 @@
+Build #5916:  i18n / l10n plugin translation (#4212)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7b2895a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d3e45e38902c71218981e024987c8faf569c5050...7b2895a75f417d73a6a8537d085958bbaec1dfe0
+Duration:      14 min 3 sec
+Started:       2020-08-04 19:12:33
+Finished:      2020-08-04 19:22:04
+
+#5916.1 passed:  9 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5916.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#5916.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

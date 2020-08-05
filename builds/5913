@@ -1,0 +1,12 @@
+Build #5913:  i18n / l10n plugin translation
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4212)
+Commit:        b835920
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4212
+Duration:      4 min 19 sec
+Started:       2020-08-03 23:18:33
+Finished:      2020-08-03 23:20:55
+
+#5913.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#5913.2 failed:  2 min 21 sec   os: linux, node_js: lts/*, env:

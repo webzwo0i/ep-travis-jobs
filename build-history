@@ -1,3 +1,27 @@
+#5925 passed:    develop i18n / l10n plugin translation (#4212)
+#5924 canceled:  w3c-compliant-webdriver add username and accessKey to sauce:options
+#5923 passed:    w3c-compliant-webdriver package.lock
+#5922 errored:   w3c-compliant-webdriver test wd downgrade to support https
+#5921 failed:    w3c-compliant-webdriver change saucelabs driver host
+#5920 canceled:  w3c-compliant-webdriver name has to be in sauce:options
+#5919 canceled:  w3c-compliant-webdriver use new selenium standard
+#5918 canceled:  w3c-compliant-webdriver use new selenium standard
+#5917 failed:    integrate-easysync-tests typo
+#5916 passed:    develop i18n / l10n plugin translation (#4212)
+#5915 failed:    integrate-easysync-tests cleanup
+#5914 failed:    develop i18n / l10n plugin translation (#4212)
+#5913 failed:    develop (PR #4212) i18n / l10n plugin translation
+#5912 failed:    develop Localisation updates from https://translatewiki.net.
+#5911 passed:    develop Add link to Etherpad plugin list in README.md (#4211)
+#5910 failed:    develop Add link to Etherpad plugin list in README.md (#4211)
+#5909 passed:    develop (PR #4211) Add link to Etherpad plugin list in README.md
+#5908 failed:    develop (PR #4210) Update README.md
+#5907 passed:    develop docs: Update README.md (#4201)
+#5906 failed:    develop docs: Update README.md (#4201)
+#5905 failed:    develop Localisation updates from https://translatewiki.net.
+#5904 passed:    develop Localisation updates from https://translatewiki.net.
+#5903 passed:    develop Localisation updates from https://translatewiki.net.
+#5902 passed:    develop Localisation updates from https://translatewiki.net.
 #5901 canceled:  saucelabs-secrets make SL environment variables only available to frontend tests
 #5900 canceled:  saucelabs-secrets make SL environment variables only available to frontend tests
 #5899 canceled:  saucelabs-secrets make SL environment variables only available to frontend tests
@@ -3349,7 +3373,6 @@
 #2554 failed:    develop minor css polish for user input
 #2553 failed:    develop Merge pull request #2510 from ether/chat-users-flow-css
 #2552 failed:    develop (PR #2510) should be final logic for chatandusers
-#2552 failed:    chat-users-flow-css should be final logic for chatandusers
 #2551 failed:    chat-users-flow-css and even mroe polish
 #2551 failed:    develop (PR #2510) and even mroe polish
 #2550 failed:    develop (PR #2510) more styling stuff
@@ -3675,7 +3698,6 @@
 #2239 passed:    hook_for_exportHTMLStyles more fixes
 #2238 failed:    develop fix
 #2237 passed:    develop (PR #2368) Merge branch 'develop' of github.com:ether/etherpad-lite into hook_for_exportHTMLStyles
-#2237 errored:   hook_for_exportHTMLStyles Merge branch 'develop' of github.com:ether/etherpad-lite into hook_for_exportHTMLStyles
 #2236 passed:    develop fix timeslider socket issue
 #2235 passed:    develop remove unused long paths from windows build
 #2234 passed:    develop Merge pull request #2380 from webzwo0i/fix-add-saved-revision-typo
@@ -3698,6 +3720,7 @@
 #2218 failed:    develop (PR #2368) this class was in before, it is used to show when a style is applied to a piece of content
 #2217 passed:    hook_for_exportHTMLStyles this class was in before, it is used to show when a style is applied to a piece of content
 #2216 passed:    develop (PR #2368) docs
+#2216 passed:    hook_for_exportHTMLStyles docs
 #2215 failed:    develop (PR #2368) docs
 #2214 passed:    hook_for_exportHTMLStyles docs
 #2213 passed:    hook_for_exportHTMLStyles blah use async
@@ -3773,6 +3796,7 @@
 #2145 passed:    develop (PR #2344) 60% of backend api tests written
 #2144 failed:    backend-tests 60% of backend api tests written
 #2143 passed:    backend-tests 30% of session and group tests done
+#2143 failed:    develop (PR #2344) 30% of session and group tests done
 #2142 failed:    develop (PR #2344) mowah pad tests, tea time
 #2141 errored:   backend-tests mowah pad tests, tea time
 #2140 errored:   develop (PR #2344) tidy up and re-organize
@@ -3823,6 +3847,7 @@
 #2097 errored:   develop (PR #2319) final commit
 #2096 errored:   fix-socket-admin-etc final commit
 #2095 errored:   develop (PR #2319) Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
+#2095 failed:    fix-socket-admin-etc Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
 #2094 passed:    develop (PR #2319) fix session management
 #2094 errored:   fix-socket-admin-etc fix session management
 #2093 errored:   develop (PR #2335) whoopsi
