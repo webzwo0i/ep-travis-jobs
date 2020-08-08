@@ -1,0 +1,11 @@
+Job #5929.1:  refactor chat.js
+State:         passed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        9038b46
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa0b6ebeea77^...9038b469ba56
+Duration:      8 min 17 sec
+Started:       2020-08-08 02:33:50
+Finished:      2020-08-08 02:42:07
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

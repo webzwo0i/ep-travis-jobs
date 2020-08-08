@@ -1,0 +1,230 @@
+travis_fold:start:worker_infoWorker information
+hostname: cfeb8c99-350d-40a3-8457-a8ce54ce290b@1.worker-org-69b85cc685-bdvpq.gce-production-1
+version: v6.2.17 https://github.com/travis-ci/worker/tree/bc420764f334fe0d096a417c80426f672f1b7d18
+instance: travis-job-39e93d0b-dc38-4967-97af-1c2caef189b2 travis-ci-sardonyx-xenial-1593004276-4d46c6b3 (via amqp)
+startup: 6.014662223s
+travis_fold:end:worker_infoe:start:0301cedae:end:0301ceda:start=1596860605349641827,finish=1596860605487451207,duration=137809380,event=no_world_writable_dirse:start:00e15910e:end:00e15910:start=1596860605490083750,finish=1596860605496297078,duration=6213328,event=setup_filtere:start:04fe4742e:end:04fe4742:start=1596860605499959068,finish=1596860605508119782,duration=8160714,event=agente:start:00035d4de:end:00035d4d:start=1596860605510968070,finish=1596860605513052490,duration=2084420,event=check_unsupportede:start:0cd31326_infoBuild system information
+Build language: node_js
+Build dist: xenial
+Build id: 716033790
+Job id: 716033791
+Runtime kernel version: 4.15.0-1077-gcp
+travis-build version: ab037d6b
+Build image provisioning date and time
+Wed Jun 24 13:36:52 UTC 2020
+Operating System Details
+Distributor ID:Ubuntu
+Description:Ubuntu 16.04.6 LTS
+Release:16.04
+Codename:xenial
+Systemd Version
+systemd 229
+Cookbooks Version
+3f92a99 https://github.com/travis-ci/travis-cookbooks/tree/3f92a99
+git version
+git version 2.27.0
+bash version
+GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu)
+gcc version
+gcc (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609
+docker version
+Client:
+ Version:           18.06.0-ce
+ API version:       1.38
+ Go version:        go1.10.3
+ Git commit:        0ffa825
+ Built:             Wed Jul 18 19:11:02 2018
+ OS/Arch:           linux/amd64
+ Experimental:      false
+
+Server:
+ Engine:
+  Version:          18.06.0-ce
+  API version:      1.38 (minimum version 1.12)
+  Go version:       go1.10.3
+  Git commit:       0ffa825
+  Built:            Wed Jul 18 19:09:05 2018
+  OS/Arch:          linux/amd64
+  Experimental:     false
+clang version
+clang version 7.0.0 (tags/RELEASE_700/final)
+jq version
+jq-1.5
+bats version
+Bats 0.4.0
+shellcheck version
+0.7.0
+shfmt version
+v2.6.3
+ccache version
+3.2.4
+cmake version
+cmake version 3.12.4
+heroku version
+heroku/7.42.1 linux-x64 node-v12.16.2
+imagemagick version
+Version: ImageMagick 6.8.9-9 Q16 x86_64 2019-11-12 http://www.imagemagick.org
+md5deep version
+4.4
+mercurial version
+version 4.8
+mysql version
+mysql  Ver 14.14 Distrib 5.7.30, for Linux (x86_64) using  EditLine wrapper
+openssl version
+OpenSSL 1.0.2g  1 Mar 2016
+packer version
+1.3.3
+postgresql client version
+psql (PostgreSQL) 10.13 (Ubuntu 10.13-1.pgdg16.04+1)
+ragel version
+Ragel State Machine Compiler version 6.8 Feb 2013
+sudo version
+1.8.16
+gzip version
+gzip 1.6
+zip version
+Zip 3.0
+vim version
+VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Mar 18 2020 14:06:17)
+iptables version
+iptables v1.6.0
+curl version
+curl 7.47.0 (x86_64-pc-linux-gnu) libcurl/7.47.0 GnuTLS/3.4.10 zlib/1.2.8 libidn/1.32 librtmp/2.3
+wget version
+GNU Wget 1.17.1 built on linux-gnu.
+rsync version
+rsync  version 3.1.1  protocol version 31
+gimme version
+v1.5.4
+nvm version
+0.35.3
+perlbrew version
+/home/travis/perl5/perlbrew/bin/perlbrew  - App::perlbrew/0.88
+phpenv version
+rbenv 1.1.2-30-gc879cb0
+rvm version
+rvm 1.29.10 (latest) by Michal Papis, Piotr Kuczynski, Wayne E. Seguin [https://rvm.io]
+default ruby version
+ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-linux]
+CouchDB version
+couchdb 1.6.1
+ElasticSearch version
+5.5.0
+Installed Firefox version
+firefox 63.0.1
+MongoDB version
+MongoDB 4.0.19
+PhantomJS version
+2.1.1
+Pre-installed PostgreSQL versions
+9.4.26
+9.5.22
+9.6.18
+Redis version
+redis-server 6.0.5
+Pre-installed Go versions
+1.11.1
+ant version
+Apache Ant(TM) version 1.9.6 compiled on July 20 2018
+mvn version
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+gradle version
+Gradle 5.1.1!
+lein version
+Leiningen 2.9.3 on Java 11.0.2 OpenJDK 64-Bit Server VM
+Pre-installed Node.js versions
+v10.21.0
+v11.0.0
+v12.18.1
+v4.9.1
+v6.17.1
+v8.12.0
+v8.17.0
+v8.9
+phpenv versions
+  system
+  5.6
+  5.6.40
+  7.1
+  7.1.27
+  7.2
+* 7.2.15 (set by /home/travis/.phpenv/version)
+  hhvm
+  hhvm-stable
+composer --version
+Composer version 1.8.4 2019-02-11 10:52:10
+Pre-installed Ruby versions
+ruby-2.3.8
+ruby-2.4.5
+ruby-2.5.3
+travis_fold:end:system_infoe:end:0cd31326:start=1596860605515907293,finish=1596860605521114379,duration=5207086,event=show_system_infoe:start:03cfb47ae:end:03cfb47a:start=1596860605523910658,finish=1596860605537293692,duration=13383034,event=rm_riak_sourcee:start:051e43d6e:end:051e43d6:start=1596860605540260075,finish=1596860605545782019,duration=5521944,event=fix_rwky_redise:start:05faefece:end:05faefec:start=1596860605549225598,finish=1596860606006448222,duration=457222624,event=wait_for_networke:start:0865d566e:end:0865d566:start=1596860606010640337,finish=1596860606221875232,duration=211234895,event=update_apt_keyse:start:0d50be80e:end:0d50be80:start=1596860606226767382,finish=1596860606279097184,duration=52329802,event=fix_hhvm_sourcee:start:27532b18e:end:27532b18:start=1596860606284299278,finish=1596860606288754968,duration=4455690,event=update_mongo_arche:start:059b98d8e:end:059b98d8:start=1596860606297422359,finish=1596860606338567833,duration=41145474,event=fix_sudo_enabled_trustye:start:03d00112e:end:03d00112:start=1596860606343549804,finish=1596860606346107356,duration=2557552,event=update_glibce:start:0331df90e:end:0331df90:start=1596860606351436886,finish=1596860606360881821,duration=9444935,event=clean_up_pathe:start:241f3368e:end:241f3368:start=1596860606368634794,finish=1596860606376075524,duration=7440730,event=fix_resolv_confe:start:138b1af8e:end:138b1af8:start=1596860606382162525,finish=1596860606391959619,duration=9797094,event=fix_etc_hostse:start:06e79882e:end:06e79882:start=1596860606398204543,finish=1596860606407293929,duration=9089386,event=fix_mvn_settings_xmle:start:26cdc102e:end:26cdc102:start=1596860606411784410,finish=1596860606420834373,duration=9049963,event=no_ipv6_localhoste:start:083715eae:end:083715ea:start=1596860606426290641,finish=1596860606428994438,duration=2703797,event=fix_etc_mavenrce:start:06e3a42ae:end:06e3a42a:start=1596860606433218228,finish=1596860606436513044,duration=3294816,event=fix_wwdr_certificatee:start:11091210e:end:11091210:start=1596860606439815126,finish=1596860606465547836,duration=25732710,event=put_localhost_firste:start:39ece2e0e:end:39ece2e0:start=1596860606473945875,finish=1596860606477052997,duration=3107122,event=home_pathse:start:0e693d77e:end:0e693d77:start=1596860606481482289,finish=1596860606493342009,duration=11859720,event=disable_initramfse:start:087527f6e:end:087527f6:start=1596860606500954498,finish=1596860606782990366,duration=282035868,event=disable_ssh_roaminge:start:1692870ce:end:1692870c:start=1596860606787465616,finish=1596860606790193339,duration=2727723,event=debug_toolse:start:02afcb96e:end:02afcb96:start=1596860606793894819,finish=1596860606797139942,duration=3245123,event=uninstall_oclinte:start:0c4e533ce:end:0c4e533c:start=1596860606801101826,finish=1596860606804310010,duration=3208184,event=rvm_usee:start:02368752e:end:02368752:start=1596860606808500561,finish=1596860606816050006,duration=7549445,event=rm_etc_boto_cfge:start:03dee1d8e:end:03dee1d8:start=1596860606819863276,finish=1596860606823357435,duration=3494159,event=rm_oraclejdk8_symlinke:start:1cf7668ee:end:1cf7668e:start=1596860606827689415,finish=1596860606919791707,duration=92102292,event=enable_i386e:start:00cc8af6e:end:00cc8af6:start=1596860606924491693,finish=1596860606929806956,duration=5315263,event=update_rubygemse:start:36536973e:end:36536973:start=1596860606933954112,finish=1596860607715736285,duration=781782173,event=ensure_path_componentse:start:24cc4cf4e:end:24cc4cf4:start=1596860607719837435,finish=1596860607722436820,duration=2599385,event=redefine_curle:start:0c9d0588e:end:0c9d0588:start=1596860607726641046,finish=1596860607817121643,duration=90480597,event=nonblock_pipee:start:00f1b64ee:end:00f1b64e:start=1596860607821249077,finish=1596860613851286076,duration=6030036999,event=apt_get_updatee:start:16c6846ce:end:16c6846c:start=1596860613855904657,finish=1596860613858173756,duration=2269099,event=deprecate_xcode_64e:start:181f87a4e:end:181f87a4:start=1596860613862447597,finish=1596860616295213141,duration=2432765544,event=update_herokue:start:0157d405e:end:0157d405:start=1596860616301176456,finish=1596860616303790532,duration=2614076,event=shell_session_updatee:start:0bf2d103tutue:end:0bf2d103:start=1596860616308599270,finish=1596860618620533547,duration=2311934277,event=set_docker_mtue:start:1d570130e:end:1d570130:start=1596860618624438214,finish=1596860618690848971,duration=66410757,event=resolvconfe:start:1c0f8f68e:end:1c0f8f68:start=1596860618696960099,finish=1596860618827702323,duration=130742224,event=maven_central_mirrore:start:018d3746e:end:018d3746:start=1596860618832111940,finish=1596860618921908480,duration=89796540,event=maven_httpse:start:1477467ee:end:1477467e:start=1596860618928138923,finish=1596860618930946534,duration=2807611,event=fix_ps4e:start:152a5cc4e:start:0253b3d5-latency-in-tests https://github.com/ether/[secure].git ether/[secure]
+Cloning into 'ether/[secure]'...
+travis_time:end:0253b3d5:start=1596860618940513045,finish=1596860619823131916,duration=882618871,event=checkoute:end:0253b3d5:start=1596860618940513045,finish=1596860619888802702,duration=948289657,event=checkoute:start:16ec6060Setting environment variables from repository settings
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:end:16ec6060:start=1596860619892547748,finish=1596860619905703556,duration=13155808,event=env.installe:start:013bd14e install lts/*
+Downloading and installing node v12.18.3...
+Downloading https://nodejs.org/dist/v12.18.3/node-v12.18.3-linux-x64.tar.xz...
+Computing checksum with sha256sum
+Checksums matched!
+Now using node v12.18.3 (npm v6.14.6)
+travis_time:end:013bd14e:start=1596860620414220101,finish=1596860623119755123,duration=2705535022,event=setup.install --version
+6.14.6
+$ nvm --version
+0.35.3
+
+travis_fold:start:install.1e:start:0de15778plate > settings.json
+travis_time:end:0de15778:start=1596860623629349858,finish=1596860623634111098,duration=4761240,event=installe:start:0476efe1e    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  9.8M    0 44272    0     0  60306      0  0:02:51 --:--:--  0:02:51 60234100  9.8M  100  9.8M    0     0  7691k      0  0:00:01  0:00:01 --:--:-- 7692k
+travis_time:end:0476efe1:start=1596860623641376320,finish=1596860648230096681,duration=24588720361,event=installe:start:39e2671ee you have run Etherpad please be patient.
+
+> wd@1.12.1 install /home/travis/build/ether/[secure]/src/node_modules/wd
+> node scripts/build-browser-scripts
+
+added 1126 packages in 9.963s
+Clearing minified cache...
+travis_time:end:39e2671e:start=1596860648235529406,finish=1596860658737333384,duration=10501803978,event=installe:start:1c00d6f3e:end:1c00d6f3:start=1596860658742576342,finish=1596860658749188446,duration=6612104,event=installe:start:28fbd278ing bin/installDeps.sh has already been run
+Now I will try for 15 seconds to connect to Etherpad on http://localhost:9001
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+All relative paths will be interpreted relative to the identified Etherpad base dir: /home/travis/build/ether/[secure]
+Random string used for versioning assets: 11a551b1
+[2020-08-08 04:24:18.909] [DEBUG] AbsolutePaths - Relative path "settings.json" can be rewritten to "/home/travis/build/ether/[secure]/settings.json"
+[2020-08-08 04:24:18.910] [DEBUG] AbsolutePaths - Relative path "credentials.json" can be rewritten to "/home/travis/build/ether/[secure]/credentials.json"
+settings loaded from: /home/travis/build/ether/[secure]/settings.json
+No credentials file found in /home/travis/build/ether/[secure]/credentials.json. Ignoring.
+[2020-08-08 04:24:18.927] [WARN] console - DirtyDB is used. This is fine for testing but not recommended for production. File location: /home/travis/build/ether/[secure]/var/dirty.db
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+[2020-08-08 04:24:20.163] [WARN] console - Can't get git version for server header
+ENOENT: no such file or directory, open '/home/travis/build/ether/[secure]/.git/c1a47f197535ad4cef3c2687c878526d7c0'
+[2020-08-08 04:24:20.170] [WARN] console - Can't get git version for server header
+ENOENT: no such file or directory, open '/home/travis/build/ether/[secure]/.git/c1a47f197535ad4cef3c2687c878526d7c0'
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+[2020-08-08 04:24:20.360] [WARN] console - Admin username and password not set in settings.json.  To access admin please uncomment and edit 'users' in settings.json
+[2020-08-08 04:24:20.362] [WARN] console - Etherpad is running in Development mode.  This mode is slower for users and less secure than production mode.  You should set the NODE_ENV environment variable to production by using: export NODE_ENV=production
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+Successfully connected to Etherpad on http://localhost:9001
+Now starting the remote runner
+Remote sauce test '9ceb1c1 - firefox 52.0, Windows 7' started! https://saucelabs.com/jobs/090c63cc618643b7a0efd703c44645db
+Remote sauce test '9ceb1c1 - safari 12.0, OS X 10.14' started! https://saucelabs.com/jobs/6f88623564c34bda98ff3e6c5b96917b
+Remote sauce test '9ceb1c1 - firefox 78.0, Windows 7' started! https://saucelabs.com/jobs/a9e8a7428a5d471ab9080d35c31dde6a
+Remote sauce test '9ceb1c1 - safari 13.1, OS X 10.15' started! https://saucelabs.com/jobs/e9be1a2c9f224f05b9f5fa81bd07103e
+Remote sauce test '9ceb1c1 - chrome 55.0, Windows 7' started! https://saucelabs.com/jobs/929f349fac1b4c32abb15db4861b2c81
+Remote sauce test '9ceb1c1 - microsoftedge 83.0, Windows 10' started! https://saucelabs.com/jobs/d577285bb5b844e3af7662a5b2233532
+[2020-08-08 04:24:44.669] [WARN] console - handleClientReady(): client submitted no author name. Using "Anonymous". See: issue #3612
+[2020-08-08 04:24:46.657] [WARN] console - handleClientReady(): client submitted no author name. Using "Anonymous". See: issue #3612
+[2020-08-08 04:24:47.798] [WARN] console - handleClientReady(): client submitted no author name. Using "Anonymous". See: issue #3612
+[2020-08-08 04:24:50.599] [WARN] console - handleClientReady(): client submitted no author name. Using "Anonymous". See: issue #3612

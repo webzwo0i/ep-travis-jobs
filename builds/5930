@@ -1,0 +1,11 @@
+Job #5930.1:  refactor more
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        7d53956
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9038b469ba56...7d53956f2adf
+Duration:      8 min 23 sec
+Started:       2020-08-08 02:46:18
+Finished:      2020-08-08 02:54:41
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

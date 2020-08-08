@@ -1,3 +1,9 @@
+#5931 started:   workaround-dom-latency-in-tests fix
+#5930 failed:    workaround-dom-latency-in-tests refactor more
+#5929 passed:    workaround-dom-latency-in-tests refactor chat.js
+#5928 passed:    develop Localisation updates from https://translatewiki.net.
+#5927 failed:    develop Localisation updates from https://translatewiki.net.
+#5926 passed:    develop i18n / l10n plugin translation (#4212)
 #5925 passed:    develop i18n / l10n plugin translation (#4212)
 #5924 canceled:  w3c-compliant-webdriver add username and accessKey to sauce:options
 #5923 passed:    w3c-compliant-webdriver package.lock
@@ -3373,6 +3379,7 @@
 #2554 failed:    develop minor css polish for user input
 #2553 failed:    develop Merge pull request #2510 from ether/chat-users-flow-css
 #2552 failed:    develop (PR #2510) should be final logic for chatandusers
+#2552 failed:    chat-users-flow-css should be final logic for chatandusers
 #2551 failed:    chat-users-flow-css and even mroe polish
 #2551 failed:    develop (PR #2510) and even mroe polish
 #2550 failed:    develop (PR #2510) more styling stuff
@@ -3698,6 +3705,7 @@
 #2239 passed:    hook_for_exportHTMLStyles more fixes
 #2238 failed:    develop fix
 #2237 passed:    develop (PR #2368) Merge branch 'develop' of github.com:ether/etherpad-lite into hook_for_exportHTMLStyles
+#2237 errored:   hook_for_exportHTMLStyles Merge branch 'develop' of github.com:ether/etherpad-lite into hook_for_exportHTMLStyles
 #2236 passed:    develop fix timeslider socket issue
 #2235 passed:    develop remove unused long paths from windows build
 #2234 passed:    develop Merge pull request #2380 from webzwo0i/fix-add-saved-revision-typo
@@ -3740,7 +3748,6 @@
 #2199 passed:    develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
 #2198 passed:    develop Merge pull request #2350 from ether/require-kernel-change
 #2197 passed:    develop (PR #2350) stop death on no session
-#2197 passed:    require-kernel-change stop death on no session
 #2196 passed:    develop yet more minor css polish
 #2195 passed:    develop (PR #2350) bump cleancss
 #2194 errored:   require-kernel-change bump cleancss
@@ -4566,7 +4573,6 @@
 #1406 passed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
 #1406 errored:   fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
 #1405 passed:    fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
-#1405 failed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
 #1404 passed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
 #1403 passed:    fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
 #1402 failed:    fix/no-connect-to-corrupt-pad Catch errors during preparation of client vars
@@ -4767,7 +4773,6 @@
 #1208 errored:   master Merge pull request #1746 from ether/develop
 #1207 errored:   master (PR #1746) Merge pull request #1745 from ether/master
 #1206 errored:   develop Merge pull request #1745 from ether/master
-#1206 errored:   develop (PR #1745) Merge pull request #1737 from ether/develop
 #1205 errored:   develop Merge pull request #1743 from ether/dont-crash-on-export-abiword
 #1204 errored:   develop (PR #1743) catch error on export
 #1203 errored:   dont-crash-on-export-abiword catch error on export
@@ -5348,6 +5353,7 @@
 #634 errored:    develop (PR #1491) dont use HTML filter hooks on txt export
 #633 failed:     export-txt-with-indent dont use HTML filter hooks on txt export
 #632 errored:    develop (PR #1491) kinda brutal way of stopping plugins being able to pass *s instead of attributes
+#632 failed:     export-txt-with-indent kinda brutal way of stopping plugins being able to pass *s instead of attributes
 #631 errored:    develop (PR #1491) stop urls being encoded, not sure about other security implications here...
 #630 failed:     export-txt-with-indent stop urls being encoded, not sure about other security implications here...
 #629 failed:     develop Localisation updates from http://translatewiki.net.
@@ -5392,7 +5398,6 @@
 #590 failed:     doc-fix-2 doh, doc fix
 #589 errored:    develop (PR #1474) it's time to move on
 #588 errored:    develop (PR #1474) it's time to move on
-#588 failed:     drop-lite it's time to move on
 #587 failed:     drop-lite begin dropping Lite
 #586 errored:    develop (PR #1473) fix opera by recreating a scheduler object
 #585 failed:     fix-opera fix opera by recreating a scheduler object

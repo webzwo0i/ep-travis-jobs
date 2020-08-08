@@ -1,0 +1,11 @@
+Job #5933.1:  fix
+State:         started
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        9ceb1c1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/210cb343f03b...9ceb1c1a47f1
+Duration:      8 min 21 sec
+Started:       2020-08-08 03:35:07
+Finished:      not yet
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
