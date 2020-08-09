@@ -8,6 +8,7 @@ Dir.entries("jobs/").each do |filename|
   next if not start=data.index(/Remote sauce test.*started/)
   next if not data.index(/Remote sauce test.*finished/)
   next if data.index(/The build has been terminated/)
+  next if data.index(/no test started since/)
 
   data=data[start..-1]
 
@@ -31,6 +32,15 @@ Dir.entries("jobs/").each do |filename|
       next
     end
 
+    #special case error, it has no prepended "FAILED"
+    if line.match(/allowed test duration exceeded/)
+      push_error
+      @error = "allowed test duration exceeded"
+
+      state = "skip"
+      next
+    end
+
     # multiline output of a non-failing test
     if not line.match(/PENDING|PASSED|FAILED/) and state == "skip"
       next
@@ -47,15 +57,6 @@ Dir.entries("jobs/").each do |filename|
       line.gsub!(/^\[[^\]]+\]\s+-> FAILED : /,"")
       state = "fail"
       @error = line
-      next
-    end
-
-    #special case error, it has no prepended "FAILED"
-    if line.match(/allowed test duration exceeded/)
-      push_error
-      @error = "allowed test duration exceeded"
-
-      state = "skip"
       next
     end
 
