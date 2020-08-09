@@ -1,0 +1,11 @@
+Job #5951.1:  timeslider_follow: increase timeout from 6 to 60sec
+State:         passed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        e7e9b70
+Compare URL:   https://github.com/ether/etherpad-lite/compare/03a790b509f5...e7e9b70b44be
+Duration:      7 min 50 sec
+Started:       2020-08-08 18:55:03
+Finished:      2020-08-08 19:02:53
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

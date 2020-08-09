@@ -1,0 +1,11 @@
+Job #5956.1:  Introduce default timeout for tests so that it is not necessary to call
+State:         passed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        f3148f8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1d6a5d3ee29...f3148f812db2
+Duration:      8 min 18 sec
+Started:       2020-08-08 19:34:07
+Finished:      2020-08-08 19:42:25
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
