@@ -1,4 +1,27 @@
-#6072 started:   workaround-dom-latency-in-tests trigger new build with a new build id
+#6095 started:   workaround-dom-latency-in-tests trigger new build with a new build id
+#6094 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6093 passed:    develop Localisation updates from https://translatewiki.net.
+#6092 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6091 failed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6090 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6089 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6088 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6087 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6086 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6085 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6084 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6083 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6082 failed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6081 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6080 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6079 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6078 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6077 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6076 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6075 failed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6074 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6073 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6072 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
 #6071 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
 #6070 failed:    workaround-dom-latency-in-tests trigger new build with a new build id
 #6069 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
@@ -3548,6 +3571,7 @@
 #2529 errored:   develop bump v
 #2528 errored:   develop Merge pull request #2497 from ether/image-support-hook
 #2527 errored:   develop (PR #2497) Update hooks_client-side.md
+#2527 passed:    image-support-hook Update hooks_client-side.md
 #2526 errored:   develop (PR #2497) docs
 #2525 passed:    image-support-hook docs
 #2524 errored:   develop (PR #2497) even cleaner
@@ -4674,7 +4698,6 @@
 #1443 failed:    develop Localisation updates from http://translatewiki.net.
 #1442 failed:    develop Merge pull request #1943 from ether/fix/listAllPads-fix
 #1441 failed:    fix/listAllPads-fix Pad list cache: You can't change the cache if it's not initiated
-#1441 passed:    develop (PR #1943) Pad list cache: You can't change the cache if it's not initiated
 #1440 failed:    develop Consistent spelling style
 #1439 passed:    develop Localisation updates from http://translatewiki.net.
 #1438 failed:    develop Merge pull request #1940 from piratenfraktion-nrw/fix_readonly_if_require_session
@@ -4773,6 +4796,7 @@
 #1349 errored:   import-button-styling fix padding so export icons show properly
 #1348 passed:    import-button-styling padding on import now button
 #1347 passed:    develop (PR #1898) dont crash on malformed HTML import
+#1347 passed:    develop Merge pull request #1898 from ether/fix-bad-html-on-import
 #1346 passed:    fix-bad-html-on-import dont crash on malformed HTML import
 #1345 passed:    develop Merge pull request #1897 from GuillaumeAmat/develop
 #1344 errored:   develop (PR #1897) The #importsubmitinput button was too small and hidden its value
