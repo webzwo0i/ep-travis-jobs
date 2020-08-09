@@ -50,14 +50,14 @@ Dir.entries("jobs/").each do |filename|
       next
     end
 
-    #if line.match(/allowed test duration exceeded/)
-    #  if error != ""
-    #    errors.push error
-    #    error = line.strip
-    #  end
-    #  state = "skip"
-    #  next
-    #end
+    #special case error, it has no prepended "FAILED"
+    if line.match(/allowed test duration exceeded/)
+      push_error
+      @error = "allowed test duration exceeded"
+
+      state = "skip"
+      next
+    end
 
     if state == "fail"
       # a new suite
@@ -79,7 +79,7 @@ Dir.entries("jobs/").each do |filename|
   end.compact!
 
   # skip if more than 10 errors are in a file
-  #next if @errors.size > 10
+  next if @errors.size > 10
 
   if @errors.size > 0
     File.open("failed/#{filename}","w") do |f|
