@@ -1,0 +1,11 @@
+Job #6396.1:  refactor timeslider_revisions
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        7f1e9a1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/002f8c4cceb1...7f1e9a143252
+Duration:      6 min 1 sec
+Started:       2020-08-13 00:48:06
+Finished:      2020-08-13 00:54:07
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

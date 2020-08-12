@@ -1,0 +1,11 @@
+Job #6269.1:  trigger new build with a new build id
+State:         passed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        9599912
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a1e606419992...9599912857c1
+Duration:      8 min 33 sec
+Started:       2020-08-10 21:54:30
+Finished:      2020-08-10 22:03:03
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

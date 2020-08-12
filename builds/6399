@@ -1,0 +1,11 @@
+Job #6399.1:  fixfix
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        f85102d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4e214a34834c...f85102dd67de
+Duration:      7 min 16 sec
+Started:       2020-08-13 01:28:54
+Finished:      2020-08-13 01:36:10
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

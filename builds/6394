@@ -1,0 +1,11 @@
+Job #6394.1:  refactor timeslider_labels, increase randomness of padid and check check if the export link changes when the revision changes
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        4cee5c0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/85209ce0ada1^...4cee5c05e1e6
+Duration:      8 min 47 sec
+Started:       2020-08-12 21:41:10
+Finished:      2020-08-12 21:49:57
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

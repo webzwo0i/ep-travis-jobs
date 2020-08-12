@@ -1,0 +1,11 @@
+Job #6395.1:  repair timeslider click functionality
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        002f8c4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4cee5c05e1e6...002f8c4cceb1
+Duration:      8 min 7 sec
+Started:       2020-08-13 00:08:15
+Finished:      2020-08-13 00:16:22
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #6398.1:  fix timesliderTimerTime
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        4e214a3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/08ab704b6474...4e214a34834c
+Duration:      6 min 29 sec
+Started:       2020-08-13 01:03:04
+Finished:      2020-08-13 01:09:33
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
