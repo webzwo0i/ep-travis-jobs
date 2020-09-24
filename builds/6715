@@ -1,0 +1,13 @@
+Build #6715:  SecurityManager: Refactor checkAccess for readability, correctness
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8b0baa9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8756fed80dd9...8b0baa967977
+Duration:      18 min 42 sec
+Started:       2020-09-12 11:42:45
+Finished:      2020-09-12 11:57:05
+
+#6715.1 failed:  14 min 20 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6715.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6715.3 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

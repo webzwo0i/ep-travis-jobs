@@ -1,0 +1,12 @@
+Build #6743:  docs: Revise documentation for handleMessage and handleMessageSecurity
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4277)
+Commit:        54f5fac
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4277
+Duration:      4 min 29 sec
+Started:       2020-09-14 07:56:00
+Finished:      2020-09-14 07:58:58
+
+#6743.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#6743.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

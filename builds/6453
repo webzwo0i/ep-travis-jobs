@@ -1,0 +1,11 @@
+Job #6453.1:  hopefully this is enough to make it run under old nodejs
+State:         failed
+Type:          push
+Branch:        bisect-responsivness
+Commit:        29a0686
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c7a3dce95f15...29a0686de857
+Duration:      1 min 25 sec
+Started:       2020-08-30 14:55:11
+Finished:      2020-08-30 14:56:36
+Allow Failure: false
+Config:        os: linux, node_js: 6.9.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6706:  Use `null`, not `"null"`, if `sessionID` cookie doesn't exist
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4280)
+Commit:        bdb1086
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4280
+Duration:      4 min 41 sec
+Started:       2020-09-11 22:29:33
+Finished:      2020-09-11 22:32:16
+
+#6706.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#6706.2 passed:  2 min 43 sec   os: linux, node_js: lts/*, env:

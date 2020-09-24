@@ -1,0 +1,12 @@
+Build #6598:  Update package.json
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        5d19183
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      2 min 46 sec
+Started:       2020-09-06 20:29:28
+Finished:      2020-09-06 20:30:54
+
+#6598.1 errored: 1 min 24 sec   os: linux, node_js: lts/*
+#6598.2 errored: 1 min 22 sec   os: linux, node_js: lts/*

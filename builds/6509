@@ -1,0 +1,13 @@
+Build #6509:  docs: Document the authFailure hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        55f201a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e0d6d17bf032...55f201a2aa5e
+Duration:      17 min 50 sec
+Started:       2020-09-05 13:38:06
+Finished:      2020-09-05 13:51:29
+
+#6509.1 failed:  13 min 22 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6509.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6509.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

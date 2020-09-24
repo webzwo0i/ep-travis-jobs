@@ -1,0 +1,13 @@
+Build #6820:  try it with ep_comments_page and ep_font_color
+State:         failed
+Type:          push
+Branch:        plugin-backendtests-in-ci
+Commit:        319f363
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0fd56d4eaaea...319f3636b289
+Duration:      16 min 30 sec
+Started:       2020-09-18 14:21:54
+Finished:      2020-09-18 14:33:56
+
+#6820.1 failed:  12 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6820.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6820.3 failed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

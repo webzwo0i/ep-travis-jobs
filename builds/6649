@@ -1,0 +1,13 @@
+Build #6649:  plugins: Move plugin definitions to avoid monkey patching
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        da45988
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dcbf876d03f2...da459888dc2a
+Duration:      25 min 59 sec
+Started:       2020-09-08 01:51:14
+Finished:      2020-09-08 02:12:41
+
+#6649.1 passed:  21 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6649.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6649.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

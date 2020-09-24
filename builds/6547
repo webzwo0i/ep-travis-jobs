@@ -1,0 +1,13 @@
+Build #6547:  docs: Revise hooks overview section
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9f28848
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec01e4c94789...9f288480e810
+Duration:      16 min 11 sec
+Started:       2020-09-05 21:35:08
+Finished:      2020-09-05 21:46:49
+
+#6547.1 failed:  11 min 40 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6547.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6547.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

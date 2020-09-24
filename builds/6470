@@ -1,0 +1,13 @@
+Build #6470:  test file
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4240)
+Commit:        b51cb79
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4240
+Duration:      21 min 23 sec
+Started:       2020-09-02 20:18:49
+Finished:      2020-09-02 20:35:05
+
+#6470.1 failed:  16 min 16 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6470.2 failed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6470.3 passed:  3 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6546:  Update package.json
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        815de5e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      5 min 4 sec
+Started:       2020-09-05 21:35:03
+Finished:      2020-09-05 21:37:51
+
+#6546.1 passed:  2 min 16 sec   os: linux, node_js: lts/*
+#6546.2 passed:  2 min 48 sec   os: linux, node_js: lts/*

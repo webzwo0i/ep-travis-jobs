@@ -1,0 +1,13 @@
+Build #6868:  Add a new 'rejected' disconnect reason
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        45ec832
+Compare URL:   https://github.com/ether/etherpad-lite/compare/13252c955c1a...45ec8326f036
+Duration:      14 min 52 sec
+Started:       2020-09-22 15:15:41
+Finished:      2020-09-22 15:25:27
+
+#6868.1 failed:  9 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6868.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6868.3 failed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

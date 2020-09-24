@@ -1,0 +1,13 @@
+Build #6636:  timesup after 30 sec
+State:         failed
+Type:          push
+Branch:        sl-browser-killed
+Commit:        2cb5fb8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c426d6b8ae26...2cb5fb8be84b
+Duration:      7 min 7 sec
+Started:       2020-09-07 14:56:51
+Finished:      2020-09-07 14:59:31
+
+#6636.1 failed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6636.2 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6636.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6549:  pluginfw: Always include the function name in `hook_fn_name`
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4252)
+Commit:        3fec749
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4252
+Duration:      4 min 38 sec
+Started:       2020-09-05 23:29:43
+Finished:      2020-09-05 23:32:19
+
+#6549.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#6549.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,13 @@
+Build #6874:  allow slower for Safari
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ca7b8e2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6011ef426f12...ca7b8e278fd8
+Duration:      13 min 22 sec
+Started:       2020-09-22 17:33:06
+Finished:      2020-09-22 17:41:47
+
+#6874.1 passed:  8 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6874.2 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6874.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

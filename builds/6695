@@ -1,0 +1,13 @@
+Build #6695:  tests: skip responsivness test on firefox 52.0/windows (#4275)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e2b3b00
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5dfae625b9c8...e2b3b009e1ba
+Duration:      14 min 45 sec
+Started:       2020-09-09 22:41:19
+Finished:      2020-09-09 22:51:17
+
+#6695.1 passed:  9 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6695.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6695.3 passed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

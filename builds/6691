@@ -1,0 +1,11 @@
+Job #6691.1:  Revert "wait"
+State:         canceled
+Type:          push
+Branch:        skip-test-for-ff52
+Commit:        6e88470
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b10c34b50215...6e884705c89c
+Duration:      3 min 52 sec
+Started:       2020-09-09 20:01:36
+Finished:      2020-09-09 20:05:28
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

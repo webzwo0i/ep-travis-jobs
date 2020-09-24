@@ -1,0 +1,13 @@
+Build #6809:  doing install twice?
+State:         failed
+Type:          push
+Branch:        testings
+Commit:        bcffb29
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ceb4cc9496d0...bcffb294eeb4
+Duration:      12 min 50 sec
+Started:       2020-09-16 23:55:31
+Finished:      2020-09-17 00:01:31
+
+#6809.1 failed:  8 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6809.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6809.3 failed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

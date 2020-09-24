@@ -1,0 +1,12 @@
+Build #6714:  SecurityManager: Refactor checkAccess for readability, correctness
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4282)
+Commit:        d2f9659
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4282
+Duration:      4 min 30 sec
+Started:       2020-09-12 04:57:05
+Finished:      2020-09-12 04:59:41
+
+#6714.1 passed:  1 min 56 sec   os: linux, node_js: lts/*, env:
+#6714.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

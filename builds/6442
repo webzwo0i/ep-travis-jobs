@@ -1,0 +1,13 @@
+Build #6442:  does this still kill ff52 on win7?
+State:         failed
+Type:          push
+Branch:        fix-responsivnesstest
+Commit:        26adf80
+Compare URL:   https://github.com/ether/etherpad-lite/compare/36efd9c24896...26adf807073c
+Duration:      14 min 22 sec
+Started:       2020-08-28 04:58:16
+Finished:      2020-08-28 05:08:28
+
+#6442.1 failed:  10 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6442.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6442.3 failed:  2 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

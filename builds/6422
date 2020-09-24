@@ -1,0 +1,12 @@
+Build #6422:  autofixes from Etherpad checkPlugins.js
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4226)
+Commit:        328abac
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4226
+Duration:      4 min 23 sec
+Started:       2020-08-22 16:49:47
+Finished:      2020-08-22 16:52:19
+
+#6422.1 passed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#6422.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

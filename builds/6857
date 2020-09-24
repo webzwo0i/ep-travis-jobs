@@ -1,0 +1,13 @@
+Build #6857:  testing something...
+State:         passed
+Type:          push
+Branch:        testings
+Commit:        3346250
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bcffb294eeb4...3346250f8ccf
+Duration:      18 min 3 sec
+Started:       2020-09-22 00:23:58
+Finished:      2020-09-22 00:37:28
+
+#6857.1 passed:  13 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6857.2 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6857.3 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

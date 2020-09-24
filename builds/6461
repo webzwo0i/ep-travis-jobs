@@ -1,0 +1,13 @@
+Build #6461:  tests: make it more clear that test duration exceeded (#4237)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d30364d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/12c05c20b284...d30364d3def2
+Duration:      15 min 55 sec
+Started:       2020-08-30 17:41:32
+Finished:      2020-08-30 17:53:15
+
+#6461.1 failed:  11 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6461.2 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6461.3 failed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

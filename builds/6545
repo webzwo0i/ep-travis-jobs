@@ -1,0 +1,12 @@
+Build #6545:  hooks: Always return a list from `aCallFirst` and `callFirst`
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4251)
+Commit:        a49d6c5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4251
+Duration:      4 min 22 sec
+Started:       2020-09-05 21:27:58
+Finished:      2020-09-05 21:30:23
+
+#6545.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#6545.2 failed:  2 min 23 sec   os: linux, node_js: lts/*, env:

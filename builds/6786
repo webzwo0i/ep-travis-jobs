@@ -1,0 +1,13 @@
+Build #6786:  tests: Add authentication, authorization bypass tests
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        9e6d3f3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/80639fdc6a3b...9e6d3f3f636e
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-15 21:04:06
+
+#6786.1 canceled: 14 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6786.2 canceled: 14 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6786.3 canceled: 14 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

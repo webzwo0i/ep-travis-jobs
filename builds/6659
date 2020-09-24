@@ -1,0 +1,12 @@
+Build #6659:  PadMessageHandler: Rename createSessionInfo to createSessionInfoAuth
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4260)
+Commit:        bffe6eb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4260
+Duration:      4 min 28 sec
+Started:       2020-09-08 05:22:35
+Finished:      2020-09-08 05:25:04
+
+#6659.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#6659.2 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:

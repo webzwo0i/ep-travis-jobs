@@ -1,0 +1,12 @@
+Build #6617:  plugins: Fix type typo
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4258)
+Commit:        f0a7858
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4258
+Duration:      4 min 36 sec
+Started:       2020-09-06 22:29:36
+Finished:      2020-09-06 22:32:10
+
+#6617.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#6617.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

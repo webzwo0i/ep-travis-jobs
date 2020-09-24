@@ -1,0 +1,12 @@
+Build #6650:  Merge branch 'develop' into pmh
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4260)
+Commit:        1260da8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4260
+Duration:      4 min 21 sec
+Started:       2020-09-08 02:05:42
+Finished:      2020-09-08 02:08:09
+
+#6650.1 passed:  1 min 54 sec   os: linux, node_js: lts/*, env:
+#6650.2 failed:  2 min 27 sec   os: linux, node_js: lts/*, env:

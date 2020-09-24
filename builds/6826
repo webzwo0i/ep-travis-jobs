@@ -1,0 +1,13 @@
+Build #6826:  only specs/ subdirectory should contain spec files, ignore other files in /static/tests/backend
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4314)
+Commit:        3eebc9e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4314
+Duration:      13 min 34 sec
+Started:       2020-09-18 16:51:58
+Finished:      2020-09-18 17:00:52
+
+#6826.1 failed:  8 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6826.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6826.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

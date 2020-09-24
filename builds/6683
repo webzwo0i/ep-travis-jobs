@@ -1,0 +1,13 @@
+Build #6683:  Merge tag '1.8.5' into develop
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        477f637
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7258d75cc5ee...477f637488fa
+Duration:      14 min 16 sec
+Started:       2020-09-09 00:26:46
+Finished:      2020-09-09 00:29:16
+
+#6683.1 passed:  9 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6683.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6683.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

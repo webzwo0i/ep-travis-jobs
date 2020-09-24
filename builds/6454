@@ -1,0 +1,11 @@
+Job #6454.1:  add some console.logs
+State:         failed
+Type:          push
+Branch:        bisect-responsivness
+Commit:        c471ccd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/29a0686de857...c471ccdcbeac
+Duration:      1 min 29 sec
+Started:       2020-08-30 15:01:27
+Finished:      2020-08-30 15:02:56
+Allow Failure: false
+Config:        os: linux, node_js: 6.9.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

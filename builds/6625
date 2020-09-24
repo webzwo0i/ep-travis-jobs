@@ -1,0 +1,12 @@
+Build #6625:  SecurityManager: Simplify checkAccess
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4261)
+Commit:        711bca3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4261
+Duration:      4 min 26 sec
+Started:       2020-09-07 04:44:42
+Finished:      2020-09-07 04:47:14
+
+#6625.1 passed:  1 min 54 sec   os: linux, node_js: lts/*, env:
+#6625.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

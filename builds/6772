@@ -1,0 +1,13 @@
+Build #6772:  i18n: Improve error logging when language JSON read fails
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a261fdf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/38352c1f8ca0fc9d72bb69d2dd8dc444fa1fdaca...a261fdf430cb754a32d5084300dcd28efd6605cc
+Duration:      17 min 10 sec
+Started:       2020-09-15 19:33:25
+Finished:      2020-09-15 19:44:16
+
+#6772.1 failed:  10 min 51 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6772.2 failed:  3 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6772.3 failed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

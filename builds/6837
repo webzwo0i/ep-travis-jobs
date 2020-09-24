@@ -1,0 +1,12 @@
+Build #6837:  utils: Fix promise creation accounting bug in promises.timesLimit
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4312)
+Commit:        62d380a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4312
+Duration:      4 min 27 sec
+Started:       2020-09-18 23:04:52
+Finished:      2020-09-18 23:07:26
+
+#6837.1 passed:  1 min 54 sec   os: linux, node_js: lts/*, env:
+#6837.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

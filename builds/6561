@@ -1,0 +1,12 @@
+Build #6561:  Delete .coveralls.yml
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        29f1f71
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-06 13:42:41
+
+#6561.1 canceled: 1 sec          os: linux, node_js: lts/*
+#6561.2 canceled: 1 sec          os: linux, node_js: lts/*

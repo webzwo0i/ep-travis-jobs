@@ -1,0 +1,12 @@
+Build #6839:  webaccess: Return 401 for authn failure, 403 for authz failure
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4254)
+Commit:        4dcec92
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4254
+Duration:      4 min 39 sec
+Started:       2020-09-18 23:08:22
+Finished:      2020-09-18 23:10:56
+
+#6839.1 passed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#6839.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

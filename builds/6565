@@ -1,0 +1,12 @@
+Build #6565:  Merge branch 'develop' of https://github.com/WWCheng02/etherpad-lite into develop
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        3794820
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      4 min 27 sec
+Started:       2020-09-06 14:04:28
+Finished:      2020-09-06 14:06:59
+
+#6565.1 passed:  1 min 56 sec   os: linux, node_js: lts/*
+#6565.2 passed:  2 min 31 sec   os: linux, node_js: lts/*

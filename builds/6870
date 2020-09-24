@@ -1,0 +1,13 @@
+Build #6870:  async-ify more functions, and await completion
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        3365e94
+Compare URL:   https://github.com/ether/etherpad-lite/compare/45ec8326f036...3365e944bf61
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-22 15:11:06
+
+#6870.1 canceled: 18 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6870.2 canceled: 18 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6870.3 canceled: 18 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

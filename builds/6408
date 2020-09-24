@@ -1,0 +1,11 @@
+Job #6408.1:  refactor alphabet test
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        951ba1e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e6833b02ef58...951ba1e58b61
+Duration:      8 min 5 sec
+Started:       2020-08-13 18:27:40
+Finished:      2020-08-13 18:35:45
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

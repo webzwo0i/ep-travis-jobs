@@ -1,0 +1,13 @@
+Build #6765:  socketio: Use Error objects for socket.io connection errors
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        259b8d8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0a836ced2911...259b8d891d86
+Duration:      59 min 43 sec
+Started:       2020-09-15 21:03:57
+Finished:      2020-09-15 21:06:01
+
+#6765.1 canceled: 14 min 28 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6765.2 passed:  59 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6765.3 canceled: 14 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

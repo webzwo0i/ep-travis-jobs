@@ -1,0 +1,13 @@
+Build #6732:  security: Fix authentication bypass vulnerability
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        d0a16d2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4434e54368d8...d0a16d23cbcb
+Duration:      14 min 12 sec
+Started:       2020-09-13 20:26:48
+Finished:      2020-09-13 20:36:26
+
+#6732.1 passed:  9 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6732.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6732.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

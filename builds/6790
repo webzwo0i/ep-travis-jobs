@@ -1,0 +1,12 @@
+Build #6790:  tests: Use wtfnode to determine why mocha isn't exiting
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4304)
+Commit:        5fabc8a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4304
+Duration:      4 min 19 sec
+Started:       2020-09-15 21:54:06
+Finished:      2020-09-15 21:56:34
+
+#6790.1 failed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#6790.2 failed:  2 min 28 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #6411.1:  test if this helps edge
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        d8851bd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/951ba1e58b61...d8851bd5edc6
+Duration:      6 min 23 sec
+Started:       2020-08-13 19:40:31
+Finished:      2020-08-13 19:46:54
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

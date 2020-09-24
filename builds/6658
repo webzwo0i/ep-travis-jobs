@@ -1,0 +1,12 @@
+Build #6658:  import: Use the correct author ID when using sessions
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4264)
+Commit:        ae99c91
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4264
+Duration:      4 min 28 sec
+Started:       2020-09-08 05:19:43
+Finished:      2020-09-08 05:22:14
+
+#6658.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#6658.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

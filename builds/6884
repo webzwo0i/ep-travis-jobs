@@ -1,0 +1,13 @@
+Build #6884:  PadMessageHandler: Move handleMessage hooks after access check
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1bb4409
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0f6baac7b550...1bb44098df5b
+Duration:      13 min 48 sec
+Started:       2020-09-23 09:27:25
+Finished:      2020-09-23 09:36:46
+
+#6884.1 failed:  9 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6884.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6884.3 failed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

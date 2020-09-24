@@ -1,0 +1,12 @@
+Build #6804:  Fix readOnly pad export
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4309)
+Commit:        50898f3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4309
+Duration:      14 min
+Started:       2020-09-16 20:13:26
+Finished:      2020-09-16 20:24:53
+
+#6804.1 errored: 11 min 27 sec  os: linux, node_js: lts/*, env:
+#6804.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

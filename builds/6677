@@ -1,0 +1,13 @@
+Build #6677:  bumping ueber
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7258d75
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2b9915d00d013b918c2b2aac48643ee014a9ea8f...7258d75cc5ee9fc3404b880ebd6524b5b60fd38a
+Duration:      14 min 19 sec
+Started:       2020-09-08 19:29:41
+Finished:      2020-09-08 19:39:30
+
+#6677.1 passed:  9 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6677.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6677.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #6456.1:  disable cache
+State:         failed
+Type:          push
+Branch:        bisect-responsivness
+Commit:        fd698e0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9b445b58eaff...fd698e00b159
+Duration:      3 min 26 sec
+Started:       2020-08-30 15:10:08
+Finished:      2020-08-30 15:13:34
+Allow Failure: false
+Config:        os: linux, node_js: 6.9.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

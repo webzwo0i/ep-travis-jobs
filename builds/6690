@@ -1,0 +1,11 @@
+Job #6690.1:  wait
+State:         canceled
+Type:          push
+Branch:        skip-test-for-ff52
+Commit:        b10c34b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3782d5b90462...b10c34b50215
+Duration:      3 min 52 sec
+Started:       2020-09-09 19:56:55
+Finished:      2020-09-09 20:00:47
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

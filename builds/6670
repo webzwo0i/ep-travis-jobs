@@ -1,0 +1,13 @@
+Build #6670:  commenting out responsiveness test in preperation for a release
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        2b9915d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6c2a361935fd...2b9915d00d01
+Duration:      17 min 3 sec
+Started:       2020-09-08 17:06:00
+Finished:      2020-09-08 17:18:33
+
+#6670.1 failed:  12 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6670.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6670.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #6752:  no title replacement
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4240)
+Commit:        26ca2ec
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4240
+Duration:      12 min 52 sec
+Started:       2020-09-14 14:25:20
+Finished:      2020-09-14 14:33:40
+
+#6752.1 passed:  8 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6752.2 failed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6752.3 failed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

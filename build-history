@@ -1,4 +1,529 @@
-#6383 started:   workaround-dom-latency-in-tests trigger new build with a new build id
+#6908 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6907 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6906 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6905 passed:    develop (PR #4342) security: Don't require express_sid if authn not required
+#6904 passed:    develop (PR #4343) security: Enable authorize plugins to grant modify-only access
+#6903 passed:    develop (PR #4342) socket.io: Don't require express_sid if authn not required
+#6902 passed:    develop (PR #4342) socket.io: Don't require express_sid if authn not required
+#6901 passed:    develop (PR #4342) socket.io: Don't require express_sid if authn not required
+#6900 failed:    develop no need to ask for translations if no template files are included
+#6899 failed:    develop (PR #4339) does commenting out responsiveness mean that other tests dont break?
+#6898 failed:    test-plugins does commenting out responsiveness mean that other tests dont break?
+#6897 failed:    develop (PR #4339) lets get things passing then add comments plugin later
+#6896 failed:    test-plugins lets get things passing then add comments plugin later
+#6895 failed:    develop (PR #4339) Im an idiot
+#6894 failed:    test-plugins Im an idiot
+#6893 canceled:  develop (PR #4339) derp
+#6892 errored:   test-plugins derp
+#6891 errored:   develop (PR #4339) maybe working?
+#6890 errored:   test-plugins maybe working?
+#6889 failed:    develop (PR #4339) include plugins in tests
+#6888 failed:    test-plugins include plugins in tests
+#6887 failed:    develop no need to ask for translations if no template files are included
+#6886 errored:   develop (PR #4338) no need to ask for translations if no template files are included
+#6885 passed:    check-backend-plugin-tests no need to ask for translations if no template files are included
+#6884 failed:    develop PadMessageHandler: Move handleMessage hooks after access check
+#6883 passed:    develop Revert "tests: Use wtfnode to determine why mocha isn't exiting" (#4315)
+#6882 passed:    test-node-version not sure if this works
+#6881 passed:    test-node-version OMG its late
+#6880 canceled:  test-node-version no saucelabs
+#6879 canceled:  test-node-version we only support v10.13+ .....
+#6878 canceled:  test-node-version test node v10 releases
+#6877 passed:    develop (PR #4336) PadMessageHandler: Move handleMessage hooks after access check
+#6876 passed:    develop (PR #4315) Revert "tests: Use wtfnode to determine why mocha isn't exiting"
+#6875 failed:    develop allow slower for Safari
+#6874 passed:    develop allow slower for Safari
+#6873 failed:    develop (PR #4333) allow slower for Safari
+#6872 failed:    safari-is-slow allow slower for Safari
+#6871 failed:    develop PadMessageHandler: Make sessioninfo tracking more robust
+#6870 canceled:  develop async-ify more functions, and await completion
+#6869 failed:    develop (PR #4315) Merge branch 'develop' into wtfnode
+#6868 failed:    develop Add a new 'rejected' disconnect reason
+#6867 passed:    develop include hash auth in tests
+#6866 failed:    develop Refactor startup/shutdown for tests
+#6865 passed:    testings Merge branch 'develop' of github.com:ether/etherpad-lite into testings
+#6864 failed:    develop (PR #4330) Add a new 'rejected' disconnect reason
+#6863 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6862 passed:    develop (PR #4315) Revert "tests: Use wtfnode to determine why mocha isn't exiting"
+#6861 passed:    develop (PR #4307) PadMessageHandler: Make sessioninfo tracking more robust
+#6860 passed:    develop (PR #4313) async-ify more functions, and await completion
+#6859 passed:    develop (PR #4329) Refactor startup/shutdown for tests
+#6858 passed:    develop (PR #4329) Refactor startup/shutdown for tests
+#6857 passed:    testings testing something...
+#6856 passed:    develop SessionStore: Don't call callback until cached in DB layer
+#6855 passed:    develop (PR #4328) SessionStore: Don't call callback until cached in DB layer
+#6854 passed:    develop utils: Fix promise creation accounting bug in promises.timesLimit
+#6853 passed:    develop (PR #4313) async-ify more functions, and await completion
+#6852 passed:    develop (PR #4312) utils: Fix promise creation accounting bug in promises.timesLimit
+#6851 failed:    develop Localisation updates from https://translatewiki.net.
+#6850 failed:    develop Localisation updates from https://translatewiki.net.
+#6849 passed:    develop (PR #4292) fix: backward compatibility for plugins
+#6848 failed:    develop Merge remote-tracking branch 'origin/release/1.8.6' into develop
+#6847 failed:    release/1.8.6 changelog: Mention fix for authz bypass vulnerability in 1.8.6 (#4318)
+#6846 passed:    develop SessionManager: Fix session expiration check
+#6845 passed:    develop SessionManager: Fix session expiration check
+#6844 passed:    develop (PR #4324) SessionManager: Fix session expiration check
+#6843 passed:    develop css: Improve toolbar responsiveness for small screen (#4322)
+#6842 failed:    develop Update version to 1.8.6 and add changelog informations
+#6841 passed:    develop (PR #4322) Improve toolbar responsiveness for small screen
+#6840 passed:    develop (PR #4307) PadMessageHandler: Make sessioninfo tracking more robust
+#6839 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6838 passed:    develop (PR #4313) async-ify more functions, and await completion
+#6837 passed:    develop (PR #4312) utils: Fix promise creation accounting bug in promises.timesLimit
+#6836 passed:    develop (PR #4315) Revert "tests: Use wtfnode to determine why mocha isn't exiting"
+#6835 passed:    develop (PR #4318) changelog: Mention fix for authz bypass vulnerability in 1.8.6
+#6834 failed:    develop Update version to 1.8.6 and add changelog informations
+#6833 passed:    master Update version to 1.8.6 and add changelog informations
+#6832 failed:    1.8.6 Update version to 1.8.6 and add changelog informations
+#6831 failed:    develop (PR #4316) Update version to 1.8.6 and add changelog informations
+#6830 failed:    release/1.8.6 Update version to 1.8.6 and add changelog informations
+#6829 passed:    develop (PR #4315) Revert "tests: Use wtfnode to determine why mocha isn't exiting"
+#6828 failed:    develop tests: Plugin backend tests in ci (#4314)
+#6827 failed:    develop tests: Plugin backend tests in ci (#4314)
+#6826 failed:    develop (PR #4314) only specs/ subdirectory should contain spec files, ignore other files in /static/tests/backend
+#6825 failed:    plugin-backendtests-in-ci only specs/ subdirectory should contain spec files, ignore other files in /static/tests/backend
+#6824 failed:    plugin-backendtests-in-ci run any plugin backend tests
+#6823 failed:    plugin-backendtests-in-ci test
+#6822 errored:   plugin-backendtests-in-ci test
+#6821 errored:   plugin-backendtests-in-ci does it installs devDependencies of ep_comments_page?
+#6820 failed:    plugin-backendtests-in-ci try it with ep_comments_page and ep_font_color
+#6819 failed:    plugin-backendtests-in-ci test if ci runs frontend and backend tests of plugins
+#6818 passed:    plugin-backendtests-in-ci run any plugin backend tests
+#6817 passed:    develop (PR #3881) favicon fix for 3875
+#6816 passed:    develop Localisation updates from https://translatewiki.net.
+#6815 failed:    develop Localisation updates from https://translatewiki.net.
+#6814 passed:    develop (PR #4307) PadMessageHandler: Make sessioninfo tracking more robust
+#6813 passed:    develop (PR #4313) async-ify more functions, and await completion
+#6812 passed:    develop (PR #4312) utils: Fix promise creation accounting bug in promises.timesLimit
+#6811 passed:    develop (PR #4312) utils: Fix promise creation accounting bug in promises.timesLimit
+#6810 passed:    develop (PR #4312) utils: Fix promise creation accounting bug in promises.timesLimit
+#6809 failed:    testings doing install twice?
+#6808 failed:    testings using git instead of npm so I get latest test code
+#6807 errored:   develop (PR #4310) include hash auth in tests
+#6806 errored:   ep_hash_auth_in_core_tests include hash auth in tests
+#6805 errored:   develop Feature: Copy Pad without history (#4295)
+#6804 errored:   develop (PR #4309) Fix readOnly pad export
+#6803 errored:   develop security: Fix authorization bypass vulnerability
+#6802 passed:    develop (PR #4295) fix: Rethrow errors and add more tests
+#6801 passed:    develop (PR #4307) PadMessageHandler: Make sessioninfo tracking more robust
+#6800 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6799 passed:    develop security: Fix authorization bypass vulnerability
+#6798 passed:    develop (PR #4305) security: Fix authorization bypass vulnerability
+#6797 passed:    develop tests: Use wtfnode to determine why mocha isn't exiting
+#6796 passed:    develop webaccess: Fix syntax error (missing close curly brace)
+#6795 failed:    develop (PR #4295) fix: Rethrow errors and add more tests
+#6794 failed:    develop (PR #4295) fix: Rethrow errors and add more tests
+#6793 passed:    develop (PR #4306) webaccess: Fix syntax error (missing close curly brace)
+#6792 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6791 passed:    develop (PR #4305) security: Fix authorization bypass vulnerability
+#6790 failed:    develop (PR #4304) tests: Use wtfnode to determine why mocha isn't exiting
+#6789 failed:    develop PadMessageHandler: Fix assignment to const variable
+#6788 canceled:  develop Pad: Disable toolbar and import/export when reconnecting
+#6787 canceled:  develop PadMessageHandler: Move code out of unnecessary closure (again)
+#6786 canceled:  develop tests: Add authentication, authorization bypass tests
+#6785 failed:    develop (PR #4303) PadMessageHandler: Fix assignment to const variable
+#6784 failed:    develop (PR #4302) PadMessageHandler: Move code out of unnecessary closure (again)
+#6783 failed:    develop (PR #4278) Pad: Disable toolbar and import/export when reconnecting
+#6782 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6781 failed:    develop (PR #4289) tests: Add authentication, authorization bypass tests
+#6780 failed:    develop (PR #4289) tests: Add authentication, authorization bypass tests
+#6779 failed:    develop (PR #4278) Pad: Disable toolbar and import/export when reconnecting
+#6778 failed:    develop webaccess: Pass `settings.users` to the authenticate hook
+#6777 canceled:  develop webaccess: Enforce creation of `req.session.user` by authn plugins
+#6776 errored:   develop (PR #4269) webaccess: Pass `settings.users` to the authenticate hook
+#6775 canceled:  develop docs: Revise documentation for handleMessage and handleMessageSecurity
+#6774 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6773 canceled:  develop PadMessageHandler: Move code out of unnecessary closure
+#6772 failed:    develop i18n: Improve error logging when language JSON read fails
+#6771 failed:    develop (PR #4295) refactor: dry
+#6770 failed:    develop (PR #4295) refactor: dry
+#6769 failed:    develop i18n: Improve error logging when language JSON read fails
+#6768 failed:    develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
+#6767 failed:    develop webaccess: Factor out common code
+#6766 passed:    develop security: Check authentication in SecurityManager checkAccess
+#6765 canceled:  develop socketio: Use Error objects for socket.io connection errors
+#6764 failed:    develop css: Line up line numbers with their rows
+#6763 failed:    develop (PR #4299) i18n: Improve error logging when language JSON read fails
+#6762 passed:    develop (PR #4298) css: Line up line numbers with their rows
+#6761 passed:    develop (PR #4289) tests: Add authentication, authorization bypass tests
+#6760 failed:    develop (PR #4296) webaccess: Factor out common code
+#6759 passed:    develop (PR #4289) tests: Add authentication, authorization bypass tests
+#6758 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6757 failed:    develop (PR #4289) tests: Add authentication, authorization bypass tests
+#6756 passed:    develop (PR #4295) doc: Improve clarity of the documentation
+#6755 canceled:  develop packaging: remove pad_docbar.js (#4286)
+#6754 failed:    develop (PR #4240) fix
+#6753 failed:    import-doc-line-breaks fix
+#6752 failed:    develop (PR #4240) no title replacement
+#6751 failed:    import-doc-line-breaks no title replacement
+#6750 failed:    develop (PR #4240) revert title replacement for the moment
+#6749 failed:    import-doc-line-breaks revert title replacement for the moment
+#6748 failed:    develop (PR #4240) switch back to soffice standard converter; dont swallow newlines
+#6747 failed:    import-doc-line-breaks switch back to soffice standard converter; dont swallow newlines
+#6746 passed:    develop (PR #4292) fix: backward compatibility for plugins
+#6745 passed:    develop (PR #4290) security: Check authentication in SecurityManager checkAccess
+#6744 passed:    develop (PR #4278) Pad: Disable toolbar and import/export when reconnecting
+#6743 passed:    develop (PR #4277) docs: Revise documentation for handleMessage and handleMessageSecurity
+#6742 passed:    develop (PR #4283) PadMessageHandler: Move code out of unnecessary closure
+#6741 passed:    develop (PR #4270) webaccess: Enforce creation of `req.session.user` by authn plugins
+#6740 errored:   develop (PR #4269) webaccess: Pass `settings.users` to the authenticate hook
+#6739 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6738 errored:   develop (PR #4289) tests: Add authentication, authorization bypass tests
+#6737 passed:    develop (PR #4288) socketio: Use Error objects for socket.io connection errors
+#6736 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6735 errored:   develop (PR #4289) tests: Add authentication, authorization bypass tests
+#6734 passed:    develop (PR #4288) socketio: Use Error objects for socket.io connection errors
+#6733 failed:    develop packaging: remove pad_docbar.js (#4286)
+#6732 passed:    develop security: Fix authentication bypass vulnerability
+#6731 failed:    develop Update responsiveness.js
+#6730 passed:    develop (PR #4287) security: Fix authentication bypass vulnerability
+#6729 passed:    develop (PR #4286) package: remove pad_docbar.js
+#6728 passed:    tar.json-updates package: remove pad_docbar.js
+#6727 failed:    develop (PR #4285) terser was not called because mime type did not match
+#6726 failed:    terser-fix terser was not called because mime type did not match
+#6725 failed:    package-more-resources Release version 1.8.4
+#6724 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6723 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6722 failed:    develop (PR #4269) webaccess: Pass `settings.users` to the authenticate hook
+#6721 passed:    develop (PR #4270) webaccess: Enforce creation of `req.session.user` by authn plugins
+#6720 passed:    develop (PR #4283) PadMessageHandler: Move code out of unnecessary closure
+#6719 passed:    develop (PR #4277) docs: Revise documentation for handleMessage and handleMessageSecurity
+#6718 passed:    develop (PR #4278) Pad: Disable toolbar and import/export when reconnecting
+#6717 passed:    develop Update responsiveness.js
+#6716 passed:    develop Update responsiveness.js
+#6715 failed:    develop SecurityManager: Refactor checkAccess for readability, correctness
+#6714 passed:    develop (PR #4282) SecurityManager: Refactor checkAccess for readability, correctness
+#6713 passed:    develop PadMessageHandler: Use `await` instead of `p.then()`
+#6712 passed:    develop Use `null`, not `"null"`, if `sessionID` cookie doesn't exist
+#6711 passed:    develop (PR #4270) webaccess: Enforce creation of `req.session.user` by authn plugins
+#6710 passed:    develop (PR #4269) webaccess: Pass `settings.users` to the authenticate hook
+#6709 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6708 passed:    develop (PR #4260) PadMessageHandler: Use `await` instead of `p.then()`
+#6707 failed:    develop (PR #4281) PadMessageHandler: Use `await` instead of `p.then()`
+#6706 passed:    develop (PR #4280) Use `null`, not `"null"`, if `sessionID` cookie doesn't exist
+#6705 passed:    develop Localisation updates from https://translatewiki.net.
+#6704 passed:    develop (PR #4278) Pad: Disable toolbar and import/export when reconnecting
+#6703 passed:    develop (PR #4278) Pad: Disable toolbar and import/export when reconnecting
+#6702 failed:    develop (PR #4277) docs: Revise documentation for handleMessage and handleMessageSecurity
+#6701 passed:    develop Localisation updates from https://translatewiki.net.
+#6700 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6699 passed:    develop (PR #4260) PadMessageHandler: Rename createSessionInfo to createSessionInfoAuth
+#6698 passed:    develop (PR #4269) webaccess: Pass `settings.users` to the authenticate hook
+#6697 passed:    develop (PR #4270) webaccess: Enforce creation of `req.session.user` by authn plugins
+#6696 failed:    develop Localisation updates from https://translatewiki.net.
+#6695 passed:    develop tests: skip responsivness test on firefox 52.0/windows (#4275)
+#6694 failed:    develop (PR #4275) skip responsivness test on firefox 52.0/windows
+#6693 passed:    skip-test-for-ff52 skip responsivness test on firefox 52.0/windows
+#6692 failed:    skip-test-for-ff52 fix
+#6691 canceled:  skip-test-for-ff52 Revert "wait"
+#6690 canceled:  skip-test-for-ff52 wait
+#6689 failed:    skip-test-for-ff52 syntax
+#6688 canceled:  skip-test-for-ff52 skip responsivness test on firefox 52.0/windows
+#6687 failed:    develop Package Lock update
+#6686 passed:    develop Package Lock update
+#6685 canceled:  develop bump ueber
+#6684 failed:    develop (PR #4273) Fix comment
+#6683 passed:    develop Merge tag '1.8.5' into develop
+#6682 passed:    1.8.5 Merge branch 'release/1.8.5'
+#6681 passed:    master Merge branch 'release/1.8.5'
+#6680 passed:    master (PR #4272) bumping ueber
+#6679 failed:    release/1.8.5 Merge tag '1.8.5' into develop
+#6678 passed:    release/1.8.5 Set changelog informations for new version
+#6677 passed:    develop bumping ueber
+#6676 passed:    develop (PR #4270) webaccess: Enforce creation of `req.session.user` by authn plugins
+#6675 failed:    develop (PR #4269) webaccess: Pass `settings.users` to the authenticate hook
+#6674 passed:    develop (PR #4260) PadMessageHandler: Rename createSessionInfo to createSessionInfoAuth
+#6673 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6672 passed:    develop (PR #4268) Fixed 3875
+#6671 passed:    develop bumping ueber
+#6670 failed:    develop commenting out responsiveness test in preperation for a release
+#6669 failed:    develop import: Use the correct author ID when using sessions
+#6668 failed:    develop SecurityManager: Use constants for returned rejections
+#6667 failed:    develop editor/performance: Fix performance for large pads (#4267)
+#6666 passed:    develop (PR #4267) Fixes #4228 Performance degradation for long pads
+#6665 failed:    ci-for-line-numbers Fixes #4228 Performance degradation for long pads
+#6664 passed:    develop (PR #4267) Fixes #4228 Performance degradation for long pads
+#6663 passed:    develop (PR #4267) Fixes #4228 Performance degradation for long pads
+#6662 passed:    develop (PR #4260) PadMessageHandler: Rename createSessionInfo to createSessionInfoAuth
+#6661 passed:    develop (PR #4264) import: Use the correct author ID when using sessions
+#6660 passed:    develop (PR #4264) import: Use the correct author ID when using sessions
+#6659 passed:    develop (PR #4260) PadMessageHandler: Rename createSessionInfo to createSessionInfoAuth
+#6658 passed:    develop (PR #4264) import: Use the correct author ID when using sessions
+#6657 failed:    develop (PR #4260) PadMessageHandler: Rename createSessionInfo to createSessionInfoAuth
+#6656 failed:    develop (PR #4260) PadMessageHandler: Simplify handleClientReady a bit
+#6655 failed:    develop (PR #4264) import: Use the correct author ID when using sessions
+#6654 passed:    develop (PR #4265) SecurityManager: Use constants for returned rejections
+#6653 failed:    develop (PR #4260) PadMessageHandler: Simplify handleClientReady a bit
+#6652 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6651 failed:    develop (PR #4264) import: Use the correct author ID when using sessions
+#6650 failed:    develop (PR #4260) Merge branch 'develop' into pmh
+#6649 passed:    develop plugins: Move plugin definitions to avoid monkey patching
+#6648 canceled:  develop hooks: New mechanism to deprecate hooks
+#6647 failed:    develop plugins: Fix type typo
+#6646 failed:    develop Revert "Delete redundant token2author DB save"
+#6645 failed:    develop GroupManager: typo during session deletion
+#6644 failed:    develop Localisation updates from https://translatewiki.net.
+#6643 failed:    develop (PR #4263) Revert "Delete redundant token2author DB save"
+#6642 passed:    develop (PR #4259) plugins: Move plugin definitions to avoid monkey patching
+#6641 passed:    develop (PR #4259) plugins: Move plugin definitions to avoid monkey patching
+#6640 failed:    develop Localisation updates from https://translatewiki.net.
+#6639 failed:    sl-browser-killed ensure other browser pass
+#6638 failed:    sl-browser-killed test with oter browsers
+#6637 failed:    sl-browser-killed timesup after 90 sec, hopefully browser has crashed in the meantime
+#6636 failed:    sl-browser-killed timesup after 30 sec
+#6635 failed:    sl-browser-killed only run responsiveness test on win7 ff52
+#6634 failed:    develop SecurityManager: Simplify checkAccess
+#6633 passed:    develop (PR #4243) Update README.md
+#6632 passed:    develop (PR #4243) Update README.md
+#6631 passed:    develop (PR #4243) Update README.md
+#6630 passed:    develop (PR #4243) Update README.md
+#6629 passed:    develop (PR #4243) Update package.json
+#6628 passed:    develop (PR #4243) Update package.json
+#6627 passed:    develop (PR #4243) Update package.json
+#6626 passed:    develop (PR #4243) Update package.json
+#6625 passed:    develop (PR #4261) SecurityManager: Simplify checkAccess
+#6624 passed:    develop (PR #4260) PadMessageHandler: Simplify handleClientReady a bit
+#6623 passed:    develop (PR #4255) hooks: New mechanism to deprecate hooks
+#6622 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6621 passed:    develop (PR #4243) Update package.json
+#6620 passed:    develop (PR #4243) Update package.json
+#6619 passed:    develop (PR #4243) Update package.json
+#6618 passed:    develop (PR #4259) plugins: Move plugin state to avoid strange monkey patching
+#6617 passed:    develop (PR #4258) plugins: Fix type typo
+#6616 failed:    develop (PR #4258) plugins: Fix type typo
+#6615 passed:    develop (PR #4243) Update package.json
+#6614 passed:    develop (PR #4243) Update .travis.yml
+#6613 passed:    develop (PR #4243) Update .travis.yml
+#6612 passed:    develop (PR #4243) Update .travis.yml
+#6611 passed:    develop (PR #4243) Update .travis.yml
+#6610 passed:    develop (PR #4243) Update .travis.yml
+#6609 passed:    develop (PR #4243) Update .travis.yml
+#6608 passed:    develop (PR #4243) Update .travis.yml
+#6607 passed:    develop (PR #4243) Update .travis.yml
+#6606 passed:    develop (PR #4243) Update .travis.yml
+#6605 passed:    develop (PR #4243) Update .travis.yml
+#6604 passed:    develop (PR #4243) Update package.json
+#6603 errored:   develop (PR #4243) Update .travis.yml
+#6602 errored:   develop (PR #4243) Update .travis.yml
+#6601 errored:   develop (PR #4243) Update .travis.yml
+#6600 errored:   develop (PR #4243) Update .travis.yml
+#6599 errored:   develop (PR #4243) Update .travis.yml
+#6598 errored:   develop (PR #4243) Update package.json
+#6597 passed:    develop (PR #4243) Update .travis.yml
+#6596 failed:    develop (PR #4243) Update .travis.yml
+#6595 passed:    develop (PR #4243) Update .travis.yml
+#6594 passed:    develop (PR #4243) Create coverall.js
+#6593 passed:    develop (PR #4243) Update .travis.yml
+#6592 failed:    develop PadMessageHandler: Delete redundant check
+#6591 passed:    develop (PR #4243) Merge branch 'develop' of https://github.com/WWCheng02/etherpad-lite into develop
+#6590 errored:   develop (PR #4243) Update package.json
+#6589 passed:    develop (PR #4243) Update .travis.yml
+#6588 failed:    develop (PR #4243) Update .travis.yml
+#6587 failed:    develop (PR #4243) Update package.json
+#6586 errored:   develop (PR #4243) Update package.json
+#6585 failed:    develop (PR #4257) tests: fix issue with responsiveness test crashing sauce labs
+#6584 failed:    responsiveness-test-timeout tests: fix issue with responsiveness test crashing sauce labs
+#6583 failed:    develop (PR #4257) tests: fix issue with responsiveness test crashing sauce labs
+#6582 failed:    responsiveness-test-timeout tests: fix issue with responsiveness test crashing sauce labs
+#6581 failed:    develop (PR #4257) tests: fix issue with responsiveness test crashing sauce labs
+#6580 failed:    responsiveness-test-timeout tests: fix issue with responsiveness test crashing sauce labs
+#6579 failed:    develop (PR #4243) Update .travis.yml
+#6578 failed:    develop (PR #4243) Update .travis.yml
+#6577 failed:    develop (PR #4243) Update .travis.yml
+#6576 passed:    develop (PR #4243) Update .travis.yml
+#6575 passed:    develop (PR #4243) Update .travis.yml
+#6574 passed:    develop (PR #4243) Update .travis.yml
+#6573 passed:    develop (PR #4243) Update package.json
+#6572 passed:    develop (PR #4243) Update .travis.yml
+#6571 passed:    develop (PR #4243) Update .travis.yml
+#6570 passed:    develop (PR #4243) Update .travis.yml
+#6569 passed:    develop (PR #4243) Update package.json
+#6568 passed:    develop (PR #4243) Update package.json
+#6567 passed:    develop (PR #4243) Update package.json
+#6566 passed:    develop (PR #4243) Update .travis.yml
+#6565 passed:    develop (PR #4243) Merge branch 'develop' of https://github.com/WWCheng02/etherpad-lite into develop
+#6564 failed:    develop (PR #4243) Update .travis.yml
+#6563 passed:    develop (PR #4243) Update package.json
+#6562 passed:    develop (PR #4243) Rename .coveralls.yml. to .coveralls.yml
+#6561 canceled:  develop (PR #4243) Delete .coveralls.yml
+#6560 passed:    develop (PR #4243) edit yml
+#6559 passed:    develop (PR #4243) edit yml
+#6558 passed:    develop (PR #4243) edit yml
+#6557 passed:    develop (PR #4255) hooks: New mechanism to deprecate hooks
+#6556 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
+#6555 failed:    develop PadMessageHandler: Delete redundant check
+#6554 errored:   develop (PR #4253) PadMessageHandler: Delete redundant check
+#6553 passed:    develop (PR #4253) PadMessageHandler: Delete redundant check
+#6552 failed:    develop webaccess: Always sleep for 1s before returning HTTP 401
+#6551 failed:    develop pluginfw: Always include the function name in `hook_fn_name`
+#6550 passed:    develop (PR #4249) webaccess: Always sleep for 1s before returning HTTP 401
+#6549 passed:    develop (PR #4252) pluginfw: Always include the function name in `hook_fn_name`
+#6548 failed:    develop hooks: Always return a list from `aCallFirst` and `callFirst`
+#6547 failed:    develop docs: Revise hooks overview section
+#6546 passed:    develop (PR #4243) Update package.json
+#6545 failed:    develop (PR #4251) hooks: Always return a list from `aCallFirst` and `callFirst`
+#6544 passed:    develop (PR #4250) docs: Revise hooks overview section
+#6543 passed:    develop (PR #4243) Update .travis.yml
+#6542 passed:    develop (PR #4243) Update .coveralls.yml.
+#6541 passed:    develop (PR #4243) Update .travis.yml
+#6540 failed:    develop (PR #4243) Update README.md
+#6539 failed:    develop (PR #4243) Update .travis.yml
+#6538 passed:    develop (PR #4243) Update package.json
+#6537 passed:    develop (PR #4243) Update .travis.yml
+#6536 failed:    develop (PR #4243) Create .coveralls.yml.
+#6535 failed:    develop (PR #4243) Update .travis.yml
+#6534 failed:    develop (PR #4243) Update .travis.yml
+#6533 passed:    develop (PR #4243) Update package.json
+#6532 passed:    develop (PR #4243) Update .travis.yml
+#6531 failed:    develop tests: npminstall before update
+#6530 failed:    develop (PR #4249) webaccess: Always sleep for 1s before returning HTTP 401
+#6529 passed:    develop (PR #4243) Update .travis.yml
+#6528 passed:    develop (PR #4243) Update .travis.yml
+#6527 passed:    develop (PR #4243) Update .travis.yml
+#6526 passed:    develop (PR #4243) Update .travis.yml
+#6525 passed:    develop (PR #4243) Update package.json
+#6524 passed:    develop (PR #4243) Update .travis.yml
+#6523 passed:    develop (PR #4243) Update .gitignore
+#6522 passed:    develop (PR #4243) Update .travis.yml
+#6521 passed:    develop (PR #4243) Update package.json
+#6520 errored:   develop (PR #4243) Update package.json
+#6519 passed:    develop (PR #4243) Update README.md
+#6518 canceled:  develop (PR #4243) Update .travis.yml
+#6517 canceled:  develop (PR #4243) Update package.json
+#6516 failed:    develop tests: npminstall before update
+#6515 errored:   develop (PR #4226) Delete broken.etherpad
+#6514 canceled:  develop (PR #4226) Delete script2.sh
+#6513 canceled:  develop (PR #4226) Delete script.sh
+#6512 canceled:  develop (PR #4226) Delete package-lock.json
+#6511 failed:    develop Delete redundant token2author DB save
+#6510 failed:    develop User list: Use flexbox for #myuser div
+#6509 failed:    develop docs: Document the authFailure hook
+#6508 failed:    develop webaccess: Restructure for readability and future changes
+#6507 passed:    develop (PR #4243) Update .travis.yml
+#6506 passed:    develop (PR #4243) Update package.json
+#6505 errored:   develop (PR #4243) Update .travis.yml
+#6504 errored:   develop (PR #4243) Update .travis.yml
+#6503 failed:    develop pluginfw: PadMessageHandler: Pass socket.io Socket object to clientVars hook (#4245)
+#6502 errored:   develop (PR #4243) Update .travis.yml
+#6501 errored:   develop (PR #4243) Update .travis.yml
+#6500 failed:    develop (PR #4243) Update .travis.yml
+#6499 failed:    develop (PR #4243) Update .travis.yml
+#6498 errored:   develop (PR #4243) Update package.json
+#6497 failed:    develop (PR #4243) Update .travis.yml
+#6496 failed:    develop (PR #4243) Update .travis.yml
+#6495 failed:    develop (PR #4243) Update package.json
+#6494 passed:    develop (PR #4243) Update .travis.yml
+#6493 passed:    develop (PR #4243) Update .travis.yml
+#6492 passed:    develop (PR #4243) Update .travis.yml
+#6491 passed:    develop (PR #4243) Update .travis.yml
+#6490 passed:    develop (PR #4248) webaccess: Restructure for readability and future changes
+#6489 passed:    develop (PR #4247) docs: Document the authFailure hook
+#6488 failed:    develop (PR #4246) User list: Use flexbox for #myuser div
+#6487 passed:    develop (PR #4241) Delete redundant token2author DB save
+#6486 failed:    develop (PR #4245) PadMessageHandler: Pass socket.io Socket object to clientVars hook
+#6485 passed:    develop (PR #4245) PadMessageHandler: Pass socket.io Socket object to clientVars hook
+#6484 failed:    develop docs: Document the authorize hook (#4233)
+#6483 failed:    develop CSS: User list: Add missing semicolon to CSS property (#4244)
+#6482 failed:    develop Localisation updates from https://translatewiki.net.
+#6481 failed:    develop (PR #4244) User list: Add missing semicolon to CSS property
+#6480 passed:    develop (PR #4243) Update .travis.yml
+#6479 passed:    develop (PR #4243) Delete appveyor.yml
+#6478 passed:    develop (PR #4243) Delete config.yml
+#6477 passed:    develop (PR #4243) Update .travis.yml
+#6476 failed:    develop Localisation updates from https://translatewiki.net.
+#6475 failed:    develop (PR #4240) LibreOffice: use filter XHTML Writer File during import
+#6474 failed:    import-doc-line-breaks LibreOffice: use filter XHTML Writer File during import
+#6473 passed:    develop (PR #4241) Delete redundant token2author DB save
+#6472 passed:    develop (PR #4233) docs: Document the authorize hook
+#6471 passed:    develop (PR #4241) Delete redundant token2author DB save
+#6470 failed:    develop (PR #4240) test file
+#6469 failed:    import-doc-line-breaks test file
+#6468 failed:    develop (PR #4240) bio update
+#6467 failed:    import-doc-line-breaks bio update
+#6466 failed:    develop Localisation updates from https://translatewiki.net.
+#6465 failed:    develop Localisation updates from https://translatewiki.net.
+#6464 failed:    develop Localisation updates from https://translatewiki.net.
+#6463 failed:    develop Localisation updates from https://translatewiki.net.
+#6462 failed:    develop tests: make it more clear that test duration exceeded (#4237)
+#6461 failed:    develop tests: make it more clear that test duration exceeded (#4237)
+#6460 failed:    develop (PR #4237) make it more clear that test duration exceeded
+#6459 failed:    better-error-message make it more clear that test duration exceeded
+#6458 errored:   better-error-message make it more clear that test duration exceeded
+#6457 errored:   develop bugfix/import: doc import bugfix (#4235)
+#6456 failed:    bisect-responsivness disable cache
+#6455 failed:    bisect-responsivness enable sauce_tunnel in .travis.yml
+#6454 failed:    bisect-responsivness add some console.logs
+#6453 failed:    bisect-responsivness hopefully this is enough to make it run under old nodejs
+#6452 failed:    bisect-responsivness use older node version
+#6451 errored:   develop (PR #4235) test fix
+#6450 failed:    bugfix-doc-import test fix
+#6449 errored:   bugfix-doc-import bugfix/import: doc import bugfix
+#6448 failed:    develop tests: uncomment responsiveness tests
+#6447 passed:    develop (PR #4233) docs: Document the authorize hook
+#6446 failed:    develop tests: uncomment responsiveness tests
+#6445 failed:    fix-responsivnesstest tests: responsiveness - 77 chars on 30000 lines
+#6444 failed:    fix-responsivnesstest does this still kill ff52 on win7?
+#6443 failed:    fix-responsivnesstest does this still kill ff52 on win7?
+#6442 failed:    fix-responsivnesstest does this still kill ff52 on win7?
+#6441 failed:    fix-responsivnesstest tests: try sendkeys in responsiveness
+#6440 passed:    develop (PR #4233) docs: Document the authorize hook
+#6439 failed:    develop tests: uncomment responsiveness tests
+#6438 failed:    develop (PR #4233) docs: Document the authorize hook
+#6437 errored:   develop docs: Document the authenticate hook (#4232)
+#6436 failed:    develop docs: Document the authenticate hook (#4232)
+#6435 failed:    develop (PR #4232) Document the authenticate hook
+#6434 passed:    develop (PR #4232) Document the authenticate hook
+#6433 failed:    develop (PR #4232) Document the authenticate hook
+#6432 passed:    develop (PR #4231) GroupManager: typo during session deletion
+#6431 passed:    fix-sessiondeletion-during-deletegroup GroupManager: typo during session deletion
+#6430 failed:    develop Create codeql-analysis.yml
+#6429 passed:    develop Create codeql-analysis.yml
+#6428 passed:    develop Create codeql-analysis.yml
+#6427 passed:    develop Create codeql-analysis.yml
+#6426 failed:    develop Localisation updates from https://translatewiki.net.
+#6425 passed:    develop housekeeping: v3 of automatic plugin fixing tool.
+#6424 passed:    develop housekeeping: v3 of automatic plugin fixing tool.
+#6423 passed:    develop housekeeping: v3 of automatic plugin fixing tool.
+#6422 passed:    develop (PR #4226) autofixes from Etherpad checkPlugins.js
+#6421 failed:    develop Localisation updates from https://translatewiki.net.
+#6420 failed:    develop Localisation updates from https://translatewiki.net.
+#6419 passed:    develop (PR #4222) Merge pull request #1 from tinhuisim/hs-patch-1
+#6418 passed:    develop Localisation updates from https://translatewiki.net.
+#6417 failed:    develop Localisation updates from https://translatewiki.net.
+#6416 passed:    develop Localisation updates from https://translatewiki.net.
+#6415 failed:    develop Localisation updates from https://translatewiki.net.
+#6414 failed:    develop Localisation updates from https://translatewiki.net.
+#6413 failed:    develop Localisation updates from https://translatewiki.net.
+#6412 failed:    develop Localisation updates from https://translatewiki.net.
+#6411 failed:    workaround-dom-latency-in-tests test if this helps edge
+#6410 passed:    develop Localisation updates from https://translatewiki.net.
+#6409 passed:    develop Localisation updates from https://translatewiki.net.
+#6408 failed:    workaround-dom-latency-in-tests refactor alphabet test
+#6407 passed:    workaround-dom-latency-in-tests sendkeys is loaded in iframe
+#6406 failed:    workaround-dom-latency-in-tests firefox does not like bad dates, all other browser parse it correctly
+#6405 failed:    workaround-dom-latency-in-tests increase timeout
+#6404 failed:    workaround-dom-latency-in-tests refactor helper.edit to wait for ACCEPT_COMMIT instead of looking at the editor to get new ace-lines
+#6403 failed:    workaround-dom-latency-in-tests 0 is undefined...
+#6402 failed:    workaround-dom-latency-in-tests does the same suite apply to all of those?
+#6401 failed:    workaround-dom-latency-in-tests wait for timeslider load
+#6400 failed:    workaround-dom-latency-in-tests fix regex
+#6399 failed:    workaround-dom-latency-in-tests fixfix
+#6398 failed:    workaround-dom-latency-in-tests fix timesliderTimerTime
+#6397 failed:    workaround-dom-latency-in-tests fix another syntax error
+#6396 failed:    workaround-dom-latency-in-tests refactor timeslider_revisions
+#6395 failed:    workaround-dom-latency-in-tests repair timeslider click functionality
+#6394 failed:    workaround-dom-latency-in-tests refactor timeslider_labels, increase randomness of padid and check check if the export link changes when the revision changes
+#6393 passed:    develop Localisation updates from https://translatewiki.net.
+#6392 failed:    develop Localisation updates from https://translatewiki.net.
+#6391 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6390 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6389 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6388 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6387 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6386 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6385 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6384 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
+#6383 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
 #6382 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
 #6381 passed:    workaround-dom-latency-in-tests trigger new build with a new build id
 #6380 passed:    workaround-dom-latency-in-tests trigger new build with a new build id

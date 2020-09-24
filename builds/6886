@@ -1,0 +1,13 @@
+Build #6886:  no need to ask for translations if no template files are included
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4338)
+Commit:        076198a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4338
+Duration:      12 min 8 sec
+Started:       2020-09-23 10:24:44
+Finished:      2020-09-23 10:35:40
+
+#6886.1 passed:  10 min 56 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6886.2 errored: 34 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6886.3 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

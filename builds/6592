@@ -1,0 +1,13 @@
+Build #6592:  PadMessageHandler: Delete redundant check
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1709691
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d4162341e77438f7b4b94e46f3a7ea66b416c684...17096919e0a60f82034e639f45206f057d7065ef
+Duration:      15 min 59 sec
+Started:       2020-09-06 20:35:24
+Finished:      2020-09-06 20:46:59
+
+#6592.1 failed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6592.2 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6592.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

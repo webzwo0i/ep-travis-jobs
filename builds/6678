@@ -1,0 +1,13 @@
+Build #6678:  Set changelog informations for new version
+State:         passed
+Type:          push
+Branch:        release/1.8.5
+Commit:        5e03a3b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e64a269a654a^...5e03a3b0fefd
+Duration:      14 min 10 sec
+Started:       2020-09-08 22:24:19
+Finished:      2020-09-08 22:33:44
+
+#6678.1 passed:  9 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6678.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6678.3 passed:  2 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

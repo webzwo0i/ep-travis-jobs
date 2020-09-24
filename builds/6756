@@ -1,0 +1,12 @@
+Build #6756:  doc: Improve clarity of the documentation
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4295)
+Commit:        cf91865
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4295
+Duration:      4 min 30 sec
+Started:       2020-09-14 23:26:54
+Finished:      2020-09-14 23:29:22
+
+#6756.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#6756.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:

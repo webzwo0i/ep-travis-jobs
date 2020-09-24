@@ -1,0 +1,12 @@
+Build #6763:  i18n: Improve error logging when language JSON read fails
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4299)
+Commit:        7501b65
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4299
+Duration:      4 min 27 sec
+Started:       2020-09-15 06:49:13
+Finished:      2020-09-15 06:51:43
+
+#6763.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#6763.2 failed:  2 min 28 sec   os: linux, node_js: lts/*, env:

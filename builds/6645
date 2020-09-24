@@ -1,0 +1,13 @@
+Build #6645:  GroupManager: typo during session deletion
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        49a6b1d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/efa4ba3cf157...49a6b1dac20c
+Duration:      16 min 9 sec
+Started:       2020-09-08 01:46:03
+Finished:      2020-09-08 01:57:44
+
+#6645.1 failed:  11 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6645.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6645.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

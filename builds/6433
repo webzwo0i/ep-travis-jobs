@@ -1,0 +1,12 @@
+Build #6433:  Document the authenticate hook
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4232)
+Commit:        8391b3e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4232
+Duration:      4 min 20 sec
+Started:       2020-08-27 06:49:42
+Finished:      2020-08-27 06:52:06
+
+#6433.1 passed:  1 min 56 sec   os: linux, node_js: lts/*, env:
+#6433.2 failed:  2 min 24 sec   os: linux, node_js: lts/*, env:

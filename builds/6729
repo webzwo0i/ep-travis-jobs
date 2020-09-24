@@ -1,0 +1,13 @@
+Build #6729:  package: remove pad_docbar.js
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4286)
+Commit:        7356989
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4286
+Duration:      20 min 5 sec
+Started:       2020-09-13 18:50:56
+Finished:      2020-09-13 18:53:32
+
+#6729.1 passed:  15 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6729.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6729.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6488:  User list: Use flexbox for #myuser div
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4246)
+Commit:        ce3d554
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4246
+Duration:      4 min 36 sec
+Started:       2020-09-04 21:31:08
+Finished:      2020-09-04 21:33:44
+
+#6488.1 failed:  2 min 1 sec    os: linux, node_js: lts/*, env:
+#6488.2 passed:  2 min 35 sec   os: linux, node_js: lts/*, env:

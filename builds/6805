@@ -1,0 +1,13 @@
+Build #6805:  Feature: Copy Pad without history (#4295)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        8c04fe8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b80a37173efe...8c04fe877533
+Duration:      1 hrs 22 min 37 sec
+Started:       2020-09-16 20:24:32
+Finished:      2020-09-16 21:14:34
+
+#6805.1 errored: 50 min         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6805.2 errored: 11 min 24 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6805.3 errored: 21 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

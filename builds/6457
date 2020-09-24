@@ -1,0 +1,13 @@
+Build #6457:  bugfix/import: doc import bugfix (#4235)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        12c05c2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4db484e34ee1...12c05c20b284
+Duration:      8 min 56 sec
+Started:       2020-08-30 15:20:55
+Finished:      2020-08-30 15:24:29
+
+#6457.1 errored: 2 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6457.2 errored: 2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6457.3 errored: 3 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

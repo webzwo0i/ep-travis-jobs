@@ -1,0 +1,13 @@
+Build #6751:  no title replacement
+State:         failed
+Type:          push
+Branch:        import-doc-line-breaks
+Commit:        eee8d56
+Compare URL:   https://github.com/ether/etherpad-lite/compare/17fac52abaf3...eee8d5647731
+Duration:      21 min 17 sec
+Started:       2020-09-14 13:56:48
+Finished:      2020-09-14 14:13:33
+
+#6751.1 failed:  16 min 45 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6751.2 failed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6751.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

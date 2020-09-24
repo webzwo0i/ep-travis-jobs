@@ -1,0 +1,13 @@
+Build #6667:  editor/performance: Fix performance for large pads (#4267)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        818194d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/da459888dc2a...818194da9010
+Duration:      16 min 35 sec
+Started:       2020-09-08 16:08:48
+Finished:      2020-09-08 16:20:42
+
+#6667.1 failed:  11 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6667.2 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6667.3 failed:  2 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

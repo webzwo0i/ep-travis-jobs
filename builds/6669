@@ -1,0 +1,13 @@
+Build #6669:  import: Use the correct author ID when using sessions
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6c2a361
+Compare URL:   https://github.com/ether/etherpad-lite/compare/db0bcb524eac...6c2a361935fd
+Duration:      19 min 29 sec
+Started:       2020-09-08 16:16:01
+Finished:      2020-09-08 16:31:00
+
+#6669.1 failed:  14 min 59 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6669.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6669.3 failed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

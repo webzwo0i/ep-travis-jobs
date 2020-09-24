@@ -1,0 +1,12 @@
+Build #6762:  css: Line up line numbers with their rows
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4298)
+Commit:        38e7f62
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4298
+Duration:      4 min 30 sec
+Started:       2020-09-15 06:38:24
+Finished:      2020-09-15 06:40:59
+
+#6762.1 passed:  1 min 55 sec   os: linux, node_js: lts/*, env:
+#6762.2 passed:  2 min 35 sec   os: linux, node_js: lts/*, env:

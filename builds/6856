@@ -1,0 +1,13 @@
+Build #6856:  SessionStore: Don't call callback until cached in DB layer
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a4be577
+Compare URL:   https://github.com/ether/etherpad-lite/compare/346111250e87...a4be577ed1be
+Duration:      13 min 16 sec
+Started:       2020-09-22 00:33:35
+Finished:      2020-09-22 00:42:16
+
+#6856.1 passed:  8 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6856.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6856.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

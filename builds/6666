@@ -1,0 +1,12 @@
+Build #6666:  Fixes #4228 Performance degradation for long pads
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4267)
+Commit:        27f7da7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4267
+Duration:      4 min 42 sec
+Started:       2020-09-08 14:34:41
+Finished:      2020-09-08 14:37:19
+
+#6666.1 passed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#6666.2 passed:  2 min 38 sec   os: linux, node_js: lts/*, env:

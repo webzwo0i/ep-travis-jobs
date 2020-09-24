@@ -1,0 +1,13 @@
+Build #6639:  ensure other browser pass
+State:         failed
+Type:          push
+Branch:        sl-browser-killed
+Commit:        b22dd93
+Compare URL:   https://github.com/ether/etherpad-lite/compare/876ecbef987f...b22dd93b88c0
+Duration:      8 min 11 sec
+Started:       2020-09-07 15:16:39
+Finished:      2020-09-07 15:20:23
+
+#6639.1 failed:  3 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6639.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6639.3 failed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

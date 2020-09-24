@@ -1,0 +1,12 @@
+Build #6684:  Fix comment
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4273)
+Commit:        14fa52d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4273
+Duration:      4 min 41 sec
+Started:       2020-09-09 01:49:38
+Finished:      2020-09-09 01:52:15
+
+#6684.1 failed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#6684.2 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:

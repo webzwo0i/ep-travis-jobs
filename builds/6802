@@ -1,0 +1,12 @@
+Build #6802:  fix: Rethrow errors and add more tests
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4295)
+Commit:        98258d8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4295
+Duration:      4 min 43 sec
+Started:       2020-09-16 00:07:58
+Finished:      2020-09-16 00:10:35
+
+#6802.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6802.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:

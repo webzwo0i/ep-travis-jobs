@@ -1,0 +1,13 @@
+Build #6474:  LibreOffice: use filter XHTML Writer File during import
+State:         failed
+Type:          push
+Branch:        import-doc-line-breaks
+Commit:        2d01f4c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d075daf1665c...2d01f4cd8ba8
+Duration:      16 min 14 sec
+Started:       2020-09-03 08:32:24
+Finished:      2020-09-03 08:44:04
+
+#6474.1 failed:  11 min 39 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6474.2 failed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6474.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

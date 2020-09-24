@@ -1,0 +1,31 @@
+Build #6880:  no saucelabs
+State:         canceled
+Type:          push
+Branch:        test-node-version
+Commit:        7e8f87b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/66171d14db51...7e8f87b70941
+Duration:      16 min 14 sec
+Started:       2020-09-22 23:05:50
+Finished:      2020-09-22 23:09:30
+
+#6880.1 failed:  2 min 11 sec   os: linux, node_js: 10.13.0
+#6880.2 failed:  2 min 9 sec    os: linux, node_js: 10.14.0
+#6880.3 failed:  2 min 12 sec   os: linux, node_js: 10.14.1
+#6880.4 failed:  2 min 13 sec   os: linux, node_js: 10.14.2
+#6880.5 failed:  2 min 8 sec    os: linux, node_js: 10.15.0
+#6880.6 canceled: 57 sec         os: linux, node_js: 10.15.1
+#6880.7 canceled: 1 min 6 sec    os: linux, node_js: 10.15.2
+#6880.8 canceled: 1 min 6 sec    os: linux, node_js: 10.15.3
+#6880.9 canceled: 1 min 6 sec    os: linux, node_js: 10.16.0
+#6880.10 canceled: 1 min 6 sec    os: linux, node_js: 10.16.1
+#6880.11 canceled: 16 min 20 sec  os: linux, node_js: 10.16.2
+#6880.12 canceled: 16 min 20 sec  os: linux, node_js: 10.16.3
+#6880.13 canceled: 16 min 20 sec  os: linux, node_js: 10.17.0
+#6880.14 canceled: 16 min 20 sec  os: linux, node_js: 10.18.0
+#6880.15 canceled: 16 min 20 sec  os: linux, node_js: 10.18.1
+#6880.16 canceled: 16 min 21 sec  os: linux, node_js: 10.19.0
+#6880.17 canceled: 16 min 20 sec  os: linux, node_js: 10.20.0
+#6880.18 canceled: 16 min 20 sec  os: linux, node_js: 10.20.1
+#6880.19 canceled: 16 min 20 sec  os: linux, node_js: 10.21.0
+#6880.20 canceled: 16 min 20 sec  os: linux, node_js: 10.22.0
+#6880.21 canceled: 16 min 20 sec  os: linux, node_js: 10.22.1

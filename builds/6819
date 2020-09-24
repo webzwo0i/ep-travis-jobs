@@ -1,0 +1,13 @@
+Build #6819:  test if ci runs frontend and backend tests of plugins
+State:         failed
+Type:          push
+Branch:        plugin-backendtests-in-ci
+Commit:        0fd56d4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f4fc403f3790...0fd56d4eaaea
+Duration:      18 min 13 sec
+Started:       2020-09-18 13:54:53
+Finished:      2020-09-18 14:07:51
+
+#6819.1 failed:  12 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6819.2 passed:  2 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6819.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

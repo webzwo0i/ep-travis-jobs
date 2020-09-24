@@ -1,0 +1,13 @@
+Build #6764:  css: Line up line numbers with their rows
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0a836ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ec6b983917a2...0a836ced2911
+Duration:      21 min 39 sec
+Started:       2020-09-15 19:11:04
+Finished:      2020-09-15 19:28:05
+
+#6764.1 failed:  17 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6764.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6764.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #6712:  Use `null`, not `"null"`, if `sessionID` cookie doesn't exist
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ed3c82e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/24978daeb021...ed3c82e8c3c4
+Duration:      19 min 33 sec
+Started:       2020-09-12 11:35:09
+Finished:      2020-09-12 11:50:19
+
+#6712.1 passed:  15 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6712.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6712.3 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #6891:  maybe working?
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4339)
+Commit:        71e8580
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4339
+Duration:      6 min 53 sec
+Started:       2020-09-23 16:39:30
+Finished:      2020-09-23 16:45:43
+
+#6891.1 errored: 2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6891.2 errored: 2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6891.3 errored: 2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

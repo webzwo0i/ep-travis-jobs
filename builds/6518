@@ -1,0 +1,12 @@
+Build #6518:  Update .travis.yml
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        c5f20f9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-05 13:51:52
+
+#6518.1 canceled: 10 min 34 sec  os: linux, node_js: lts/*
+#6518.2 canceled: 10 min 34 sec  os: linux, node_js: lts/*

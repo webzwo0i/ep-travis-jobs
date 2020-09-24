@@ -1,0 +1,31 @@
+Build #6882:  not sure if this works
+State:         passed
+Type:          push
+Branch:        test-node-version
+Commit:        94c2254
+Compare URL:   https://github.com/ether/etherpad-lite/compare/743d23e2e0ac...94c2254651a3
+Duration:      1 hrs 49 min 29 sec
+Started:       2020-09-22 23:33:01
+Finished:      2020-09-22 23:59:12
+
+#6882.1 passed:  5 min 7 sec    os: linux, node_js: 10.13.0
+#6882.2 passed:  5 min 8 sec    os: linux, node_js: 10.14.0
+#6882.3 passed:  5 min 7 sec    os: linux, node_js: 10.14.1
+#6882.4 passed:  4 min 49 sec   os: linux, node_js: 10.14.2
+#6882.5 passed:  4 min 36 sec   os: linux, node_js: 10.15.0
+#6882.6 passed:  4 min 52 sec   os: linux, node_js: 10.15.1
+#6882.7 passed:  5 min 14 sec   os: linux, node_js: 10.15.2
+#6882.8 passed:  4 min 46 sec   os: linux, node_js: 10.15.3
+#6882.9 passed:  4 min 57 sec   os: linux, node_js: 10.16.0
+#6882.10 passed: 4 min 58 sec   os: linux, node_js: 10.16.1
+#6882.11 passed: 5 min 11 sec   os: linux, node_js: 10.16.2
+#6882.12 passed: 5 min 13 sec   os: linux, node_js: 10.16.3
+#6882.13 passed: 5 min 50 sec   os: linux, node_js: 10.17.0
+#6882.14 passed: 5 min 10 sec   os: linux, node_js: 10.18.0
+#6882.15 passed: 5 min 25 sec   os: linux, node_js: 10.18.1
+#6882.16 passed: 5 min 41 sec   os: linux, node_js: 10.19.0
+#6882.17 passed: 5 min 40 sec   os: linux, node_js: 10.20.0
+#6882.18 passed: 5 min 44 sec   os: linux, node_js: 10.20.1
+#6882.19 passed: 5 min 3 sec    os: linux, node_js: 10.21.0
+#6882.20 passed: 5 min 43 sec   os: linux, node_js: 10.22.0
+#6882.21 passed: 5 min 15 sec   os: linux, node_js: 10.22.1

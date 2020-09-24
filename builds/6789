@@ -1,0 +1,13 @@
+Build #6789:  PadMessageHandler: Fix assignment to const variable
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        d277360
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5ac5b65affc5...d2773609d149
+Duration:      17 min 35 sec
+Started:       2020-09-15 21:40:04
+Finished:      2020-09-15 21:42:02
+
+#6789.1 failed:  13 min 6 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6789.2 failed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6789.3 failed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6559:  edit yml
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        2685768
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      4 min 39 sec
+Started:       2020-09-06 12:22:14
+Finished:      2020-09-06 12:24:50
+
+#6559.1 passed:  2 min 3 sec    os: linux, node_js: lts/*
+#6559.2 passed:  2 min 36 sec   os: linux, node_js: lts/*

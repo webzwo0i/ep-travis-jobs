@@ -1,0 +1,12 @@
+Build #6864:  Add a new 'rejected' disconnect reason
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4330)
+Commit:        be262e5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4330
+Duration:      4 min 16 sec
+Started:       2020-09-22 07:30:20
+Finished:      2020-09-22 07:32:40
+
+#6864.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#6864.2 failed:  2 min 19 sec   os: linux, node_js: lts/*, env:

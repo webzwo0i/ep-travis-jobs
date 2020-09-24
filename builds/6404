@@ -1,0 +1,11 @@
+Job #6404.1:  refactor helper.edit to wait for ACCEPT_COMMIT instead of looking at the editor to get new ace-lines
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        6c5a453
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f28554e3b954...6c5a45388ad1
+Duration:      6 min 51 sec
+Started:       2020-08-13 13:00:32
+Finished:      2020-08-13 13:07:23
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

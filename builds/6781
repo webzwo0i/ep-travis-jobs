@@ -1,0 +1,12 @@
+Build #6781:  tests: Add authentication, authorization bypass tests
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4289)
+Commit:        346ff7c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4289
+Duration:      4 min 25 sec
+Started:       2020-09-15 20:37:29
+Finished:      2020-09-15 20:40:05
+
+#6781.1 failed:  1 min 51 sec   os: linux, node_js: lts/*, env:
+#6781.2 failed:  2 min 34 sec   os: linux, node_js: lts/*, env:

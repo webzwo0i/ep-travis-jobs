@@ -1,0 +1,13 @@
+Build #6536:  Create .coveralls.yml.
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        05fba9a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      6 min 40 sec
+Started:       2020-09-05 19:57:35
+Finished:      2020-09-05 20:00:41
+
+#6536.1 passed:  2 min 7 sec    os: linux, node_js: lts/*
+#6536.2 passed:  2 min 43 sec   os: linux, node_js: lts/*
+#6536.3 failed:  1 min 50 sec   os: linux, node_js: lts/*

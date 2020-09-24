@@ -1,0 +1,13 @@
+Build #6890:  maybe working?
+State:         errored
+Type:          push
+Branch:        test-plugins
+Commit:        6e84930
+Compare URL:   https://github.com/ether/etherpad-lite/compare/659d372ae45d...6e84930e1bb3
+Duration:      5 min 42 sec
+Started:       2020-09-23 16:39:27
+Finished:      2020-09-23 16:41:37
+
+#6890.1 errored: 2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6890.2 errored: 1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6890.3 errored: 1 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

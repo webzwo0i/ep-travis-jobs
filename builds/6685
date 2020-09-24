@@ -1,0 +1,13 @@
+Build #6685:  bump ueber
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        c8361a2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/477f637488fa...c8361a211a1e
+Duration:      4 min 21 sec
+Started:       2020-09-09 19:14:48
+Finished:      2020-09-09 19:15:54
+
+#6685.1 errored: 1 min 49 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6685.2 canceled: 1 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6685.3 errored: 1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6722:  webaccess: Pass `settings.users` to the authenticate hook
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4269)
+Commit:        e924cfe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4269
+Duration:      4 min 21 sec
+Started:       2020-09-12 20:53:27
+Finished:      2020-09-12 20:56:16
+
+#6722.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#6722.2 failed:  2 min 24 sec   os: linux, node_js: lts/*, env:

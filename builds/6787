@@ -1,0 +1,13 @@
+Build #6787:  PadMessageHandler: Move code out of unnecessary closure (again)
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        6f28e41
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9e6d3f3f636e...6f28e415ecc7
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-15 21:04:22
+
+#6787.1 canceled: 14 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6787.2 canceled: 14 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6787.3 canceled: 14 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

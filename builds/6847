@@ -1,0 +1,13 @@
+Build #6847:  changelog: Mention fix for authz bypass vulnerability in 1.8.6 (#4318)
+State:         failed
+Type:          push
+Branch:        release/1.8.6
+Commit:        df7fa1f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/299bd962b615...df7fa1fd41bf
+Duration:      16 min 20 sec
+Started:       2020-09-20 21:22:10
+Finished:      2020-09-20 21:33:56
+
+#6847.1 failed:  11 min 46 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6847.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6847.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

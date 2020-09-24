@@ -1,0 +1,12 @@
+Build #6708:  PadMessageHandler: Use `await` instead of `p.then()`
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4260)
+Commit:        1fc40c5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4260
+Duration:      4 min 32 sec
+Started:       2020-09-11 22:32:56
+Finished:      2020-09-11 22:35:31
+
+#6708.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#6708.2 passed:  2 min 35 sec   os: linux, node_js: lts/*, env:

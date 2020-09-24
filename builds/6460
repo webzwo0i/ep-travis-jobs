@@ -1,0 +1,13 @@
+Build #6460:  make it more clear that test duration exceeded
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4237)
+Commit:        5024749
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4237
+Duration:      16 min 11 sec
+Started:       2020-08-30 17:29:03
+Finished:      2020-08-30 17:40:41
+
+#6460.1 failed:  11 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6460.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6460.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

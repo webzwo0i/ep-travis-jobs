@@ -1,0 +1,13 @@
+Build #6634:  SecurityManager: Simplify checkAccess
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        68be78a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/17096919e0a6...68be78ace0b4
+Duration:      16 min 34 sec
+Started:       2020-09-07 09:34:40
+Finished:      2020-09-07 09:46:24
+
+#6634.1 failed:  11 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6634.2 passed:  2 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6634.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

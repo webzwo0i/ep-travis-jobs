@@ -1,0 +1,12 @@
+Build #6530:  webaccess: Always sleep for 1s before returning HTTP 401
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4249)
+Commit:        9e2cae7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4249
+Duration:      4 min 22 sec
+Started:       2020-09-05 19:17:48
+Finished:      2020-09-05 19:20:16
+
+#6530.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#6530.2 failed:  2 min 22 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,13 @@
+Build #6777:  webaccess: Enforce creation of `req.session.user` by authn plugins
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        250e932
+Compare URL:   https://github.com/ether/etherpad-lite/compare/362b56727693...250e932f5993
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-15 20:26:30
+
+#6777.1 canceled: 36 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6777.2 canceled: 36 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6777.3 canceled: 36 min 54 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

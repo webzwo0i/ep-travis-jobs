@@ -1,0 +1,12 @@
+Build #6544:  docs: Revise hooks overview section
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4250)
+Commit:        f062345
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4250
+Duration:      4 min 38 sec
+Started:       2020-09-05 21:25:09
+Finished:      2020-09-05 21:27:40
+
+#6544.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6544.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

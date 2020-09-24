@@ -1,0 +1,12 @@
+Build #6624:  PadMessageHandler: Simplify handleClientReady a bit
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4260)
+Commit:        40ca370
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4260
+Duration:      4 min 45 sec
+Started:       2020-09-07 09:35:16
+Finished:      2020-09-07 09:37:48
+
+#6624.1 passed:  2 min 13 sec   os: linux, node_js: lts/*, env:
+#6624.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

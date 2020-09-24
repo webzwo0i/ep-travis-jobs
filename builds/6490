@@ -1,0 +1,12 @@
+Build #6490:  webaccess: Restructure for readability and future changes
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4248)
+Commit:        de95a6e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4248
+Duration:      4 min 28 sec
+Started:       2020-09-04 21:48:13
+Finished:      2020-09-04 21:50:41
+
+#6490.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#6490.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:

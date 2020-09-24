@@ -1,0 +1,12 @@
+Build #6515:  Delete broken.etherpad
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4226)
+Commit:        7fa2081
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4226
+Duration:      1 min 10 sec
+Started:       2020-09-05 13:50:05
+Finished:      2020-09-05 13:51:06
+
+#6515.1 errored: 34 sec         os: linux, node_js: lts/*, env:
+#6515.2 errored: 36 sec         os: linux, node_js: lts/*, env:

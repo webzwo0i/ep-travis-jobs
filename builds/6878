@@ -1,0 +1,48 @@
+Build #6878:  test node v10 releases
+State:         canceled
+Type:          push
+Branch:        test-node-version
+Commit:        b405282
+Compare URL:   https://github.com/ether/etherpad-lite/commit/b4052824db71
+Duration:      10 min 18 sec
+Started:       2020-09-22 22:52:28
+Finished:      2020-09-22 22:55:06
+
+#6878.1 errored: 1 min 27 sec   os: linux, node_js: 10.0.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.2 errored: 1 min 26 sec   os: linux, node_js: 10.1.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.3 errored: 1 min 23 sec   os: linux, node_js: 10.10.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.4 errored: 1 min 26 sec   os: linux, node_js: 10.11.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.5 errored: 1 min 30 sec   os: linux, node_js: 10.12.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.6 canceled: 46 sec         os: linux, node_js: 10.13.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.7 canceled: 45 sec         os: linux, node_js: 10.14.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.8 canceled: 45 sec         os: linux, node_js: 10.14.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.9 canceled: 35 sec         os: linux, node_js: 10.14.2, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.10 canceled: 21 sec         os: linux, node_js: 10.15.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.11 canceled: 2 min 2 sec    os: linux, node_js: 10.15.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.12 canceled: 2 min 2 sec    os: linux, node_js: 10.15.2, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.13 canceled: 2 min 2 sec    os: linux, node_js: 10.15.3, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.14 canceled: 2 min 2 sec    os: linux, node_js: 10.16.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.15 canceled: 2 min 2 sec    os: linux, node_js: 10.16.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.16 canceled: 2 min 2 sec    os: linux, node_js: 10.16.2, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.17 canceled: 2 min 2 sec    os: linux, node_js: 10.16.3, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.18 canceled: 59 min 53 sec  os: linux, node_js: 10.17.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.19 canceled: 2 min 1 sec    os: linux, node_js: 10.18.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.20 canceled: 2 min 1 sec    os: linux, node_js: 10.18.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.21 canceled: 2 min 1 sec    os: linux, node_js: 10.19.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.22 canceled: 2 min 1 sec    os: linux, node_js: 10.2.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.23 canceled: 2 min 1 sec    os: linux, node_js: 10.2.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.24 canceled: 2 min          os: linux, node_js: 10.20.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.25 canceled: 2 min          os: linux, node_js: 10.20.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.26 canceled: 2 min          os: linux, node_js: 10.21.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.27 canceled: 2 min          os: linux, node_js: 10.22.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.28 canceled: 2 min          os: linux, node_js: 10.22.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.29 canceled: 2 min          os: linux, node_js: 10.3.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.30 canceled: 2 min 1 sec    os: linux, node_js: 10.4.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.31 canceled: 2 min          os: linux, node_js: 10.4.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.32 canceled: 2 min          os: linux, node_js: 10.5.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.33 canceled: 2 min          os: linux, node_js: 10.6.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.34 canceled: 2 min          os: linux, node_js: 10.7.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.35 canceled: 2 min          os: linux, node_js: 10.8.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.36 canceled: 2 min          os: linux, node_js: 10.9.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.37 canceled: 2 min          os: linux, node_js: 10.0.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6878.38 canceled: 1 min 59 sec   os: linux, node_js: 10.0.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6485:  PadMessageHandler: Pass socket.io Socket object to clientVars hook
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4245)
+Commit:        92e3e8d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4245
+Duration:      5 min 40 sec
+Started:       2020-09-04 21:20:51
+Finished:      2020-09-04 21:23:58
+
+#6485.1 passed:  3 min 7 sec    os: linux, node_js: lts/*, env:
+#6485.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

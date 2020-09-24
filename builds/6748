@@ -1,0 +1,13 @@
+Build #6748:  switch back to soffice standard converter; dont swallow newlines
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4240)
+Commit:        86d2473
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4240
+Duration:      16 min 16 sec
+Started:       2020-09-14 12:30:40
+Finished:      2020-09-14 12:42:31
+
+#6748.1 failed:  11 min 51 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6748.2 failed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6748.3 failed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #6797:  tests: Use wtfnode to determine why mocha isn't exiting
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ae1142a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e20731cb12a0...ae1142a799b9
+Duration:      16 min 39 sec
+Started:       2020-09-15 22:30:52
+Finished:      2020-09-15 22:35:06
+
+#6797.1 passed:  11 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6797.2 passed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6797.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

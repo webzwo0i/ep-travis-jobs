@@ -1,0 +1,12 @@
+Build #6473:  Delete redundant token2author DB save
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4241)
+Commit:        a105fbc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4241
+Duration:      4 min 34 sec
+Started:       2020-09-03 02:37:11
+Finished:      2020-09-03 02:39:44
+
+#6473.1 passed:  2 min 1 sec    os: linux, node_js: lts/*, env:
+#6473.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

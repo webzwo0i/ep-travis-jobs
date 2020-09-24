@@ -1,0 +1,12 @@
+Build #6553:  PadMessageHandler: Delete redundant check
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4253)
+Commit:        4fb5ecd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4253
+Duration:      4 min 33 sec
+Started:       2020-09-05 23:47:57
+Finished:      2020-09-05 23:51:05
+
+#6553.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#6553.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,13 @@
+Build #6439:  tests: uncomment responsiveness tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4db484e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aee1c3e7c5d4...4db484e34ee1
+Duration:      16 min 9 sec
+Started:       2020-08-28 01:21:29
+Finished:      2020-08-28 01:33:04
+
+#6439.1 failed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6439.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6439.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

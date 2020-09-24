@@ -1,0 +1,13 @@
+Build #6508:  webaccess: Restructure for readability and future changes
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e0d6d17
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f0b7dc7c5388...e0d6d17bf032
+Duration:      16 min 31 sec
+Started:       2020-09-05 13:37:45
+Finished:      2020-09-05 13:49:48
+
+#6508.1 failed:  12 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6508.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6508.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

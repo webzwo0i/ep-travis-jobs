@@ -1,0 +1,12 @@
+Build #6760:  webaccess: Factor out common code
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4296)
+Commit:        b5c18b7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4296
+Duration:      6 min 10 sec
+Started:       2020-09-15 02:44:11
+Finished:      2020-09-15 02:47:58
+
+#6760.1 failed:  3 min 47 sec   os: linux, node_js: lts/*, env:
+#6760.2 failed:  2 min 23 sec   os: linux, node_js: lts/*, env:

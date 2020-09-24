@@ -1,0 +1,12 @@
+Build #6869:  Merge branch 'develop' into wtfnode
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4315)
+Commit:        c5fba41
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4315
+Duration:      4 min 51 sec
+Started:       2020-09-22 15:10:25
+Finished:      2020-09-22 15:15:01
+
+#6869.1 failed:  2 min 11 sec   os: linux, node_js: lts/*, env:
+#6869.2 passed:  2 min 40 sec   os: linux, node_js: lts/*, env:

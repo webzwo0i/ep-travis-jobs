@@ -1,0 +1,13 @@
+Build #6694:  skip responsivness test on firefox 52.0/windows
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4275)
+Commit:        8370abe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4275
+Duration:      13 min 4 sec
+Started:       2020-09-09 20:11:04
+Finished:      2020-09-09 20:19:28
+
+#6694.1 failed:  8 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6694.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6694.3 passed:  2 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

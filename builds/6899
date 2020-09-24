@@ -1,0 +1,13 @@
+Build #6899:  does commenting out responsiveness mean that other tests dont break?
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4339)
+Commit:        f8df17b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4339
+Duration:      16 min 50 sec
+Started:       2020-09-23 18:05:49
+Finished:      2020-09-23 18:17:37
+
+#6899.1 failed:  11 min 48 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6899.2 passed:  2 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6899.3 failed:  2 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

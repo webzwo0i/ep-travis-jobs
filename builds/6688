@@ -1,0 +1,11 @@
+Job #6688.1:  skip responsivness test on firefox 52.0/windows
+State:         canceled
+Type:          push
+Branch:        skip-test-for-ff52
+Commit:        6e585f3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/93a1aec80fc6^...6e585f3f99a9
+Duration:      8 min 22 sec
+Started:       2020-09-09 19:41:29
+Finished:      2020-09-09 19:49:51
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

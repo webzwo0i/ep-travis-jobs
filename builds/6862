@@ -1,0 +1,12 @@
+Build #6862:  Revert "tests: Use wtfnode to determine why mocha isn't exiting"
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4315)
+Commit:        96f1b73
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4315
+Duration:      4 min 33 sec
+Started:       2020-09-22 01:07:58
+Finished:      2020-09-22 01:10:48
+
+#6862.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#6862.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

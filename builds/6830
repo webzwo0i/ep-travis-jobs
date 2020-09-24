@@ -1,0 +1,13 @@
+Build #6830:  Update version to 1.8.6 and add changelog informations
+State:         failed
+Type:          push
+Branch:        release/1.8.6
+Commit:        299bd96
+Compare URL:   https://github.com/ether/etherpad-lite/commit/299bd962b615
+Duration:      13 min 37 sec
+Started:       2020-09-18 21:15:00
+Finished:      2020-09-18 21:24:04
+
+#6830.1 failed:  9 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6830.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6830.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

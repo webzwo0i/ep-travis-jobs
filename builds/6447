@@ -1,0 +1,12 @@
+Build #6447:  docs: Document the authorize hook
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4233)
+Commit:        a097960
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4233
+Duration:      4 min 30 sec
+Started:       2020-08-29 05:36:04
+Finished:      2020-08-29 05:38:40
+
+#6447.1 passed:  1 min 54 sec   os: linux, node_js: lts/*, env:
+#6447.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:

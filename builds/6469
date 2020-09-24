@@ -1,0 +1,13 @@
+Build #6469:  test file
+State:         failed
+Type:          push
+Branch:        import-doc-line-breaks
+Commit:        d075daf
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2d17378eb30b...d075daf1665c
+Duration:      20 min 43 sec
+Started:       2020-09-02 20:16:28
+Finished:      2020-09-02 20:32:32
+
+#6469.1 failed:  16 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6469.2 failed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6469.3 passed:  2 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

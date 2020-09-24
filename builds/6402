@@ -1,0 +1,11 @@
+Job #6402.1:  does the same suite apply to all of those?
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        b53a28b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/61840600af3e...b53a28b0f772
+Duration:      10 min 36 sec
+Started:       2020-08-13 02:49:35
+Finished:      2020-08-13 03:00:11
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

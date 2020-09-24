@@ -1,0 +1,13 @@
+Build #6475:  LibreOffice: use filter XHTML Writer File during import
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4240)
+Commit:        340fe00
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4240
+Duration:      13 min 59 sec
+Started:       2020-09-13 12:13:29
+Finished:      2020-09-13 12:22:57
+
+#6475.1 passed:  9 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6475.2 failed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6475.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

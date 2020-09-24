@@ -1,0 +1,11 @@
+Job #6405.1:  increase timeout
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        44c24f9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6c5a45388ad1...44c24f9d32f8
+Duration:      7 min 41 sec
+Started:       2020-08-13 13:16:38
+Finished:      2020-08-13 13:24:19
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

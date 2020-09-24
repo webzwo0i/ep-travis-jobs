@@ -1,0 +1,12 @@
+Build #6770:  refactor: dry
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4295)
+Commit:        56e3893
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4295
+Duration:      6 min 42 sec
+Started:       2020-09-15 17:07:26
+Finished:      2020-09-15 17:11:30
+
+#6770.1 failed:  4 min          os: linux, node_js: lts/*, env:
+#6770.2 failed:  2 min 42 sec   os: linux, node_js: lts/*, env:

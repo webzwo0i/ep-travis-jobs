@@ -1,0 +1,12 @@
+Build #6489:  docs: Document the authFailure hook
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4247)
+Commit:        efb9d8f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4247
+Duration:      4 min 39 sec
+Started:       2020-09-04 21:36:52
+Finished:      2020-09-04 21:39:33
+
+#6489.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#6489.2 passed:  2 min 40 sec   os: linux, node_js: lts/*, env:

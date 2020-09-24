@@ -1,0 +1,12 @@
+Build #6877:  PadMessageHandler: Move handleMessage hooks after access check
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4336)
+Commit:        6278486
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4336
+Duration:      4 min 43 sec
+Started:       2020-09-22 22:49:35
+Finished:      2020-09-22 22:52:13
+
+#6877.1 passed:  2 min 6 sec    os: linux, node_js: lts/*, env:
+#6877.2 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:

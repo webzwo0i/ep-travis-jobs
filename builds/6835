@@ -1,0 +1,12 @@
+Build #6835:  changelog: Mention fix for authz bypass vulnerability in 1.8.6
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4318)
+Commit:        d6f3109
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4318
+Duration:      4 min 42 sec
+Started:       2020-09-18 23:00:45
+Finished:      2020-09-18 23:03:26
+
+#6835.1 passed:  2 min 1 sec    os: linux, node_js: lts/*, env:
+#6835.2 passed:  2 min 41 sec   os: linux, node_js: lts/*, env:

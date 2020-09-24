@@ -1,0 +1,12 @@
+Build #6542:  Update .coveralls.yml.
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        a5db214
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      5 min 8 sec
+Started:       2020-09-05 20:56:28
+Finished:      2020-09-05 20:59:19
+
+#6542.1 passed:  2 min 17 sec   os: linux, node_js: lts/*
+#6542.2 passed:  2 min 51 sec   os: linux, node_js: lts/*

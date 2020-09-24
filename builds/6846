@@ -1,0 +1,13 @@
+Build #6846:  SessionManager: Fix session expiration check
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        3886e95
+Compare URL:   https://github.com/ether/etherpad-lite/compare/12bd617f511de1da4f4511617ffed6e2804ac9d7...3886e95c83af106f812da39987a304201689081d
+Duration:      15 min 40 sec
+Started:       2020-09-20 19:35:00
+Finished:      2020-09-20 19:46:05
+
+#6846.1 passed:  11 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6846.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6846.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

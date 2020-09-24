@@ -1,0 +1,12 @@
+Build #6841:  Improve toolbar responsiveness for small screen
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4322)
+Commit:        8d20f2c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4322
+Duration:      4 min 31 sec
+Started:       2020-09-19 16:48:30
+Finished:      2020-09-19 16:51:04
+
+#6841.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#6841.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

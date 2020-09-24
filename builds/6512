@@ -1,0 +1,12 @@
+Build #6512:  Delete package-lock.json
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4226)
+Commit:        7febcb2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4226
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-05 13:43:36
+
+#6512.1 canceled: 2 min 30 sec   os: linux, node_js: lts/*, env:
+#6512.2 canceled: 2 min 31 sec   os: linux, node_js: lts/*, env:

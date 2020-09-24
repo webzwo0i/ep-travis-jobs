@@ -1,0 +1,13 @@
+Build #6430:  Create codeql-analysis.yml
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e6949cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/431aadf143671905c3367f8497683e010179acbb...e6949cd974bfe20ff4af640e448e201e58b1ff43
+Duration:      13 min 24 sec
+Started:       2020-08-26 19:23:37
+Finished:      2020-08-26 19:32:58
+
+#6430.1 failed:  9 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6430.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6430.3 failed:  2 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

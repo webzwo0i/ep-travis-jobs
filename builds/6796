@@ -1,0 +1,13 @@
+Build #6796:  webaccess: Fix syntax error (missing close curly brace)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        e20731c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d2773609d149...e20731cb12a0
+Duration:      13 min 23 sec
+Started:       2020-09-15 22:21:38
+Finished:      2020-09-15 22:30:19
+
+#6796.1 passed:  8 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6796.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6796.3 passed:  2 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

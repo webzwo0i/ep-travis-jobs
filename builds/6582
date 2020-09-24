@@ -1,0 +1,13 @@
+Build #6582:  tests: fix issue with responsiveness test crashing sauce labs
+State:         failed
+Type:          push
+Branch:        responsiveness-test-timeout
+Commit:        26e62ad
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f4e1b0b8f3aa...26e62add12e8
+Duration:      15 min 58 sec
+Started:       2020-09-06 18:05:08
+Finished:      2020-09-06 18:16:45
+
+#6582.1 failed:  11 min 36 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6582.2 passed:  1 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6582.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

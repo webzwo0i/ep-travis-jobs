@@ -1,0 +1,13 @@
+Build #6635:  only run responsiveness test on win7 ff52
+State:         failed
+Type:          push
+Branch:        sl-browser-killed
+Commit:        c426d6b
+Compare URL:   https://github.com/ether/etherpad-lite/commit/c426d6b8ae26
+Duration:      16 min 6 sec
+Started:       2020-09-07 14:51:38
+Finished:      2020-09-07 15:03:20
+
+#6635.1 failed:  11 min 41 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6635.2 passed:  1 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6635.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

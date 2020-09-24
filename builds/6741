@@ -1,0 +1,12 @@
+Build #6741:  webaccess: Enforce creation of `req.session.user` by authn plugins
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4270)
+Commit:        c915825
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4270
+Duration:      4 min 31 sec
+Started:       2020-09-14 07:53:39
+Finished:      2020-09-14 07:57:21
+
+#6741.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#6741.2 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,13 @@
+Build #6825:  only specs/ subdirectory should contain spec files, ignore other files in /static/tests/backend
+State:         failed
+Type:          push
+Branch:        plugin-backendtests-in-ci
+Commit:        e6ab5f8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f4fc403f3790...e6ab5f82e03e
+Duration:      13 min 48 sec
+Started:       2020-09-18 16:28:19
+Finished:      2020-09-18 16:37:31
+
+#6825.1 failed:  9 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6825.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6825.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6654:  SecurityManager: Use constants for returned rejections
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4265)
+Commit:        f497972
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4265
+Duration:      8 min 31 sec
+Started:       2020-09-08 04:07:22
+Finished:      2020-09-08 04:12:25
+
+#6654.1 passed:  3 min 29 sec   os: linux, node_js: lts/*, env:
+#6654.2 passed:  5 min 2 sec    os: linux, node_js: lts/*, env:

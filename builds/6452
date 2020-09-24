@@ -1,0 +1,11 @@
+Job #6452.1:  use older node version
+State:         failed
+Type:          push
+Branch:        bisect-responsivness
+Commit:        c7a3dce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2df2d7d60a32^...c7a3dce95f15
+Duration:      2 min 37 sec
+Started:       2020-08-30 14:41:38
+Finished:      2020-08-30 14:44:15
+Allow Failure: false
+Config:        os: linux, node_js: 6.9.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

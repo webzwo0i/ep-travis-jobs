@@ -1,0 +1,12 @@
+Build #6785:  PadMessageHandler: Fix assignment to const variable
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4303)
+Commit:        2eb4574
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4303
+Duration:      6 min 47 sec
+Started:       2020-09-15 20:57:57
+Finished:      2020-09-15 21:02:07
+
+#6785.1 failed:  4 min 9 sec    os: linux, node_js: lts/*, env:
+#6785.2 failed:  2 min 38 sec   os: linux, node_js: lts/*, env:

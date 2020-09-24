@@ -1,0 +1,13 @@
+Build #6806:  include hash auth in tests
+State:         errored
+Type:          push
+Branch:        ep_hash_auth_in_core_tests
+Commit:        2c5ac75
+Compare URL:   https://github.com/ether/etherpad-lite/commit/2c5ac75c8cb1
+Duration:      25 min 24 sec
+Started:       2020-09-16 22:49:43
+Finished:      2020-09-16 22:51:50
+
+#6806.1 errored: 21 min         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6806.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6806.3 failed:  2 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #6450:  test fix
+State:         failed
+Type:          push
+Branch:        bugfix-doc-import
+Commit:        9a3f775
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1a97839a8a41...9a3f7755698a
+Duration:      19 min 43 sec
+Started:       2020-08-30 12:31:40
+Finished:      2020-08-30 12:43:53
+
+#6450.1 failed:  12 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6450.2 passed:  3 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6450.3 passed:  3 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

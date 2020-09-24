@@ -1,0 +1,13 @@
+Build #6894:  Im an idiot
+State:         failed
+Type:          push
+Branch:        test-plugins
+Commit:        9f09174
+Compare URL:   https://github.com/ether/etherpad-lite/compare/61876fc48b7f...9f091740f6b4
+Duration:      15 min 20 sec
+Started:       2020-09-23 16:54:55
+Finished:      2020-09-23 17:04:22
+
+#6894.1 failed:  9 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6894.2 failed:  3 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6894.3 failed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

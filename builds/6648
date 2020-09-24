@@ -1,0 +1,13 @@
+Build #6648:  hooks: New mechanism to deprecate hooks
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        dcbf876
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8cf2bcaeb4a1...dcbf876d03f2
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-08 01:50:29
+
+#6648.1 canceled: 5 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6648.2 canceled: 5 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6648.3 canceled: 5 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6618:  plugins: Move plugin state to avoid strange monkey patching
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4259)
+Commit:        2a16b3e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4259
+Duration:      4 min 31 sec
+Started:       2020-09-06 22:50:35
+Finished:      2020-09-06 22:53:06
+
+#6618.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#6618.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

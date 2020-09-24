@@ -1,0 +1,13 @@
+Build #6638:  test with oter browsers
+State:         failed
+Type:          push
+Branch:        sl-browser-killed
+Commit:        876ecbe
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ccae212b2d4b...876ecbef987f
+Duration:      8 min 5 sec
+Started:       2020-09-07 15:09:47
+Finished:      2020-09-07 15:13:30
+
+#6638.1 failed:  3 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6638.2 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6638.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #6431:  GroupManager: typo during session deletion
+State:         passed
+Type:          push
+Branch:        fix-sessiondeletion-during-deletegroup
+Commit:        385e487
+Compare URL:   https://github.com/ether/etherpad-lite/commit/385e487d0eff
+Duration:      15 min 40 sec
+Started:       2020-08-26 22:51:31
+Finished:      2020-08-26 23:02:43
+
+#6431.1 passed:  11 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6431.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6431.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,12 @@
+Build #6478:  Delete config.yml
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        c46f97c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      4 min 31 sec
+Started:       2020-09-04 17:43:47
+Finished:      2020-09-04 17:46:21
+
+#6478.1 passed:  1 min 58 sec   os: linux, node_js: lts/*
+#6478.2 passed:  2 min 33 sec   os: linux, node_js: lts/*

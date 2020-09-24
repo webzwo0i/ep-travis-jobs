@@ -1,0 +1,12 @@
+Build #6793:  webaccess: Fix syntax error (missing close curly brace)
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4306)
+Commit:        98a9acd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4306
+Duration:      5 min 10 sec
+Started:       2020-09-15 22:04:13
+Finished:      2020-09-15 22:07:03
+
+#6793.1 passed:  2 min 20 sec   os: linux, node_js: lts/*, env:
+#6793.2 passed:  2 min 50 sec   os: linux, node_js: lts/*, env:

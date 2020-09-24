@@ -1,0 +1,13 @@
+Build #6423:  housekeeping: v3 of automatic plugin fixing tool.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7a076d1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4eda214ee971...7a076d1f3a44
+Duration:      14 min 9 sec
+Started:       2020-08-22 16:51:19
+Finished:      2020-08-22 17:00:56
+
+#6423.1 passed:  9 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6423.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6423.3 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

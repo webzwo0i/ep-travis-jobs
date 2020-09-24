@@ -1,0 +1,12 @@
+Build #6720:  PadMessageHandler: Move code out of unnecessary closure
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4283)
+Commit:        cc563a3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4283
+Duration:      4 min 33 sec
+Started:       2020-09-12 20:51:32
+Finished:      2020-09-12 20:54:28
+
+#6720.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#6720.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #6455.1:  enable sauce_tunnel in .travis.yml
+State:         failed
+Type:          push
+Branch:        bisect-responsivness
+Commit:        9b445b5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c471ccdcbeac...9b445b58eaff
+Duration:      3 min 51 sec
+Started:       2020-08-30 15:05:19
+Finished:      2020-08-30 15:09:10
+Allow Failure: false
+Config:        os: linux, node_js: 6.9.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

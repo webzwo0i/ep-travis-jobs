@@ -1,0 +1,13 @@
+Build #6726:  terser was not called because mime type did not match
+State:         failed
+Type:          push
+Branch:        terser-fix
+Commit:        3b66439
+Compare URL:   https://github.com/ether/etherpad-lite/commit/3b6643943113
+Duration:      22 min 35 sec
+Started:       2020-09-13 17:25:39
+Finished:      2020-09-13 17:43:37
+
+#6726.1 failed:  17 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6726.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6726.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

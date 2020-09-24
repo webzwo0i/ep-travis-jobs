@@ -1,0 +1,12 @@
+Build #6477:  Update .travis.yml
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        fe3ae9f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      4 min 30 sec
+Started:       2020-09-04 17:07:07
+Finished:      2020-09-04 17:09:39
+
+#6477.1 passed:  1 min 58 sec   os: linux, node_js: lts/*
+#6477.2 passed:  2 min 32 sec   os: linux, node_js: lts/*

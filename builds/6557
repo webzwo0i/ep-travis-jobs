@@ -1,0 +1,12 @@
+Build #6557:  hooks: New mechanism to deprecate hooks
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4255)
+Commit:        ecd3e25
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4255
+Duration:      4 min 28 sec
+Started:       2020-09-05 23:58:43
+Finished:      2020-09-06 00:01:19
+
+#6557.1 passed:  1 min 56 sec   os: linux, node_js: lts/*, env:
+#6557.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,13 @@
+Build #6803:  security: Fix authorization bypass vulnerability
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        b80a371
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ae1142a799b91f20c9a54c233b8c1a80ca99d0a5...b80a37173efe592c07c89e2e16a7fe6602441ed5
+Duration:      42 min 27 sec
+Started:       2020-09-16 20:04:06
+Finished:      2020-09-16 20:24:33
+
+#6803.1 errored: 20 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6803.2 errored: 10 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6803.3 errored: 11 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

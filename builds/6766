@@ -1,0 +1,13 @@
+Build #6766:  security: Check authentication in SecurityManager checkAccess
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        f9087fa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/259b8d891d86...f9087fabd684
+Duration:      13 min 25 sec
+Started:       2020-09-15 21:03:17
+Finished:      2020-09-15 21:12:15
+
+#6766.1 passed:  8 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6766.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6766.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

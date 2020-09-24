@@ -1,0 +1,12 @@
+Build #6564:  Update .travis.yml
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        a746dfe
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      4 min 27 sec
+Started:       2020-09-06 13:49:36
+Finished:      2020-09-06 13:52:06
+
+#6564.1 passed:  1 min 57 sec   os: linux, node_js: lts/*
+#6564.2 failed:  2 min 30 sec   os: linux, node_js: lts/*

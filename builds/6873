@@ -1,0 +1,13 @@
+Build #6873:  allow slower for Safari
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4333)
+Commit:        8bfa14c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4333
+Duration:      14 min 56 sec
+Started:       2020-09-22 16:14:09
+Finished:      2020-09-22 16:23:13
+
+#6873.1 failed:  9 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6873.2 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6873.3 passed:  3 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

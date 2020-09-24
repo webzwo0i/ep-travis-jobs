@@ -1,0 +1,591 @@
+travis_fold:start:worker_infoWorker information
+hostname: 7a981390-986c-4aa9-b201-64834adba85d@1.worker-org-694dfb888f-9d4fq.gce-production-1
+version: v6.2.17 https://github.com/travis-ci/worker/tree/bc420764f334fe0d096a417c80426f672f1b7d18
+instance: travis-job-fae5e263-c2d7-40de-821d-23d313a89900 travis-ci-sardonyx-xenial-1593004276-4d46c6b3 (via amqp)
+startup: 5.95600832s
+travis_fold:end:worker_infoe:start:16646b7ce:end:16646b7c:start=1600808436223403253,finish=1600808436381642934,duration=158239681,event=no_world_writable_dirse:start:166e6930e:end:166e6930:start=1600808436384604561,finish=1600808436387518621,duration=2914060,event=setup_filtere:start:24871a0ce:end:24871a0c:start=1600808436391947527,finish=1600808436400650542,duration=8703015,event=agente:start:00db5bc8e:end:00db5bc8:start=1600808436403589036,finish=1600808436405697691,duration=2108655,event=check_unsupportede:start:12ff7ba2_infoBuild system information
+Build language: node_js
+Build dist: xenial
+Build id: 729436174
+Job id: 729436188
+Runtime kernel version: 4.15.0-1077-gcp
+travis-build version: 445df621
+Build image provisioning date and time
+Wed Jun 24 13:36:52 UTC 2020
+Operating System Details
+Distributor ID:Ubuntu
+Description:Ubuntu 16.04.6 LTS
+Release:16.04
+Codename:xenial
+Systemd Version
+systemd 229
+Cookbooks Version
+3f92a99 https://github.com/travis-ci/travis-cookbooks/tree/3f92a99
+git version
+git version 2.27.0
+bash version
+GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu)
+gcc version
+gcc (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609
+docker version
+Client:
+ Version:           18.06.0-ce
+ API version:       1.38
+ Go version:        go1.10.3
+ Git commit:        0ffa825
+ Built:             Wed Jul 18 19:11:02 2018
+ OS/Arch:           linux/amd64
+ Experimental:      false
+
+Server:
+ Engine:
+  Version:          18.06.0-ce
+  API version:      1.38 (minimum version 1.12)
+  Go version:       go1.10.3
+  Git commit:       0ffa825
+  Built:            Wed Jul 18 19:09:05 2018
+  OS/Arch:          linux/amd64
+  Experimental:     false
+clang version
+clang version 7.0.0 (tags/RELEASE_700/final)
+jq version
+jq-1.5
+bats version
+Bats 0.4.0
+shellcheck version
+0.7.0
+shfmt version
+v2.6.3
+ccache version
+3.2.4
+cmake version
+cmake version 3.12.4
+heroku version
+heroku/7.42.1 linux-x64 node-v12.16.2
+imagemagick version
+Version: ImageMagick 6.8.9-9 Q16 x86_64 2019-11-12 http://www.imagemagick.org
+md5deep version
+4.4
+mercurial version
+version 4.8
+mysql version
+mysql  Ver 14.14 Distrib 5.7.30, for Linux (x86_64) using  EditLine wrapper
+openssl version
+OpenSSL 1.0.2g  1 Mar 2016
+packer version
+1.3.3
+postgresql client version
+psql (PostgreSQL) 10.13 (Ubuntu 10.13-1.pgdg16.04+1)
+ragel version
+Ragel State Machine Compiler version 6.8 Feb 2013
+sudo version
+1.8.16
+gzip version
+gzip 1.6
+zip version
+Zip 3.0
+vim version
+VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Mar 18 2020 14:06:17)
+iptables version
+iptables v1.6.0
+curl version
+curl 7.47.0 (x86_64-pc-linux-gnu) libcurl/7.47.0 GnuTLS/3.4.10 zlib/1.2.8 libidn/1.32 librtmp/2.3
+wget version
+GNU Wget 1.17.1 built on linux-gnu.
+rsync version
+rsync  version 3.1.1  protocol version 31
+gimme version
+v1.5.4
+nvm version
+0.35.3
+perlbrew version
+/home/travis/perl5/perlbrew/bin/perlbrew  - App::perlbrew/0.88
+phpenv version
+rbenv 1.1.2-30-gc879cb0
+rvm version
+rvm 1.29.10 (latest) by Michal Papis, Piotr Kuczynski, Wayne E. Seguin [https://rvm.io]
+default ruby version
+ruby 2.5.3p105 (2018-10-18 revision 65156) [x86_64-linux]
+CouchDB version
+couchdb 1.6.1
+ElasticSearch version
+5.5.0
+Installed Firefox version
+firefox 63.0.1
+MongoDB version
+MongoDB 4.0.19
+PhantomJS version
+2.1.1
+Pre-installed PostgreSQL versions
+9.4.26
+9.5.22
+9.6.18
+Redis version
+redis-server 6.0.5
+Pre-installed Go versions
+1.11.1
+ant version
+Apache Ant(TM) version 1.9.6 compiled on July 20 2018
+mvn version
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+gradle version
+Gradle 5.1.1!
+lein version
+Leiningen 2.9.3 on Java 11.0.2 OpenJDK 64-Bit Server VM
+Pre-installed Node.js versions
+v10.21.0
+v11.0.0
+v12.18.1
+v4.9.1
+v6.17.1
+v8.12.0
+v8.17.0
+v8.9
+phpenv versions
+  system
+  5.6
+  5.6.40
+  7.1
+  7.1.27
+  7.2
+* 7.2.15 (set by /home/travis/.phpenv/version)
+  hhvm
+  hhvm-stable
+composer --version
+Composer version 1.8.4 2019-02-11 10:52:10
+Pre-installed Ruby versions
+ruby-2.3.8
+ruby-2.4.5
+ruby-2.5.3
+travis_fold:end:system_infoe:end:12ff7ba2:start=1600808436408776916,finish=1600808436414565777,duration=5788861,event=show_system_infoe:start:041089a4e:end:041089a4:start=1600808436417491558,finish=1600808436432769029,duration=15277471,event=rm_riak_sourcee:start:139f5d3ee:end:139f5d3e:start=1600808436436128548,finish=1600808436446329989,duration=10201441,event=fix_rwky_redise:start:056ba052e:end:056ba052:start=1600808436450868882,finish=1600808437132550689,duration=681681807,event=wait_for_networke:start:0571448be:end:0571448b:start=1600808437137650342,finish=1600808437378059713,duration=240409371,event=update_apt_keyse:start:05924314e:end:05924314:start=1600808437385757823,finish=1600808437441280665,duration=55522842,event=fix_hhvm_sourcee:start:13883c3ae:end:13883c3a:start=1600808437445966975,finish=1600808437449460250,duration=3493275,event=update_mongo_arche:start:0a234a43e:end:0a234a43:start=1600808437453549764,finish=1600808437496745759,duration=43195995,event=fix_sudo_enabled_trustye:start:2027ef1ae:end:2027ef1a:start=1600808437502768582,finish=1600808437506180993,duration=3412411,event=update_glibce:start:03c736c9e:end:03c736c9:start=1600808437513156034,finish=1600808437521929835,duration=8773801,event=clean_up_pathe:start:0520b734e:end:0520b734:start=1600808437528702997,finish=1600808437538058166,duration=9355169,event=fix_resolv_confe:start:24fef820e:end:24fef820:start=1600808437545261971,finish=1600808437555967458,duration=10705487,event=fix_etc_hostse:start:3133c2abe:end:3133c2ab:start=1600808437564889245,finish=1600808437577561635,duration=12672390,event=fix_mvn_settings_xmle:start:27f86c28e:end:27f86c28:start=1600808437581483841,finish=1600808437591870498,duration=10386657,event=no_ipv6_localhoste:start:050703dce:end:050703dc:start=1600808437600357480,finish=1600808437603359523,duration=3002043,event=fix_etc_mavenrce:start:1aa40ce0e:end:1aa40ce0:start=1600808437607151629,finish=1600808437611291563,duration=4139934,event=fix_wwdr_certificatee:start:18e350d1e:end:18e350d1:start=1600808437616997262,finish=1600808437642545958,duration=25548696,event=put_localhost_firste:start:18b451b0e:end:18b451b0:start=1600808437650150837,finish=1600808437654423536,duration=4272699,event=home_pathse:start:180f426ce:end:180f426c:start=1600808437661908793,finish=1600808437676435981,duration=14527188,event=disable_initramfse:start:0a77110de:end:0a77110d:start=1600808437681976250,finish=1600808437983598139,duration=301621889,event=disable_ssh_roaminge:start:0ac111c8e:end:0ac111c8:start=1600808437988720016,finish=1600808437991331063,duration=2611047,event=debug_toolse:start:143df642e:end:143df642:start=1600808437998872037,finish=1600808438002362669,duration=3490632,event=uninstall_oclinte:start:11b4d47be:end:11b4d47b:start=1600808438010716636,finish=1600808438015025006,duration=4308370,event=rvm_usee:start:0095ba32e:end:0095ba32:start=1600808438020074381,finish=1600808438028062988,duration=7988607,event=rm_etc_boto_cfge:start:03d3b660e:end:03d3b660:start=1600808438032684034,finish=1600808438036634093,duration=3950059,event=rm_oraclejdk8_symlinke:start:20c79557e:end:20c79557:start=1600808438044131403,finish=1600808438145987583,duration=101856180,event=enable_i386e:start:03d4c4cce:end:03d4c4cc:start=1600808438152214137,finish=1600808438160490804,duration=8276667,event=update_rubygemse:start:1e3b9179e:end:1e3b9179:start=1600808438164446364,finish=1600808439003012671,duration=838566307,event=ensure_path_componentse:start:137bf8dde:end:137bf8dd:start=1600808439010638986,finish=1600808439014690462,duration=4051476,event=redefine_curle:start:1273a9c2e:end:1273a9c2:start=1600808439019507758,finish=1600808439134869753,duration=115361995,event=nonblock_pipee:start:16f1bb48e:end:16f1bb48:start=1600808439140051116,finish=1600808453975289913,duration=14835238797,event=apt_get_updatee:start:00a2bf46e:end:00a2bf46:start=1600808453980413421,finish=1600808453983503025,duration=3089604,event=deprecate_xcode_64e:start:09c7a81be:end:09c7a81b:start=1600808453987297811,finish=1600808456799932742,duration=2812634931,event=update_herokue:start:02647092e:end:02647092:start=1600808456804593433,finish=1600808456807127683,duration=2534250,event=shell_session_updatee:start:051dfec3tutue:end:051dfec3:start=1600808456811670676,finish=1600808460562945082,duration=3751274406,event=set_docker_mtue:start:06fcd836e:end:06fcd836:start=1600808460568659307,finish=1600808460642613097,duration=73953790,event=resolvconfe:start:3aefdc60e:end:3aefdc60:start=1600808460650142496,finish=1600808460784825525,duration=134683029,event=maven_central_mirrore:start:0313d7f2e:end:0313d7f2:start=1600808460792208867,finish=1600808460886482328,duration=94273461,event=maven_httpse:start:2b70a3d1e:start:04f2b4e6ctl start docker
+travis_time:end:04f2b4e6:start=1600808460900794224,finish=1600808460914658890,duration=13864666,event=preparee:end:04f2b4e6:start=1600808460900794224,finish=1600808463921361925,duration=3020567701,event=servicese:start:17ee3afbe:end:17ee3afb:start=1600808463927353903,finish=1600808463931019700,duration=3665797,event=fix_ps4e:start:2d448026e:start:062cafa0/ether/[secure].git ether/[secure]
+Cloning into 'ether/[secure]'...
+travis_time:end:062cafa0:start=1600808463939768396,finish=1600808465165442125,duration=1225673729,event=checkoute:end:062cafa0:start=1600808463939768396,finish=1600808465235540847,duration=1295772451,event=checkoute:start:105a775fSetting environment variables from repository settings
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+Setting environment variables from .travis.yml
+$ export SAUCE_USERNAME=[secure]
+$ export SAUCE_ACCESS_KEY=[secure]
+
+travis_time:end:105a775f:start=1600808465242966010,finish=1600808465261899002,duration=18932992,event=env.installe:start:1bb253c0 install 10.18.0
+Downloading and installing node v10.18.0...
+Downloading https://nodejs.org/dist/v10.18.0/node-v10.18.0-linux-x64.tar.xz...
+Computing checksum with sha256sum
+Checksums matched!
+Now using node v10.18.0 (npm v6.13.4)
+travis_time:end:1bb253c0:start=1600808466201422149,finish=1600808469156510289,duration=2955088140,event=setup.install --version
+6.13.4
+$ nvm --version
+0.35.3
+
+travis_fold:start:before_install.1e:start:02c50cf4p/tmp13zlnw4q/secring.gpg' created
+gpg: keyring `/tmp/tmp13zlnw4q/pubring.gpg' created
+gpg: requesting key 1378B444 from hkp server keyserver.ubuntu.com
+gpg: /tmp/tmp13zlnw4q/trustdb.gpg: trustdb created
+gpg: key 1378B444: public key "Launchpad PPA for LibreOffice Packaging" imported
+gpg: no ultimately trusted keys found
+gpg: Total number processed: 1
+gpg:               imported: 1  (RSA: 1)
+OK
+travis_time:end:02c50cf4:start=1600808470288731992,finish=1600808471948186819,duration=1659454827,event=before_installe:start:0658e63c/ubuntu xenial InRelease
+Hit:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates InRelease
+Hit:3 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu xenial-security InRelease
+Get:5 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial InRelease [23.8 kB]
+Hit:6 http://apt.postgresql.org/pub/repos/apt xenial-pgdg InRelease
+Get:7 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 Packages [34.4 kB]
+Get:8 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main i386 Packages [34.4 kB]
+Get:9 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main Translation-en [13.8 kB]
+Fetched 106 kB in 1s (75.6 kB/s)
+Reading package lists...
+travis_time:end:0658e63c:start=1600808471954954582,finish=1600808478337750901,duration=6382796319,event=before_installe:start:098a8f9aation...
+The following additional packages will be installed:
+  fonts-opensymbol libboost-date-time1.58.0 libboost-locale1.58.0
+  libboost-thread1.58.0 libclucene-contribs1v5 libclucene-core1v5
+  libcolamd2.9.1 libexttextcat-2.0-0 libexttextcat-data
+  libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libharfbuzz-icu0
+  libhunspell-1.3-0 libhyphen0 liblangtag-common liblangtag1 libmythes-1.2-0
+  libneon27-gnutls liborc-0.4-0 libpoppler58 libraptor2-0 librasqal3 librdf0
+  libreoffice-avmedia-backend-gstreamer libreoffice-base libreoffice-base-core
+  libreoffice-base-drivers libreoffice-calc libreoffice-common
+  libreoffice-core libreoffice-draw libreoffice-impress libreoffice-math
+  libreoffice-report-builder-bin libreoffice-style-colibre
+  libreoffice-style-tango libreoffice-writer libsuitesparseconfig4.4.6
+  libyajl2 lp-solve python3-uno uno-libs3 ure
+Suggested packages:
+  libvisual-0.4-plugins gstreamer1.0-tools poppler-data raptor2-utils
+  rasqal-utils librdf-storage-postgresql librdf-storage-mysql
+  librdf-storage-sqlite librdf-storage-virtuoso redland-utils cups-bsd
+  firefox-esr | thunderbird | firefox ghostscript gpa hunspell-dictionary
+  hyphen-hyphenation-patterns libreoffice-grammarcheck libreoffice-help
+  libreoffice-l10n myspell-dictionary mythes-thesaurus
+  openclipart2-libreoffice | openclipart-libreoffice pstoedit unixodbc
+  gstreamer1.0-plugins-base gstreamer1.0-plugins-good
+  gstreamer1.0-plugins-ugly gstreamer1.0-plugins-bad gstreamer1.0-libav
+  libsane libreoffice-officebean libreoffice-report-builder libjtds-java
+  libreoffice-sdbc-hsqldb libreoffice-sdbc-mysql | libmyodbc | libmariadb-java
+  libreoffice-sdbc-postgresql | odbc-postgresql | libpg-java libsqliteodbc
+  | tdsodbc | mdbtools ocl-icd-libopencl1 | mesa-opencl-icd
+  | beignet-opencl-icd bluez tango-icon-theme fonts-crosextra-caladea
+  fonts-crosextra-carlito libreoffice-java-common
+Recommended packages:
+  gstreamer1.0-plugins-base hunspell-en-us | hunspell-dictionary
+  | myspell-dictionary fonts-crosextra-caladea fonts-crosextra-carlito
+  fonts-dejavu fonts-liberation2 fonts-linuxlibertine fonts-noto-core
+  fonts-noto-mono fonts-noto-ui-core fonts-sil-gentium-basic libreoffice-gnome
+  | libreoffice-kde4 libreoffice-librelogo libreoffice-nlpsolver
+  libreoffice-report-builder libreoffice-script-provider-bsh
+  libreoffice-script-provider-js libreoffice-script-provider-python
+  libreoffice-sdbc-mysql libreoffice-sdbc-postgresql
+  libreoffice-wiki-publisher libreoffice-java-common fonts-liberation2
+  | ttf-mscorefonts-installer libpaper-utils
+The following NEW packages will be installed:
+  fonts-opensymbol libboost-date-time1.58.0 libboost-locale1.58.0
+  libboost-thread1.58.0 libclucene-contribs1v5 libclucene-core1v5
+  libcolamd2.9.1 libexttextcat-2.0-0 libexttextcat-data
+  libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libharfbuzz-icu0
+  libhunspell-1.3-0 libhyphen0 liblangtag-common liblangtag1 libmythes-1.2-0
+  libneon27-gnutls liborc-0.4-0 libpoppler58 libraptor2-0 librasqal3 librdf0
+  libreoffice libreoffice-avmedia-backend-gstreamer libreoffice-base
+  libreoffice-base-core libreoffice-base-drivers libreoffice-calc
+  libreoffice-common libreoffice-core libreoffice-draw libreoffice-impress
+  libreoffice-math libreoffice-report-builder-bin libreoffice-style-colibre
+  libreoffice-style-tango libreoffice-writer libsuitesparseconfig4.4.6
+  libyajl2 lp-solve python3-uno uno-libs3 ure
+0 upgraded, 44 newly installed, 0 to remove and 141 not upgraded.
+Need to get 105 MB of archives.
+After this operation, 369 MB of additional disk space will be used.
+Get:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libyajl2 amd64 2.1.0-2 [19.6 kB]
+Get:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libraptor2-0 amd64 2.0.14-1 [154 kB]
+Get:3 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 fonts-opensymbol all 2:102.10+LibO6.2.8~rc2-0ubuntu0.16.04.1 [293 kB]
+Get:4 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 librasqal3 amd64 0.9.32-1 [163 kB]
+Get:5 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libboost-date-time1.58.0 amd64 1.58.0+dfsg-5ubuntu3.1 [20.7 kB]
+Get:6 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libboost-thread1.58.0 amd64 1.58.0+dfsg-5ubuntu3.1 [47.0 kB]
+Get:7 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libboost-locale1.58.0 amd64 1.58.0+dfsg-5ubuntu3.1 [242 kB]
+Get:8 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libclucene-core1v5 amd64 2.3.3.4-4.1 [461 kB]
+Get:9 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libclucene-contribs1v5 amd64 2.3.3.4-4.1 [79.3 kB]
+Get:10 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libsuitesparseconfig4.4.6 amd64 1:4.4.6-1 [9,322 B]
+Get:11 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libcolamd2.9.1 amd64 1:4.4.6-1 [15.7 kB]
+Get:12 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libexttextcat-data all 3.4.4-1ubuntu3 [164 kB]
+Get:13 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libexttextcat-2.0-0 amd64 3.4.4-1ubuntu3 [13.1 kB]
+Get:14 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgstreamer1.0-0 amd64 1.8.3-1~ubuntu0.1 [769 kB]
+Get:15 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 liborc-0.4-0 amd64 1:0.4.25-1 [138 kB]
+Get:16 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgstreamer-plugins-base1.0-0 amd64 1.8.3-1ubuntu0.3 [593 kB]
+Get:17 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libharfbuzz-icu0 amd64 1.0.1-1ubuntu0.1 [5,198 B]
+Get:18 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libhunspell-1.3-0 amd64 1.3.3-4ubuntu1 [108 kB]
+Get:19 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libhyphen0 amd64 2.8.8-2ubuntu1 [18.4 kB]
+Get:20 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 liblangtag-common all 0.5.7-2ubuntu1 [112 kB]
+Get:21 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 liblangtag1 amd64 0.5.7-2ubuntu1 [45.5 kB]
+Get:22 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-style-colibre all 1:6.2.8~rc2-0ubuntu0.16.04.1 [1,013 kB]
+Get:23 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libmythes-1.2-0 amd64 2:1.2.4-1ubuntu3 [8,366 B]
+Get:24 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 libneon27-gnutls amd64 0.30.1-3build1 [65.7 kB]
+Get:25 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libpoppler58 amd64 0.41.0-0ubuntu1.14 [757 kB]
+Get:26 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 librdf0 amd64 1.0.17-1build1 [95.6 kB]
+Get:27 http://us-east-1.ec2.archive.ubuntu.com/ubuntu xenial/main amd64 lp-solve amd64 5.5.0.13-7build2 [277 kB]
+Get:28 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-style-tango all 1:6.2.8~rc2-0ubuntu0.16.04.1 [1,208 kB]
+Get:29 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 uno-libs3 amd64 6.2.8~rc2-0ubuntu0.16.04.1 [902 kB]
+Get:30 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 ure amd64 6.2.8~rc2-0ubuntu0.16.04.1 [1,738 kB]
+Get:31 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-common all 1:6.2.8~rc2-0ubuntu0.16.04.1 [33.4 MB]
+Get:32 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-core amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [37.7 MB]
+Get:33 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-base-core amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [765 kB]
+Get:34 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-base-drivers amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [497 kB]
+Get:35 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-base amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [1,719 kB]
+Get:36 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-calc amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [7,220 kB]
+Get:37 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-draw amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [3,392 kB]
+Get:38 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-impress amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [971 kB]
+Get:39 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-math amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [377 kB]
+Get:40 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-report-builder-bin amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [811 kB]
+Get:41 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-writer amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [8,749 kB]
+Get:42 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-avmedia-backend-gstreamer amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [25.2 kB]
+Get:43 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 python3-uno amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [214 kB]
+Get:44 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice amd64 1:6.2.8~rc2-0ubuntu0.16.04.1 [98.0 kB]
+Extracting templates from packages: 68%Extracting templates from packages: 100%
+Fetched 105 MB in 18s (5,645 kB/s)
+Selecting previously unselected package libyajl2:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 124376 files and directories currently installed.)
+Preparing to unpack .../libyajl2_2.1.0-2_amd64.deb ...
+Unpacking libyajl2:amd64 (2.1.0-2) ...
+Selecting previously unselected package libraptor2-0:amd64.
+Preparing to unpack .../libraptor2-0_2.0.14-1_amd64.deb ...
+Unpacking libraptor2-0:amd64 (2.0.14-1) ...
+Selecting previously unselected package librasqal3:amd64.
+Preparing to unpack .../librasqal3_0.9.32-1_amd64.deb ...
+Unpacking librasqal3:amd64 (0.9.32-1) ...
+Selecting previously unselected package fonts-opensymbol.
+Preparing to unpack .../fonts-opensymbol_2%3a102.10+LibO6.2.8~rc2-0ubuntu0.16.04.1_all.deb ...
+Unpacking fonts-opensymbol (2:102.10+LibO6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libboost-date-time1.58.0:amd64.
+Preparing to unpack .../libboost-date-time1.58.0_1.58.0+dfsg-5ubuntu3.1_amd64.deb ...
+Unpacking libboost-date-time1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1) ...
+Selecting previously unselected package libboost-thread1.58.0:amd64.
+Preparing to unpack .../libboost-thread1.58.0_1.58.0+dfsg-5ubuntu3.1_amd64.deb ...
+Unpacking libboost-thread1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1) ...
+Selecting previously unselected package libboost-locale1.58.0:amd64.
+Preparing to unpack .../libboost-locale1.58.0_1.58.0+dfsg-5ubuntu3.1_amd64.deb ...
+Unpacking libboost-locale1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1) ...
+Selecting previously unselected package libclucene-core1v5:amd64.
+Preparing to unpack .../libclucene-core1v5_2.3.3.4-4.1_amd64.deb ...
+Unpacking libclucene-core1v5:amd64 (2.3.3.4-4.1) ...
+Selecting previously unselected package libclucene-contribs1v5:amd64.
+Preparing to unpack .../libclucene-contribs1v5_2.3.3.4-4.1_amd64.deb ...
+Unpacking libclucene-contribs1v5:amd64 (2.3.3.4-4.1) ...
+Selecting previously unselected package libsuitesparseconfig4.4.6:amd64.
+Preparing to unpack .../libsuitesparseconfig4.4.6_1%3a4.4.6-1_amd64.deb ...
+Unpacking libsuitesparseconfig4.4.6:amd64 (1:4.4.6-1) ...
+Selecting previously unselected package libcolamd2.9.1:amd64.
+Preparing to unpack .../libcolamd2.9.1_1%3a4.4.6-1_amd64.deb ...
+Unpacking libcolamd2.9.1:amd64 (1:4.4.6-1) ...
+Selecting previously unselected package libexttextcat-data.
+Preparing to unpack .../libexttextcat-data_3.4.4-1ubuntu3_all.deb ...
+Unpacking libexttextcat-data (3.4.4-1ubuntu3) ...
+Selecting previously unselected package libexttextcat-2.0-0:amd64.
+Preparing to unpack .../libexttextcat-2.0-0_3.4.4-1ubuntu3_amd64.deb ...
+Unpacking libexttextcat-2.0-0:amd64 (3.4.4-1ubuntu3) ...
+Selecting previously unselected package libgstreamer1.0-0:amd64.
+Preparing to unpack .../libgstreamer1.0-0_1.8.3-1~ubuntu0.1_amd64.deb ...
+Unpacking libgstreamer1.0-0:amd64 (1.8.3-1~ubuntu0.1) ...
+Selecting previously unselected package liborc-0.4-0:amd64.
+Preparing to unpack .../liborc-0.4-0_1%3a0.4.25-1_amd64.deb ...
+Unpacking liborc-0.4-0:amd64 (1:0.4.25-1) ...
+Selecting previously unselected package libgstreamer-plugins-base1.0-0:amd64.
+Preparing to unpack .../libgstreamer-plugins-base1.0-0_1.8.3-1ubuntu0.3_amd64.deb ...
+Unpacking libgstreamer-plugins-base1.0-0:amd64 (1.8.3-1ubuntu0.3) ...
+Selecting previously unselected package libharfbuzz-icu0:amd64.
+Preparing to unpack .../libharfbuzz-icu0_1.0.1-1ubuntu0.1_amd64.deb ...
+Unpacking libharfbuzz-icu0:amd64 (1.0.1-1ubuntu0.1) ...
+Selecting previously unselected package libhunspell-1.3-0:amd64.
+Preparing to unpack .../libhunspell-1.3-0_1.3.3-4ubuntu1_amd64.deb ...
+Unpacking libhunspell-1.3-0:amd64 (1.3.3-4ubuntu1) ...
+Selecting previously unselected package libhyphen0:amd64.
+Preparing to unpack .../libhyphen0_2.8.8-2ubuntu1_amd64.deb ...
+Unpacking libhyphen0:amd64 (2.8.8-2ubuntu1) ...
+Selecting previously unselected package liblangtag-common.
+Preparing to unpack .../liblangtag-common_0.5.7-2ubuntu1_all.deb ...
+Unpacking liblangtag-common (0.5.7-2ubuntu1) ...
+Selecting previously unselected package liblangtag1:amd64.
+Preparing to unpack .../liblangtag1_0.5.7-2ubuntu1_amd64.deb ...
+Unpacking liblangtag1:amd64 (0.5.7-2ubuntu1) ...
+Selecting previously unselected package libmythes-1.2-0:amd64.
+Preparing to unpack .../libmythes-1.2-0_2%3a1.2.4-1ubuntu3_amd64.deb ...
+Unpacking libmythes-1.2-0:amd64 (2:1.2.4-1ubuntu3) ...
+Selecting previously unselected package libneon27-gnutls:amd64.
+Preparing to unpack .../libneon27-gnutls_0.30.1-3build1_amd64.deb ...
+Unpacking libneon27-gnutls:amd64 (0.30.1-3build1) ...
+Selecting previously unselected package libpoppler58:amd64.
+Preparing to unpack .../libpoppler58_0.41.0-0ubuntu1.14_amd64.deb ...
+Unpacking libpoppler58:amd64 (0.41.0-0ubuntu1.14) ...
+Selecting previously unselected package librdf0:amd64.
+Preparing to unpack .../librdf0_1.0.17-1build1_amd64.deb ...
+Unpacking librdf0:amd64 (1.0.17-1build1) ...
+Selecting previously unselected package libreoffice-style-colibre.
+Preparing to unpack .../libreoffice-style-colibre_1%3a6.2.8~rc2-0ubuntu0.16.04.1_all.deb ...
+Unpacking libreoffice-style-colibre (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-style-tango.
+Preparing to unpack .../libreoffice-style-tango_1%3a6.2.8~rc2-0ubuntu0.16.04.1_all.deb ...
+Unpacking libreoffice-style-tango (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package uno-libs3.
+Preparing to unpack .../uno-libs3_6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking uno-libs3 (6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package ure.
+Preparing to unpack .../ure_6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking ure (6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-common.
+Preparing to unpack .../libreoffice-common_1%3a6.2.8~rc2-0ubuntu0.16.04.1_all.deb ...
+Unpacking libreoffice-common (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-core.
+Preparing to unpack .../libreoffice-core_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-core (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-base-core.
+Preparing to unpack .../libreoffice-base-core_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-base-core (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-base-drivers.
+Preparing to unpack .../libreoffice-base-drivers_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-base-drivers (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-base.
+Preparing to unpack .../libreoffice-base_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Adding 'diversion of /usr/lib/libreoffice/share/basic/dialog.xlc to /usr/lib/libreoffice/share/basic/dialog.xlc.noaccess by libreoffice-base'
+Adding 'diversion of /usr/lib/libreoffice/share/basic/script.xlc to /usr/lib/libreoffice/share/basic/script.xlc.noaccess by libreoffice-base'
+Unpacking libreoffice-base (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package lp-solve.
+Preparing to unpack .../lp-solve_5.5.0.13-7build2_amd64.deb ...
+Unpacking lp-solve (5.5.0.13-7build2) ...
+Selecting previously unselected package libreoffice-calc.
+Preparing to unpack .../libreoffice-calc_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-calc (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-draw.
+Preparing to unpack .../libreoffice-draw_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-draw (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-impress.
+Preparing to unpack .../libreoffice-impress_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-impress (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-math.
+Preparing to unpack .../libreoffice-math_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-math (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-report-builder-bin.
+Preparing to unpack .../libreoffice-report-builder-bin_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-report-builder-bin (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-writer.
+Preparing to unpack .../libreoffice-writer_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-writer (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice-avmedia-backend-gstreamer.
+Preparing to unpack .../libreoffice-avmedia-backend-gstreamer_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice-avmedia-backend-gstreamer (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package python3-uno.
+Preparing to unpack .../python3-uno_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking python3-uno (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Selecting previously unselected package libreoffice.
+Preparing to unpack .../libreoffice_1%3a6.2.8~rc2-0ubuntu0.16.04.1_amd64.deb ...
+Unpacking libreoffice (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Processing triggers for fontconfig (2.11.94-0ubuntu1.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Processing triggers for shared-mime-info (1.5-2ubuntu0.2) ...
+Processing triggers for hicolor-icon-theme (0.15-0ubuntu1.1) ...
+Setting up libyajl2:amd64 (2.1.0-2) ...
+Setting up libraptor2-0:amd64 (2.0.14-1) ...
+Setting up librasqal3:amd64 (0.9.32-1) ...
+Setting up fonts-opensymbol (2:102.10+LibO6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libboost-date-time1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1) ...
+Setting up libboost-thread1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1) ...
+Setting up libboost-locale1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1) ...
+Setting up libclucene-core1v5:amd64 (2.3.3.4-4.1) ...
+Setting up libclucene-contribs1v5:amd64 (2.3.3.4-4.1) ...
+Setting up libsuitesparseconfig4.4.6:amd64 (1:4.4.6-1) ...
+Setting up libcolamd2.9.1:amd64 (1:4.4.6-1) ...
+Setting up libexttextcat-data (3.4.4-1ubuntu3) ...
+Setting up libexttextcat-2.0-0:amd64 (3.4.4-1ubuntu3) ...
+Setting up libgstreamer1.0-0:amd64 (1.8.3-1~ubuntu0.1) ...
+Setcap worked! gst-ptp-helper is not suid!
+Setting up liborc-0.4-0:amd64 (1:0.4.25-1) ...
+Setting up libgstreamer-plugins-base1.0-0:amd64 (1.8.3-1ubuntu0.3) ...
+Setting up libharfbuzz-icu0:amd64 (1.0.1-1ubuntu0.1) ...
+Setting up libhunspell-1.3-0:amd64 (1.3.3-4ubuntu1) ...
+Setting up libhyphen0:amd64 (2.8.8-2ubuntu1) ...
+Setting up liblangtag-common (0.5.7-2ubuntu1) ...
+Setting up liblangtag1:amd64 (0.5.7-2ubuntu1) ...
+Setting up libmythes-1.2-0:amd64 (2:1.2.4-1ubuntu3) ...
+Setting up libneon27-gnutls:amd64 (0.30.1-3build1) ...
+Setting up libpoppler58:amd64 (0.41.0-0ubuntu1.14) ...
+Setting up librdf0:amd64 (1.0.17-1build1) ...
+Setting up uno-libs3 (6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up ure (6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up lp-solve (5.5.0.13-7build2) ...
+Setting up libreoffice-style-colibre (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-style-tango (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-common (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-core (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-base-core (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-base-drivers (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-base (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-calc (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-draw (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-impress (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-math (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-report-builder-bin (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-writer (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-avmedia-backend-gstreamer (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up python3-uno (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+travis_time:end:098a8f9a:start=1600808478343434966,finish=1600808517568241404,duration=39224806438,event=before_installe:start:006414d2port
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  libreoffice-pdfimport
+0 upgraded, 1 newly installed, 0 to remove and 141 not upgraded.
+Need to get 2,824 B of archives.
+After this operation, 12.3 kB of additional disk space will be used.
+Get:1 http://ppa.launchpad.net/libreoffice/ppa/ubuntu xenial/main amd64 libreoffice-pdfimport all 1:6.2.8~rc2-0ubuntu0.16.04.1 [2,824 B]
+Fetched 2,824 B in 0s (13.3 kB/s)
+Selecting previously unselected package libreoffice-pdfimport.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 129801 files and directories currently installed.)
+Preparing to unpack .../libreoffice-pdfimport_1%3a6.2.8~rc2-0ubuntu0.16.04.1_all.deb ...
+Unpacking libreoffice-pdfimport (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+Setting up libreoffice-pdfimport (1:6.2.8~rc2-0ubuntu0.16.04.1) ...
+travis_time:end:006414d2:start=1600808517575686346,finish=1600808520320458482,duration=2744772136,event=before_installe:start:0aa14767plate to settings.json...
+Ensure that all dependencies are up to date...  If this is the first time you have run Etherpad please be patient.
+
+> wd@1.12.1 install /home/travis/build/ether/[secure]/src/node_modules/wd
+> node scripts/build-browser-scripts
+
+added 1127 packages in 10.641s
+Clearing minified cache...
+travis_time:end:0aa14767:start=1600808520328795848,finish=1600808531579941371,duration=11251145523,event=installe:start:1d3d1338e:end:1d3d1338:start=1600808531587413889,finish=1600808531594599059,duration=7185170,event=installe:start:0de58994 install ep_hash_auth
+npm WARN saveError ENOENT: no such file or directory, open '/home/travis/build/ether/[secure]/package.json'
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN enoent ENOENT: no such file or directory, open '/home/travis/build/ether/[secure]/package.json'
+npm WARN [secure] No description
+npm WARN [secure] No repository field.
+npm WARN [secure] No README data
+npm WARN [secure] No license field.
+
++ ep_hash_auth@3.0.1
+added 1 package from 1 contributor and audited 955 packages in 4.122s
+
+62 packages are looking for funding
+  run `npm fund` for details
+
+found 26 vulnerabilities (24 low, 2 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+travis_time:end:0de58994:start=1600808531600139155,finish=1600808536532125707,duration=4931986552,event=installe:start:1acfe0a8ing bin/installDeps.sh has already been run
+Now I will try for 15 seconds to connect to Etherpad on http://localhost:9001
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+[2020-09-22 21:02:16.615] [DEBUG] console - Running on Node v10.18.0 (minimum required Node version: 10.13.0)
+[2020-09-22 21:02:16.740] [INFO] console - All relative paths will be interpreted relative to the identified Etherpad base dir: /home/travis/build/ether/[secure]
+[2020-09-22 21:02:16.740] [INFO] console - Random string used for versioning assets: ebb7d464
+[2020-09-22 21:02:16.741] [DEBUG] AbsolutePaths - Relative path "settings.json" can be rewritten to "/home/travis/build/ether/[secure]/settings.json"
+[2020-09-22 21:02:16.742] [DEBUG] AbsolutePaths - Relative path "credentials.json" can be rewritten to "/home/travis/build/ether/[secure]/credentials.json"
+[2020-09-22 21:02:16.758] [INFO] console - settings loaded from: /home/travis/build/ether/[secure]/settings.json
+[2020-09-22 21:02:16.759] [INFO] console - No credentials file found in /home/travis/build/ether/[secure]/credentials.json. Ignoring.
+[2020-09-22 21:02:16.761] [INFO] console - Using skin "colibris" in dir: /home/travis/build/ether/[secure]/src/static/skins/colibris
+[2020-09-22 21:02:16.761] [INFO] console - Session key file "/home/travis/build/ether/[secure]/SESSIONKEY.txt" not found. Creating with random contents.
+[2020-09-22 21:02:16.762] [WARN] console - DirtyDB is used. This is fine for testing but not recommended for production. File location: /home/travis/build/ether/[secure]/var/dirty.db
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+[2020-09-22 21:02:17.586] [INFO] console - Note: bcrypt library could not be found. bcrypt support will be disabled.
+[2020-09-22 21:02:17.586] [INFO] console - Run "npm install bcrypt" to enable bcrypt
+[2020-09-22 21:02:17.590] [INFO] console - Note: scrypt library could not be found. scrypt support will be disabled.
+[2020-09-22 21:02:17.590] [INFO] console - Run "npm install scrypt" to enable scrypt
+[2020-09-22 21:02:17.590] [INFO] console - Note: argon2 library could not be found. argon2 support will be disabled.
+[2020-09-22 21:02:17.590] [INFO] console - Run "npm install argon2" to enable argon2
+[2020-09-22 21:02:17.883] [INFO] APIHandler - Api key file "/home/travis/build/ether/[secure]/APIKEY.txt" not found. Creating with random contents.
+[2020-09-22 21:02:18.067] [INFO] console - Installed plugins: ep_hash_auth@3.0.1
+[2020-09-22 21:02:18.070] [INFO] console - Report bugs at https://github.com/ether/[secure]/issues
+[2020-09-22 21:02:18.071] [WARN] console - Can't get git version for server header
+ENOENT: no such file or directory, open '/home/travis/build/ether/[secure]/.git/d14db518ae02cf1acdd486d6a18878610db'
+[2020-09-22 21:02:18.071] [WARN] console - Can't get git version for server header
+ENOENT: no such file or directory, open '/home/travis/build/ether/[secure]/.git/d14db518ae02cf1acdd486d6a18878610db'
+[2020-09-22 21:02:18.071] [INFO] console - Your Etherpad version is 1.8.6 ()
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+Node worker_threads not available. Trying to fall back to tiny-worker polyfill...
+Node worker_threads not available. Trying to fall back to tiny-worker polyfill...
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+bash: connect: Connection refused
+bash: /dev/tcp/localhost/9001: Connection refused
+[2020-09-22 21:02:21.191] [INFO] console - You can access your Etherpad instance at http://0.0.0.0:9001/
+[2020-09-22 21:02:21.191] [WARN] console - Admin username and password not set in settings.json.  To access admin please uncomment and edit 'users' in settings.json
+[2020-09-22 21:02:21.191] [WARN] console - Etherpad is running in Development mode.  This mode is slower for users and less secure than production mode.  You should set the NODE_ENV environment variable to production by using: export NODE_ENV=production
+Successfully connected to Etherpad on http://localhost:9001
+Now starting the remote runner
+cat: /tmp/sauce.pid: No such file or directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+travis_time:end:1acfe0a8:start=1600808536537276035,finish=1600808547433280804,duration=10896004769,event=scriptThe command "tests/frontend/travis/runner.sh" exited with 2.
+
+
+Done. Your build exited with 1.

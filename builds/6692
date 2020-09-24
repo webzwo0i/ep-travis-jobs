@@ -1,0 +1,11 @@
+Job #6692.1:  fix
+State:         failed
+Type:          push
+Branch:        skip-test-for-ff52
+Commit:        493d973
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6e884705c89c...493d973c7b3f
+Duration:      1 min 29 sec
+Started:       2020-09-09 20:05:36
+Finished:      2020-09-09 20:07:05
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

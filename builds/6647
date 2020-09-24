@@ -1,0 +1,13 @@
+Build #6647:  plugins: Fix type typo
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        8cf2bca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c3b2e68dad59...8cf2bcaeb4a1
+Duration:      23 min 17 sec
+Started:       2020-09-08 01:48:36
+Finished:      2020-09-08 02:07:27
+
+#6647.1 failed:  18 min 51 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6647.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6647.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

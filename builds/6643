@@ -1,0 +1,12 @@
+Build #6643:  Revert "Delete redundant token2author DB save"
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4263)
+Commit:        028445f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4263
+Duration:      4 min 31 sec
+Started:       2020-09-07 18:24:25
+Finished:      2020-09-07 18:26:57
+
+#6643.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#6643.2 failed:  2 min 31 sec   os: linux, node_js: lts/*, env:

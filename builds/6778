@@ -1,0 +1,13 @@
+Build #6778:  webaccess: Pass `settings.users` to the authenticate hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        80639fd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/250e932f5993...80639fdc6a3b
+Duration:      23 min 30 sec
+Started:       2020-09-15 20:27:46
+Finished:      2020-09-15 20:44:49
+
+#6778.1 failed:  17 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6778.2 failed:  3 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6778.3 failed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

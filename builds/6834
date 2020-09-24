@@ -1,0 +1,13 @@
+Build #6834:  Update version to 1.8.6 and add changelog informations
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        299bd96
+Compare URL:   https://github.com/ether/etherpad-lite/compare/85f52a2f2370...299bd962b615
+Duration:      17 min 13 sec
+Started:       2020-09-18 22:15:46
+Finished:      2020-09-18 22:28:20
+
+#6834.1 failed:  12 min 32 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6834.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6834.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

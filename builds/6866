@@ -1,0 +1,13 @@
+Build #6866:  Refactor startup/shutdown for tests
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a000a93
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a4be577ed1be...a000a93dc644
+Duration:      13 min 59 sec
+Started:       2020-09-22 12:07:43
+Finished:      2020-09-22 12:17:05
+
+#6866.1 failed:  9 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6866.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6866.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

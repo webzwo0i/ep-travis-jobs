@@ -1,0 +1,12 @@
+Build #6745:  security: Check authentication in SecurityManager checkAccess
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4290)
+Commit:        ea95920
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4290
+Duration:      4 min 27 sec
+Started:       2020-09-14 07:58:16
+Finished:      2020-09-14 08:00:50
+
+#6745.1 passed:  1 min 55 sec   os: linux, node_js: lts/*, env:
+#6745.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

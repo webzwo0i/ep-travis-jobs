@@ -1,0 +1,13 @@
+Build #6807:  include hash auth in tests
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4310)
+Commit:        4620e43
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4310
+Duration:      25 min 7 sec
+Started:       2020-09-16 20:59:40
+Finished:      2020-09-16 21:14:45
+
+#6807.1 errored: 50 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6807.2 errored: 11 min 34 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6807.3 errored: 12 min 43 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

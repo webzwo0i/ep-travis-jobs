@@ -1,0 +1,12 @@
+Build #6855:  SessionStore: Don't call callback until cached in DB layer
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4328)
+Commit:        ae655f9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4328
+Duration:      4 min 33 sec
+Started:       2020-09-22 00:18:04
+Finished:      2020-09-22 00:20:30
+
+#6855.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6855.2 passed:  2 min 26 sec   os: linux, node_js: lts/*, env:

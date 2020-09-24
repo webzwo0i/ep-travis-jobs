@@ -1,0 +1,12 @@
+Build #6859:  Refactor startup/shutdown for tests
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4329)
+Commit:        f1a9d20
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4329
+Duration:      4 min 33 sec
+Started:       2020-09-22 00:37:46
+Finished:      2020-09-22 00:40:21
+
+#6859.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#6859.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

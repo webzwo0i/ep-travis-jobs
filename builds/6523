@@ -1,0 +1,12 @@
+Build #6523:  Update .gitignore
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        99e6822
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      5 min 15 sec
+Started:       2020-09-05 16:15:22
+Finished:      2020-09-05 16:18:38
+
+#6523.1 passed:  2 min 21 sec   os: linux, node_js: lts/*
+#6523.2 passed:  2 min 54 sec   os: linux, node_js: lts/*

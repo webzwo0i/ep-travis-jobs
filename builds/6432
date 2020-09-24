@@ -1,0 +1,13 @@
+Build #6432:  GroupManager: typo during session deletion
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4231)
+Commit:        26b28d6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4231
+Duration:      13 min 34 sec
+Started:       2020-08-26 22:57:41
+Finished:      2020-08-26 23:06:42
+
+#6432.1 passed:  9 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6432.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6432.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

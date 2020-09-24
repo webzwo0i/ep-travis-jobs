@@ -1,0 +1,11 @@
+Job #6400.1:  fix regex
+State:         started
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        cf97bd1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f85102dd67de...cf97bd19fd76
+Duration:      6 min 55 sec
+Started:       2020-08-13 01:39:37
+Finished:      not yet
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

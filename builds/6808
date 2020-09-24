@@ -1,0 +1,13 @@
+Build #6808:  using git instead of npm so I get latest test code
+State:         failed
+Type:          push
+Branch:        testings
+Commit:        ceb4cc9
+Compare URL:   https://github.com/ether/etherpad-lite/commit/ceb4cc9496d0
+Duration:      12 min 59 sec
+Started:       2020-09-16 23:13:44
+Finished:      2020-09-16 23:22:03
+
+#6808.1 failed:  8 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6808.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6808.3 failed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

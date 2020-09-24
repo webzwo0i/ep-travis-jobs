@@ -1,0 +1,13 @@
+Build #6693:  skip responsivness test on firefox 52.0/windows
+State:         passed
+Type:          push
+Branch:        skip-test-for-ff52
+Commit:        cec70ea
+Compare URL:   https://github.com/ether/etherpad-lite/commit/cec70ead2380
+Duration:      14 min 31 sec
+Started:       2020-09-09 20:10:03
+Finished:      2020-09-09 20:20:00
+
+#6693.1 passed:  9 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6693.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6693.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

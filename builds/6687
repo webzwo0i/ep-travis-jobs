@@ -1,0 +1,13 @@
+Build #6687:  Package Lock update
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5dfae62
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c8361a211a1e6bfbbc006933f48d48ca51857c71...5dfae625b9c8c0a2e10941a4645d8911608c58df
+Duration:      14 min 5 sec
+Started:       2020-09-09 19:30:03
+Finished:      2020-09-09 19:39:39
+
+#6687.1 passed:  9 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6687.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6687.3 failed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

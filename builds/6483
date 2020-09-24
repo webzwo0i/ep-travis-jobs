@@ -1,0 +1,13 @@
+Build #6483:  CSS: User list: Add missing semicolon to CSS property (#4244)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        b364d12
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3139dd203779...b364d12d9b96
+Duration:      16 min 51 sec
+Started:       2020-09-04 19:52:07
+Finished:      2020-09-04 20:04:30
+
+#6483.1 failed:  12 min 13 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6483.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6483.3 failed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

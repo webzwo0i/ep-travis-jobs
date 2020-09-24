@@ -1,0 +1,13 @@
+Build #6681:  Merge branch 'release/1.8.5'
+State:         passed
+Type:          push
+Branch:        master
+Commit:        f3d950c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6a0f73d1379b...f3d950c664b0
+Duration:      14 min 37 sec
+Started:       2020-09-08 23:04:34
+Finished:      2020-09-08 23:14:36
+
+#6681.1 passed:  10 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6681.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6681.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

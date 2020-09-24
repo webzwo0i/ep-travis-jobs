@@ -1,0 +1,12 @@
+Build #6594:  Create coverall.js
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        60084c2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      4 min 47 sec
+Started:       2020-09-06 19:31:53
+Finished:      2020-09-06 19:34:36
+
+#6594.1 passed:  2 min 6 sec    os: linux, node_js: lts/*
+#6594.2 passed:  2 min 41 sec   os: linux, node_js: lts/*

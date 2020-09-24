@@ -1,0 +1,13 @@
+Build #6445:  tests: responsiveness - 77 chars on 30000 lines
+State:         failed
+Type:          push
+Branch:        fix-responsivnesstest
+Commit:        1ef0de4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4e2c31fee6f6...1ef0de482dd7
+Duration:      16 min 10 sec
+Started:       2020-08-28 06:23:26
+Finished:      2020-08-28 06:35:14
+
+#6445.1 failed:  11 min 44 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6445.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6445.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

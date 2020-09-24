@@ -1,0 +1,13 @@
+Build #6467:  bio update
+State:         failed
+Type:          push
+Branch:        import-doc-line-breaks
+Commit:        2d17378
+Compare URL:   https://github.com/ether/etherpad-lite/commit/2d17378eb30b
+Duration:      16 min 13 sec
+Started:       2020-09-02 20:32:44
+Finished:      2020-09-02 20:35:18
+
+#6467.1 failed:  11 min 38 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6467.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6467.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

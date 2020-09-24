@@ -1,0 +1,13 @@
+Build #6731:  Update responsiveness.js
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        4434e54
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8b0baa96797718985b0557d25d4696c19220c309...4434e54368d8ba4be23d665caa09c216ea16d9ea
+Duration:      13 min 38 sec
+Started:       2020-09-13 19:31:58
+Finished:      2020-09-13 19:41:03
+
+#6731.1 failed:  9 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6731.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6731.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

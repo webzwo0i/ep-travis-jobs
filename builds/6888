@@ -1,0 +1,13 @@
+Build #6888:  include plugins in tests
+State:         failed
+Type:          push
+Branch:        test-plugins
+Commit:        659d372
+Compare URL:   https://github.com/ether/etherpad-lite/commit/659d372ae45d
+Duration:      14 min 5 sec
+Started:       2020-09-23 11:00:25
+Finished:      2020-09-23 11:10:04
+
+#6888.1 failed:  9 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6888.2 passed:  1 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6888.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

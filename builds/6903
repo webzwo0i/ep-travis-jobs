@@ -1,0 +1,12 @@
+Build #6903:  socket.io: Don't require express_sid if authn not required
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4342)
+Commit:        1fdf7bf
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4342
+Duration:      4 min 38 sec
+Started:       2020-09-23 23:33:46
+Finished:      2020-09-23 23:36:20
+
+#6903.1 passed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#6903.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

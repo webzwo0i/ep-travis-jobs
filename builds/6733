@@ -1,0 +1,13 @@
+Build #6733:  packaging: remove pad_docbar.js (#4286)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ec6b983
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d0a16d23cbcb...ec6b983917a2
+Duration:      12 min 59 sec
+Started:       2020-09-13 22:47:49
+Finished:      2020-09-13 22:56:15
+
+#6733.1 failed:  8 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6733.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6733.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

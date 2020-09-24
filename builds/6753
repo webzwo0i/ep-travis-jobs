@@ -1,0 +1,13 @@
+Build #6753:  fix
+State:         failed
+Type:          push
+Branch:        import-doc-line-breaks
+Commit:        0466878
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eee8d5647731...0466878d73b3
+Duration:      18 min 57 sec
+Started:       2020-09-15 19:11:00
+Finished:      2020-09-15 19:22:53
+
+#6753.1 failed:  14 min 21 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6753.2 failed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6753.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

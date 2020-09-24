@@ -1,0 +1,12 @@
+Build #6813:  async-ify more functions, and await completion
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4313)
+Commit:        73e34b5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4313
+Duration:      4 min 32 sec
+Started:       2020-09-17 03:26:37
+Finished:      2020-09-17 03:29:05
+
+#6813.1 passed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#6813.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:

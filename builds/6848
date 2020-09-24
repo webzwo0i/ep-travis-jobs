@@ -1,0 +1,13 @@
+Build #6848:  Merge remote-tracking branch 'origin/release/1.8.6' into develop
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        91f25b5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3886e95c83af...91f25b51ff6b
+Duration:      16 min 38 sec
+Started:       2020-09-21 11:48:29
+Finished:      2020-09-21 12:00:34
+
+#6848.1 failed:  12 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6848.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6848.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

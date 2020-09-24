@@ -1,0 +1,13 @@
+Build #6871:  PadMessageHandler: Make sessioninfo tracking more robust
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        6011ef4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3365e944bf61...6011ef426f12
+Duration:      13 min 49 sec
+Started:       2020-09-22 15:30:39
+Finished:      2020-09-22 15:33:41
+
+#6871.1 failed:  8 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6871.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6871.3 passed:  3 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

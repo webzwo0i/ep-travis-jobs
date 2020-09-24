@@ -1,0 +1,12 @@
+Build #6798:  security: Fix authorization bypass vulnerability
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4305)
+Commit:        1dfd546
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4305
+Duration:      4 min 33 sec
+Started:       2020-09-15 22:36:57
+Finished:      2020-09-15 22:39:32
+
+#6798.1 passed:  1 min 58 sec   os: linux, node_js: lts/*, env:
+#6798.2 passed:  2 min 35 sec   os: linux, node_js: lts/*, env:

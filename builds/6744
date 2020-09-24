@@ -1,0 +1,12 @@
+Build #6744:  Pad: Disable toolbar and import/export when reconnecting
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4278)
+Commit:        f5b5380
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4278
+Duration:      4 min 29 sec
+Started:       2020-09-14 07:57:25
+Finished:      2020-09-14 08:00:14
+
+#6744.1 passed:  1 min 53 sec   os: linux, node_js: lts/*, env:
+#6744.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:

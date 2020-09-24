@@ -1,0 +1,13 @@
+Build #6531:  tests: npminstall before update
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        ec01e4c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2bf076043f6c4d49fdc18f4e3163390aacb8d314...ec01e4c9478930a1411b2c602454f37c4bbbc1ee
+Duration:      16 min 7 sec
+Started:       2020-09-05 19:28:23
+Finished:      2020-09-05 19:40:07
+
+#6531.1 failed:  11 min 35 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6531.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6531.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

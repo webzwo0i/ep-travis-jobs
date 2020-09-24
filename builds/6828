@@ -1,0 +1,13 @@
+Build #6828:  tests: Plugin backend tests in ci (#4314)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        85f52a2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dfe03689107c27d49d9ce9aaf44a07ba0de5627b...85f52a2f23704c4fcee54d02189faa0a8cda1a6f
+Duration:      13 min 19 sec
+Started:       2020-09-18 19:34:47
+Finished:      2020-09-18 19:43:29
+
+#6828.1 failed:  8 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6828.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6828.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

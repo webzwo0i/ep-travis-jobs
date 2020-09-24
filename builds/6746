@@ -1,0 +1,12 @@
+Build #6746:  fix: backward compatibility for plugins
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        2c4ac9e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      4 min 30 sec
+Started:       2020-09-14 11:19:11
+Finished:      2020-09-14 11:21:42
+
+#6746.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#6746.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

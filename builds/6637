@@ -1,0 +1,13 @@
+Build #6637:  timesup after 90 sec, hopefully browser has crashed in the meantime
+State:         failed
+Type:          push
+Branch:        sl-browser-killed
+Commit:        ccae212
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2cb5fb8be84b...ccae212b2d4b
+Duration:      8 min 7 sec
+Started:       2020-09-07 15:00:48
+Finished:      2020-09-07 15:04:31
+
+#6637.1 failed:  3 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6637.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6637.3 failed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

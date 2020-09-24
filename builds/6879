@@ -1,0 +1,33 @@
+Build #6879:  we only support v10.13+ .....
+State:         canceled
+Type:          push
+Branch:        test-node-version
+Commit:        66171d1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b4052824db71...66171d14db51
+Duration:      32 min 56 sec
+Started:       2020-09-22 22:55:56
+Finished:      2020-09-22 23:03:39
+
+#6879.1 failed:  1 min 56 sec   os: linux, node_js: 10.13.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.2 failed:  1 min 59 sec   os: linux, node_js: 10.14.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.3 failed:  1 min 55 sec   os: linux, node_js: 10.14.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.4 failed:  1 min 57 sec   os: linux, node_js: 10.14.2, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.5 failed:  1 min 56 sec   os: linux, node_js: 10.15.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.6 failed:  1 min 57 sec   os: linux, node_js: 10.15.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.7 failed:  2 min          os: linux, node_js: 10.15.2, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.8 failed:  1 min 52 sec   os: linux, node_js: 10.15.3, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.9 failed:  1 min 56 sec   os: linux, node_js: 10.16.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.10 failed: 1 min 53 sec   os: linux, node_js: 10.16.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.11 failed: 1 min 58 sec   os: linux, node_js: 10.16.2, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.12 failed: 1 min 50 sec   os: linux, node_js: 10.16.3, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.13 failed: 1 min 56 sec   os: linux, node_js: 10.17.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.14 failed: 1 min 54 sec   os: linux, node_js: 10.18.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.15 failed: 1 min 51 sec   os: linux, node_js: 10.18.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.16 canceled: 57 sec         os: linux, node_js: 10.19.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.17 canceled: 56 sec         os: linux, node_js: 10.20.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.18 canceled: 55 sec         os: linux, node_js: 10.20.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.19 canceled: 43 sec         os: linux, node_js: 10.21.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.20 canceled: 35 sec         os: linux, node_js: 10.22.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.21 canceled: 10 min 34 sec  os: linux, node_js: 10.22.1, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.22 canceled: 10 min 34 sec  os: linux, node_js: 10.13.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6879.23 canceled: 10 min 33 sec  os: linux, node_js: 10.13.0, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

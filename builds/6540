@@ -1,0 +1,13 @@
+Build #6540:  Update README.md
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4243)
+Commit:        373f6b0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4243
+Duration:      6 min 52 sec
+Started:       2020-09-05 20:38:50
+Finished:      2020-09-05 20:41:43
+
+#6540.1 passed:  2 min 3 sec    os: linux, node_js: lts/*
+#6540.2 passed:  2 min 52 sec   os: linux, node_js: lts/*
+#6540.3 failed:  1 min 57 sec   os: linux, node_js: lts/*

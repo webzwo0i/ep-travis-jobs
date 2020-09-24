@@ -1,0 +1,12 @@
+Build #6861:  PadMessageHandler: Make sessioninfo tracking more robust
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4307)
+Commit:        af7f047
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4307
+Duration:      4 min 40 sec
+Started:       2020-09-22 01:04:40
+Finished:      2020-09-22 01:07:12
+
+#6861.1 passed:  2 min 8 sec    os: linux, node_js: lts/*, env:
+#6861.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,11 @@
+Job #6403.1:  0 is undefined...
+State:         failed
+Type:          push
+Branch:        workaround-dom-latency-in-tests
+Commit:        f28554e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b53a28b0f772...f28554e3b954
+Duration:      6 min 26 sec
+Started:       2020-08-13 03:02:53
+Finished:      2020-08-13 03:09:19
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

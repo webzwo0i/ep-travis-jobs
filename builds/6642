@@ -1,0 +1,12 @@
+Build #6642:  plugins: Move plugin definitions to avoid monkey patching
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4259)
+Commit:        16f40b0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4259
+Duration:      4 min 41 sec
+Started:       2020-09-07 18:21:04
+Finished:      2020-09-07 18:23:38
+
+#6642.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6642.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:
