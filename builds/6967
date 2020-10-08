@@ -1,0 +1,13 @@
+Build #6967:  tests: support even slower safari
+State:         failed
+Type:          push
+Branch:        even-slower-safari
+Commit:        6e231f3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e4dda630e3d8...6e231f366532
+Duration:      14 min 19 sec
+Started:       2020-09-26 23:00:36
+Finished:      2020-09-26 23:10:15
+
+#6967.1 failed:  9 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6967.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6967.3 failed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

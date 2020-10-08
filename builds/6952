@@ -1,0 +1,13 @@
+Build #6952:  PadMessageHandler: Logging improvements
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        3bb71e1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4332affba626...3bb71e14d10b
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-26 20:37:14
+
+#6952.1 canceled: 7 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6952.2 canceled: 7 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6952.3 canceled: 7 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

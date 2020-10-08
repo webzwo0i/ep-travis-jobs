@@ -1,0 +1,12 @@
+Build #6939:  Bump Etherpad version in src/package-lock.json
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4352)
+Commit:        d8366cb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4352
+Duration:      4 min 41 sec
+Started:       2020-09-26 19:22:51
+Finished:      2020-09-26 19:25:23
+
+#6939.1 passed:  2 min 9 sec    os: linux, node_js: lts/*, env:
+#6939.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

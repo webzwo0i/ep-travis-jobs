@@ -1,0 +1,13 @@
+Build #6914:  security: Don't require express_sid if authn not required
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        94f9441
+Compare URL:   https://github.com/ether/etherpad-lite/compare/53fd0b4f98ba...94f944160dcf
+Duration:      14 min 59 sec
+Started:       2020-09-24 11:48:08
+Finished:      2020-09-24 11:59:02
+
+#6914.1 passed:  10 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6914.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6914.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

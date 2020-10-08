@@ -1,0 +1,16 @@
+Build #6962:  tests: Check for true/false, not truthiness
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        9f63d9b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/90adc5028926...9f63d9b76a08
+Duration:      27 min 24 sec
+Started:       2020-09-26 22:40:41
+Finished:      2020-09-26 22:53:00
+
+#6962.1 failed:  12 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6962.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6962.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6962.4 passed:  5 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6962.5 passed:  2 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6962.6 passed:  2 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

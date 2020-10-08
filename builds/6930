@@ -1,0 +1,13 @@
+Build #6930:  security: Fix authz check for pad names with encoded characters
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        72ed181
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3c9ae57bb33f...72ed1816ecae
+Duration:      13 min 15 sec
+Started:       2020-09-26 13:18:01
+Finished:      2020-09-26 13:26:38
+
+#6930.1 passed:  8 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6930.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6930.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

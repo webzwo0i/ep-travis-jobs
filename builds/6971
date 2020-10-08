@@ -1,0 +1,14 @@
+Build #6971:  webaccess: Move pre-authn authz check to a separate hook
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4362)
+Commit:        1a56fd2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4362
+Duration:      9 min 31 sec
+Started:       2020-09-26 23:12:37
+Finished:      2020-09-26 23:17:59
+
+#6971.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6971.2 passed:  2 min 27 sec   os: linux, node_js: lts/*, env:
+#6971.3 passed:  2 min 13 sec   os: linux, node_js: lts/*, env:
+#6971.4 passed:  2 min 44 sec   os: linux, node_js: lts/*, env:

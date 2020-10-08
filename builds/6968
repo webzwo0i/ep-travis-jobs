@@ -1,0 +1,16 @@
+Build #6968:  tests: support even slower safari
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4361)
+Commit:        fb30a77
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4361
+Duration:      3 min 45 sec
+Started:       2020-09-26 23:03:15
+Finished:      2020-09-26 23:06:40
+
+#6968.1 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6968.2 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6968.3 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6968.4 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6968.5 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6968.6 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

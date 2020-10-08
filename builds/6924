@@ -1,0 +1,12 @@
+Build #6924:  tests: Rewrite import/export tests to use async and supertest
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4351)
+Commit:        3dda9f6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4351
+Duration:      4 min 40 sec
+Started:       2020-09-26 02:48:32
+Finished:      2020-09-26 02:51:05
+
+#6924.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6924.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,14 @@
+Build #6964:  webaccess: Log all authentication successes/failures
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4358)
+Commit:        ae9c890
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4358
+Duration:      2 min 26 sec
+Started:       2020-09-26 22:57:56
+Finished:      2020-09-26 23:00:21
+
+#6964.1 errored: 36 sec         os: linux, node_js: lts/*, env:
+#6964.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#6964.3 errored: 38 sec         os: linux, node_js: lts/*, env:
+#6964.4 errored: 36 sec         os: linux, node_js: lts/*, env:

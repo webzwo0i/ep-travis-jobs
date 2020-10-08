@@ -1,0 +1,13 @@
+Build #6953:  Bump Etherpad version in src/package-lock.json
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        889a3f7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3bb71e14d10b...889a3f726182
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-26 20:37:15
+
+#6953.1 canceled: 7 min 50 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6953.2 canceled: 7 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6953.3 canceled: 7 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

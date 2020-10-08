@@ -1,0 +1,14 @@
+Build #6961:  tests: Check for true/false, not truthiness
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4359)
+Commit:        1fbc45c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4359
+Duration:      9 min 30 sec
+Started:       2020-09-26 22:36:39
+Finished:      2020-09-26 22:39:19
+
+#6961.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6961.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:
+#6961.3 passed:  2 min 13 sec   os: linux, node_js: lts/*, env:
+#6961.4 failed:  2 min 39 sec   os: linux, node_js: lts/*, env:

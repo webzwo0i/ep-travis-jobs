@@ -1,0 +1,13 @@
+Build #6941:  PadMessageHandler: Avoid redundant access checks
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        6ed11b7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e3aa9edffca...6ed11b7605aa
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-26 19:36:40
+
+#6941.1 canceled: 7 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6941.2 canceled: 7 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6941.3 canceled: 7 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

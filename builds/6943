@@ -1,0 +1,16 @@
+Build #6943:  just remove files not folder
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4339)
+Commit:        0c06b91
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4339
+Duration:      23 min 5 sec
+Started:       2020-09-26 19:48:38
+Finished:      2020-09-26 19:57:24
+
+#6943.1 passed:  8 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6943.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6943.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6943.4 passed:  4 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6943.5 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6943.6 passed:  2 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

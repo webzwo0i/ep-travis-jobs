@@ -1,0 +1,16 @@
+Build #6970:  webaccess: Log all authentication successes/failures
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        411b278
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ea4b9bf7d79d...411b278881e0
+Duration:      22 min 47 sec
+Started:       2020-09-26 23:32:19
+Finished:      2020-09-26 23:41:06
+
+#6970.1 failed:  8 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6970.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6970.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6970.4 passed:  4 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6970.5 passed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6970.6 passed:  2 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

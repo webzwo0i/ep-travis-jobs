@@ -1,0 +1,12 @@
+Build #6947:  PadMessageHandler: Logging improvements
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4356)
+Commit:        8a3153c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4356
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-26 19:48:24
+
+#6947.1 canceled: 19 min 21 sec  os: linux, node_js: lts/*, env:
+#6947.2 canceled: 19 min 20 sec  os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #6918:  security: Fix authz check for pad names with encoded characters
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4346)
+Commit:        c77d56a
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4346
+Duration:      4 min 44 sec
+Started:       2020-09-24 21:19:43
+Finished:      2020-09-24 21:22:17
+
+#6918.1 passed:  2 min 10 sec   os: linux, node_js: lts/*, env:
+#6918.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

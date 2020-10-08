@@ -1,0 +1,16 @@
+Build #6911:  test with and without plugins
+State:         failed
+Type:          push
+Branch:        test-plugins
+Commit:        d2e44f4
+Compare URL:   https://github.com/ether/etherpad-lite/compare/c3ff9020ff8e...d2e44f4f6532
+Duration:      31 min 49 sec
+Started:       2020-09-24 12:45:58
+Finished:      2020-09-24 12:57:55
+
+#6911.1 passed:  10 min 26 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6911.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6911.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6911.4 failed:  11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6911.5 passed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6911.6 passed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

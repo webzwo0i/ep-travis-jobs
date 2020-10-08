@@ -1,0 +1,16 @@
+Build #6932:  Merge branch 'develop' of github.com:ether/etherpad-lite into test-plugins
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4339)
+Commit:        a2623b5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4339
+Duration:      29 min 31 sec
+Started:       2020-09-26 17:44:24
+Finished:      2020-09-26 17:56:14
+
+#6932.1 passed:  8 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6932.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6932.3 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6932.4 failed:  11 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6932.5 passed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6932.6 passed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

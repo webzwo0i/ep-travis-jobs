@@ -1,0 +1,12 @@
+Build #6949:  webaccess: Split authFailure hook into authnFailure and authzFailure
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4348)
+Commit:        6732b5e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4348
+Duration:      4 min 51 sec
+Started:       2020-09-26 20:03:00
+Finished:      2020-09-26 20:07:37
+
+#6949.1 passed:  2 min 14 sec   os: linux, node_js: lts/*, env:
+#6949.2 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:

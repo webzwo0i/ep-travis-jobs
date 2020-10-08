@@ -1,0 +1,12 @@
+Build #6909:  feat: test case for nested pad
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        9285571
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      4 min 47 sec
+Started:       2020-09-24 08:45:59
+Finished:      2020-09-24 08:48:41
+
+#6909.1 passed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#6909.2 passed:  2 min 42 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,16 @@
+Build #6975:  trying to add a delay to allow browsers to catch up with responsiveness test
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4363)
+Commit:        9136a8b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4363
+Duration:      21 min 44 sec
+Started:       2020-09-27 15:37:06
+Finished:      2020-09-27 15:45:08
+
+#6975.1 passed:  7 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6975.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6975.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6975.4 passed:  4 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6975.5 passed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6975.6 passed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

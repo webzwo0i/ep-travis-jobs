@@ -1,0 +1,16 @@
+Build #6958:  readd responiveness coverage
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4339)
+Commit:        4329a33
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4339
+Duration:      3 min 41 sec
+Started:       2020-09-26 20:53:30
+Finished:      2020-09-26 20:56:11
+
+#6958.1 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6958.2 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6958.3 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6958.4 errored: 36 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6958.5 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6958.6 errored: 36 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

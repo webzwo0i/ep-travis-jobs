@@ -1,0 +1,12 @@
+Build #6916:  security: Enable authorize plugins to grant modify-only access
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4343)
+Commit:        76737d0
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4343
+Duration:      4 min 39 sec
+Started:       2020-09-24 19:20:57
+Finished:      2020-09-24 19:23:31
+
+#6916.1 failed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#6916.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:

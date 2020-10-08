@@ -1,3 +1,241 @@
+#7146 passed:    develop Localisation updates from https://translatewiki.net.
+#7145 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to support legacy hook functions
+#7144 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to handle legacy hook functions
+#7143 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to handle legacy hook functions
+#7142 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to handle legacy hook functions
+#7141 passed:    develop Security: FEATURE REMOVAL: Remove all plain text password logic and ui (#4178)
+#7140 passed:    develop Security: FEATURE REMOVAL: Remove all plain text password logic and ui (#4178)
+#7139 passed:    develop HTML export: Await async hook completion before processing results
+#7138 canceled:  develop socketio: Mimic what Express does to get client IP address
+#7137 passed:    develop Make the aceAttribClasses hook harder to misuse
+#7136 passed:    develop (PR #4402) CSP: Disable the indexCustomInlineScripts hook
+#7135 failed:    develop (PR #4400) import: Ajaxify pad import
+#7134 failed:    develop (PR #4400) import: Ajaxify pad import
+#7133 passed:    develop (PR #4178) Add a scary warning to CHANGELOG.md
+#7132 failed:    develop (PR #4178) Delete more pad password stuff
+#7131 passed:    develop (PR #4178) `pad.permissionDenied` is still used for authz failures
+#7130 passed:    develop (PR #4399) socketio: Mimic what Express does to get client IP address
+#7129 passed:    develop (PR #4398) Make the aceAttribClasses hook harder to misuse
+#7128 passed:    develop (PR #4397) HTML export: Await async hook completion before processing results
+#7127 passed:    develop (PR #4397) HTML export: Wait for async hook completion before processing results
+#7126 passed:    develop (PR #4178) remove language string
+#7125 passed:    develop tests: re-enable docker tests in travis (#4395)
+#7124 passed:    develop tests: re-enable docker tests in travis (#4395)
+#7123 passed:    develop (PR #4395) hrm how about this
+#7122 passed:    docker-travis hrm how about this
+#7121 canceled:  develop (PR #4395) re-enable docker tests in travis
+#7120 canceled:  docker-travis re-enable docker tests in travis
+#7119 passed:    develop legacySupport: Run node 10 with '--experimental_worker' flags (#4392)
+#7118 passed:    workaround-dom-latency add test for #4389
+#7117 passed:    develop (PR #4392) Use dedicated function to retrieve node/npm program version
+#7116 failed:    develop (PR #4292) fix: remove unnecessary log
+#7115 failed:    develop (PR #4292) feat: getFaviconAddress test case
+#7114 passed:    develop tests: Disable non-test logging unless level <= DEBUG
+#7113 errored:   develop Update `CHANGELOG.md` with the changes so far (#4393)
+#7112 failed:    develop (PR #4292) Merge branch 'develop' into fix/static_files
+#7111 failed:    develop (PR #4390) rename suite so that the hooks do not interfere
+#7110 failed:    fix-pad-follow-contents rename suite so that the hooks do not interfere
+#7109 failed:    develop (PR #4390) need to wait, so that the changes are not merged into one changeset
+#7108 failed:    fix-pad-follow-contents need to wait, so that the changes are not merged into one changeset
+#7107 failed:    develop (PR #4390) increase helper.waitFor time limits
+#7106 failed:    fix-pad-follow-contents increase helper.waitFor time limits
+#7105 failed:    fix-pad-follow-contents increase timeout for test, not for helper.waitFor
+#7104 failed:    develop (PR #4390) increase timeout for test, not for helper.waitFor
+#7103 failed:    develop (PR #4390) fix
+#7102 failed:    fix-pad-follow-contents fix
+#7101 passed:    develop (PR #4393) Update `CHANGELOG.md` with the changes so far
+#7100 passed:    develop (PR #4392) Run node 10 with '--experimental_worker' flags
+#7099 passed:    develop (PR #4391) tests: Disable non-test logging unless level <= DEBUG
+#7098 failed:    develop (PR #4390) add timeout when going to timeslider
+#7097 failed:    fix-pad-follow-contents add timeout when going to timeslider
+#7096 passed:    develop (PR #4391) tests: Disable non-test logging unless level <= DEBUG
+#7095 passed:    develop import: Replace the `allowAnyoneToImport` check with `userCanModify`
+#7094 failed:    develop express: Move general Express setup from `webaccess.js`
+#7093 failed:    develop (PR #4390) add test coverage
+#7092 failed:    fix-pad-follow-contents add test coverage
+#7091 passed:    develop (PR #4383) import: Replace the `allowAnyoneToImport` check with `userCanModify`
+#7090 passed:    develop express: Move general Express setup from `webaccess.js`
+#7089 failed:    develop (PR #4390) timeslider follow pad contents: only goToLineNumber if it exists
+#7088 failed:    fix-pad-follow-contents timeslider follow pad contents: only goToLineNumber if it exists
+#7087 failed:    develop Localisation updates from https://translatewiki.net.
+#7086 passed:    develop (PR #4383) import: Replace the `allowAnyoneToImport` check with `userCanModify`
+#7085 passed:    develop (PR #4383) import: Replace the `allowAnyoneToImport` check with `userCanModify`
+#7084 passed:    develop (PR #4386) express: Move general Express setup from `webaccess.js`
+#7083 passed:    develop (PR #4386) express: Move general Express setup from `webaccess.js`
+#7082 failed:    develop cookies: Use `SameSite=None` if in an iframe from another site
+#7081 passed:    develop cookies: Use `SameSite=None` if in an iframe from another site
+#7080 passed:    develop (PR #4386) express: Move general Express setup from `webaccess.js`
+#7079 passed:    develop Localisation updates from https://translatewiki.net.
+#7078 passed:    develop (PR #4384) cookies: Use `SameSite=None` if in an iframe from another site
+#7077 passed:    develop (PR #4383) import: Replace the `allowAnyoneToImport` check with `userCanModify`
+#7076 failed:    develop Localisation updates from https://translatewiki.net.
+#7075 failed:    develop Localisation updates from https://translatewiki.net.
+#7074 passed:    develop (PR #4383) import: Replace the `allowAnyoneToImport` check with `userCanModify`
+#7073 passed:    develop security: Support proxy with rate limiting and include CI test coverage for nginx rev proxy (#4373)
+#7072 passed:    develop security: Support proxy with rate limiting and include CI test coverage for nginx rev proxy (#4373)
+#7071 passed:    develop i18n: Localize `/admin` pages (#4380)
+#7070 passed:    develop (PR #4292) remove unnecessary file log
+#7069 passed:    develop (PR #4292) remove unnecessary description
+#7068 passed:    develop (PR #4292) Merge branch 'fix/static_files' of https://github.com/HMarzban/etherpad-lite into fix/static_files
+#7067 passed:    develop (PR #4292) Merge branch 'develop' into fix/static_files
+#7066 passed:    develop (PR #4380) Localize `/admin` pages
+#7065 passed:    develop webaccess: Exempt `/favicon.ico` and `/locales.json` from auth checks
+#7064 failed:    debug-self-signed-cert run server in background
+#7063 canceled:  debug-self-signed-cert test self-signed cert
+#7062 failed:    develop webaccess: Exempt `/favicon.ico` and `/locales.json` from auth checks
+#7061 passed:    develop (PR #4373) remoteAddress[client.id] is set after connection is established, so it's always available in handleMessage
+#7060 passed:    fix-rate-limit remoteAddress[client.id] is set after connection is established, so it's always available in handleMessage
+#7059 passed:    develop package updates: update deps and resolve some potential security issues (#4369)
+#7058 passed:    develop (PR #4371) webaccess: Exempt `/favicon.ico` and `/locales.json` from auth checks
+#7057 failed:    develop package updates: update deps and resolve some potential security issues (#4369)
+#7056 passed:    develop (PR #4373) remoteAddress[client.id] is set after connection is established, so it's always available in handleMessage
+#7055 failed:    fix-rate-limit remoteAddress[client.id] is set after connection is established, so it's always available in handleMessage
+#7054 passed:    develop (PR #3981) more secure cookies
+#7053 passed:    develop (PR #3981) more secure cookies
+#7052 passed:    develop (PR #4178) remove all password logic and ui
+#7051 failed:    debug-select-formatting some debug logs
+#7050 passed:    develop (PR #4373) run docker exec without -d
+#7049 failed:    fix-rate-limit run docker exec without -d
+#7048 failed:    fix-rate-limit remove unnecessary package from docker image
+#7047 passed:    fix-rate-limit in case of reverse proxy setup use client.handshake.headers['x-forwarded-for'] and not client.handshake.address during rate limiting
+#7046 failed:    fix-rate-limit add test for ratelimit
+#7045 failed:    fix-ratelimit fix
+#7044 failed:    develop (PR #3953) update jquery autosize which doesn't suffer from CSP related issues
+#7043 failed:    fix-ratelimit debug
+#7042 failed:    fix-ratelimit debug
+#7041 failed:    fix-ratelimit remove sudo
+#7040 failed:    fix-ratelimit typo
+#7039 errored:   fix-ratelimit print settings.json
+#7038 failed:    fix-ratelimit typo
+#7037 errored:   fix-ratelimit use environment variables for docker
+#7036 failed:    fix-ratelimit use different pads to circumvent race condition in etherpad-cli-client
+#7035 failed:    fix-ratelimit fix path
+#7034 errored:   fix-ratelimit this is awful...custom Dockerfile and settings.json.docker only for this test
+#7033 failed:    fix-ratelimit fix
+#7032 errored:   fix-ratelimit remove debug log
+#7031 errored:   fix-ratelimit in case of trustProxy=true don't use client.handshake.address
+#7030 errored:   fix-ratelimit also send changesets via another IP
+#7029 passed:    develop (PR #4371) webaccess: Exempt `/favicon.ico` and `/locales.json` from auth checks
+#7028 failed:    develop Localisation updates from https://translatewiki.net.
+#7027 canceled:  fix-ratelimit add test for rate limit
+#7026 passed:    develop Localisation updates from https://translatewiki.net.
+#7025 failed:    fix-ratelimit docker into background without -d
+#7024 failed:    fix-ratelimit add more debug info
+#7023 failed:    fix-ratelimit add debug log
+#7022 failed:    fix-ratelimit test should fail with old behaviour
+#7021 failed:    fix-ratelimit change from 100ms to 101ms
+#7020 failed:    fix-ratelimit fix exit code handling
+#7019 failed:    fix-ratelimit in case of reverse proxy use ip from x-forwarded-for header
+#7018 failed:    fix-ratelimit add test for rate limit
+#7017 errored:   fix-rate-limit add sleep
+#7016 failed:    fix-ratelimit fix
+#7015 failed:    fix-ratelimit run installDeps
+#7014 failed:    fix-ratelimit fix require path
+#7013 failed:    fix-ratelimit add exit code
+#7012 failed:    fix-ratelimit fix require path
+#7011 failed:    fix-ratelimit package-lock
+#7010 errored:   fix-ratelimit Test should fail in case proxy IP is taken
+#7009 errored:   fix-ratelimit add etherpad-cli-client to dependencies
+#7008 failed:    fix-ratelimit fix
+#7007 canceled:  fix-ratelimit add test
+#7006 passed:    develop feature: New user-specific `readOnly` and `canCreate` settings (#4370)
+#7005 passed:    develop webaccess: Log hook errors
+#7004 passed:    develop (PR #4371) webaccess: Exempt `/favicon.ico` and `/locales.json` from auth checks
+#7003 passed:    develop (PR #4370) New user-specific `readOnly` and `canCreate` settings
+#7002 passed:    develop (PR #4367) webaccess: Log hook errors
+#7001 passed:    develop (PR #4369) more security issue resolution
+#7000 passed:    update-ueber-mssql more security issue resolution
+#6999 canceled:  update-ueber-mssql more deeper package lock updates
+#6998 canceled:  update-ueber-mssql package lock
+#6997 canceled:  update-ueber-mssql bump npm
+#6996 passed:    develop tests: disable a version of safari for now as its too buggy on sauce labs
+#6995 errored:   develop (PR #4368) tests: disable a version of safari for now as its too buggy on sauce labs
+#6994 failed:    temp-remove-safari tests: disable a version of safari for now as its too buggy on sauce labs
+#6993 passed:    develop (PR #4367) webaccess: Log hook errors
+#6992 failed:    develop security: Enable authorize plugins to grant read-only access
+#6991 errored:   develop (PR #4365) security: Enable authorize plugins to grant read-only access
+#6990 passed:    develop (PR #4365) security: Enable authorize plugins to grant read-only access
+#6989 passed:    develop allowing longer for FF to do timeslider rev test
+#6988 errored:   develop (PR #4366) allowing longer for FF to do timeslider rev test
+#6987 failed:    develop webaccess: Move pre-authn authz check to a separate hook
+#6986 passed:    tests-ff-longer allowing longer for FF to do timeslider rev test
+#6985 passed:    develop (PR #4365) security: Enable authorize plugins to grant read-only access
+#6984 passed:    develop (PR #4362) webaccess: Move pre-authn authz check to a separate hook
+#6983 failed:    develop tests: test coverage for read only pad ids (#4364)
+#6982 passed:    develop (PR #4362) webaccess: Move pre-authn authz check to a separate hook
+#6981 passed:    develop tests: adding a check before finishing responsiveness test - allowing load test to run for 25 instead of 30 seconds to facilitate travis performance. (#4363)
+#6980 failed:    develop (PR #4364) test coverage for read only pad ids
+#6979 failed:    readonly-pad-export-tests test coverage for read only pad ids
+#6978 passed:    develop tests: adding a check before finishing responsiveness test - allowing load test to run for 25 instead of 30 seconds to facilitate travis performance. (#4363)
+#6977 failed:    develop (PR #4363) slightly shorten load tests as they randomly give up around 30 seconds
+#6976 passed:    testing-something-on-resposiveness-test slightly shorten load tests as they randomly give up around 30 seconds
+#6975 passed:    develop (PR #4363) trying to add a delay to allow browsers to catch up with responsiveness test
+#6974 failed:    testing-something-on-resposiveness-test trying to add a delay to allow browsers to catch up with responsiveness test
+#6973 failed:    develop (PR #4363) trying to add a delay to allow browsers to catch up with responsiveness test
+#6972 passed:    testing-something-on-resposiveness-test trying to add a delay to allow browsers to catch up with responsiveness test
+#6971 passed:    develop (PR #4362) webaccess: Move pre-authn authz check to a separate hook
+#6970 failed:    develop webaccess: Log all authentication successes/failures
+#6969 canceled:  develop tests: support even slower safari (#4361)
+#6968 errored:   develop (PR #4361) tests: support even slower safari
+#6967 failed:    even-slower-safari tests: support even slower safari
+#6966 canceled:  develop (PR #4361) tests: support even slower safari
+#6965 canceled:  even-slower-safari tests: support even slower safari
+#6964 errored:   develop (PR #4358) webaccess: Log all authentication successes/failures
+#6963 failed:    develop Fix readOnly pad export
+#6962 failed:    develop tests: Check for true/false, not truthiness
+#6961 failed:    develop (PR #4359) tests: Check for true/false, not truthiness
+#6960 passed:    develop (PR #4358) webaccess: Log all authentication successes/failures
+#6959 failed:    develop tests: Include some plugins in tests (#4339)
+#6958 errored:   develop (PR #4339) readd responiveness coverage
+#6957 failed:    test-plugins readd responiveness coverage
+#6956 canceled:  develop (PR #4339) readd responiveness coverage
+#6955 failed:    test-plugins readd responiveness coverage
+#6954 failed:    develop webaccess: Split authFailure hook into authnFailure and authzFailure
+#6953 canceled:  develop Bump Etherpad version in src/package-lock.json
+#6952 canceled:  develop PadMessageHandler: Logging improvements
+#6951 canceled:  develop Fix typo in session check (sesion -> session)
+#6950 passed:    develop (PR #4357) Fix typo in session check (sesion -> session)
+#6949 passed:    develop (PR #4348) webaccess: Split authFailure hook into authnFailure and authzFailure
+#6948 passed:    develop (PR #4356) PadMessageHandler: Logging improvements
+#6947 canceled:  develop (PR #4356) PadMessageHandler: Logging improvements
+#6946 canceled:  develop (PR #4348) webaccess: Split authFailure hook into authnFailure and authzFailure
+#6945 passed:    develop security: Enable authorize plugins to grant modify-only access
+#6944 failed:    develop security: Enable authorize plugins to grant modify-only access
+#6943 passed:    develop (PR #4339) just remove files not folder
+#6942 passed:    test-plugins just remove files not folder
+#6941 canceled:  develop PadMessageHandler: Avoid redundant access checks
+#6940 failed:    develop pad: Revert back to sending `CLIENT_READY` on reconnect
+#6939 passed:    develop (PR #4352) Bump Etherpad version in src/package-lock.json
+#6938 failed:    develop (PR #4355) pad: Revert back to sending `CLIENT_READY` on reconnect
+#6937 passed:    develop (PR #4354) PadMessageHandler: Avoid redundant access checks
+#6936 passed:    develop (PR #4348) webaccess: Split authFailure hook into authnFailure and authzFailure
+#6935 passed:    develop (PR #4343) security: Enable authorize plugins to grant modify-only access
+#6934 canceled:  develop (PR #4339) remove frontend tests before running plugin tests
+#6933 failed:    test-plugins remove frontend tests before running plugin tests
+#6932 failed:    develop (PR #4339) Merge branch 'develop' of github.com:ether/etherpad-lite into test-plugins
+#6931 failed:    test-plugins Merge branch 'develop' of github.com:ether/etherpad-lite into test-plugins
+#6930 passed:    develop security: Fix authz check for pad names with encoded characters
+#6929 canceled:  develop PadMessageHandler: Block Promise resolution until message is handled
+#6928 failed:    develop tests: Rewrite import/export tests to use async and supertest
+#6927 failed:    develop PadMessageHandler: Always save the author ID in the session info
+#6926 passed:    develop (PR #4353) PadMessageHandler: Always save the author ID in the session info
+#6925 passed:    develop (PR #4352) Bump Etherpad version in src/package-lock.json
+#6924 passed:    develop (PR #4351) tests: Rewrite import/export tests to use async and supertest
+#6923 failed:    develop Localisation updates from https://translatewiki.net.
+#6922 passed:    fix-ratelimit in case of reverse proxy use ip from x-forwarded-for header
+#6921 passed:    develop (PR #4343) security: Enable authorize plugins to grant modify-only access
+#6920 failed:    develop (PR #4349) PadMessageHandler: Block Promise resolution until message is handled
+#6919 passed:    develop (PR #4348) webaccess: Split authFailure hook into authnFailure and authzFailure
+#6918 passed:    develop (PR #4346) security: Fix authz check for pad names with encoded characters
+#6917 failed:    develop Localisation updates from https://translatewiki.net.
+#6916 failed:    develop (PR #4343) security: Enable authorize plugins to grant modify-only access
+#6915 passed:    develop Localisation updates from https://translatewiki.net.
+#6914 passed:    develop security: Don't require express_sid if authn not required
+#6913 failed:    develop webaccess: Return 401 for authn failure, 403 for authz failure
+#6912 failed:    develop (PR #4339) test with and without plugins
+#6911 failed:    test-plugins test with and without plugins
+#6910 passed:    develop (PR #4292) fix: sonarcloud Duplication error
+#6909 passed:    develop (PR #4292) feat: test case for nested pad
 #6908 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
 #6907 failed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
 #6906 passed:    develop (PR #4254) webaccess: Return 401 for authn failure, 403 for authz failure
@@ -4360,7 +4598,6 @@
 #2551 failed:    chat-users-flow-css and even mroe polish
 #2551 failed:    develop (PR #2510) and even mroe polish
 #2550 failed:    develop (PR #2510) more styling stuff
-#2550 failed:    chat-users-flow-css more styling stuff
 #2549 errored:   develop (PR #2510) better css
 #2548 failed:    chat-users-flow-css better css
 #2547 errored:   develop (PR #2509) Adding api call for appending a chat message.
@@ -5223,6 +5460,7 @@
 #1721 passed:    preProcessDomLine fix dintenation
 #1720 failed:    preProcessDomLine preprocessor for domline attributes
 #1719 passed:    support-images cross platform but REALLY MESSY, do not use this as reference its just to show it existing
+#1719 passed:    develop (PR #2033) cross platform but REALLY MESSY, do not use this as reference its just to show it existing
 #1718 failed:    master (PR #2069) Merge pull request #2095 from vvision/develop
 #1717 failed:    release/1.4.0 Merge pull request #2095 from vvision/develop
 #1716 errored:   master (PR #2069) Merge pull request #2086 from bnchdrff/cleanse-npm-values
@@ -5510,7 +5748,6 @@
 #1443 failed:    develop Localisation updates from http://translatewiki.net.
 #1442 failed:    develop Merge pull request #1943 from ether/fix/listAllPads-fix
 #1441 failed:    fix/listAllPads-fix Pad list cache: You can't change the cache if it's not initiated
-#1441 passed:    develop (PR #1943) Pad list cache: You can't change the cache if it's not initiated
 #1440 failed:    develop Consistent spelling style
 #1439 passed:    develop Localisation updates from http://translatewiki.net.
 #1438 failed:    develop Merge pull request #1940 from piratenfraktion-nrw/fix_readonly_if_require_session
@@ -5523,6 +5760,7 @@
 #1431 failed:    develop Fix disconnect modals
 #1430 errored:   develop Merge branch 'release/1.2.12'
 #1429 failed:    master Merge branch 'release/1.2.12'
+#1429 errored:   1.2.12 Merge branch 'release/1.2.12'
 #1428 failed:    release/1.2.12 Update CHANGELOG
 #1427 passed:    release/1.2.12 Merge branch 'develop' into release/1.2.12
 #1426 errored:   develop Merge pull request #1938 from ether/fix/unknown-connection-message

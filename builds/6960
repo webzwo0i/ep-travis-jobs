@@ -1,0 +1,14 @@
+Build #6960:  webaccess: Log all authentication successes/failures
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4358)
+Commit:        bb01ddb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4358
+Duration:      9 min 26 sec
+Started:       2020-09-26 21:02:34
+Finished:      2020-09-26 21:07:36
+
+#6960.1 passed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#6960.2 passed:  2 min 27 sec   os: linux, node_js: lts/*, env:
+#6960.3 passed:  2 min 14 sec   os: linux, node_js: lts/*, env:
+#6960.4 passed:  2 min 40 sec   os: linux, node_js: lts/*, env:

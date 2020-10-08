@@ -1,0 +1,16 @@
+Build #6934:  remove frontend tests before running plugin tests
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4339)
+Commit:        387db31
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4339
+Duration:      31 min 25 sec
+Started:       2020-09-26 19:30:06
+Finished:      2020-09-26 19:36:47
+
+#6934.1 passed:  15 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6934.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6934.3 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6934.4 canceled: 6 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6934.5 passed:  2 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6934.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

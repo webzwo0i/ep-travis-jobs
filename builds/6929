@@ -1,0 +1,13 @@
+Build #6929:  PadMessageHandler: Block Promise resolution until message is handled
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        3c9ae57
+Compare URL:   https://github.com/ether/etherpad-lite/compare/23131a501c35...3c9ae57bb33f
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-26 11:47:31
+
+#6929.1 canceled: 19 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6929.2 canceled: 19 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6929.3 canceled: 19 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,13 @@
+Build #6928:  tests: Rewrite import/export tests to use async and supertest
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        23131a5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0bb8d73ba296...23131a501c35
+Duration:      16 min 48 sec
+Started:       2020-09-26 12:02:14
+Finished:      2020-09-26 12:14:23
+
+#6928.1 failed:  12 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6928.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6928.3 passed:  2 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

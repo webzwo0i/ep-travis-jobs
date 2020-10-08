@@ -1,0 +1,13 @@
+Build #6922:  in case of reverse proxy use ip from x-forwarded-for header
+State:         passed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        e4a6377
+Compare URL:   https://github.com/ether/etherpad-lite/commit/e4a63775b9bc
+Duration:      13 min 35 sec
+Started:       2020-09-25 15:10:39
+Finished:      2020-09-25 15:19:28
+
+#6922.1 passed:  8 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6922.2 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6922.3 passed:  2 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

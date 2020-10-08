@@ -1,0 +1,12 @@
+Build #6910:  fix: sonarcloud Duplication error
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        f38354c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      4 min 34 sec
+Started:       2020-09-24 11:14:06
+Finished:      2020-09-24 11:16:38
+
+#6910.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#6910.2 passed:  2 min 32 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #6926:  PadMessageHandler: Always save the author ID in the session info
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4353)
+Commit:        b82dc00
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4353
+Duration:      5 min 42 sec
+Started:       2020-09-26 04:06:55
+Finished:      2020-09-26 04:10:01
+
+#6926.1 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:
+#6926.2 passed:  3 min 5 sec    os: linux, node_js: lts/*, env:

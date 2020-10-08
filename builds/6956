@@ -1,0 +1,16 @@
+Build #6956:  readd responiveness coverage
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4339)
+Commit:        18afaf2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4339
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-26 20:40:54
+
+#6956.1 canceled: 11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6956.2 canceled: 11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6956.3 canceled: 11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6956.4 canceled: 11 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6956.5 canceled: 11 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6956.6 canceled: 11 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

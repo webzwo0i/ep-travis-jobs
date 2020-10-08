@@ -1,0 +1,16 @@
+Build #6963:  Fix readOnly pad export
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        c56973c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9f63d9b76a08...c56973ce74f9
+Duration:      31 min 15 sec
+Started:       2020-09-26 22:48:35
+Finished:      2020-09-26 23:06:06
+
+#6963.1 failed:  9 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6963.2 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6963.3 failed:  2 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6963.4 failed:  12 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6963.5 passed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6963.6 passed:  2 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

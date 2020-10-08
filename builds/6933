@@ -1,0 +1,16 @@
+Build #6933:  remove frontend tests before running plugin tests
+State:         failed
+Type:          push
+Branch:        test-plugins
+Commit:        5262c1d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f823f4860705...5262c1da0df5
+Duration:      33 min 25 sec
+Started:       2020-09-26 19:26:28
+Finished:      2020-09-26 19:42:32
+
+#6933.1 passed:  8 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6933.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6933.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6933.4 failed:  15 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6933.5 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6933.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

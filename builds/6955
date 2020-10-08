@@ -1,0 +1,16 @@
+Build #6955:  readd responiveness coverage
+State:         failed
+Type:          push
+Branch:        test-plugins
+Commit:        f80a8c9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0582f791bcb6...f80a8c9b10fb
+Duration:      24 min 2 sec
+Started:       2020-09-26 20:40:38
+Finished:      2020-09-26 20:50:21
+
+#6955.1 failed:  9 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6955.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6955.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6955.4 passed:  4 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6955.5 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6955.6 passed:  2 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

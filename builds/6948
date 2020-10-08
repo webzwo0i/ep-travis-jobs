@@ -1,0 +1,12 @@
+Build #6948:  PadMessageHandler: Logging improvements
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4356)
+Commit:        ea951be
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4356
+Duration:      4 min 42 sec
+Started:       2020-09-26 20:01:39
+Finished:      2020-09-26 20:04:38
+
+#6948.1 passed:  2 min 11 sec   os: linux, node_js: lts/*, env:
+#6948.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:

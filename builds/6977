@@ -1,0 +1,16 @@
+Build #6977:  slightly shorten load tests as they randomly give up around 30 seconds
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4363)
+Commit:        996a689
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4363
+Duration:      30 min 18 sec
+Started:       2020-09-27 15:36:39
+Finished:      2020-09-27 15:48:28
+
+#6977.1 passed:  8 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6977.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6977.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6977.4 failed:  11 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6977.5 passed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6977.6 passed:  2 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

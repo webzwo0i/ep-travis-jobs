@@ -1,0 +1,12 @@
+Build #6937:  PadMessageHandler: Avoid redundant access checks
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4354)
+Commit:        622065e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4354
+Duration:      4 min 41 sec
+Started:       2020-09-26 19:12:23
+Finished:      2020-09-26 19:15:10
+
+#6937.1 passed:  2 min 8 sec    os: linux, node_js: lts/*, env:
+#6937.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

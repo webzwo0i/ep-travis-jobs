@@ -1,0 +1,13 @@
+Build #6965:  tests: support even slower safari
+State:         canceled
+Type:          push
+Branch:        even-slower-safari
+Commit:        e4dda63
+Compare URL:   https://github.com/ether/etherpad-lite/commit/e4dda630e3d8
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-26 22:57:11
+
+#6965.1 canceled: 26 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6965.2 canceled: 26 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6965.3 canceled: 26 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

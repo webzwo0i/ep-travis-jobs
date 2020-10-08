@@ -1,0 +1,13 @@
+Build #6915:  Localisation updates from https://translatewiki.net.
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        6cde6f5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/94f944160dcf...6cde6f5a9897
+Duration:      13 min 29 sec
+Started:       2020-09-24 15:55:18
+Finished:      2020-09-24 16:04:03
+
+#6915.1 passed:  8 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6915.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6915.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
