@@ -1,0 +1,18 @@
+Build #7120:  re-enable docker tests in travis
+State:         canceled
+Type:          push
+Branch:        docker-travis
+Commit:        edf86b7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/edf86b76c83f
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-06 14:32:21
+
+#7120.1 canceled: 10 min 34 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7120.2 canceled: 10 min 34 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7120.3 canceled: 10 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7120.4 canceled: 10 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7120.5 canceled: 10 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7120.6 canceled: 10 min 33 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7120.7 canceled: 10 min 34 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7120.8 canceled: 10 min 34 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

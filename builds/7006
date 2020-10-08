@@ -1,0 +1,16 @@
+Build #7006:  feature: New user-specific `readOnly` and `canCreate` settings (#4370)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        bf9d613
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7bd5435f50e3...bf9d613e9593
+Duration:      24 min 48 sec
+Started:       2020-09-28 12:22:33
+Finished:      2020-09-28 12:34:44
+
+#7006.1 passed:  12 min 11 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7006.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7006.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7006.4 passed:  3 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7006.5 passed:  2 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7006.6 passed:  2 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,17 @@
+Build #7097:  add timeout when going to timeslider
+State:         failed
+Type:          push
+Branch:        fix-pad-follow-contents
+Commit:        2326bca
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a045965273a8...2326bca35a2a
+Duration:      25 min 24 sec
+Started:       2020-10-05 20:24:36
+Finished:      2020-10-05 20:42:15
+
+#7097.1 failed:  8 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7097.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7097.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7097.4 passed:  4 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7097.5 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7097.6 passed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7097.7 passed:  3 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

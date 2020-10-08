@@ -1,0 +1,17 @@
+Build #7095:  import: Replace the `allowAnyoneToImport` check with `userCanModify`
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        a8cf434
+Compare URL:   https://github.com/ether/etherpad-lite/compare/377560eb517a...a8cf434d1dcf
+Duration:      25 min 4 sec
+Started:       2020-10-05 20:29:33
+Finished:      2020-10-05 20:38:09
+
+#7095.1 passed:  8 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7095.2 passed:  1 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7095.3 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7095.4 passed:  3 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7095.5 passed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7095.6 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7095.7 passed:  3 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

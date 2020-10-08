@@ -1,0 +1,12 @@
+Build #7040:  typo
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        8cd06bb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0021b1cfd1d6...8cd06bb1b491
+Duration:      2 min 29 sec
+Started:       2020-09-29 00:47:37
+Finished:      2020-09-29 00:49:40
+
+#7040.1 failed:  26 sec         os: linux, node_js: lts/*
+#7040.2 failed:  2 min 3 sec    os: linux, node_js: lts/*

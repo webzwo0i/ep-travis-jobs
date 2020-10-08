@@ -1,0 +1,15 @@
+Build #7112:  Merge branch 'develop' into fix/static_files
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        7e44a6b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      12 min 36 sec
+Started:       2020-10-06 09:03:14
+Finished:      2020-10-06 09:08:42
+
+#7112.1 failed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#7112.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7112.3 failed:  2 min 22 sec   os: linux, node_js: lts/*, env:
+#7112.4 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7112.5 passed:  3 min 6 sec    os: linux, node_js: lts/*, env:

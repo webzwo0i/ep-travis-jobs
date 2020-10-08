@@ -1,0 +1,18 @@
+Build #7124:  tests: re-enable docker tests in travis (#4395)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        92d4b8b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/52f8fc9ba31a...92d4b8b649fa
+Duration:      27 min 58 sec
+Started:       2020-10-06 15:21:38
+Finished:      2020-10-06 15:30:22
+
+#7124.1 passed:  8 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7124.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7124.3 passed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7124.4 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7124.5 passed:  4 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7124.6 passed:  2 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7124.7 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7124.8 passed:  3 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

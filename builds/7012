@@ -1,0 +1,12 @@
+Build #7012:  fix require path
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        bd78d8a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/6efcca5e8ec6...bd78d8aba9d4
+Duration:      1 min 40 sec
+Started:       2020-09-28 14:01:50
+Finished:      2020-09-28 14:03:04
+
+#7012.1 failed:  26 sec         os: linux, node_js: lts/*
+#7012.2 passed:  1 min 14 sec   os: linux, node_js: lts/*

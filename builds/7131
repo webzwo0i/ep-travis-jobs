@@ -1,0 +1,16 @@
+Build #7131:  `pad.permissionDenied` is still used for authz failures
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4178)
+Commit:        1733a29
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4178
+Duration:      15 min 6 sec
+Started:       2020-10-07 03:58:15
+Finished:      2020-10-07 04:03:53
+
+#7131.1 passed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#7131.2 passed:  2 min 41 sec   os: linux, node_js: lts/*, env:
+#7131.3 passed:  2 min 22 sec   os: linux, node_js: lts/*, env:
+#7131.4 passed:  2 min 17 sec   os: linux, node_js: lts/*, env:
+#7131.5 passed:  2 min 41 sec   os: linux, node_js: lts/*, env:
+#7131.6 passed:  3 min          os: linux, node_js: lts/*, env:

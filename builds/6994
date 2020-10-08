@@ -1,0 +1,16 @@
+Build #6994:  tests: disable a version of safari for now as its too buggy on sauce labs
+State:         failed
+Type:          push
+Branch:        temp-remove-safari
+Commit:        8176942
+Compare URL:   https://github.com/ether/etherpad-lite/commit/8176942e04f2
+Duration:      23 min 14 sec
+Started:       2020-09-28 00:13:03
+Finished:      2020-09-28 00:22:12
+
+#6994.1 failed:  9 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6994.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6994.3 passed:  2 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6994.4 passed:  4 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6994.5 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6994.6 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

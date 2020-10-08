@@ -1,0 +1,17 @@
+Build #7110:  rename suite so that the hooks do not interfere
+State:         failed
+Type:          push
+Branch:        fix-pad-follow-contents
+Commit:        80810c5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/de3434768748...80810c5de449
+Duration:      26 min 35 sec
+Started:       2020-10-06 01:13:00
+Finished:      2020-10-06 01:22:28
+
+#7110.1 failed:  9 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7110.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7110.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7110.4 passed:  4 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7110.5 passed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7110.6 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7110.7 passed:  3 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

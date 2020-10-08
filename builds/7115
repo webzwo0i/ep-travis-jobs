@@ -1,0 +1,15 @@
+Build #7115:  feat: getFaviconAddress test case
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        de83e6b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      12 min 57 sec
+Started:       2020-10-06 11:46:40
+Finished:      2020-10-06 11:52:10
+
+#7115.1 failed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#7115.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7115.3 failed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7115.4 passed:  2 min 47 sec   os: linux, node_js: lts/*, env:
+#7115.5 passed:  3 min 12 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #7037:  use environment variables for docker
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        f3d6144
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0caf8761f77a...f3d6144b659f
+Duration:      52 sec
+Started:       2020-09-29 00:35:46
+Finished:      2020-09-29 00:36:13
+
+#7037.1 failed:  25 sec         os: linux, node_js: lts/*
+#7037.2 errored: 27 sec         os: linux, node_js: lts/*

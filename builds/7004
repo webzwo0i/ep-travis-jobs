@@ -1,0 +1,14 @@
+Build #7004:  webaccess: Exempt `/favicon.ico` and `/locales.json` from auth checks
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4371)
+Commit:        c3abed3
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4371
+Duration:      9 min 41 sec
+Started:       2020-09-28 04:01:35
+Finished:      2020-09-28 04:04:19
+
+#7004.1 passed:  2 min 8 sec    os: linux, node_js: lts/*, env:
+#7004.2 passed:  2 min 30 sec   os: linux, node_js: lts/*, env:
+#7004.3 passed:  2 min 19 sec   os: linux, node_js: lts/*, env:
+#7004.4 passed:  2 min 44 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,16 @@
+Build #7134:  import: Ajaxify pad import
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4400)
+Commit:        ba2ba55
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4400
+Duration:      15 min 52 sec
+Started:       2020-10-07 05:29:58
+Finished:      2020-10-07 05:35:49
+
+#7134.1 failed:  2 min          os: linux, node_js: lts/*, env:
+#7134.2 passed:  2 min 51 sec   os: linux, node_js: lts/*, env:
+#7134.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env:
+#7134.4 failed:  2 min 55 sec   os: linux, node_js: lts/*, env:
+#7134.5 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7134.6 passed:  3 min 3 sec    os: linux, node_js: lts/*, env:

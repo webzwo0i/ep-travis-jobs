@@ -1,0 +1,14 @@
+Build #6985:  security: Enable authorize plugins to grant read-only access
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4365)
+Commit:        b69169e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4365
+Duration:      9 min 17 sec
+Started:       2020-09-27 21:17:21
+Finished:      2020-09-27 21:19:56
+
+#6985.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6985.2 passed:  2 min 25 sec   os: linux, node_js: lts/*, env:
+#6985.3 passed:  2 min 12 sec   os: linux, node_js: lts/*, env:
+#6985.4 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

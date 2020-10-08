@@ -1,0 +1,16 @@
+Build #7057:  package updates: update deps and resolve some potential security issues (#4369)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        5964055
+Compare URL:   https://github.com/ether/etherpad-lite/compare/837ca6ec1e1c...5964055dec60
+Duration:      28 min 3 sec
+Started:       2020-09-29 14:27:19
+Finished:      2020-09-29 14:39:16
+
+#7057.1 failed:  11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7057.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7057.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7057.4 failed:  6 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7057.5 passed:  2 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7057.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

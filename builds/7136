@@ -1,0 +1,16 @@
+Build #7136:  CSP: Disable the indexCustomInlineScripts hook
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4402)
+Commit:        e59a166
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4402
+Duration:      15 min 43 sec
+Started:       2020-10-07 07:06:25
+Finished:      2020-10-07 07:12:36
+
+#7136.1 passed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#7136.2 passed:  2 min 44 sec   os: linux, node_js: lts/*, env:
+#7136.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7136.4 passed:  2 min 10 sec   os: linux, node_js: lts/*, env:
+#7136.5 passed:  2 min 39 sec   os: linux, node_js: lts/*, env:
+#7136.6 passed:  3 min 38 sec   os: linux, node_js: lts/*, env:

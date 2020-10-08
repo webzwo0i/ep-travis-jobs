@@ -1,0 +1,12 @@
+Build #7042:  debug
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        110dc8e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/26d1baa9ed7c...110dc8eed33a
+Duration:      2 min 28 sec
+Started:       2020-09-29 01:12:25
+Finished:      2020-09-29 01:14:30
+
+#7042.1 failed:  28 sec         os: linux, node_js: lts/*
+#7042.2 failed:  2 min          os: linux, node_js: lts/*

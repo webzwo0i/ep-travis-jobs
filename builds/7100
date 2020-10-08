@@ -1,0 +1,15 @@
+Build #7100:  Run node 10 with '--experimental_worker' flags
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4392)
+Commit:        35bb9df
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4392
+Duration:      13 min 28 sec
+Started:       2020-10-05 21:21:24
+Finished:      2020-10-05 21:29:36
+
+#7100.1 passed:  2 min 17 sec   os: linux, node_js: lts/*, env:
+#7100.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7100.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:
+#7100.4 passed:  2 min 54 sec   os: linux, node_js: lts/*, env:
+#7100.5 passed:  3 min 10 sec   os: linux, node_js: lts/*, env:

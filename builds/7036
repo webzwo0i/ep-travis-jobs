@@ -1,0 +1,12 @@
+Build #7036:  use different pads to circumvent race condition in etherpad-cli-client
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        0caf876
+Compare URL:   https://github.com/ether/etherpad-lite/compare/155d97e07781...0caf8761f77a
+Duration:      2 min 22 sec
+Started:       2020-09-29 00:22:30
+Finished:      2020-09-29 00:24:28
+
+#7036.1 failed:  26 sec         os: linux, node_js: lts/*
+#7036.2 failed:  1 min 56 sec   os: linux, node_js: lts/*

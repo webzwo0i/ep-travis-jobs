@@ -1,0 +1,16 @@
+Build #7065:  webaccess: Exempt `/favicon.ico` and `/locales.json` from auth checks
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        554eef7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5964055dec6091cc81c54ddd73585bd79104904c...554eef77708fcc5b597d5864395bd4ba61dfde5e
+Duration:      22 min 19 sec
+Started:       2020-09-30 19:41:33
+Finished:      2020-09-30 19:50:15
+
+#7065.1 passed:  8 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7065.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7065.3 passed:  2 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7065.4 passed:  4 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7065.5 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7065.6 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

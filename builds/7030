@@ -1,0 +1,12 @@
+Build #7030:  also send changesets via another IP
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        ca89b00
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b72965f7d25e...ca89b00f2261
+Duration:      1 min 58 sec
+Started:       2020-09-28 22:29:41
+Finished:      2020-09-28 22:31:16
+
+#7030.1 failed:  25 sec         os: linux, node_js: lts/*
+#7030.2 errored: 1 min 33 sec   os: linux, node_js: lts/*

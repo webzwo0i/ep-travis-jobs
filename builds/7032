@@ -1,0 +1,12 @@
+Build #7032:  remove debug log
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        b213915
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e9d031a696a...b21391546a2c
+Duration:      1 min 52 sec
+Started:       2020-09-28 23:59:42
+Finished:      2020-09-29 00:01:09
+
+#7032.1 failed:  25 sec         os: linux, node_js: lts/*
+#7032.2 errored: 1 min 27 sec   os: linux, node_js: lts/*

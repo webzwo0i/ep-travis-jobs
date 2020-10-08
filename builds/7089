@@ -1,0 +1,17 @@
+Build #7089:  timeslider follow pad contents: only goToLineNumber if it exists
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4390)
+Commit:        69b29c1
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4390
+Duration:      26 min 22 sec
+Started:       2020-10-05 16:42:53
+Finished:      2020-10-05 16:57:03
+
+#7089.1 failed:  9 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7089.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7089.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7089.4 passed:  4 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7089.5 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7089.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7089.7 passed:  3 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

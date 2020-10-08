@@ -1,0 +1,12 @@
+Build #7020:  fix exit code handling
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        48fa96e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3a88f9d26452...48fa96e51113
+Duration:      2 min 5 sec
+Started:       2020-09-28 15:19:08
+Finished:      2020-09-28 15:20:47
+
+#7020.1 failed:  26 sec         os: linux, node_js: lts/*
+#7020.2 failed:  1 min 39 sec   os: linux, node_js: lts/*

@@ -1,0 +1,16 @@
+Build #7126:  remove language string
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4178)
+Commit:        c822089
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4178
+Duration:      15 min 12 sec
+Started:       2020-10-06 20:06:01
+Finished:      2020-10-06 20:16:48
+
+#7126.1 passed:  2 min 6 sec    os: linux, node_js: lts/*, env:
+#7126.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7126.3 passed:  2 min 24 sec   os: linux, node_js: lts/*, env:
+#7126.4 passed:  2 min 20 sec   os: linux, node_js: lts/*, env:
+#7126.5 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7126.6 passed:  3 min 18 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #7011:  package-lock
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        6efcca5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e4a63775b9bc^...6efcca5e8ec6
+Duration:      1 min 44 sec
+Started:       2020-09-28 13:58:53
+Finished:      2020-09-28 14:00:12
+
+#7011.1 failed:  25 sec         os: linux, node_js: lts/*
+#7011.2 passed:  1 min 19 sec   os: linux, node_js: lts/*

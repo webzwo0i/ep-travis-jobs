@@ -1,0 +1,17 @@
+Build #7113:  Update `CHANGELOG.md` with the changes so far (#4393)
+State:         errored
+Type:          push
+Branch:        develop
+Commit:        34b232d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a8cf434d1dcf...34b232d65885
+Duration:      26 min 50 sec
+Started:       2020-10-06 09:16:44
+Finished:      2020-10-06 09:28:12
+
+#7113.1 errored: 11 min 27 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7113.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7113.3 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7113.4 passed:  3 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7113.5 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7113.6 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7113.7 passed:  2 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

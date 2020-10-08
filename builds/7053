@@ -1,0 +1,14 @@
+Build #7053:  more secure cookies
+State:         passed
+Type:          pull request
+Branch:        develop (PR #3981)
+Commit:        fcec976
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3981
+Duration:      9 min 25 sec
+Started:       2020-09-29 07:02:14
+Finished:      2020-09-29 07:04:52
+
+#7053.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#7053.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:
+#7053.3 passed:  2 min 14 sec   os: linux, node_js: lts/*, env:
+#7053.4 passed:  2 min 38 sec   os: linux, node_js: lts/*, env:

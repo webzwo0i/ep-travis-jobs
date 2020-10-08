@@ -1,0 +1,12 @@
+Build #7007:  add test
+State:         canceled
+Type:          push
+Branch:        fix-ratelimit
+Commit:        d2fd48d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e4a63775b9bc...d2fd48d31790
+Duration:      1 min 28 sec
+Started:       2020-09-28 13:46:13
+Finished:      2020-09-28 13:47:17
+
+#7007.1 failed:  25 sec         os: linux, node_js: lts/*
+#7007.2 canceled: 1 min 3 sec    os: linux, node_js: lts/*

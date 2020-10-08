@@ -1,0 +1,16 @@
+Build #7130:  socketio: Mimic what Express does to get client IP address
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4399)
+Commit:        82dd59d
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4399
+Duration:      14 min 58 sec
+Started:       2020-10-07 03:32:44
+Finished:      2020-10-07 03:38:23
+
+#7130.1 passed:  2 min 12 sec   os: linux, node_js: lts/*, env:
+#7130.2 passed:  2 min 30 sec   os: linux, node_js: lts/*, env:
+#7130.3 passed:  2 min 22 sec   os: linux, node_js: lts/*, env:
+#7130.4 passed:  2 min 8 sec    os: linux, node_js: lts/*, env:
+#7130.5 passed:  2 min 41 sec   os: linux, node_js: lts/*, env:
+#7130.6 passed:  3 min 5 sec    os: linux, node_js: lts/*, env:

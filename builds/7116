@@ -1,0 +1,15 @@
+Build #7116:  fix: remove unnecessary log
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        b39f539
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      12 min 44 sec
+Started:       2020-10-06 12:31:52
+Finished:      2020-10-06 12:37:35
+
+#7116.1 failed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#7116.2 passed:  2 min 24 sec   os: linux, node_js: lts/*, env:
+#7116.3 failed:  2 min 19 sec   os: linux, node_js: lts/*, env:
+#7116.4 passed:  2 min 39 sec   os: linux, node_js: lts/*, env:
+#7116.5 passed:  3 min 17 sec   os: linux, node_js: lts/*, env:

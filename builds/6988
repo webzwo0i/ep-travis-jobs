@@ -1,0 +1,16 @@
+Build #6988:  allowing longer for FF to do timeslider rev test
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4366)
+Commit:        0a03785
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4366
+Duration:      3 min 45 sec
+Started:       2020-09-27 22:44:38
+Finished:      2020-09-27 22:46:12
+
+#6988.1 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6988.2 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6988.3 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6988.4 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6988.5 errored: 36 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6988.6 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

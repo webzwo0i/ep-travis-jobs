@@ -1,0 +1,17 @@
+Build #7109:  need to wait, so that the changes are not merged into one changeset
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4390)
+Commit:        911ff42
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4390
+Duration:      26 min 9 sec
+Started:       2020-10-06 01:05:01
+Finished:      2020-10-06 01:14:42
+
+#7109.1 failed:  9 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7109.2 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7109.3 passed:  2 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7109.4 passed:  4 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7109.5 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7109.6 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7109.7 passed:  3 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

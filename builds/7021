@@ -1,0 +1,12 @@
+Build #7021:  change from 100ms to 101ms
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        22f203a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/48fa96e51113...22f203a48e40
+Duration:      2 min 24 sec
+Started:       2020-09-28 15:26:36
+Finished:      2020-09-28 15:28:34
+
+#7021.1 failed:  26 sec         os: linux, node_js: lts/*
+#7021.2 passed:  1 min 58 sec   os: linux, node_js: lts/*

@@ -1,0 +1,16 @@
+Build #7127:  HTML export: Wait for async hook completion before processing results
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4397)
+Commit:        38ad769
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4397
+Duration:      15 min 32 sec
+Started:       2020-10-06 22:38:22
+Finished:      2020-10-06 22:47:09
+
+#7127.1 passed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#7127.2 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:
+#7127.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:
+#7127.4 passed:  2 min 21 sec   os: linux, node_js: lts/*, env:
+#7127.5 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:
+#7127.6 passed:  3 min 23 sec   os: linux, node_js: lts/*, env:

@@ -1,0 +1,12 @@
+Build #7035:  fix path
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        155d97e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/47e295d37921...155d97e07781
+Duration:      2 min 17 sec
+Started:       2020-09-29 00:17:37
+Finished:      2020-09-29 00:19:29
+
+#7035.1 failed:  25 sec         os: linux, node_js: lts/*
+#7035.2 failed:  1 min 52 sec   os: linux, node_js: lts/*

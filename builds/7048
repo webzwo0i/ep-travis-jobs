@@ -1,0 +1,17 @@
+Build #7048:  remove unnecessary package from docker image
+State:         failed
+Type:          push
+Branch:        fix-rate-limit
+Commit:        fb0b55d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/734ee91c5515...fb0b55de36e4
+Duration:      33 min 41 sec
+Started:       2020-09-29 02:10:32
+Finished:      2020-09-29 02:21:28
+
+#7048.1 failed:  9 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7048.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7048.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7048.4 passed:  4 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7048.5 passed:  4 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7048.6 passed:  4 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7048.7 passed:  6 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

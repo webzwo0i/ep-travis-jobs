@@ -1,0 +1,16 @@
+Build #6987:  webaccess: Move pre-authn authz check to a separate hook
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        304318b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a51132d71244...304318b6187b
+Duration:      23 min 1 sec
+Started:       2020-09-27 22:23:45
+Finished:      2020-09-27 22:33:39
+
+#6987.1 failed:  9 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6987.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6987.3 passed:  2 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6987.4 passed:  4 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6987.5 passed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6987.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,16 @@
+Build #7005:  webaccess: Log hook errors
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7bd5435
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8919608d4567...7bd5435f50e3
+Duration:      22 min 37 sec
+Started:       2020-09-28 10:36:09
+Finished:      2020-09-28 10:45:00
+
+#7005.1 passed:  8 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7005.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7005.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7005.4 passed:  4 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7005.5 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7005.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

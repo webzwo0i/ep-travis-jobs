@@ -1,0 +1,17 @@
+Build #7092:  add test coverage
+State:         failed
+Type:          push
+Branch:        fix-pad-follow-contents
+Commit:        a045965
+Compare URL:   https://github.com/ether/etherpad-lite/compare/271a6f2b87ce...a045965273a8
+Duration:      23 min 51 sec
+Started:       2020-10-05 19:50:34
+Finished:      2020-10-05 19:58:27
+
+#7092.1 failed:  7 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7092.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7092.3 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7092.4 passed:  3 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7092.5 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7092.6 passed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7092.7 passed:  3 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

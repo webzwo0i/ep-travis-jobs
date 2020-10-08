@@ -1,0 +1,14 @@
+Build #7044:  update jquery autosize which doesn't suffer from CSP related issues
+State:         failed
+Type:          pull request
+Branch:        develop (PR #3953)
+Commit:        3e5a25c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3953
+Duration:      18 min 47 sec
+Started:       2020-09-29 01:28:35
+Finished:      2020-09-29 01:35:28
+
+#7044.1 failed:  6 min 36 sec   os: linux, node_js: lts/*, env:
+#7044.2 passed:  2 min 40 sec   os: linux, node_js: lts/*, env:
+#7044.3 failed:  6 min 50 sec   os: linux, node_js: lts/*, env:
+#7044.4 passed:  2 min 41 sec   os: linux, node_js: lts/*, env:

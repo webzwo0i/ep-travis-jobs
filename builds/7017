@@ -1,0 +1,12 @@
+Build #7017:  add sleep
+State:         errored
+Type:          push
+Branch:        fix-rate-limit
+Commit:        703d031
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e4a63775b9bc^...703d031b2d10
+Duration:      48 sec
+Started:       2020-09-28 14:50:04
+Finished:      2020-09-28 14:50:29
+
+#7017.1 errored: 24 sec         os: linux, node_js: lts/*
+#7017.2 errored: 24 sec         os: linux, node_js: lts/*

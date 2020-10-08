@@ -1,0 +1,14 @@
+Build #7070:  remove unnecessary file log
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        94cff11
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      10 min 27 sec
+Started:       2020-10-01 10:22:29
+Finished:      2020-10-01 10:25:29
+
+#7070.1 passed:  2 min 16 sec   os: linux, node_js: lts/*, env:
+#7070.2 passed:  2 min 42 sec   os: linux, node_js: lts/*, env:
+#7070.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env:
+#7070.4 passed:  2 min 59 sec   os: linux, node_js: lts/*, env:

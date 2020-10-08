@@ -1,0 +1,12 @@
+Build #7039:  print settings.json
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        0021b1c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2a284104e37c...0021b1cfd1d6
+Duration:      2 min 10 sec
+Started:       2020-09-29 00:44:17
+Finished:      2020-09-29 00:46:01
+
+#7039.1 failed:  26 sec         os: linux, node_js: lts/*
+#7039.2 errored: 1 min 44 sec   os: linux, node_js: lts/*

@@ -1,0 +1,14 @@
+Build #7067:  Merge branch 'develop' into fix/static_files
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        a9e9f15
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      9 min 15 sec
+Started:       2020-10-01 09:43:20
+Finished:      2020-10-01 09:45:53
+
+#7067.1 passed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#7067.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7067.3 passed:  2 min 10 sec   os: linux, node_js: lts/*, env:
+#7067.4 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:

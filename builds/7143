@@ -1,0 +1,16 @@
+Build #7143:  hooks: Rewrite `aCallAll` to handle legacy hook functions
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4404)
+Commit:        21829f2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4404
+Duration:      44 min 16 sec
+Started:       2020-10-07 23:46:35
+Finished:      2020-10-08 00:10:34
+
+#7143.1 failed:  2 min          os: linux, node_js: lts/*, env:
+#7143.2 failed:  2 min 51 sec   os: linux, node_js: lts/*, env:
+#7143.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:
+#7143.4 failed:  21 min 41 sec  os: linux, node_js: lts/*, env:
+#7143.5 passed:  2 min 30 sec   os: linux, node_js: lts/*, env:
+#7143.6 errored: 12 min 45 sec  os: linux, node_js: lts/*, env:

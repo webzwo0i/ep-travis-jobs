@@ -1,0 +1,17 @@
+Build #7046:  add test for ratelimit
+State:         failed
+Type:          push
+Branch:        fix-rate-limit
+Commit:        83e4399
+Compare URL:   https://github.com/ether/etherpad-lite/commit/83e4399b4b15
+Duration:      27 min 43 sec
+Started:       2020-09-29 01:47:44
+Finished:      2020-09-29 01:58:02
+
+#7046.1 failed:  10 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7046.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7046.3 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7046.4 failed:  5 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7046.5 passed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7046.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7046.7 failed:  2 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

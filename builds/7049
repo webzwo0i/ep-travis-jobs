@@ -1,0 +1,17 @@
+Build #7049:  run docker exec without -d
+State:         failed
+Type:          push
+Branch:        fix-rate-limit
+Commit:        66b30e8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fb0b55de36e4...66b30e82cd9d
+Duration:      28 min 19 sec
+Started:       2020-09-29 02:18:25
+Finished:      2020-09-29 02:29:09
+
+#7049.1 failed:  10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7049.2 passed:  4 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7049.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7049.4 passed:  3 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7049.5 passed:  2 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7049.6 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7049.7 passed:  3 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

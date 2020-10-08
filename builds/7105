@@ -1,0 +1,17 @@
+Build #7105:  increase timeout for test, not for helper.waitFor
+State:         failed
+Type:          push
+Branch:        fix-pad-follow-contents
+Commit:        52816a6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d593fc8020f4...52816a6976df
+Duration:      23 min 53 sec
+Started:       2020-10-05 23:17:53
+Finished:      2020-10-05 23:26:23
+
+#7105.1 failed:  8 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7105.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7105.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7105.4 failed:  3 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7105.5 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7105.6 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7105.7 passed:  3 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,17 @@
+Build #7081:  cookies: Use `SameSite=None` if in an iframe from another site
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        2db4b04
+Compare URL:   https://github.com/ether/etherpad-lite/compare/891d2600fa46...2db4b04af3fb
+Duration:      25 min 17 sec
+Started:       2020-10-04 09:58:07
+Finished:      2020-10-04 10:07:09
+
+#7081.1 passed:  9 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7081.2 passed:  2 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7081.3 passed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7081.4 passed:  4 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7081.5 passed:  2 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7081.6 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7081.7 passed:  3 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

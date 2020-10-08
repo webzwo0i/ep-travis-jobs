@@ -1,0 +1,16 @@
+Build #6986:  allowing longer for FF to do timeslider rev test
+State:         passed
+Type:          push
+Branch:        tests-ff-longer
+Commit:        a86caee
+Compare URL:   https://github.com/ether/etherpad-lite/commit/a86caee50c50
+Duration:      22 min 2 sec
+Started:       2020-09-27 22:40:04
+Finished:      2020-09-27 22:43:28
+
+#6986.1 passed:  9 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6986.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6986.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6986.4 passed:  3 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6986.5 passed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6986.6 passed:  2 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

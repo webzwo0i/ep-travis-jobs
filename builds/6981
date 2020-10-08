@@ -1,0 +1,16 @@
+Build #6981:  tests: adding a check before finishing responsiveness test - allowing load test to run for 25 instead of 30 seconds to facilitate travis performance. (#4363)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        53b80d6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/411b278881e0511209dc43f0eebcac01da8a35f8...53b80d628029991879b82dd87ade0b89360f1553
+Duration:      22 min 23 sec
+Started:       2020-09-27 19:39:21
+Finished:      2020-09-27 19:48:04
+
+#6981.1 passed:  8 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6981.2 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6981.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6981.4 passed:  4 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6981.5 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6981.6 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

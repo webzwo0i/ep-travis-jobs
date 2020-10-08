@@ -1,0 +1,17 @@
+Build #7050:  run docker exec without -d
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4373)
+Commit:        5e8bf9e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4373
+Duration:      24 min 54 sec
+Started:       2020-09-29 02:25:46
+Finished:      2020-09-29 02:36:37
+
+#7050.1 passed:  8 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7050.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7050.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7050.4 passed:  4 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7050.5 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7050.6 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7050.7 passed:  3 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

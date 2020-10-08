@@ -1,0 +1,15 @@
+Build #7083:  express: Move general Express setup from `webaccess.js`
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4386)
+Commit:        018e440
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4386
+Duration:      12 min 24 sec
+Started:       2020-10-04 22:12:10
+Finished:      2020-10-04 22:17:42
+
+#7083.1 passed:  2 min 10 sec   os: linux, node_js: lts/*, env:
+#7083.2 passed:  2 min 26 sec   os: linux, node_js: lts/*, env:
+#7083.3 passed:  2 min 12 sec   os: linux, node_js: lts/*, env:
+#7083.4 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:
+#7083.5 passed:  3 min 3 sec    os: linux, node_js: lts/*, env:

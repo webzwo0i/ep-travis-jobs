@@ -1,0 +1,16 @@
+Build #6992:  security: Enable authorize plugins to grant read-only access
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        1809837
+Compare URL:   https://github.com/ether/etherpad-lite/compare/505d67ed1c5a...180983736d70
+Duration:      30 min 3 sec
+Started:       2020-09-27 23:57:35
+Finished:      2020-09-28 00:09:43
+
+#6992.1 passed:  8 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6992.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6992.3 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6992.4 failed:  11 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6992.5 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6992.6 passed:  2 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

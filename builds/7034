@@ -1,0 +1,12 @@
+Build #7034:  this is awful...custom Dockerfile and settings.json.docker only for this test
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        47e295d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bc2d09efca68...47e295d37921
+Duration:      52 sec
+Started:       2020-09-29 00:15:24
+Finished:      2020-09-29 00:15:51
+
+#7034.1 failed:  26 sec         os: linux, node_js: lts/*
+#7034.2 errored: 26 sec         os: linux, node_js: lts/*

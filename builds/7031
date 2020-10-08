@@ -1,0 +1,12 @@
+Build #7031:  in case of trustProxy=true don't use client.handshake.address
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        1e9d031
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ca89b00f2261...1e9d031a696a
+Duration:      2 min
+Started:       2020-09-28 23:35:18
+Finished:      2020-09-28 23:36:55
+
+#7031.1 failed:  25 sec         os: linux, node_js: lts/*
+#7031.2 errored: 1 min 35 sec   os: linux, node_js: lts/*

@@ -1,0 +1,12 @@
+Build #7022:  test should fail with old behaviour
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        fa8fa5c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/22f203a48e40...fa8fa5c09930
+Duration:      2 min 21 sec
+Started:       2020-09-28 15:24:09
+Finished:      2020-09-28 15:26:25
+
+#7022.1 failed:  24 sec         os: linux, node_js: lts/*
+#7022.2 passed:  1 min 57 sec   os: linux, node_js: lts/*

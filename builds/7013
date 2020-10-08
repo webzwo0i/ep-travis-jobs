@@ -1,0 +1,12 @@
+Build #7013:  add exit code
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        b675211
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bd78d8aba9d4...b6752116b084
+Duration:      1 min 48 sec
+Started:       2020-09-28 14:02:51
+Finished:      2020-09-28 14:04:13
+
+#7013.1 failed:  26 sec         os: linux, node_js: lts/*
+#7013.2 failed:  1 min 22 sec   os: linux, node_js: lts/*

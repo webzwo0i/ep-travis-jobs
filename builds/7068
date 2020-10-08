@@ -1,0 +1,14 @@
+Build #7068:  Merge branch 'fix/static_files' of https://github.com/HMarzban/etherpad-lite into fix/static_files
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4292)
+Commit:        6c4d04e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4292
+Duration:      9 min 31 sec
+Started:       2020-10-01 09:56:19
+Finished:      2020-10-01 09:59:06
+
+#7068.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#7068.2 passed:  2 min 20 sec   os: linux, node_js: lts/*, env:
+#7068.3 passed:  2 min 20 sec   os: linux, node_js: lts/*, env:
+#7068.4 passed:  2 min 44 sec   os: linux, node_js: lts/*, env:

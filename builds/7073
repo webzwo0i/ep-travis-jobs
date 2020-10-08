@@ -1,0 +1,17 @@
+Build #7073:  security: Support proxy with rate limiting and include CI test coverage for nginx rev proxy (#4373)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ceb09ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dbef630f44f76b63eb5343a06f8df1ef7e71b539...ceb09ce99ad080ae804d322804b22e3e8f0be005
+Duration:      25 min 15 sec
+Started:       2020-10-01 19:45:30
+Finished:      2020-10-01 19:56:46
+
+#7073.1 passed:  8 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7073.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7073.3 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7073.4 passed:  4 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7073.5 passed:  2 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7073.6 passed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7073.7 passed:  3 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

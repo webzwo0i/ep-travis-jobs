@@ -1,0 +1,12 @@
+Build #7027:  add test for rate limit
+State:         canceled
+Type:          push
+Branch:        fix-ratelimit
+Commit:        b72965f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83c9d9cc6f27^...b72965f7d25e
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-28 17:48:06
+
+#7027.1 canceled: 30 min 2 sec   os: linux, node_js: lts/*
+#7027.2 canceled: 29 min 54 sec  os: linux, node_js: lts/*

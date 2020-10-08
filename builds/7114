@@ -1,0 +1,17 @@
+Build #7114:  tests: Disable non-test logging unless level <= DEBUG
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c74b254
+Compare URL:   https://github.com/ether/etherpad-lite/compare/34b232d65885...c74b2543343b
+Duration:      25 min 7 sec
+Started:       2020-10-06 10:20:23
+Finished:      2020-10-06 10:30:44
+
+#7114.1 passed:  8 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7114.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7114.3 passed:  2 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7114.4 passed:  4 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7114.5 passed:  2 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7114.6 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7114.7 passed:  3 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

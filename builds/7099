@@ -1,0 +1,15 @@
+Build #7099:  tests: Disable non-test logging unless level <= DEBUG
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4391)
+Commit:        399562e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4391
+Duration:      13 min 28 sec
+Started:       2020-10-05 21:06:26
+Finished:      2020-10-05 21:13:31
+
+#7099.1 passed:  2 min 13 sec   os: linux, node_js: lts/*, env:
+#7099.2 passed:  2 min 21 sec   os: linux, node_js: lts/*, env:
+#7099.3 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#7099.4 passed:  3 min 41 sec   os: linux, node_js: lts/*, env:
+#7099.5 passed:  3 min 6 sec    os: linux, node_js: lts/*, env:

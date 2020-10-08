@@ -1,0 +1,17 @@
+Build #7090:  express: Move general Express setup from `webaccess.js`
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        377560e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/29ee63f2ba57...377560eb517a
+Duration:      25 min 33 sec
+Started:       2020-10-05 19:16:15
+Finished:      2020-10-05 19:27:12
+
+#7090.1 passed:  8 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7090.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7090.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7090.4 passed:  4 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7090.5 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7090.6 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7090.7 passed:  3 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

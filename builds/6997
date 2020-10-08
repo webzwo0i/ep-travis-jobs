@@ -1,0 +1,16 @@
+Build #6997:  bump npm
+State:         canceled
+Type:          push
+Branch:        update-ueber-mssql
+Commit:        0a6c4f7
+Compare URL:   https://github.com/ether/etherpad-lite/commit/0a6c4f771a8d
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-28 00:21:14
+
+#6997.1 canceled: 4 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6997.2 canceled: 4 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6997.3 canceled: 4 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6997.4 canceled: 4 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6997.5 canceled: 4 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6997.6 canceled: 4 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,17 @@
+Build #7106:  increase helper.waitFor time limits
+State:         failed
+Type:          push
+Branch:        fix-pad-follow-contents
+Commit:        55f427b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/52816a6976df...55f427b53d48
+Duration:      24 min 42 sec
+Started:       2020-10-05 23:32:43
+Finished:      2020-10-05 23:40:42
+
+#7106.1 failed:  7 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7106.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7106.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7106.4 passed:  4 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7106.5 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7106.6 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7106.7 passed:  3 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

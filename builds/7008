@@ -1,0 +1,12 @@
+Build #7008:  fix
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        4f41b3b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d2fd48d31790...4f41b3b09f21
+Duration:      1 min 52 sec
+Started:       2020-09-28 13:47:38
+Finished:      2020-09-28 13:49:05
+
+#7008.1 failed:  25 sec         os: linux, node_js: lts/*
+#7008.2 passed:  1 min 27 sec   os: linux, node_js: lts/*

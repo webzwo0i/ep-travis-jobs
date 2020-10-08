@@ -1,0 +1,17 @@
+Build #7102:  fix
+State:         failed
+Type:          push
+Branch:        fix-pad-follow-contents
+Commit:        d593fc8
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2326bca35a2a...d593fc8020f4
+Duration:      28 min 48 sec
+Started:       2020-10-05 22:31:57
+Finished:      2020-10-05 22:45:22
+
+#7102.1 failed:  8 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7102.2 passed:  4 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7102.3 passed:  2 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7102.4 passed:  2 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7102.5 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7102.6 passed:  2 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7102.7 passed:  5 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

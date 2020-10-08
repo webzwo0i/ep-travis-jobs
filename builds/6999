@@ -1,0 +1,16 @@
+Build #6999:  more deeper package lock updates
+State:         canceled
+Type:          push
+Branch:        update-ueber-mssql
+Commit:        a1c3576
+Compare URL:   https://github.com/ether/etherpad-lite/compare/d56d107bfa1d...a1c35767035b
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-09-28 00:22:44
+
+#6999.1 canceled: 5 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6999.2 canceled: 5 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6999.3 canceled: 5 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6999.4 canceled: 5 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6999.5 canceled: 5 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6999.6 canceled: 5 min 37 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,18 @@
+Build #7138:  socketio: Mimic what Express does to get client IP address
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        661a893
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ba6bdf35be1d...661a89355f1d
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-07 11:43:43
+
+#7138.1 canceled: 21 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7138.2 canceled: 21 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7138.3 canceled: 21 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7138.4 canceled: 21 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7138.5 canceled: 21 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7138.6 canceled: 21 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7138.7 canceled: 21 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7138.8 canceled: 21 min 9 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

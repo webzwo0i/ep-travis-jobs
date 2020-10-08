@@ -1,0 +1,12 @@
+Build #7015:  run installDeps
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        8a0f6f1
+Compare URL:   https://github.com/ether/etherpad-lite/compare/bd32b1843bef...8a0f6f14b00f
+Duration:      2 min 3 sec
+Started:       2020-09-28 14:10:25
+Finished:      2020-09-28 14:12:03
+
+#7015.1 failed:  25 sec         os: linux, node_js: lts/*
+#7015.2 failed:  1 min 38 sec   os: linux, node_js: lts/*

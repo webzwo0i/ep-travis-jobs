@@ -1,0 +1,16 @@
+Build #6983:  tests: test coverage for read only pad ids (#4364)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a51132d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/53b80d628029...a51132d71244
+Duration:      24 min 49 sec
+Started:       2020-09-27 20:43:58
+Finished:      2020-09-27 20:52:39
+
+#6983.1 failed:  8 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6983.2 passed:  3 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6983.3 passed:  2 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6983.4 passed:  5 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6983.5 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6983.6 passed:  2 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

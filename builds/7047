@@ -1,0 +1,17 @@
+Build #7047:  in case of reverse proxy setup use client.handshake.headers['x-forwarded-for'] and not client.handshake.address during rate limiting
+State:         passed
+Type:          push
+Branch:        fix-rate-limit
+Commit:        734ee91
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83e4399b4b15...734ee91c5515
+Duration:      26 min 31 sec
+Started:       2020-09-29 01:53:07
+Finished:      2020-09-29 02:03:50
+
+#7047.1 passed:  10 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7047.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7047.3 passed:  2 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7047.4 passed:  4 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7047.5 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7047.6 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7047.7 passed:  3 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

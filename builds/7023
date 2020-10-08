@@ -1,0 +1,12 @@
+Build #7023:  add debug log
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        ed6c7b2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fa8fa5c09930...ed6c7b25822b
+Duration:      2 min 30 sec
+Started:       2020-09-28 16:47:22
+Finished:      2020-09-28 16:49:26
+
+#7023.1 failed:  26 sec         os: linux, node_js: lts/*
+#7023.2 passed:  2 min 4 sec    os: linux, node_js: lts/*

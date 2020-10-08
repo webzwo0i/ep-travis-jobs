@@ -1,0 +1,18 @@
+Build #7141:  Security: FEATURE REMOVAL: Remove all plain text password logic and ui (#4178)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        66df0a5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/45bee54aa0579c463e9f11f32036ffb802b767dd...66df0a572f03d1c9cbe7364ea8a81a3c05c17518
+Duration:      26 min 30 sec
+Started:       2020-10-08 12:00:14
+Finished:      2020-10-08 12:03:16
+
+#7141.1 passed:  8 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7141.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7141.3 passed:  2 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7141.4 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7141.5 passed:  3 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7141.6 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7141.7 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7141.8 passed:  3 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

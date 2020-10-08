@@ -1,0 +1,11 @@
+Job #7063.1:  test self-signed cert
+State:         canceled
+Type:          push
+Branch:        debug-self-signed-cert
+Commit:        7da94c2
+Compare URL:   https://github.com/ether/etherpad-lite/commit/7da94c24a4f0
+Duration:      1 min 2 sec
+Started:       2020-09-30 10:23:34
+Finished:      2020-09-30 10:24:36
+Allow Failure: false
+Config:        os: linux, node_js: 10.13

@@ -1,0 +1,15 @@
+Build #7117:  Use dedicated function to retrieve node/npm program version
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4392)
+Commit:        cc61f44
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4392
+Duration:      12 min 30 sec
+Started:       2020-10-06 12:59:41
+Finished:      2020-10-06 13:17:21
+
+#7117.1 passed:  2 min 6 sec    os: linux, node_js: lts/*, env:
+#7117.2 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:
+#7117.3 passed:  2 min 11 sec   os: linux, node_js: lts/*, env:
+#7117.4 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:
+#7117.5 passed:  3 min 7 sec    os: linux, node_js: lts/*, env:

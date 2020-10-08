@@ -1,0 +1,15 @@
+Build #7078:  cookies: Use `SameSite=None` if in an iframe from another site
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4384)
+Commit:        d43f844
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4384
+Duration:      12 min 25 sec
+Started:       2020-10-03 08:28:52
+Finished:      2020-10-03 08:34:16
+
+#7078.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#7078.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7078.3 passed:  2 min 8 sec    os: linux, node_js: lts/*, env:
+#7078.4 passed:  2 min 38 sec   os: linux, node_js: lts/*, env:
+#7078.5 passed:  3 min 4 sec    os: linux, node_js: lts/*, env:

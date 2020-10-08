@@ -1,0 +1,17 @@
+Build #7055:  remoteAddress[client.id] is set after connection is established, so it's always available in handleMessage
+State:         failed
+Type:          push
+Branch:        fix-rate-limit
+Commit:        6ee3d4c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/66b30e82cd9d...6ee3d4cf2f09
+Duration:      25 min 58 sec
+Started:       2020-09-29 14:24:36
+Finished:      2020-09-29 14:33:08
+
+#7055.1 failed:  8 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7055.2 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7055.3 passed:  2 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7055.4 passed:  4 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7055.5 passed:  2 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7055.6 passed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7055.7 passed:  3 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

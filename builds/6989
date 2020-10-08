@@ -1,0 +1,16 @@
+Build #6989:  allowing longer for FF to do timeslider rev test
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        505d67e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/304318b6187b...505d67ed1c5a
+Duration:      20 min 17 sec
+Started:       2020-09-27 23:45:54
+Finished:      2020-09-27 23:48:47
+
+#6989.1 passed:  7 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6989.2 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6989.3 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6989.4 passed:  2 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6989.5 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#6989.6 passed:  2 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

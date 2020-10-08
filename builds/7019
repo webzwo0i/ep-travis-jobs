@@ -1,0 +1,12 @@
+Build #7019:  in case of reverse proxy use ip from x-forwarded-for header
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        3a88f9d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2ee5d7b85786...3a88f9d26452
+Duration:      2 min 13 sec
+Started:       2020-09-28 14:53:48
+Finished:      2020-09-28 14:55:38
+
+#7019.1 failed:  24 sec         os: linux, node_js: lts/*
+#7019.2 failed:  1 min 49 sec   os: linux, node_js: lts/*

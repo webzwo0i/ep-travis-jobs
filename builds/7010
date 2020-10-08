@@ -1,0 +1,12 @@
+Build #7010:  Test should fail in case proxy IP is taken
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        951a9fd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5cb2c7eccc0a...951a9fdec67e
+Duration:      1 min 2 sec
+Started:       2020-09-28 13:52:21
+Finished:      2020-09-28 13:52:58
+
+#7010.1 failed:  25 sec         os: linux, node_js: lts/*
+#7010.2 errored: 37 sec         os: linux, node_js: lts/*

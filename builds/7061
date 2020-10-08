@@ -1,0 +1,17 @@
+Build #7061:  remoteAddress[client.id] is set after connection is established, so it's always available in handleMessage
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4373)
+Commit:        4c94c13
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4373
+Duration:      24 min 58 sec
+Started:       2020-09-29 20:40:26
+Finished:      2020-09-29 20:50:43
+
+#7061.1 passed:  8 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7061.2 passed:  2 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7061.3 passed:  2 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7061.4 passed:  3 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7061.5 passed:  2 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7061.6 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7061.7 passed:  3 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

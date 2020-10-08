@@ -1,0 +1,15 @@
+Build #7074:  import: Replace the `allowAnyoneToImport` check with `userCanModify`
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4383)
+Commit:        c35eef4
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4383
+Duration:      12 min 19 sec
+Started:       2020-10-02 04:44:22
+Finished:      2020-10-02 04:49:45
+
+#7074.1 passed:  1 min 59 sec   os: linux, node_js: lts/*, env:
+#7074.2 passed:  2 min 24 sec   os: linux, node_js: lts/*, env:
+#7074.3 passed:  2 min 16 sec   os: linux, node_js: lts/*, env:
+#7074.4 passed:  2 min 35 sec   os: linux, node_js: lts/*, env:
+#7074.5 passed:  3 min 5 sec    os: linux, node_js: lts/*, env:

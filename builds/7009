@@ -1,0 +1,12 @@
+Build #7009:  add etherpad-cli-client to dependencies
+State:         errored
+Type:          push
+Branch:        fix-ratelimit
+Commit:        5cb2c7e
+Compare URL:   https://github.com/ether/etherpad-lite/compare/4f41b3b09f21...5cb2c7eccc0a
+Duration:      1 min
+Started:       2020-09-28 13:51:16
+Finished:      2020-09-28 13:52:01
+
+#7009.1 failed:  25 sec         os: linux, node_js: lts/*
+#7009.2 errored: 35 sec         os: linux, node_js: lts/*

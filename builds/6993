@@ -1,0 +1,14 @@
+Build #6993:  webaccess: Log hook errors
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4367)
+Commit:        c9010b7
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4367
+Duration:      9 min 28 sec
+Started:       2020-09-28 00:02:37
+Finished:      2020-09-28 00:09:19
+
+#6993.1 passed:  2 min 7 sec    os: linux, node_js: lts/*, env:
+#6993.2 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#6993.3 passed:  2 min 15 sec   os: linux, node_js: lts/*, env:
+#6993.4 passed:  2 min 38 sec   os: linux, node_js: lts/*, env:

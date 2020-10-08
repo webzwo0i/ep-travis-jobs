@@ -1,0 +1,12 @@
+Build #7018:  add test for rate limit
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        2ee5d7b
+Compare URL:   https://github.com/ether/etherpad-lite/compare/83c9d9cc6f27^...2ee5d7b85786
+Duration:      2 min 28 sec
+Started:       2020-09-28 14:50:54
+Finished:      2020-09-28 14:52:58
+
+#7018.1 failed:  26 sec         os: linux, node_js: lts/*
+#7018.2 passed:  2 min 2 sec    os: linux, node_js: lts/*

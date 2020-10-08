@@ -1,0 +1,11 @@
+Job #7064.1:  run server in background
+State:         failed
+Type:          push
+Branch:        debug-self-signed-cert
+Commit:        8880896
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7da94c24a4f0...88808960f039
+Duration:      1 min 31 sec
+Started:       2020-09-30 10:27:23
+Finished:      2020-09-30 10:28:54
+Allow Failure: false
+Config:        os: linux, node_js: 10.13

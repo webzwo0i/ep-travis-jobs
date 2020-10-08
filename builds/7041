@@ -1,0 +1,12 @@
+Build #7041:  remove sudo
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        26d1baa
+Compare URL:   https://github.com/ether/etherpad-lite/compare/8cd06bb1b491...26d1baa9ed7c
+Duration:      2 min 21 sec
+Started:       2020-09-29 01:07:42
+Finished:      2020-09-29 01:09:40
+
+#7041.1 failed:  25 sec         os: linux, node_js: lts/*
+#7041.2 failed:  1 min 56 sec   os: linux, node_js: lts/*

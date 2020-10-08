@@ -1,0 +1,12 @@
+Build #7025:  docker into background without -d
+State:         failed
+Type:          push
+Branch:        fix-ratelimit
+Commit:        d743a86
+Compare URL:   https://github.com/ether/etherpad-lite/compare/84fd978c9fd3...d743a8616526
+Duration:      2 min 25 sec
+Started:       2020-09-28 17:00:07
+Finished:      2020-09-28 17:02:14
+
+#7025.1 failed:  24 sec         os: linux, node_js: lts/*
+#7025.2 passed:  2 min 1 sec    os: linux, node_js: lts/*

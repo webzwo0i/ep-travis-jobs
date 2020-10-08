@@ -1,0 +1,17 @@
+Build #7072:  security: Support proxy with rate limiting and include CI test coverage for nginx rev proxy (#4373)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        ceb09ce
+Compare URL:   https://github.com/ether/etherpad-lite/compare/dbef630f44f7...ceb09ce99ad0
+Duration:      24 min 50 sec
+Started:       2020-10-01 11:39:21
+Finished:      2020-10-01 11:47:43
+
+#7072.1 passed:  8 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7072.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7072.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7072.4 passed:  4 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7072.5 passed:  2 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7072.6 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7072.7 passed:  3 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
