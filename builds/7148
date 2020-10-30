@@ -1,0 +1,16 @@
+Build #7148:  tests: Simplify API key reading
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4406)
+Commit:        8c81186
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4406
+Duration:      15 min 6 sec
+Started:       2020-10-08 19:36:33
+Finished:      2020-10-08 19:43:14
+
+#7148.1 passed:  2 min 6 sec    os: linux, node_js: lts/*, env:
+#7148.2 passed:  2 min 50 sec   os: linux, node_js: lts/*, env:
+#7148.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:
+#7148.4 passed:  2 min 4 sec    os: linux, node_js: lts/*, env:
+#7148.5 passed:  2 min 40 sec   os: linux, node_js: lts/*, env:
+#7148.6 passed:  2 min 57 sec   os: linux, node_js: lts/*, env:

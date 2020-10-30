@@ -1,0 +1,11 @@
+Job #7289.1:  test safari
+State:         canceled
+Type:          push
+Branch:        webdriver-selenium
+Commit:        d6e5b66
+Compare URL:   https://github.com/ether/etherpad-lite/compare/f1c3415de98d^...d6e5b66e58d9
+Duration:      7 min 32 sec
+Started:       2020-10-22 03:27:50
+Finished:      2020-10-22 03:35:22
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

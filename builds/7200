@@ -1,0 +1,11 @@
+Job #7200.1:  enable tunnelIdentifier
+State:         passed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        e9bdef2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7d4988af37b2...e9bdef25ea94
+Duration:      2 min 47 sec
+Started:       2020-10-11 21:51:00
+Finished:      2020-10-11 21:53:47
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

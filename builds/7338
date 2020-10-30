@@ -1,0 +1,18 @@
+Build #7338:  Use isHttpError utility provided by http-errors
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        c502ca3
+Compare URL:   https://github.com/ether/etherpad-lite/compare/aef4cce0c95e46fb5dd339365ee35b67a20da865...c502ca3259cfcf39074d28bb420e6a88bc6d8c06
+Duration:      26 min 9 sec
+Started:       2020-10-25 18:55:23
+Finished:      2020-10-25 19:08:37
+
+#7338.1 passed:  8 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7338.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7338.3 passed:  2 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7338.4 passed:  2 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7338.5 passed:  3 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7338.6 passed:  2 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7338.7 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7338.8 passed:  3 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

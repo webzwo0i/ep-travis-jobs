@@ -1,0 +1,18 @@
+Build #7307:  tests: 10 sec maximum wait time for timeslider
+State:         passed
+Type:          push
+Branch:        eplite-relaxed-limit-for-loading-timeslider
+Commit:        5c7820d
+Compare URL:   https://github.com/ether/etherpad-lite/commit/5c7820dd326c
+Duration:      28 min 26 sec
+Started:       2020-10-23 03:49:00
+Finished:      2020-10-23 04:50:01
+
+#7307.1 passed:  10 min 10 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7307.2 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7307.3 passed:  2 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7307.4 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7307.5 passed:  3 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7307.6 passed:  2 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7307.7 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7307.8 passed:  2 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

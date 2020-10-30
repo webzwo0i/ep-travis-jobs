@@ -1,0 +1,18 @@
+Build #7361:  derp
+State:         canceled
+Type:          push
+Branch:        various-checkPlugins-improvements
+Commit:        c7940af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/01e1115a0384...c7940af4f418
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-27 19:44:54
+
+#7361.1 canceled: 10 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7361.2 canceled: 10 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7361.3 canceled: 10 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7361.4 canceled: 10 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7361.5 canceled: 10 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7361.6 canceled: 10 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7361.7 canceled: 10 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7361.8 canceled: 10 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

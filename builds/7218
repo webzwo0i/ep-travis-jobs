@@ -1,0 +1,18 @@
+Build #7218:  tests: Tune `waitForPromise()` poll count test
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        e0542f9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3e1401621490...e0542f903ad7
+Duration:      26 min 10 sec
+Started:       2020-10-18 14:44:46
+Finished:      2020-10-18 14:53:53
+
+#7218.1 failed:  7 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7218.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7218.3 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7218.4 passed:  2 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7218.5 passed:  3 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7218.6 passed:  2 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7218.7 failed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7218.8 passed:  3 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

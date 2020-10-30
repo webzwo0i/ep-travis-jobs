@@ -1,0 +1,18 @@
+Build #7312:  tests: 10 sec maximum wait time for timeslider (#4430)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        069e999
+Compare URL:   https://github.com/ether/etherpad-lite/compare/b3b30402047570328f687ae6285d014029c90b64...069e9997dd71dbdf4b42e1adbc3a7e2de0006b70
+Duration:      27 min 43 sec
+Started:       2020-10-24 05:39:26
+Finished:      2020-10-24 06:09:53
+
+#7312.1 passed:  8 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7312.2 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7312.3 passed:  2 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7312.4 passed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7312.5 failed:  4 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7312.6 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7312.7 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7312.8 passed:  2 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,18 @@
+Build #7308:  tests: 10 sec maximum wait time for timeslider
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4430)
+Commit:        603c9dc
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4430
+Duration:      5 min 28 sec
+Started:       2020-10-23 13:47:47
+Finished:      2020-10-23 14:36:20
+
+#7308.1 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7308.2 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7308.3 errored: 39 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7308.4 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7308.5 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7308.6 errored: 43 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7308.7 errored: 48 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7308.8 errored: 47 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

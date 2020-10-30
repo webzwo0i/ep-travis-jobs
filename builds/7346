@@ -1,0 +1,18 @@
+Build #7346:  ace.js: fix the logic to inline CSS
+State:         failed
+Type:          push
+Branch:        fix-css-inlining
+Commit:        37e8e7a
+Compare URL:   https://github.com/ether/etherpad-lite/commit/37e8e7af32a6
+Duration:      27 min 41 sec
+Started:       2020-10-27 23:29:13
+Finished:      2020-10-27 23:34:16
+
+#7346.1 passed:  7 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7346.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7346.3 passed:  2 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7346.4 passed:  2 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7346.5 failed:  5 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7346.6 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7346.7 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7346.8 passed:  3 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

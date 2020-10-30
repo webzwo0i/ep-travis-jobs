@@ -1,0 +1,16 @@
+Build #7164:  tests: Include the filename in the test output
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4407)
+Commit:        664e6bb
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4407
+Duration:      15 min 24 sec
+Started:       2020-10-10 00:23:16
+Finished:      2020-10-10 00:30:13
+
+#7164.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#7164.2 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:
+#7164.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7164.4 passed:  2 min 16 sec   os: linux, node_js: lts/*, env:
+#7164.5 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:
+#7164.6 passed:  3 min 33 sec   os: linux, node_js: lts/*, env:

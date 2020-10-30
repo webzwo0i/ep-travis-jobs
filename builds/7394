@@ -1,0 +1,18 @@
+Build #7394:  Settings: Don't filter out users based on `password` or `hash`
+State:         passed
+Type:          push
+Branch:        rhansen-passwordlessuser
+Commit:        f5d1e1a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/7728896e8dd1...f5d1e1a28a49
+Duration:      27 min 19 sec
+Started:       2020-10-29 21:37:54
+Finished:      2020-10-29 21:41:55
+
+#7394.1 passed:  7 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7394.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7394.3 passed:  2 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7394.4 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7394.5 passed:  4 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7394.6 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7394.7 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7394.8 passed:  3 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

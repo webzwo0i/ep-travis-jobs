@@ -1,0 +1,18 @@
+Build #7293:  import: Ajaxify pad import
+State:         errored
+Type:          push
+Branch:        rhansen-4400
+Commit:        f7fa9e0
+Compare URL:   https://github.com/ether/etherpad-lite/compare/635fa875f0a6^...f7fa9e0a7221
+Duration:      17 min 37 sec
+Started:       2020-10-22 06:57:13
+Finished:      2020-10-22 07:05:49
+
+#7293.1 passed:  8 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7293.2 failed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7293.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7293.4 passed:  2 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7293.5 errored: 34 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7293.6 errored: 33 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7293.7 errored: 33 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7293.8 errored: 33 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

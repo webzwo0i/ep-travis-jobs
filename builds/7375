@@ -1,0 +1,18 @@
+Build #7375:  lockfile lint check
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4446)
+Commit:        feb86e8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4446
+Duration:      11 min 26 sec
+Started:       2020-10-29 16:36:59
+Finished:      2020-10-29 16:41:25
+
+#7375.1 errored: 1 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7375.2 errored: 1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7375.3 errored: 1 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7375.4 errored: 1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7375.5 errored: 1 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7375.6 errored: 1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7375.7 errored: 1 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7375.8 errored: 1 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,18 @@
+Build #7373:  docs: Migrate from Travis-ci.org to .com
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        99d5c7c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/66a36475795c84b14372e5130369d78150c7c641...99d5c7c94349697dbbacba068ef9e44cd53731a5
+Duration:      28 min 24 sec
+Started:       2020-10-28 18:54:04
+Finished:      2020-10-28 19:02:20
+
+#7373.1 passed:  8 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7373.2 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7373.3 passed:  2 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7373.4 passed:  2 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7373.5 passed:  5 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7373.6 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7373.7 passed:  2 min 30 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7373.8 passed:  3 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

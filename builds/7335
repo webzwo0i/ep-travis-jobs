@@ -1,0 +1,16 @@
+Build #7335:  Use isHttpError utility provided by http-errors
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4437)
+Commit:        2e1fcc8
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4437
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-25 11:39:17
+
+#7335.1 canceled: 5 min 35 sec   os: linux, node_js: lts/*, env:
+#7335.2 canceled: 5 min 34 sec   os: linux, node_js: lts/*, env:
+#7335.3 canceled: 5 min 34 sec   os: linux, node_js: lts/*, env:
+#7335.4 canceled: 5 min 34 sec   os: linux, node_js: lts/*, env:
+#7335.5 canceled: 5 min 34 sec   os: linux, node_js: lts/*, env:
+#7335.6 canceled: 5 min 34 sec   os: linux, node_js: lts/*, env:

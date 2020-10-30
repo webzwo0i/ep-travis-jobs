@@ -1,0 +1,18 @@
+Build #7358:  update core plugins script
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4439)
+Commit:        0b7ec5b
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4439
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-27 19:39:51
+
+#7358.1 canceled: 5 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7358.2 canceled: 5 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7358.3 canceled: 5 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7358.4 canceled: 5 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7358.5 canceled: 5 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7358.6 canceled: 5 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7358.7 canceled: 5 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7358.8 canceled: 5 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

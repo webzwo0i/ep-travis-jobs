@@ -1,0 +1,11 @@
+Job #7158.1:  debugging
+State:         failed
+Type:          pull request
+Branch:        develop (PR #4404)
+Commit:        255cbd2
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4404
+Duration:      3 min 41 sec
+Started:       2020-10-09 22:37:11
+Finished:      2020-10-09 22:40:52
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: 

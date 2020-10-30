@@ -1,0 +1,11 @@
+Job #7178.1:  increase timeout
+State:         failed
+Type:          push
+Branch:        test-responsivness
+Commit:        cca0552
+Compare URL:   https://github.com/ether/etherpad-lite/compare/fe37c45a5d77...cca0552c3957
+Duration:      1 min 19 sec
+Started:       2020-10-19 01:30:41
+Finished:      2020-10-19 01:32:00
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

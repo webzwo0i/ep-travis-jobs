@@ -1,0 +1,16 @@
+Build #7311:  Added nl translations for adminpage
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4432)
+Commit:        2ed00f5
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4432
+Duration:      3 min 40 sec
+Started:       2020-10-24 04:40:17
+Finished:      2020-10-24 05:06:06
+
+#7311.1 errored: 35 sec         os: linux, node_js: lts/*, env:
+#7311.2 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7311.3 errored: 35 sec         os: linux, node_js: lts/*, env:
+#7311.4 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7311.5 errored: 36 sec         os: linux, node_js: lts/*, env:
+#7311.6 errored: 38 sec         os: linux, node_js: lts/*, env:

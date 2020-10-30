@@ -1,0 +1,18 @@
+Build #7238:  Merge branch 'develop' into frontend-tests-work
+State:         failed
+Type:          push
+Branch:        frontend-tests-work
+Commit:        7bc9c96
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e5485cb54ab...7bc9c96ae952
+Duration:      28 min 10 sec
+Started:       2020-10-18 21:37:42
+Finished:      2020-10-18 21:46:10
+
+#7238.1 failed:  8 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7238.2 passed:  1 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7238.3 passed:  2 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7238.4 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7238.5 passed:  4 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7238.6 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7238.7 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7238.8 passed:  3 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

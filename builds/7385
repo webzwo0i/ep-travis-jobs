@@ -1,0 +1,19 @@
+Build #7385:  move to own test
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4446)
+Commit:        9b69f98
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4446
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-29 17:59:27
+
+#7385.1 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.2 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.3 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.4 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.5 canceled: 28 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.6 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.7 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.8 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7385.9 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

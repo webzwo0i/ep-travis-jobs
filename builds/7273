@@ -1,0 +1,16 @@
+Build #7273:  Including more data at pad update event
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4425)
+Commit:        2ee0099
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4425
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-21 19:01:13
+
+#7273.1 canceled: 30 min 1 sec   os: linux, node_js: lts/*, env:
+#7273.2 canceled: 30 min 1 sec   os: linux, node_js: lts/*, env:
+#7273.3 canceled: 30 min         os: linux, node_js: lts/*, env:
+#7273.4 canceled: 30 min         os: linux, node_js: lts/*, env:
+#7273.5 canceled: 30 min         os: linux, node_js: lts/*, env:
+#7273.6 canceled: 30 min         os: linux, node_js: lts/*, env:

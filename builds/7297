@@ -1,0 +1,18 @@
+Build #7297:  hooks: Rewrite `callAll` and `aCallAll` for consistency
+State:         failed
+Type:          push
+Branch:        rhansen-4404
+Commit:        2493fa5
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ecb9cc35c444^...2493fa5cb2f9
+Duration:      26 min 59 sec
+Started:       2020-10-22 07:18:02
+Finished:      2020-10-22 07:28:49
+
+#7297.1 passed:  8 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7297.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7297.3 passed:  2 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7297.4 failed:  2 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7297.5 passed:  3 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7297.6 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7297.7 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7297.8 passed:  3 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

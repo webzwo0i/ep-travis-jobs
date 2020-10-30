@@ -1,0 +1,11 @@
+Job #7177.1:  events are fired regardless of pad size
+State:         failed
+Type:          push
+Branch:        test-responsivness
+Commit:        fe37c45
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e41fddd5b14b^...fe37c45a5d77
+Duration:      2 min 15 sec
+Started:       2020-10-10 20:02:28
+Finished:      2020-10-10 20:04:43
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

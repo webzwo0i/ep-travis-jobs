@@ -1,0 +1,18 @@
+Build #7236:  lower expected waitFor/waitForPromise interval check
+State:         failed
+Type:          push
+Branch:        frontend-tests-work
+Commit:        1e5485c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/11733e97caa5...1e5485cb54ab
+Duration:      27 min 43 sec
+Started:       2020-10-18 21:00:14
+Finished:      2020-10-18 21:08:31
+
+#7236.1 failed:  8 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7236.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7236.3 passed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7236.4 passed:  2 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7236.5 passed:  4 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7236.6 passed:  2 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7236.7 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7236.8 passed:  3 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

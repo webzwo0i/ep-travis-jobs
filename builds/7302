@@ -1,0 +1,18 @@
+Build #7302:  tests: relaxed constraint on the number of interval triggers (#4427)
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        047dfcd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/73dd3ffdf4f8...047dfcdee93b
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-22 17:39:08
+
+#7302.1 canceled: 6 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7302.2 canceled: 6 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7302.3 canceled: 6 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7302.4 canceled: 6 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7302.5 canceled: 6 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7302.6 canceled: 6 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7302.7 canceled: 6 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7302.8 canceled: 6 min 51 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

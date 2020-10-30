@@ -1,0 +1,11 @@
+Job #7267.1:  key event combinations
+State:         failed
+Type:          push
+Branch:        test-responsivness
+Commit:        30b0549
+Compare URL:   https://github.com/ether/etherpad-lite/compare/cca0552c3957...30b05499f4e5
+Duration:      1 min 57 sec
+Started:       2020-10-21 11:56:07
+Finished:      2020-10-21 11:58:04
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

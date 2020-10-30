@@ -1,0 +1,18 @@
+Build #7188:  plugins: Delete noisy and useless debug message (#4409)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        052fbb9
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a2328cd7f0037f402c346cda4b690e07ab9ba818...052fbb944f9c0c37613fcb01fbfd1f0f6ec556ea
+Duration:      28 min 10 sec
+Started:       2020-10-11 19:44:39
+Finished:      2020-10-11 19:53:08
+
+#7188.1 passed:  8 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7188.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7188.3 passed:  2 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7188.4 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7188.5 passed:  4 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7188.6 passed:  2 min 13 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7188.7 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7188.8 passed:  3 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,16 @@
+Build #7319:  allow paste into links
+State:         errored
+Type:          pull request
+Branch:        develop (PR #3802)
+Commit:        077161e
+Compare URL:   https://github.com/ether/etherpad-lite/pull/3802
+Duration:      3 min 48 sec
+Started:       2020-10-24 18:10:46
+Finished:      2020-10-24 18:21:35
+
+#7319.1 errored: 39 sec         os: linux, node_js: lts/*, env:
+#7319.2 errored: 37 sec         os: linux, node_js: lts/*, env:
+#7319.3 errored: 37 sec         os: linux, node_js: lts/*, env:
+#7319.4 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7319.5 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7319.6 errored: 39 sec         os: linux, node_js: lts/*, env:

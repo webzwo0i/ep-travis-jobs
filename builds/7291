@@ -1,0 +1,11 @@
+Job #7291.1:  increase timeout
+State:         passed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        2e9bbba
+Compare URL:   https://github.com/ether/etherpad-lite/compare/0bddcacc5384...2e9bbbac5791
+Duration:      52 sec
+Started:       2020-10-22 03:39:25
+Finished:      2020-10-22 03:40:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

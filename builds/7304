@@ -1,0 +1,16 @@
+Build #7304:  Update README.md
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4429)
+Commit:        e114bcd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4429
+Duration:      3 min 44 sec
+Started:       2020-10-23 13:25:52
+Finished:      2020-10-23 13:48:23
+
+#7304.1 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7304.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#7304.3 errored: 35 sec         os: linux, node_js: lts/*, env:
+#7304.4 errored: 40 sec         os: linux, node_js: lts/*, env:
+#7304.5 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7304.6 errored: 37 sec         os: linux, node_js: lts/*, env:

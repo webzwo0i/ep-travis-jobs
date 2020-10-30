@@ -1,0 +1,18 @@
+Build #7341:  check for autopublish
+State:         canceled
+Type:          push
+Branch:        various-checkPlugins-improvements
+Commit:        8386fa7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a560f912c5fb...8386fa7e103f
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-26 20:56:03
+
+#7341.1 canceled: 22 min 3 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7341.2 canceled: 22 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7341.3 canceled: 22 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7341.4 canceled: 22 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7341.5 canceled: 22 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7341.6 canceled: 22 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7341.7 canceled: 22 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7341.8 canceled: 22 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

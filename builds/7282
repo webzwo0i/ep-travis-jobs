@@ -1,0 +1,11 @@
+Job #7282.1:  test
+State:         canceled
+Type:          push
+Branch:        webdriver-selenium
+Commit:        f7fe6e2
+Compare URL:   https://github.com/ether/etherpad-lite/compare/855696610260...f7fe6e2a3fab
+Duration:      6 min 53 sec
+Started:       2020-10-22 01:40:10
+Finished:      2020-10-22 01:47:03
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

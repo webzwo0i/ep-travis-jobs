@@ -1,0 +1,16 @@
+Build #7251:  pad: Pop up an error message dialog box upon socket.io error
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4420)
+Commit:        96d9b9c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4420
+Duration:      15 min 23 sec
+Started:       2020-10-19 22:04:05
+Finished:      2020-10-19 22:11:33
+
+#7251.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#7251.2 passed:  2 min 37 sec   os: linux, node_js: lts/*, env:
+#7251.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7251.4 passed:  2 min 14 sec   os: linux, node_js: lts/*, env:
+#7251.5 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7251.6 passed:  3 min 28 sec   os: linux, node_js: lts/*, env:

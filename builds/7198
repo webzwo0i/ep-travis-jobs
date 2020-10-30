@@ -1,0 +1,11 @@
+Job #7198.1:  add sleep
+State:         passed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        7d4988a
+Compare URL:   https://github.com/ether/etherpad-lite/compare/12b8a330453e...7d4988af37b2
+Duration:      2 min 42 sec
+Started:       2020-10-11 21:37:28
+Finished:      2020-10-11 21:40:10
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,18 @@
+Build #7262:  Use an ellipsis instead of two periods
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        0eb0a07
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2379ade7e94d6acd4030df9335e9aa36bfcd9387...0eb0a0791498201a1d2f566f941bc9e0c03799e8
+Duration:      27 min 34 sec
+Started:       2020-10-20 19:53:42
+Finished:      2020-10-20 20:09:50
+
+#7262.1 failed:  9 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7262.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7262.3 passed:  2 min 48 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7262.4 passed:  2 min 28 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7262.5 passed:  3 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7262.6 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7262.7 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7262.8 passed:  2 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

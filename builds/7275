@@ -1,0 +1,18 @@
+Build #7275:  plugins: include more data within padUpdate hook (#4425)
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        94cb000
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e7a9e1791c0...94cb000e8f4d
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-21 19:43:23
+
+#7275.1 canceled: 12 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7275.2 canceled: 12 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7275.3 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7275.4 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7275.5 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7275.6 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7275.7 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7275.8 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

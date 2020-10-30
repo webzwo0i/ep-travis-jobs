@@ -1,0 +1,11 @@
+Job #7284.1:  executeScript not execute
+State:         passed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        9f30fc7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e5dda35e5659...9f30fc7270b8
+Duration:      3 min 4 sec
+Started:       2020-10-22 01:50:13
+Finished:      2020-10-22 01:53:17
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

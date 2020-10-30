@@ -1,0 +1,18 @@
+Build #7306:  docs: Discord channel link in README (#4429)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        b3b3040
+Compare URL:   https://github.com/ether/etherpad-lite/compare/047dfcdee93bd7e63358356c630f0ed9221d08db...b3b30402047570328f687ae6285d014029c90b64
+Duration:      27 min 36 sec
+Started:       2020-10-23 02:28:00
+Finished:      2020-10-23 03:44:18
+
+#7306.1 passed:  9 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7306.2 passed:  2 min 3 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7306.3 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7306.4 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7306.5 passed:  3 min 18 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7306.6 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7306.7 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7306.8 passed:  3 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

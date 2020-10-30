@@ -1,0 +1,18 @@
+Build #7254:  pad: Pop up an error message dialog box upon socket.io error
+State:         errored
+Type:          push
+Branch:        rhansen-4420
+Commit:        eee47c6
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ed2eb08a2a56^...eee47c6147d1
+Duration:      14 min 49 sec
+Started:       2020-10-20 03:08:15
+Finished:      2020-10-20 03:17:32
+
+#7254.1 failed:  9 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7254.2 passed:  2 min 1 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7254.3 errored: 34 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7254.4 errored: 34 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7254.5 errored: 34 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7254.6 errored: 33 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7254.7 errored: 33 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7254.8 errored: 43 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

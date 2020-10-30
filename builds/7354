@@ -1,0 +1,18 @@
+Build #7354:  docs: fix key in padUpdate context
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        30b1273
+Compare URL:   https://github.com/ether/etherpad-lite/compare/50c22f0ae41c3a39d9929a103ded578df719fcc0...30b12738531cbbdc00948b123a2f824ee68ff987
+Duration:      27 min 24 sec
+Started:       2020-10-27 20:55:35
+Finished:      2020-10-27 23:49:54
+
+#7354.1 passed:  8 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7354.2 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7354.3 passed:  2 min 45 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7354.4 passed:  3 min 15 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7354.5 passed:  3 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7354.6 passed:  2 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7354.7 passed:  2 min 35 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7354.8 passed:  3 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

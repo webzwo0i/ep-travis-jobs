@@ -1,0 +1,16 @@
+Build #7296:  hooks: Rewrite `callAll` and `aCallAll` for consistency
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4404)
+Commit:        e969561
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4404
+Duration:      14 min 58 sec
+Started:       2020-10-22 07:14:05
+Finished:      2020-10-22 07:20:50
+
+#7296.1 passed:  2 min 8 sec    os: linux, node_js: lts/*, env:
+#7296.2 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7296.3 passed:  2 min 25 sec   os: linux, node_js: lts/*, env:
+#7296.4 passed:  2 min 11 sec   os: linux, node_js: lts/*, env:
+#7296.5 passed:  2 min 34 sec   os: linux, node_js: lts/*, env:
+#7296.6 passed:  3 min 4 sec    os: linux, node_js: lts/*, env:

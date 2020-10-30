@@ -1,0 +1,18 @@
+Build #7362:  derp
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4439)
+Commit:        7b59ac9
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4439
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-27 19:44:55
+
+#7362.1 canceled: 10 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7362.2 canceled: 10 min 2 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7362.3 canceled: 10 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7362.4 canceled: 10 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7362.5 canceled: 10 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7362.6 canceled: 10 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7362.7 canceled: 10 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7362.8 canceled: 10 min 1 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

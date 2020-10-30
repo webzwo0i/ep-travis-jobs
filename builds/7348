@@ -1,0 +1,16 @@
+Build #7348:  docs: fix key in padUpdate context
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4441)
+Commit:        527636f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4441
+Duration:      3 min 44 sec
+Started:       2020-10-27 10:20:39
+Finished:      2020-10-27 10:59:55
+
+#7348.1 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7348.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#7348.3 errored: 36 sec         os: linux, node_js: lts/*, env:
+#7348.4 errored: 37 sec         os: linux, node_js: lts/*, env:
+#7348.5 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7348.6 errored: 39 sec         os: linux, node_js: lts/*, env:

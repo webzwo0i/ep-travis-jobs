@@ -1,0 +1,18 @@
+Build #7151:  tests: Simplify API key reading
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        048bd0f
+Compare URL:   https://github.com/ether/etherpad-lite/compare/ce0b1511591340385d7f293db71f6ae6c4b82379...048bd0f50d6458f2fca6d9ea1737f169c523da03
+Duration:      27 min 38 sec
+Started:       2020-10-09 20:26:15
+Finished:      2020-10-09 20:34:11
+
+#7151.1 passed:  7 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7151.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7151.3 passed:  2 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7151.4 passed:  2 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7151.5 passed:  4 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7151.6 passed:  2 min 12 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7151.7 passed:  2 min 32 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7151.8 passed:  3 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

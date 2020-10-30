@@ -1,0 +1,18 @@
+Build #7390:  Settings: Don't filter out users based on `password` or `hash`
+State:         canceled
+Type:          push
+Branch:        rhansen-passwordlessuser
+Commit:        7728896
+Compare URL:   https://github.com/ether/etherpad-lite/compare/59e821ab3ee7^...7728896e8dd1
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-29 18:42:59
+
+#7390.1 canceled: 12 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7390.2 canceled: 12 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7390.3 canceled: 12 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7390.4 canceled: 12 min 5 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7390.5 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7390.6 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7390.7 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7390.8 canceled: 12 min 4 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

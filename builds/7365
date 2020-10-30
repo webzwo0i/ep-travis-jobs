@@ -1,0 +1,18 @@
+Build #7365:  webaccess: Remove user's password from session info
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        2f65987
+Compare URL:   https://github.com/ether/etherpad-lite/compare/30b12738531c...2f65987ba2aa
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-27 21:33:14
+
+#7365.1 canceled: 58 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7365.2 canceled: 58 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7365.3 canceled: 58 min 11 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7365.4 canceled: 58 min 11 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7365.5 canceled: 58 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7365.6 canceled: 58 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7365.7 canceled: 58 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7365.8 canceled: 58 min 12 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,17 @@
+Build #7157:  debugging
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4404)
+Commit:        77875f6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4404
+Duration:      3 min 41 sec
+Started:       2020-10-09 22:08:43
+Finished:      2020-10-09 22:12:21
+
+#7157.1 canceled: 3 sec          os: linux, node_js: lts/*, env:
+#7157.2 failed:  3 min 38 sec   os: linux, node_js: lts/*, env:
+#7157.3 canceled: 52 min 34 sec  os: linux, node_js: lts/*, env:
+#7157.4 canceled: 52 min 35 sec  os: linux, node_js: lts/*, env:
+#7157.5 canceled: 52 min 37 sec  os: linux, node_js: lts/*, env:
+#7157.6 canceled: 52 min 43 sec  os: linux, node_js: lts/*, env:
+#7157.7 canceled: 52 min 45 sec  os: linux, node_js: lts/*, env:

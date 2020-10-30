@@ -1,0 +1,16 @@
+Build #7184:  plugins: Delete noisy and useless debug message
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4409)
+Commit:        c71fd16
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4409
+Duration:      14 min 48 sec
+Started:       2020-10-11 07:46:24
+Finished:      2020-10-11 07:54:42
+
+#7184.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#7184.2 passed:  2 min 41 sec   os: linux, node_js: lts/*, env:
+#7184.3 passed:  2 min 22 sec   os: linux, node_js: lts/*, env:
+#7184.4 passed:  2 min 10 sec   os: linux, node_js: lts/*, env:
+#7184.5 passed:  2 min 38 sec   os: linux, node_js: lts/*, env:
+#7184.6 passed:  2 min 55 sec   os: linux, node_js: lts/*, env:

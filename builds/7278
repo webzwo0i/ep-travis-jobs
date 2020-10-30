@@ -1,0 +1,11 @@
+Job #7278.1:  remove docker from CI
+State:         passed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        328e6ae
+Compare URL:   https://github.com/ether/etherpad-lite/compare/e9bdef25ea94...328e6aeb4fc6
+Duration:      1 min 1 sec
+Started:       2020-10-21 23:53:03
+Finished:      2020-10-21 23:54:04
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

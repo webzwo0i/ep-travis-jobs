@@ -1,0 +1,18 @@
+Build #7277:  tests: refactor some frontend tests (#4408)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        69c7033
+Compare URL:   https://github.com/ether/etherpad-lite/compare/94cb000e8f4df90a2dfc22c009aa4d00596a2a2d...69c7033a863ba3d35600b4ecb0dc368584deb248
+Duration:      26 min
+Started:       2020-10-21 23:24:09
+Finished:      2020-10-21 23:52:47
+
+#7277.1 passed:  8 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7277.2 passed:  1 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7277.3 passed:  2 min 43 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7277.4 passed:  2 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7277.5 passed:  3 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7277.6 passed:  2 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7277.7 passed:  2 min 41 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7277.8 passed:  3 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

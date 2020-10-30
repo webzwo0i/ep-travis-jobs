@@ -1,0 +1,11 @@
+Job #7193.1:  remove env variables
+State:         failed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        5b173c7
+Compare URL:   https://github.com/ether/etherpad-lite/compare/eaa5b4c2a4b4...5b173c7624f7
+Duration:      40 sec
+Started:       2020-10-11 21:11:52
+Finished:      2020-10-11 21:12:32
+Allow Failure: false
+Config:        os: linux, node_js: lts/*

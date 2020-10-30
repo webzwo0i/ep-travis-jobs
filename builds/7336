@@ -1,0 +1,16 @@
+Build #7336:  Use isHttpError utility provided by http-errors
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4437)
+Commit:        a043cdd
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4437
+Duration:      12 min 6 sec
+Started:       2020-10-25 11:40:50
+Finished:      2020-10-25 11:46:32
+
+#7336.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#7336.2 passed:  2 min 40 sec   os: linux, node_js: lts/*, env:
+#7336.3 passed:  2 min 20 sec   os: linux, node_js: lts/*, env:
+#7336.4 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#7336.5 passed:  2 min 30 sec   os: linux, node_js: lts/*, env:
+#7336.6 errored: 37 sec         os: linux, node_js: lts/*, env:

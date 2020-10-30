@@ -1,0 +1,16 @@
+Build #7210:  CSP: Move `index.html` inline code to separate `.js` file
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4410)
+Commit:        983927f
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4410
+Duration:      15 min 6 sec
+Started:       2020-10-12 21:36:39
+Finished:      2020-10-12 21:42:21
+
+#7210.1 passed:  2 min 3 sec    os: linux, node_js: lts/*, env:
+#7210.2 passed:  2 min 38 sec   os: linux, node_js: lts/*, env:
+#7210.3 passed:  2 min 28 sec   os: linux, node_js: lts/*, env:
+#7210.4 passed:  2 min 5 sec    os: linux, node_js: lts/*, env:
+#7210.5 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:
+#7210.6 passed:  3 min 19 sec   os: linux, node_js: lts/*, env:

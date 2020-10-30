@@ -1,0 +1,18 @@
+Build #7367:  remove broken async inclusion in tar.json
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        66a3647
+Compare URL:   https://github.com/ether/etherpad-lite/compare/2f65987ba2aafa2a0463fc33c83d9e9324ef792e...66a36475795c84b14372e5130369d78150c7c641
+Duration:      27 min 15 sec
+Started:       2020-10-28 11:53:15
+Finished:      2020-10-28 12:01:13
+
+#7367.1 passed:  7 min 57 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7367.2 passed:  1 min 52 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7367.3 passed:  2 min 33 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7367.4 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7367.5 passed:  4 min 47 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7367.6 passed:  2 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7367.7 passed:  2 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7367.8 passed:  2 min 58 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

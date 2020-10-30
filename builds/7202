@@ -1,0 +1,18 @@
+Build #7202:  tests: Use default arguments for `helper.waitFor`
+State:         passed
+Type:          push
+Branch:        frontend-tests-work
+Commit:        faf05af
+Compare URL:   https://github.com/ether/etherpad-lite/compare/95929ffbd893...faf05af7244b
+Duration:      39 min 5 sec
+Started:       2020-10-12 04:07:35
+Finished:      2020-10-12 04:18:54
+
+#7202.1 passed:  11 min 19 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7202.2 passed:  4 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7202.3 passed:  4 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7202.4 passed:  5 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7202.5 passed:  5 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7202.6 passed:  2 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7202.7 passed:  3 min 24 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7202.8 passed:  3 min 10 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

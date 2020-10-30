@@ -1,0 +1,16 @@
+Build #7243:  Use an ellipsis instead of two periods
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4419)
+Commit:        baa6ece
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4419
+Duration:      15 min 32 sec
+Started:       2020-10-19 18:59:55
+Finished:      2020-10-19 19:12:08
+
+#7243.1 passed:  2 min 2 sec    os: linux, node_js: lts/*, env:
+#7243.2 passed:  2 min 50 sec   os: linux, node_js: lts/*, env:
+#7243.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env:
+#7243.4 passed:  2 min 29 sec   os: linux, node_js: lts/*, env:
+#7243.5 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7243.6 passed:  3 min 8 sec    os: linux, node_js: lts/*, env:

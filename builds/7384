@@ -1,0 +1,19 @@
+Build #7384:  move to own test
+State:         canceled
+Type:          push
+Branch:        lint-package-lock
+Commit:        72b2b25
+Compare URL:   https://github.com/ether/etherpad-lite/compare/92bbfe5814d5...72b2b2571e1a
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-29 17:59:24
+
+#7384.1 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.2 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.3 canceled: 28 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.4 canceled: 28 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.5 canceled: 28 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.6 canceled: 28 min 50 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.7 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.8 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7384.9 canceled: 28 min 49 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

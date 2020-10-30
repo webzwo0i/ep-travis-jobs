@@ -1,0 +1,16 @@
+Build #7214:  tests: `waitForPromise()` test improvements
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4414)
+Commit:        7d55d08
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4414
+Duration:      14 min 50 sec
+Started:       2020-10-14 07:24:04
+Finished:      2020-10-14 07:29:47
+
+#7214.1 passed:  1 min 57 sec   os: linux, node_js: lts/*, env:
+#7214.2 passed:  2 min 31 sec   os: linux, node_js: lts/*, env:
+#7214.3 passed:  2 min 27 sec   os: linux, node_js: lts/*, env:
+#7214.4 passed:  2 min 15 sec   os: linux, node_js: lts/*, env:
+#7214.5 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:
+#7214.6 passed:  3 min 7 sec    os: linux, node_js: lts/*, env:

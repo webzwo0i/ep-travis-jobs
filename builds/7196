@@ -1,0 +1,11 @@
+Job #7196.1:  re-add sauce tunnel
+State:         passed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        12b8a33
+Compare URL:   https://github.com/ether/etherpad-lite/compare/9e186ed66e65...12b8a330453e
+Duration:      1 min 3 sec
+Started:       2020-10-11 21:29:16
+Finished:      2020-10-11 21:30:19
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

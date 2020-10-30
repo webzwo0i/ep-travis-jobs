@@ -1,0 +1,11 @@
+Job #7195.1:  fix
+State:         failed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        9e186ed
+Compare URL:   https://github.com/ether/etherpad-lite/compare/3ee5c5dfba29...9e186ed66e65
+Duration:      43 sec
+Started:       2020-10-11 21:21:50
+Finished:      2020-10-11 21:22:33
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

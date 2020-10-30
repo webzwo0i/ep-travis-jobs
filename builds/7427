@@ -1,0 +1,19 @@
+Build #7427:  remote_runner.js: exit with code 0 only when the same number of worker, that had been queued, finished without failures
+State:         passed
+Type:          push
+Branch:        test-travis
+Commit:        7467f2c
+Compare URL:   https://github.com/ether/etherpad-lite/compare/35e68bc31ad9...7467f2c75190
+Duration:      22 min 8 sec
+Started:       2020-10-30 01:04:10
+Finished:      2020-10-30 01:11:30
+
+#7427.1 passed:  7 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.3 passed:  1 min 39 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.4 passed:  1 min 23 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.5 passed:  3 min 22 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.6 passed:  30 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.7 passed:  2 min 14 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.8 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7427.9 passed:  2 min 9 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

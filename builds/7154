@@ -1,0 +1,17 @@
+Build #7154:  debugging
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4404)
+Commit:        2c2b498
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4404
+Duration:      46 min 46 sec
+Started:       2020-10-09 21:38:21
+Finished:      2020-10-09 22:00:07
+
+#7154.1 passed:  2 min          os: linux, node_js: lts/*, env:
+#7154.2 failed:  2 min 41 sec   os: linux, node_js: lts/*, env:
+#7154.3 passed:  2 min 22 sec   os: linux, node_js: lts/*, env:
+#7154.4 failed:  21 min 43 sec  os: linux, node_js: lts/*, env:
+#7154.5 failed:  2 min 39 sec   os: linux, node_js: lts/*, env:
+#7154.6 passed:  2 min 36 sec   os: linux, node_js: lts/*, env:
+#7154.7 errored: 12 min 45 sec  os: linux, node_js: lts/*, env:

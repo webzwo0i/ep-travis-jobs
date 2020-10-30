@@ -1,0 +1,18 @@
+Build #7392:  own test
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4439)
+Commit:        56c19c6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4439
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-29 18:47:30
+
+#7392.1 canceled: 16 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7392.2 canceled: 16 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7392.3 canceled: 16 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7392.4 canceled: 16 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7392.5 canceled: 16 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7392.6 canceled: 16 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7392.7 canceled: 16 min 29 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7392.8 canceled: 16 min 28 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

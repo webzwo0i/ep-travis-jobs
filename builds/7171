@@ -1,0 +1,17 @@
+Build #7171:  Revert "add test coverage"
+State:         failed
+Type:          push
+Branch:        fix-pad-follow-contents
+Commit:        dea9f98
+Compare URL:   https://github.com/ether/etherpad-lite/compare/80810c5de449...dea9f9877e66
+Duration:      25 min 3 sec
+Started:       2020-10-10 17:22:20
+Finished:      2020-10-10 17:31:58
+
+#7171.1 failed:  9 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7171.2 passed:  2 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7171.3 passed:  2 min 26 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7171.4 passed:  3 min          os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7171.5 failed:  2 min 11 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7171.6 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7171.7 passed:  3 min 8 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

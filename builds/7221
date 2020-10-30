@@ -1,0 +1,16 @@
+Build #7221:  tests: Tune `waitForPromise()` poll count test some more
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4416)
+Commit:        3f6e37c
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4416
+Duration:      7 min 1 sec
+Started:       2020-10-14 19:40:55
+Finished:      2020-10-14 19:56:39
+
+#7221.1 errored: 40 sec         os: linux, node_js: lts/*, env:
+#7221.2 errored: 3 min 38 sec   os: linux, node_js: lts/*, env:
+#7221.3 errored: 52 sec         os: linux, node_js: lts/*, env:
+#7221.4 errored: 37 sec         os: linux, node_js: lts/*, env:
+#7221.5 errored: 36 sec         os: linux, node_js: lts/*, env:
+#7221.6 errored: 38 sec         os: linux, node_js: lts/*, env:

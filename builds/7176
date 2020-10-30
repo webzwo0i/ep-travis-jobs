@@ -1,0 +1,18 @@
+Build #7176:  timeslider: bugfix: follow pad contents - only goToLineNumber if it exists (#4390)
+State:         failed
+Type:          push
+Branch:        develop
+Commit:        a2328cd
+Compare URL:   https://github.com/ether/etherpad-lite/compare/048bd0f50d6458f2fca6d9ea1737f169c523da03...a2328cd7f0037f402c346cda4b690e07ab9ba818
+Duration:      28 min 46 sec
+Started:       2020-10-10 19:44:20
+Finished:      2020-10-10 19:54:40
+
+#7176.1 failed:  9 min 44 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7176.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7176.3 passed:  2 min 38 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7176.4 failed:  2 min 20 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7176.5 failed:  4 min 21 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7176.6 passed:  2 min 4 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7176.7 passed:  2 min 34 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7176.8 passed:  3 min 6 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

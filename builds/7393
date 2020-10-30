@@ -1,0 +1,18 @@
+Build #7393:  Settings: Don't filter out users based on `password` or `hash`
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4448)
+Commit:        a31a8a6
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4448
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-29 18:43:02
+
+#7393.1 canceled: 11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7393.2 canceled: 11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7393.3 canceled: 11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7393.4 canceled: 11 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7393.5 canceled: 11 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7393.6 canceled: 11 min 58 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7393.7 canceled: 11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7393.8 canceled: 11 min 57 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

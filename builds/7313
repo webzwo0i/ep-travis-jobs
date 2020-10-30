@@ -1,0 +1,18 @@
+Build #7313:  Create FUNDING.yml
+State:         canceled
+Type:          push
+Branch:        develop
+Commit:        9f5fb02
+Compare URL:   https://github.com/ether/etherpad-lite/compare/069e9997dd71...9f5fb022b949
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-23 22:19:03
+
+#7313.1 canceled: 46 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7313.2 canceled: 46 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7313.3 canceled: 46 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7313.4 canceled: 46 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7313.5 canceled: 46 min 17 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7313.6 canceled: 46 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7313.7 canceled: 46 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7313.8 canceled: 46 min 18 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

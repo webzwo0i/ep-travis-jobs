@@ -1,0 +1,19 @@
+Build #7409:  travis.yml: because we define jobs and libreoffice is currently only used on backend tests, we should install it only during backend test runner. this should speed up the other jobs a little bit
+State:         errored
+Type:          push
+Branch:        test-travis
+Commit:        d8327c1
+Compare URL:   https://github.com/ether/etherpad-lite/commit/d8327c1db6bb
+Duration:      20 min 2 sec
+Started:       2020-10-29 23:13:47
+Finished:      2020-10-29 23:14:21
+
+#7409.1 failed:  7 min 53 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.2 errored: 34 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.3 passed:  1 min 36 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.4 passed:  1 min 25 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.5 passed:  3 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.6 passed:  40 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.7 passed:  1 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.8 passed:  1 min 31 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7409.9 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

@@ -1,0 +1,11 @@
+Job #7194.1:  readd env variables
+State:         failed
+Type:          push
+Branch:        webdriver-selenium
+Commit:        3ee5c5d
+Compare URL:   https://github.com/ether/etherpad-lite/compare/5b173c7624f7...3ee5c5dfba29
+Duration:      38 sec
+Started:       2020-10-11 21:19:38
+Finished:      2020-10-11 21:20:16
+Allow Failure: false
+Config:        os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

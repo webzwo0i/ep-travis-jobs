@@ -1,0 +1,16 @@
+Build #7298:  ep_ prefix for cookies
+State:         passed
+Type:          pull request
+Branch:        develop (PR #4423)
+Commit:        5f24607
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4423
+Duration:      14 min 37 sec
+Started:       2020-10-22 07:26:00
+Finished:      2020-10-22 07:32:27
+
+#7298.1 passed:  1 min 56 sec   os: linux, node_js: lts/*, env:
+#7298.2 passed:  2 min 45 sec   os: linux, node_js: lts/*, env:
+#7298.3 passed:  2 min 18 sec   os: linux, node_js: lts/*, env:
+#7298.4 passed:  2 min 3 sec    os: linux, node_js: lts/*, env:
+#7298.5 passed:  2 min 33 sec   os: linux, node_js: lts/*, env:
+#7298.6 passed:  3 min 2 sec    os: linux, node_js: lts/*, env:

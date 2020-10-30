@@ -1,0 +1,18 @@
+Build #7323:  editor: allow paste into links (#3802)
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        cb5fcbb
+Compare URL:   https://github.com/ether/etherpad-lite/compare/36aceb3aba1e688757c964a110b6b14f4920ce4d...cb5fcbb74eaa2ac3a5a655ff5f4d7612499a9663
+Duration:      27 min 11 sec
+Started:       2020-10-24 19:52:52
+Finished:      2020-10-24 20:03:05
+
+#7323.1 passed:  8 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7323.2 passed:  2 min 2 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7323.3 passed:  2 min 40 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7323.4 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7323.5 passed:  4 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7323.6 passed:  2 min 7 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7323.7 passed:  2 min 27 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7323.8 passed:  3 min 5 sec    os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

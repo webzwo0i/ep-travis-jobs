@@ -1,0 +1,18 @@
+Build #7359:  indent json
+State:         canceled
+Type:          push
+Branch:        various-checkPlugins-improvements
+Commit:        01e1115
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a9ae598b7bf0...01e1115a0384
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-27 19:41:41
+
+#7359.1 canceled: 6 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7359.2 canceled: 6 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7359.3 canceled: 6 min 56 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7359.4 canceled: 6 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7359.5 canceled: 6 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7359.6 canceled: 6 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7359.7 canceled: 6 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7359.8 canceled: 6 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

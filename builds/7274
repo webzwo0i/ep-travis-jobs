@@ -1,0 +1,16 @@
+Build #7274:  docs: new context fields in padUpdate
+State:         errored
+Type:          pull request
+Branch:        develop (PR #4425)
+Commit:        ad8d215
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4425
+Duration:      3 min 44 sec
+Started:       2020-10-21 19:51:36
+Finished:      2020-10-21 20:40:28
+
+#7274.1 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7274.2 errored: 36 sec         os: linux, node_js: lts/*, env:
+#7274.3 errored: 37 sec         os: linux, node_js: lts/*, env:
+#7274.4 errored: 37 sec         os: linux, node_js: lts/*, env:
+#7274.5 errored: 38 sec         os: linux, node_js: lts/*, env:
+#7274.6 errored: 38 sec         os: linux, node_js: lts/*, env:

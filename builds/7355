@@ -1,0 +1,18 @@
+Build #7355:  add funding
+State:         canceled
+Type:          push
+Branch:        various-checkPlugins-improvements
+Commit:        516e927
+Compare URL:   https://github.com/ether/etherpad-lite/compare/1e96e48a47cb...516e9271e486
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-27 19:34:06
+
+#7355.1 canceled: 59 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7355.2 canceled: 59 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7355.3 canceled: 59 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7355.4 canceled: 59 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7355.5 canceled: 59 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7355.6 canceled: 59 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7355.7 canceled: 59 min 31 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7355.8 canceled: 59 min 30 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

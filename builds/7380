@@ -1,0 +1,18 @@
+Build #7380:  src/package-lock.json would be wrong path for a plugin...
+State:         canceled
+Type:          push
+Branch:        various-checkPlugins-improvements
+Commit:        7a2ce10
+Compare URL:   https://github.com/ether/etherpad-lite/compare/a27e0802f196...7a2ce10c2540
+Duration:      0 sec
+Started:       not yet
+Finished:      2020-10-29 17:51:35
+
+#7380.1 canceled: 21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7380.2 canceled: 21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7380.3 canceled: 21 min 14 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7380.4 canceled: 21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7380.5 canceled: 21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7380.6 canceled: 21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7380.7 canceled: 21 min 15 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7380.8 canceled: 21 min 14 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

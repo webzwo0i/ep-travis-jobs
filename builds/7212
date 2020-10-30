@@ -1,0 +1,18 @@
+Build #7212:  CSP: Move `index.html` inline code to separate `.js` file
+State:         passed
+Type:          push
+Branch:        develop
+Commit:        7f79d20
+Compare URL:   https://github.com/ether/etherpad-lite/compare/09193150b60dd58d3c7e0134237846af7aa49da7...7f79d201e647b038e9636e418992bb54e87bb608
+Duration:      40 min 30 sec
+Started:       2020-10-13 20:12:40
+Finished:      2020-10-13 20:23:22
+
+#7212.1 passed:  10 min 42 sec  os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7212.2 passed:  1 min 59 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7212.3 passed:  2 min 42 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7212.4 passed:  2 min 29 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7212.5 passed:  6 min 19 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7212.6 passed:  5 min 17 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7212.7 passed:  5 min 46 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7212.8 passed:  5 min 16 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

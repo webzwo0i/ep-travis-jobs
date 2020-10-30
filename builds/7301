@@ -1,0 +1,18 @@
+Build #7301:  tests: relaxed constraint on the number of interval triggers
+State:         canceled
+Type:          pull request
+Branch:        develop (PR #4427)
+Commit:        8fe2985
+Compare URL:   https://github.com/ether/etherpad-lite/pull/4427
+Duration:      3 min 13 sec
+Started:       2020-10-22 18:34:14
+Finished:      2020-10-22 19:40:09
+
+#7301.1 errored: 38 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7301.2 errored: 39 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7301.3 errored: 37 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7301.4 errored: 39 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7301.5 errored: 40 sec         os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7301.6 canceled: 7 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7301.7 canceled: 7 min 54 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]
+#7301.8 canceled: 7 min 55 sec   os: linux, node_js: lts/*, env: SAUCE_USERNAME=[secure] SAUCE_ACCESS_KEY=[secure]

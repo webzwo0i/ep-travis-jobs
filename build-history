@@ -1,3 +1,294 @@
+#7437 started:   develop tests: Speed up and fix travis (#4453)
+#7436 passed:    develop (PR #4448) Settings: Don't filter out users based on `password` or `hash`
+#7435 failed:    rhansen-passwordlessuser Settings: Don't filter out users based on `password` or `hash`
+#7434 passed:    develop (PR #4450) .travis.yml: Install ep_readonly_guest
+#7433 passed:    rhansen-readonly_guest .travis.yml: Install ep_readonly_guest
+#7432 failed:    develop tests: Clear auth hooks before running import/export unit tests
+#7431 passed:    develop (PR #4453) fix flaky helper.js test
+#7430 passed:    test-travis fix flaky helper.js test
+#7429 passed:    test-travis 15 minutes timeout should be enough
+#7428 passed:    test-travis remote_runner.js: set default exit code to 1
+#7427 passed:    test-travis remote_runner.js: exit with code 0 only when the same number of worker, that had been queued, finished without failures
+#7426 passed:    test-travis decrease queuedWorker after browser.quit
+#7425 passed:    develop (PR #4450) .travis.yml: Install ep_readonly_guest
+#7424 failed:    rhansen-readonly_guest .travis.yml: Install ep_readonly_guest
+#7423 passed:    develop (PR #4452) tests: Clear auth hooks before running import/export unit tests
+#7422 failed:    rhansen-tests tests: Clear auth hooks before running import/export unit tests
+#7421 failed:    test-travis remove console.log
+#7420 passed:    develop (PR #4448) Settings: Don't filter out users based on `password` or `hash`
+#7419 failed:    rhansen-passwordlessuser Settings: Don't filter out users based on `password` or `hash`
+#7418 failed:    develop (PR #4452) tests: Clear auth hooks before running socket.io unit tests
+#7417 passed:    rhansen-tests tests: Clear auth hooks before running socket.io unit tests
+#7416 passed:    develop tests: Clear hooks before running webaccess tests
+#7415 passed:    test-travis check if all browser tests have been started
+#7414 passed:    test-travis install libreoffice also for backend tests with plugins
+#7413 passed:    develop (PR #4451) tests: Clear hooks before running webaccess tests
+#7412 passed:    test-travis fix travis_wait
+#7411 passed:    rhansen-webaccess tests: Clear hooks before running webaccess tests
+#7410 failed:    test-travis change travis build timeout to 20 minutes
+#7409 errored:   test-travis travis.yml: because we define jobs and libreoffice is currently only used on backend tests, we should install it only during backend test runner. this should speed up the other jobs a little bit
+#7408 failed:    develop (PR #4439) Undo erroneous whitespace changes
+#7407 passed:    various-checkPlugins-improvements Undo erroneous whitespace changes
+#7406 failed:    develop (PR #4450) .travis.yml: Install ep_readonly_guest
+#7405 failed:    rhansen-readonly_guest .travis.yml: Install ep_readonly_guest
+#7404 failed:    develop .travis.yml: Factor out common plugin install command
+#7403 passed:    develop (PR #4449) .travis.yml: Factor out common plugin install command
+#7402 passed:    rhansen-travis .travis.yml: Factor out common plugin install command
+#7401 passed:    develop (PR #4439) should parse
+#7400 passed:    various-checkPlugins-improvements should parse
+#7399 failed:    develop security: lockfile lint check (#4446)
+#7398 passed:    develop docs: Migrate from Travis-ci.org to .com
+#7397 passed:    develop (PR #4439) seperate
+#7396 failed:    various-checkPlugins-improvements seperate
+#7395 passed:    develop (PR #4448) Settings: Don't filter out users based on `password` or `hash`
+#7394 passed:    rhansen-passwordlessuser Settings: Don't filter out users based on `password` or `hash`
+#7393 canceled:  develop (PR #4448) Settings: Don't filter out users based on `password` or `hash`
+#7392 canceled:  develop (PR #4439) own test
+#7391 passed:    various-checkPlugins-improvements own test
+#7390 canceled:  rhansen-passwordlessuser Settings: Don't filter out users based on `password` or `hash`
+#7389 passed:    develop (PR #4446) no need for elevated priv
+#7388 failed:    lint-package-lock no need for elevated priv
+#7387 errored:   develop (PR #4446) tidy
+#7386 errored:   lint-package-lock tidy
+#7385 canceled:  develop (PR #4446) move to own test
+#7384 canceled:  lint-package-lock move to own test
+#7383 failed:    develop (PR #4439) shift lint test to a seperate test
+#7382 passed:    various-checkPlugins-improvements shift lint test to a seperate test
+#7381 canceled:  develop (PR #4439) src/package-lock.json would be wrong path for a plugin...
+#7380 canceled:  various-checkPlugins-improvements src/package-lock.json would be wrong path for a plugin...
+#7379 canceled:  develop (PR #4439) remove duplicates
+#7378 failed:    various-checkPlugins-improvements remove duplicates
+#7377 passed:    develop (PR #4446) change order
+#7376 failed:    lint-package-lock change order
+#7375 errored:   develop (PR #4446) lockfile lint check
+#7374 errored:   lint-package-lock lockfile lint check
+#7373 passed:    develop docs: Migrate from Travis-ci.org to .com
+#7372 passed:    develop (PR #4439) bump version
+#7371 passed:    various-checkPlugins-improvements bump version
+#7370 passed:    develop (PR #4439) shift to .com for travis
+#7369 passed:    various-checkPlugins-improvements shift to .com for travis
+#7368 passed:    develop docs: Migrate from Travis-ci.org to .com
+#7367 passed:    develop remove broken async inclusion in tar.json
+#7366 canceled:  develop remove broken async inclusion in tar.json
+#7365 canceled:  develop webaccess: Remove user's password from session info
+#7364 passed:    develop (PR #4439) allow github to handle npm publish
+#7363 passed:    various-checkPlugins-improvements allow github to handle npm publish
+#7362 canceled:  develop (PR #4439) derp
+#7361 canceled:  various-checkPlugins-improvements derp
+#7360 canceled:  develop (PR #4439) indent json
+#7359 canceled:  various-checkPlugins-improvements indent json
+#7358 canceled:  develop (PR #4439) update core plugins script
+#7357 canceled:  various-checkPlugins-improvements update core plugins script
+#7356 canceled:  develop (PR #4439) add funding
+#7355 canceled:  various-checkPlugins-improvements add funding
+#7354 passed:    develop docs: fix key in padUpdate context
+#7353 canceled:  develop (PR #4439) docs for autopublish
+#7352 canceled:  various-checkPlugins-improvements docs for autopublish
+#7351 passed:    develop (PR #4442) remove broken async inclusion in tar.json
+#7350 passed:    fix-tar.json remove broken async inclusion in tar.json
+#7349 passed:    develop docs: fix key in padUpdate context
+#7348 errored:   develop (PR #4441) docs: fix key in padUpdate context
+#7347 passed:    develop (PR #4440) ace.js: fix the logic to inline CSS
+#7346 failed:    fix-css-inlining ace.js: fix the logic to inline CSS
+#7345 passed:    develop (PR #4439) autofix missing package-lock.json
+#7344 passed:    various-checkPlugins-improvements autofix missing package-lock.json
+#7343 canceled:  develop (PR #4439) check for autopublish
+#7342 passed:    develop Localisation updates from https://translatewiki.net.
+#7341 canceled:  various-checkPlugins-improvements check for autopublish
+#7340 canceled:  various-checkPlugins-improvements abort if not git folder and check for package-lock.json
+#7339 passed:    develop Localisation updates from https://translatewiki.net.
+#7338 passed:    develop Use isHttpError utility provided by http-errors
+#7337 passed:    develop Use isHttpError utility provided by http-errors
+#7336 errored:   develop (PR #4437) Use isHttpError utility provided by http-errors
+#7335 canceled:  develop (PR #4437) Use isHttpError utility provided by http-errors
+#7334 failed:    develop Display outline when toolbar button focused
+#7333 passed:    develop (PR #4436) Display outline when toolbar button focused
+#7332 passed:    develop (PR #4436) Display outline when toolbar button focused
+#7331 passed:    develop pad: Don't paste when middle-clicking on a link
+#7330 passed:    develop (PR #4435) webaccess: Remove user's password from session info
+#7329 passed:    rhansen-visible-password webaccess: Remove user's password from session info
+#7328 passed:    develop (PR #4434) pad: Don't paste when middle-clicking on a link
+#7327 passed:    rhansen-middle-click-link pad: Don't paste when middle-clicking on a link
+#7326 failed:    rhansen-4400 import: Ajaxify pad import
+#7325 failed:    develop (PR #4400) import: Ajaxify pad import
+#7324 failed:    develop utils: Fix commit checking on detached HEAD
+#7323 passed:    develop editor: allow paste into links (#3802)
+#7322 failed:    relaxed-ci-constraints tests: relaxed constraint on the number of interval triggers
+#7321 canceled:  relaxed-ci-constraints even more relaxed
+#7320 failed:    develop editor: allow paste into links (#3802)
+#7319 errored:   develop (PR #3802) allow paste into links
+#7318 passed:    develop hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7317 passed:    develop tests: remove ep_webrtc for now until it's stable
+#7316 failed:    develop Added nl translations for adminpage
+#7315 failed:    rhansen-4404 hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7314 passed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7313 canceled:  develop Create FUNDING.yml
+#7312 failed:    develop tests: 10 sec maximum wait time for timeslider (#4430)
+#7311 errored:   develop (PR #4432) Added nl translations for adminpage
+#7310 canceled:  develop tests: 10 sec maximum wait time for timeslider (#4430)
+#7309 passed:    develop (PR #4431) utils: Fix commit checking on detached HEAD
+#7308 errored:   develop (PR #4430) tests: 10 sec maximum wait time for timeslider
+#7307 passed:    eplite-relaxed-limit-for-loading-timeslider tests: 10 sec maximum wait time for timeslider
+#7306 passed:    develop docs: Discord channel link in README (#4429)
+#7305 passed:    develop docs: Discord channel link in README (#4429)
+#7304 errored:   develop (PR #4429) Update README.md
+#7303 canceled:  develop (PR #4429) Add link to discord channel in readme?
+#7302 canceled:  develop tests: relaxed constraint on the number of interval triggers (#4427)
+#7301 canceled:  develop (PR #4427) tests: relaxed constraint on the number of interval triggers
+#7300 passed:    relaxed-ci-constraints tests: relaxed constraint on the number of interval triggers
+#7299 passed:    develop Localisation updates from https://translatewiki.net.
+#7298 passed:    develop (PR #4423) ep_ prefix for cookies
+#7297 failed:    rhansen-4404 hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7296 passed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7295 failed:    rhansen-4400 import: Ajaxify pad import
+#7294 failed:    develop (PR #4400) import: Ajaxify pad import
+#7293 errored:   rhansen-4400 import: Ajaxify pad import
+#7292 failed:    develop (PR #4400) import: Ajaxify pad import
+#7291 passed:    webdriver-selenium increase timeout
+#7290 canceled:  webdriver-selenium test
+#7289 canceled:  webdriver-selenium test safari
+#7288 failed:    webdriver-selenium test
+#7287 failed:    webdriver-selenium executeScript not execute
+#7286 failed:    webdriver-selenium executeScript not execute
+#7285 passed:    webdriver-selenium executeScript not execute
+#7284 passed:    webdriver-selenium executeScript not execute
+#7283 canceled:  webdriver-selenium test
+#7282 canceled:  webdriver-selenium test
+#7281 passed:    webdriver-selenium test
+#7280 failed:    webdriver-selenium test
+#7279 failed:    webdriver-selenium test
+#7278 passed:    webdriver-selenium remove docker from CI
+#7277 passed:    develop tests: refactor some frontend tests (#4408)
+#7276 passed:    develop tests: refactor some frontend tests (#4408)
+#7275 canceled:  develop plugins: include more data within padUpdate hook (#4425)
+#7274 errored:   develop (PR #4425) docs: new context fields in padUpdate
+#7273 canceled:  develop (PR #4425) Including more data at pad update event
+#7272 passed:    develop (PR #4408) more explicit test for linesDiv
+#7271 passed:    frontend-tests-work more explicit test for linesDiv
+#7270 passed:    develop (PR #4423) ep_ prefix for cookies
+#7269 passed:    develop (PR #4408) timeslider_follow: fix Range detection
+#7268 passed:    frontend-tests-work timeslider_follow: fix Range detection
+#7267 failed:    test-responsivness key event combinations
+#7266 failed:    develop tests: better timeslider follow contents (#4421)
+#7265 failed:    develop (PR #4400) import: Ajaxify pad import
+#7264 failed:    rhansen-pr4404 hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7263 passed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7262 failed:    develop Use an ellipsis instead of two periods
+#7261 failed:    develop Use an ellipsis instead of two periods
+#7260 failed:    develop pad: Pop up an error message dialog box upon socket.io error
+#7259 failed:    rhansen-4420 pad: Pop up an error message dialog box upon socket.io error
+#7258 passed:    develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7257 passed:    develop (PR #4419) Use an ellipsis instead of two periods
+#7256 failed:    rhansen-4420 pad: Pop up an error message dialog box upon socket.io error
+#7255 passed:    develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7254 errored:   rhansen-4420 pad: Pop up an error message dialog box upon socket.io error
+#7253 passed:    develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7252 failed:    develop (PR #4421) better follow contents
+#7251 passed:    develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7250 passed:    develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7249 canceled:  develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7248 failed:    develop Localisation updates from https://translatewiki.net.
+#7247 passed:    develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7246 passed:    develop (PR #4420) pad: Pop up an error message dialog box upon socket.io error
+#7245 canceled:  develop (PR #4420) Pop up an error message dialog box upon socket.io error
+#7244 failed:    develop Localisation updates from https://translatewiki.net.
+#7243 passed:    develop (PR #4419) Use an ellipsis instead of two periods
+#7242 failed:    develop Localisation updates from https://translatewiki.net.
+#7241 failed:    develop (PR #4408) disable responsivness and regression test in timeslider_follow
+#7240 passed:    frontend-tests-work disable responsivness and regression test in timeslider_follow
+#7239 failed:    develop (PR #4408) Merge branch 'develop' into frontend-tests-work
+#7238 failed:    frontend-tests-work Merge branch 'develop' into frontend-tests-work
+#7237 failed:    better-followcontents better follow contents
+#7236 failed:    frontend-tests-work lower expected waitFor/waitForPromise interval check
+#7235 failed:    develop (PR #4408) timeslider_follow: check if it's following to the correct lines
+#7234 failed:    frontend-tests-work timeslider_follow: check if it's following to the correct lines
+#7233 failed:    develop tests: Tune `waitForPromise()` poll count test some more
+#7232 failed:    rhansen-pr4404 hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7231 passed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7230 failed:    rhansen-pr4404 hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7229 passed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7228 failed:    develop tests: Tune `waitForPromise()` poll count test some more
+#7227 failed:    develop tests: Tune `waitForPromise()` poll count test some more
+#7226 failed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7225 failed:    rhansen-pr4404 hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7224 failed:    develop tests: Tune `waitForPromise()` poll count test some more
+#7223 failed:    develop tests: Tune `waitForPromise()` poll count test some more
+#7222 failed:    develop tests: Tune `waitForPromise()` poll count test some more
+#7221 errored:   develop (PR #4416) tests: Tune `waitForPromise()` poll count test some more
+#7220 failed:    develop (PR #4408) more fixes from the review
+#7219 failed:    frontend-tests-work more fixes from the review
+#7218 failed:    develop tests: Tune `waitForPromise()` poll count test
+#7217 errored:   develop (PR #4415) tests: Tune `waitForPromise()` poll count test
+#7216 failed:    develop tests: Include the filename in the test output
+#7215 failed:    develop tests: `waitForPromise()` test improvements
+#7214 passed:    develop (PR #4414) tests: `waitForPromise()` test improvements
+#7213 passed:    develop (PR #4414) tests: `waitForPromise()` test improvements
+#7212 passed:    develop CSP: Move `index.html` inline code to separate `.js` file
+#7211 failed:    develop CSP: Move `index.html` inline code to separate `.js` file
+#7210 passed:    develop (PR #4410) CSP: Move `index.html` inline code to separate `.js` file
+#7209 passed:    develop Localisation updates from https://translatewiki.net.
+#7208 failed:    develop Localisation updates from https://translatewiki.net.
+#7207 passed:    develop (PR #4408) more fixes from the review
+#7206 failed:    frontend-tests-work more fixes from the review
+#7205 failed:    frontend-tests-work make textLines() depend on linesDiv()
+#7204 failed:    develop (PR #4408) make textLines() depend on linesDiv()
+#7203 passed:    develop (PR #4408) tests: Use default arguments for `helper.waitFor`
+#7202 passed:    frontend-tests-work tests: Use default arguments for `helper.waitFor`
+#7201 failed:    readd-comments-to-tests putting comments page back in for testing
+#7200 passed:    webdriver-selenium enable tunnelIdentifier
+#7199 passed:    develop (PR #4410) CSP: Move `index.html` inline code to separate `.js` file
+#7198 passed:    webdriver-selenium add sleep
+#7197 passed:    develop CSP: Disable the indexCustomInlineScripts hook
+#7196 passed:    webdriver-selenium re-add sauce tunnel
+#7195 failed:    webdriver-selenium fix
+#7194 failed:    webdriver-selenium readd env variables
+#7193 failed:    webdriver-selenium remove env variables
+#7192 failed:    webdriver-selenium fix
+#7191 failed:    webdriver-selenium fix
+#7190 failed:    webdriver-selenium fix
+#7189 failed:    webdriver-selenium try
+#7188 passed:    develop plugins: Delete noisy and useless debug message (#4409)
+#7187 passed:    develop plugins: Delete noisy and useless debug message (#4409)
+#7186 passed:    develop timeslider: bugfix: follow pad contents - only goToLineNumber if it exists (#4390)
+#7185 passed:    develop (PR #4402) CSP: Disable the indexCustomInlineScripts hook
+#7184 passed:    develop (PR #4409) plugins: Delete noisy and useless debug message
+#7183 failed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7182 failed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7181 failed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7180 failed:    develop (PR #4404) hooks: Rewrite `callAll` and `aCallAll` for consistency
+#7179 passed:    develop (PR #4408) timeslider_follow: increase number of revision for Edge
+#7178 failed:    test-responsivness increase timeout
+#7177 failed:    test-responsivness events are fired regardless of pad size
+#7176 failed:    develop timeslider: bugfix: follow pad contents - only goToLineNumber if it exists (#4390)
+#7175 passed:    frontend-tests-work timeslider_follow: increase number of revision for Edge
+#7174 failed:    frontend-tests-work tests: refactor timeslider_follow
+#7173 failed:    develop timeslider: bugfix: follow pad contents - only goToLineNumber if it exists (#4390)
+#7172 failed:    develop (PR #4390) Revert "add test coverage"
+#7171 failed:    fix-pad-follow-contents Revert "add test coverage"
+#7170 failed:    frontend-tests-work tests: refactor timeslider_follow
+#7169 failed:    frontend-tests-work tests: refactor timeslider_labels
+#7168 failed:    frontend-tests-work tests: refactor timeslider_numeric_padID
+#7167 passed:    frontend-tests-work tests: refactor chat.js
+#7166 failed:    frontend-tests-work add test to check if helper.edit() supports line numbers
+#7165 failed:    frontend-tests-work introduce helper.edit to write to a pad
+#7164 passed:    develop (PR #4407) tests: Include the filename in the test output
+#7163 failed:    develop (PR #4404) hooks: Rewrite `aCallAll` to support legacy hook functions
+#7162 passed:    develop (PR #4404) debugging
+#7161 failed:    develop (PR #4404) debugging
+#7160 failed:    develop (PR #4404) debugging
+#7159 failed:    develop (PR #4404) debugging
+#7158 failed:    develop (PR #4404) debugging
+#7157 canceled:  develop (PR #4404) debugging
+#7156 canceled:  develop (PR #4404) debugging
+#7155 errored:   develop (PR #4404) debugging
+#7154 errored:   develop (PR #4404) debugging
+#7153 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to support legacy hook functions
+#7152 failed:    frontend-tests-work add waitForPromise method and test for it
+#7151 passed:    develop tests: Simplify API key reading
+#7150 passed:    develop tests: Simplify API key reading
+#7149 failed:    develop Localisation updates from https://translatewiki.net.
+#7148 passed:    develop (PR #4406) tests: Simplify API key reading
+#7147 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to support legacy hook functions
 #7146 passed:    develop Localisation updates from https://translatewiki.net.
 #7145 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to support legacy hook functions
 #7144 errored:   develop (PR #4404) hooks: Rewrite `aCallAll` to handle legacy hook functions
@@ -4556,7 +4847,6 @@
 #2591 failed:    develop a should always have white space pre-wrap stops caret walking in chrome on them
 #2590 errored:   develop (PR #2538) actually disconnect should NOT be visible...
 #2589 errored:   develop (PR #2530) print revision numbers - not changesets - in warn-log
-#2588 failed:    image-support-hook add try-catch clause around calls to applyToAText
 #2588 failed:    develop bump ueber
 #2587 errored:   develop (PR #2535) add badges
 #2586 failed:    develop Merge pull request #2533 from cjb/issue-2514-renumber-on-cut
@@ -4598,6 +4888,7 @@
 #2551 failed:    chat-users-flow-css and even mroe polish
 #2551 failed:    develop (PR #2510) and even mroe polish
 #2550 failed:    develop (PR #2510) more styling stuff
+#2550 failed:    chat-users-flow-css more styling stuff
 #2549 errored:   develop (PR #2510) better css
 #2548 failed:    chat-users-flow-css better css
 #2547 errored:   develop (PR #2509) Adding api call for appending a chat message.
@@ -4702,8 +4993,8 @@
 #2450 errored:   static-versions versions stuck
 #2449 errored:   develop (PR #2477) Add subdirectory installation instructions
 #2448 failed:    develop Merge pull request #2469 from ether/new-sethtml-tests
-#2447 failed:    develop (PR #2469) remove pointless comments
 #2447 passed:    new-sethtml-tests remove pointless comments
+#2447 failed:    develop (PR #2469) remove pointless comments
 #2446 failed:    develop (PR #2469) fix ul tests
 #2445 passed:    new-sethtml-tests fix ul tests
 #2444 passed:    develop Merge pull request #2471 from ether/ie-fix-backspace
@@ -4805,8 +5096,8 @@
 #2349 passed:    develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
 #2348 passed:    develop Merge pull request #2417 from webzwo0i/fix-export
 #2347 passed:    develop Merge pull request #2405 from webzwo0i/fix-lineassembler-not-finished
-#2346 errored:   develop (PR #2418) no errors on chrome client
 #2346 passed:    etherpad-export-and-import no errors on chrome client
+#2346 errored:   develop (PR #2418) no errors on chrome client
 #2345 failed:    develop (PR #2418) better take some responsibility
 #2344 failed:    etherpad-export-and-import better take some responsibility
 #2343 failed:    develop (PR #2418) licensing
@@ -4819,8 +5110,8 @@
 #2337 passed:    etherpad-export-and-import remove error logging
 #2336 passed:    develop (PR #2418) more author logic
 #2335 errored:   etherpad-export-and-import more author logic
-#2334 failed:    develop (PR #2418) authors
 #2334 passed:    etherpad-export-and-import authors
+#2334 failed:    develop (PR #2418) authors
 #2333 errored:   develop (PR #2418) msg for user
 #2332 passed:    etherpad-export-and-import msg for user
 #2331 errored:   etherpad-export-and-import allow only for pads less than 10 to be overwritten
@@ -4931,7 +5222,6 @@
 #2228 errored:   develop (PR #2372) op is ok, if it doesnt include newlines. op is ok, if op.lines is equal to newlines in op.chars
 #2227 errored:   develop (PR #2373) dont make local variables global
 #2226 errored:   develop (PR #2372) disconnect client if it submits a changeset that has a wrong number of newlines in op
-#2225 passed:    hook_for_exportHTMLStyles allow plugins to add multiple styles
 #2225 passed:    develop (PR #2368) allow plugins to add multiple styles
 #2224 passed:    develop (PR #2368) docs
 #2223 passed:    hook_for_exportHTMLStyles docs
@@ -4974,8 +5264,8 @@
 #2188 passed:    require-kernel-change bump vs
 #2187 errored:   develop (PR #2350) correct kernel v#
 #2186 failed:    require-kernel-change correct kernel v#
-#2185 passed:    require-kernel-change Merge branch 'develop' of github.com:ether/etherpad-lite into require-kernel-change
 #2185 failed:    develop (PR #2350) Merge branch 'develop' of github.com:ether/etherpad-lite into require-kernel-change
+#2185 passed:    require-kernel-change Merge branch 'develop' of github.com:ether/etherpad-lite into require-kernel-change
 #2184 passed:    develop script to update all plugins with one command on CLI
 #2183 passed:    develop gritter css fix
 #2182 passed:    develop better fix
@@ -5023,12 +5313,12 @@
 #2141 errored:   backend-tests mowah pad tests, tea time
 #2140 errored:   develop (PR #2344) tidy up and re-organize
 #2139 failed:    backend-tests tidy up and re-organize
-#2138 passed:    develop (PR #2344) all pad tests with content
 #2138 failed:    backend-tests all pad tests with content
+#2138 passed:    develop (PR #2344) all pad tests with content
 #2137 errored:   develop (PR #2344) basic pad tests without test logic yet
 #2136 passed:    backend-tests basic pad tests without test logic yet
-#2135 passed:    develop (PR #2344) handle auth fails
 #2135 errored:   backend-tests handle auth fails
+#2135 passed:    develop (PR #2344) handle auth fails
 #2134 errored:   develop (PR #2346) #2134
 #2133 failed:    develop Merge pull request #2341 from ether/jsdom-go-away
 #2132 errored:   develop (PR #2341) make additional line break at end of imported doc
@@ -5068,8 +5358,8 @@
 #2098 passed:    develop Merge pull request #2319 from ether/fix-socket-admin-etc
 #2097 errored:   develop (PR #2319) final commit
 #2096 errored:   fix-socket-admin-etc final commit
-#2095 errored:   develop (PR #2319) Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
 #2095 failed:    fix-socket-admin-etc Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
+#2095 errored:   develop (PR #2319) Merge branch 'develop' of github.com:ether/etherpad-lite into fix-socket-admin-etc
 #2094 passed:    develop (PR #2319) fix session management
 #2094 errored:   fix-socket-admin-etc fix session management
 #2093 errored:   develop (PR #2335) whoopsi
@@ -5117,8 +5407,8 @@
 #2052 errored:   develop (PR #2324) Don't crash on bad plugins.json; fixes #2323
 #2051 failed:    develop (PR #2321) no image on timeslider
 #2050 errored:   new-icons no image on timeslider
-#2049 failed:    develop (PR #2321) a font lookup file
 #2049 passed:    new-icons a font lookup file
+#2049 failed:    develop (PR #2321) a font lookup file
 #2048 errored:   develop (PR #2321) remove connecting bar image
 #2047 failed:    new-icons remove connecting bar image
 #2046 passed:    develop (PR #2321) spinning loading icons
@@ -5349,15 +5639,15 @@
 #1826 errored:   develop (PR #2165) Implemented the the new API method getPadID for reversing the Readonly ID. Based on: https://github.com/disy-mk/etherpad-lite/commit/ff88c19fc12887a49fdb752adb15ee3145f521f0
 #1825 failed:    develop (PR #2161) bump ueberdb for more performance on mysql
 #1824 errored:   bump-ueber bump ueberdb for more performance on mysql
-#1823 failed:    develop (PR #2150) Fix race condition
 #1823 errored:   export-file-name-hook Fix race condition
-#1822 passed:    export-file-name-hook Update ExportHandler.js
+#1823 failed:    develop (PR #2150) Fix race condition
 #1822 failed:    develop (PR #2150) Update ExportHandler.js
+#1822 passed:    export-file-name-hook Update ExportHandler.js
 #1821 failed:    develop Merge pull request #1984 from ldidry/fix/getRevisionChangeset-crash
 #1820 errored:   develop (PR #2150) use full string not first char
 #1819 failed:    export-file-name-hook use full string not first char
-#1818 errored:   develop (PR #2150) use call first and update docs
 #1818 errored:   export-file-name-hook use call first and update docs
+#1818 errored:   develop (PR #2150) use call first and update docs
 #1817 failed:    develop Localisation updates from https://translatewiki.net.
 #1816 passed:    develop (PR #2149) Update ImportHandler.js
 #1815 failed:    dont-use-abiword-for-html Update ImportHandler.js
@@ -5386,8 +5676,8 @@
 #1792 failed:    image block ele for image
 #1791 failed:    image content collector for images
 #1790 errored:   image Localisation updates from https://translatewiki.net.
-#1789 passed:    develop (PR #2033) resolve merge
 #1789 failed:    support-images resolve merge
+#1789 passed:    develop (PR #2033) resolve merge
 #1788 failed:    develop Localisation updates from https://translatewiki.net.
 #1787 failed:    develop Localisation updates from https://translatewiki.net.
 #1786 failed:    fix/group-export Padaccess: Display a reason for refusing access
@@ -5453,14 +5743,14 @@
 #1727 passed:    develop Merge pull request #2080 from ether/ignore-ctrl-pageup
 #1726 passed:    develop Localisation updates from https://translatewiki.net.
 #1725 failed:    develop Merge pull request #2101 from ether/preProcessDomLine
-#1724 errored:   develop (PR #2033) more sanity stuff
 #1724 failed:    support-images more sanity stuff
+#1724 errored:   develop (PR #2033) more sanity stuff
 #1723 passed:    preProcessDomLine cleaner logic
 #1722 failed:    develop (PR #2101) cleaner logic
 #1721 passed:    preProcessDomLine fix dintenation
 #1720 failed:    preProcessDomLine preprocessor for domline attributes
-#1719 passed:    support-images cross platform but REALLY MESSY, do not use this as reference its just to show it existing
 #1719 passed:    develop (PR #2033) cross platform but REALLY MESSY, do not use this as reference its just to show it existing
+#1719 passed:    support-images cross platform but REALLY MESSY, do not use this as reference its just to show it existing
 #1718 failed:    master (PR #2069) Merge pull request #2095 from vvision/develop
 #1717 failed:    release/1.4.0 Merge pull request #2095 from vvision/develop
 #1716 errored:   master (PR #2069) Merge pull request #2086 from bnchdrff/cleanse-npm-values
@@ -5503,14 +5793,14 @@
 #1679 passed:    refactor-timeslider Timeslider: Don't crash if url rev hash is out of bounds
 #1678 failed:    develop (PR #2070) Timeslider: Fix calcPath()'s smart overshooting feature
 #1678 failed:    refactor-timeslider Timeslider: Fix calcPath()'s smart overshooting feature
-#1677 failed:    refactor-timeslider Timeslider: Display real-time changes in play mode
 #1677 failed:    develop (PR #2070) Timeslider: Display real-time changes in play mode
+#1677 failed:    refactor-timeslider Timeslider: Display real-time changes in play mode
 #1676 failed:    refactor-timeslider Timeslider UI: Improve UX for slider handle
 #1676 failed:    develop (PR #2070) Timeslider UI: Improve UX for slider handle
 #1675 failed:    develop (PR #2070) Timeslider UI: Polish the timestamp and move it together with the handle
 #1674 failed:    refactor-timeslider Timeslider UI: Polish the timestamp and move it together with the handle
-#1673 failed:    develop (PR #2070) Fix timesliders calcPath() to adhere to what's actually possible
 #1673 failed:    refactor-timeslider Fix timesliders calcPath() to adhere to what's actually possible
+#1673 failed:    develop (PR #2070) Fix timesliders calcPath() to adhere to what's actually possible
 #1672 passed:    develop (PR #2070) Fix server-side revision numbering
 #1671 passed:    refactor-timeslider Fix server-side revision numbering
 #1670 failed:    master (PR #2069) Merge pull request #2052 from ether/fix/l10n-fallbacks-related-langs
@@ -5588,8 +5878,8 @@
 #1598 failed:    develop (PR #2033) DAMNIT
 #1597 passed:    support-images DAMNIT
 #1596 passed:    develop (PR #2033) working import
-#1595 passed:    support-images working import
 #1595 passed:    develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
+#1595 passed:    support-images working import
 #1594 errored:   develop (PR #2033) clean
 #1593 errored:   support-images clean
 #1592 errored:   develop (PR #2033) Merge branch 'develop' of github.com:ether/etherpad-lite into support-images
@@ -5690,8 +5980,8 @@
 #1498 passed:    fix-ol-indent whoopsi, polish
 #1497 errored:   fix-ol-indent attempt one breaks other fonts and monospace
 #1496 passed:    develop Merge pull request #1994 from ether/node11
-#1495 errored:   node11 support node 0.11
 #1495 errored:   develop (PR #1994) support node 0.11
+#1495 errored:   node11 support node 0.11
 #1494 failed:    develop Localisation updates from http://translatewiki.net.
 #1493 failed:    develop Update installDeps.sh
 #1492 failed:    develop Merge pull request #1990 from ether/run-path-available-in-ps-aux
@@ -5748,6 +6038,7 @@
 #1443 failed:    develop Localisation updates from http://translatewiki.net.
 #1442 failed:    develop Merge pull request #1943 from ether/fix/listAllPads-fix
 #1441 failed:    fix/listAllPads-fix Pad list cache: You can't change the cache if it's not initiated
+#1441 passed:    develop (PR #1943) Pad list cache: You can't change the cache if it's not initiated
 #1440 failed:    develop Consistent spelling style
 #1439 passed:    develop Localisation updates from http://translatewiki.net.
 #1438 failed:    develop Merge pull request #1940 from piratenfraktion-nrw/fix_readonly_if_require_session
@@ -5782,12 +6073,12 @@
 #1410 passed:    fix/easysync-error-messages Polish the error messages of the easysync lib
 #1409 failed:    develop (PR #1927) Polish logging of client-side errors on the server
 #1408 passed:    fix/client-side-error-logging-in-server-log Polish logging of client-side errors on the server
-#1407 passed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
 #1407 passed:    fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
+#1407 passed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
 #1406 passed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
 #1406 errored:   fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
-#1405 passed:    fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
 #1405 failed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
+#1405 passed:    fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
 #1404 passed:    develop (PR #1926) Never keep processing a changeset if it's corrupted
 #1403 passed:    fix/no-connect-to-corrupt-pad Never keep processing a changeset if it's corrupted
 #1402 failed:    fix/no-connect-to-corrupt-pad Catch errors during preparation of client vars
@@ -5863,1345 +6154,3 @@
 #1333 passed:    fix/adminplugins/loading-and-scroll Beautify infinite scroll
 #1332 failed:    develop Merge pull request #1882 from fviard/develop
 #1331 errored:   develop Merge pull request #1850 from Wikinaut/develop
-#1330 errored:   develop (PR #1882) Fix to check if searchTerm is not "undefined" before trying to use it to filter search results.
-#1329 failed:    develop Merge pull request #1879 from Gared/binary-upload-fix
-#1328 errored:   develop (PR #1879) Add check if uploaded file only contains ascii chars when abiword disabled
-#1327 failed:    develop Merge pull request #1877 from piratenfraktion-nrw/develop
-#1326 errored:   develop (PR #1877) allow users to have colons in password
-#1325 failed:    develop Localisation updates from http://translatewiki.net.
-#1324 errored:   develop Merge pull request #1874 from tonoman3g/fix-padUsers-http-api-call
-#1323 errored:   develop (PR #1874) fix padUsers http api call in PadMessageHandler.js.
-#1322 errored:   develop (PR #1787) Merge branch 'upstream/develop'
-#1321 failed:    develop Localisation updates from http://translatewiki.net.
-#1320 failed:    develop Update README.md
-#1319 failed:    develop Merge pull request #1861 from codingisacopingstrategy/correct-path-in-readme-doc-generator
-#1318 failed:    develop Merge pull request #1869 from codingisacopingstrategy/clarify-how-to-access-tests
-#1317 errored:   develop (PR #1869) Clarify how to access tests
-#1316 errored:   develop (PR #1869) Clarify how to acces tests
-#1315 failed:    develop Merge pull request #1868 from codingisacopingstrategy/encoding-fix-localization-dot-md
-#1314 errored:   develop (PR #1868) Fix encoding issue in localization.md
-#1313 errored:   develop (PR #1862) ‘Etherpad Lite’ -> ‘Etherpad’
-#1312 errored:   develop (PR #1861) Correct the path to the docs file used by the doc generator
-#1311 errored:   develop (PR #1851) Start script needs bash instead of sh for root arguments
-#1310 errored:   develop (PR #1850) utf-8 without BOM; removed trailing white spaces
-#1309 errored:   develop (PR #1849) adds backlink to main page on Admin Dashboard "Etherpad" navibar title
-#1308 failed:    develop Localisation updates from http://translatewiki.net.
-#1307 failed:    develop Merge pull request #1816 from bit/sessioninfos
-#1306 failed:    develop Merge pull request #1841 from ether/update/html10n.js
-#1305 errored:   develop (PR #1841) Make use of the new plural macro
-#1304 failed:    update/html10n.js Make use of the new plural macro
-#1303 failed:    develop Localisation updates from http://translatewiki.net.
-#1302 failed:    develop Update en.sjon translation
-#1301 failed:    develop Merge pull request #1837 from rgbkrk/patch-1
-#1300 errored:   develop (PR #1837) Grammar fix
-#1299 failed:    develop Merge pull request #1833 from digitalbazaar/fix-chrome-longlines-slowdown
-#1298 failed:    develop Localisation updates from http://translatewiki.net.
-#1297 errored:   develop (PR #1833) Adapt and add slowness test from @JohnMcLear.
-#1296 errored:   develop (PR #1833) Make pads with long lines usable with chrome.
-#1295 errored:   develop (PR #1826) Fixed mind-o
-#1294 errored:   master Update README.md
-#1293 failed:    develop Update README.md
-#1292 failed:    develop Update LICENSE
-#1291 failed:    develop repo url as latest npm shows warn if non existant
-#1290 passed:    clean-css-update whoops
-#1289 errored:   clean-css-update update clean css
-#1288 failed:    develop Merge pull request #1815 from bit/patches
-#1287 passed:    master Merge branch 'release/1.2.11'
-#1286 failed:    develop bump and changelog
-#1285 failed:    develop Fix broken git guide link
-#1284 failed:    develop Merge pull request #1753 from ether/dont-crash-noauth
-#1283 errored:   develop (PR #1816) export sessioninfos so plugins can access it
-#1282 errored:   develop (PR #1816) export sessioninfos so plugins can access it
-#1281 errored:   develop (PR #1815) Add userLeave hook
-#1280 errored:   develop (PR #1815) Add userLeave hook
-#1279 failed:    develop Localisation updates from http://translatewiki.net.
-#1278 failed:    develop Merge pull request #1807 from dummys/develop
-#1277 passed:    develop Merge pull request #1810 from clkao/travis-fixes
-#1276 passed:    develop Merge pull request #1811 from clkao/author-style-hook
-#1275 errored:   develop (PR #1811) document aceSetAuthorStyle
-#1274 errored:   develop (PR #1810) Update sauce key
-#1273 errored:   develop (PR #1807) added log4js 0.6.6
-#1272 failed:    develop Merge pull request #1805 from rgbkrk/proto_cleanup
-#1271 errored:   develop (PR #1805) Only kept URL schemes which have an RFC standard
-#1270 failed:    develop Merge pull request #1804 from rgbkrk/proto_cleanup
-#1269 errored:   develop (PR #1804) Cleanup gophers
-#1268 failed:    develop Localisation updates from http://translatewiki.net.
-#1267 failed:    develop Merge pull request #1797 from clkao/author-style-hook
-#1266 errored:   develop (PR #1797) new hook: aceSetAuthorStyle
-#1265 failed:    develop Merge pull request #1786 from clkao/saferun
-#1264 errored:   develop (PR #1789) Use rev-parse to get short commit hash
-#1263 errored:   develop (PR #1787) typo
-#1262 errored:   develop (PR #1786) Fix safeRun that tries to shift on subsequent restarts
-#1261 passed:    develop Merge pull request #1785 from interesse/saferun_args
-#1260 errored:   develop (PR #1785) Pass arguments from safeRun.sh to run.sh
-#1259 failed:    develop Localisation updates from http://translatewiki.net.
-#1258 errored:   develop (PR #1783) Nooping console.foo in html10n.js when the method is not defined.
-#1257 errored:   develop (PR #1783) Removed console wrapping in html10n as it's breaking in PhantomJS.
-#1256 failed:    develop Localisation updates from http://translatewiki.net.
-#1255 errored:   develop (PR #1781) Pause the stream while adding keys to keep memory consumption down.
-#1254 errored:   develop (PR #1781) Add script that more efficiently imports large files.
-#1253 failed:    develop Localisation updates from http://translatewiki.net.
-#1252 failed:    develop Localisation updates from http://translatewiki.net.
-#1251 errored:   develop (PR #1771) Move etherpad-sysv.sh
-#1250 errored:   develop (PR #1771) Add SysV compatible init script
-#1249 failed:    develop Merge pull request #1751 from goldquest/dev_IE8-fix
-#1248 failed:    develop Merge pull request #1770 from ether/feature/travis_fix
-#1247 errored:   develop (PR #1770) Let travis use sauce labs key of the etherpad user
-#1246 failed:    feature/travis_fix Let travis use sauce labs key of the etherpad user
-#1245 errored:   develop (PR #1764) better test but still fragile
-#1244 errored:   slow-chrome better test but still fragile
-#1243 errored:   develop (PR #1764) cleanup, still not 100% sure on functionality
-#1242 errored:   slow-chrome cleanup, still not 100% sure on functionality
-#1241 errored:   develop (PR #1764) clear up language
-#1240 errored:   slow-chrome clear up language
-#1239 errored:   slow-chrome working test
-#1238 errored:   slow-chrome clearer test description
-#1237 errored:   slow-chrome base of a test for slow response
-#1236 errored:   develop Merge pull request #1740 from ether/feature/add-cs-queue
-#1235 errored:   develop Merge pull request #1760 from bemeric1/develop
-#1234 errored:   develop Localisation updates from http://translatewiki.net.
-#1233 errored:   develop (PR #1740) Add a server-side changeset queue per pad
-#1232 errored:   feature/add-cs-queue Add a server-side changeset queue per pad
-#1231 errored:   develop (PR #1760) Issue #1625: Fix to client-side-induced changeset spamming.
-#1230 errored:   develop (PR #1756) updated to use settings
-#1229 errored:   develop (PR #1759) Highlight mumble:// urls
-#1228 errored:   develop (PR #1756) Update SocketIORouter.js
-#1227 errored:   develop Localisation updates from http://translatewiki.net.
-#1226 errored:   develop Merge pull request #1754 from goldquest/patch-1
-#1225 errored:   develop (PR #1754) Just a missing character
-#1224 errored:   develop (PR #1753) better message for admins
-#1223 errored:   dont-crash-noauth better message for admins
-#1222 errored:   develop (PR #1753) dont crash on no auth, ust a bandaid
-#1221 errored:   dont-crash-noauth dont crash on no auth, ust a bandaid
-#1220 errored:   develop (PR #1751) fixed spacing
-#1219 errored:   develop Merge pull request #1750 from ether/fix/authorship-once-and-4-all
-#1218 errored:   develop (PR #1751) use document, not doc
-#1217 errored:   develop Remove console.log in content collector
-#1216 errored:   develop (PR #1750) Fix authorship sanitization
-#1215 errored:   fix/authorship-once-and-4-all Fix authorship sanitization
-#1214 errored:   develop (PR #1740) Don't block changeset queue with delivering changeset
-#1213 errored:   feature/add-cs-queue Don't block changeset queue with delivering changeset
-#1212 errored:   html-export-nesting begin understanding why HTML export can be broken on weird content
-#1211 errored:   master (PR #1747) Merge branch 'develop' of github.com:ether/etherpad-lite into develop
-#1210 errored:   master Merge pull request #1747 from ether/develop
-#1209 errored:   develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
-#1208 errored:   master Merge pull request #1746 from ether/develop
-#1207 errored:   master (PR #1746) Merge pull request #1745 from ether/master
-#1206 errored:   develop Merge pull request #1745 from ether/master
-#1206 errored:   develop (PR #1745) Merge pull request #1737 from ether/develop
-#1205 errored:   develop Merge pull request #1743 from ether/dont-crash-on-export-abiword
-#1204 errored:   develop (PR #1743) catch error on export
-#1203 errored:   dont-crash-on-export-abiword catch error on export
-#1202 errored:   develop (PR #1740) Add a server-side changeset queue per pad
-#1201 errored:   feature/add-cs-queue Add a server-side changeset queue per pad
-#1200 errored:   develop (PR #1739) Merge branch 'develop' of github.com:ether/etherpad-lite into update-connect
-#1200 errored:   develop Merge pull request #1739 from ether/update-connect
-#1199 errored:   update-connect Merge branch 'develop' of github.com:ether/etherpad-lite into update-connect
-#1198 errored:   develop Update .travis.yml
-#1197 errored:   develop Update .travis.yml
-#1196 errored:   master (PR #1737) Merge pull request #1736 from ether/dont-avoid-spam
-#1195 passed:    master Merge pull request #1737 from ether/develop
-#1194 passed:    develop Merge pull request #1736 from ether/dont-avoid-spam
-#1193 passed:    master Merge branch 'release/1.2.10'
-#1192 passed:    develop push express back as it breaks sessions
-#1191 passed:    develop Merge pull request #1721 from ether/dont-send-same-cs-spam
-#1190 passed:    develop Localisation updates from http://translatewiki.net.
-#1189 passed:    develop Merge pull request #1732 from ether/authorID-2
-#1188 errored:   develop (PR #1732) remove console logs and cruft
-#1187 passed:    authorID-2 remove console logs and cruft
-#1186 errored:   develop (PR #1732) Use a string instead of an array!
-#1185 passed:    authorID-2 Use a string instead of an array!
-#1184 passed:    authorID-2 We need to replace all new author attribs with thisSession.author, in case someone copy/pasted or otherwise inserted other peoples changes
-#1183 passed:    develop MAGIQ
-#1182 passed:    develop Use the correct version number
-#1181 passed:    develop Merge pull request #1709 from ether/keep-list-order-on-paste
-#1180 passed:    develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
-#1179 passed:    develop Merge pull request #1723 from ether/expose-broadcastslider
-#1178 passed:    develop html10n.js: Don't break in getDirection if language hasn't been set
-#1177 passed:    caret-refactor Merge branch 'develop' of github.com:ether/etherpad-lite into caret-refactor
-#1176 errored:   develop (PR #1709) remove cruft
-#1175 passed:    keep-list-order-on-paste remove cruft
-#1174 passed:    develop Merge pull request #1726 from ether/fix/html10n.js-console-log-shim
-#1173 errored:   develop (PR #1726) Update html10n.js to correctly use the console.log shim
-#1172 passed:    fix/html10n.js-console-log-shim Update html10n.js to correctly use the console.log shim
-#1171 passed:    develop Merge pull request #1693 from guyzmo/api_extension
-#1170 passed:    handleClientMessageTimesliderHook remove console log
-#1169 passed:    handleClientMessageTimesliderHook add hook
-#1168 errored:   develop (PR #1723) no need to declare var twice
-#1168 errored:   develop (PR #1723) no need to declare var twice
-#1167 passed:    expose-broadcastslider no need to declare var twice
-#1166 passed:    expose-broadcastslider expose broadcast slider so plugins can interact with it
-#1165 errored:   keep-list-order-on-paste keep integrity on paste and better styling but new lists dont reset counter
-#1164 errored:   develop (PR #1709) keep integrity on paste and better styling but new lists dont reset counter
-#1163 errored:   develop (PR #1709) working but then create a second list, it will be stupid, SIGH
-#1163 passed:    keep-list-order-on-paste working but then create a second list, it will be stupid, SIGH
-#1162 errored:   develop (PR #1709) kudos to quenenni for some working CSS
-#1161 passed:    keep-list-order-on-paste kudos to quenenni for some working CSS
-#1160 errored:   develop (PR #1709) make sure elements are supported, still doesn't assign numbers properly
-#1159 passed:    keep-list-order-on-paste make sure elements are supported, still doesn't assign numbers properly
-#1158 errored:   develop (PR #1709) semi working
-#1157 passed:    keep-list-order-on-paste semi working
-#1156 passed:    develop Merge pull request #1722 from mluto/remove-top-console-log-in-collab-client
-#1155 errored:   develop (PR #1722) use `parent.parent` instead of `top` in `collab_client.js`, since `top` breaks embedding when a pad is embedded (same origin policy)
-#1154 errored:   develop (PR #1721) some polish for a turd
-#1153 passed:    dont-send-same-cs-spam some polish for a turd
-#1152 errored:   develop (PR #1721) temp patch for 1652
-#1151 passed:    dont-send-same-cs-spam temp patch for 1652
-#1150 passed:    develop Merge pull request #1720 from ether/remove-draggable
-#1149 errored:   develop (PR #1720) remove draggable which was used for dragging users in the userbox
-#1148 passed:    remove-draggable remove draggable which was used for dragging users in the userbox
-#1147 passed:    develop Merge pull request #1716 from ether/only-redraw-existing-lines
-#1146 passed:    develop Merge pull request #1718 from ether/fix/plugins-multi-install
-#1145 errored:   develop (PR #1718) pluginfw/installer: Only restart the server when all tasks have finished
-#1144 passed:    fix/plugins-multi-install pluginfw/installer: Only restart the server when all tasks have finished
-#1143 errored:   fix/plugins-multi-install pluginfw/installer: Only restart the server when all tasks have finished
-#1142 passed:    develop Actually update windows download link
-#1141 passed:    drag-to-bottom kinda weird but dragging content to the bottom can break browser functionality so this is a bodge
-#1140 errored:   develop (PR #1716) only try to redraw the line height of lines that exist..
-#1139 passed:    only-redraw-existing-lines only try to redraw the line height of lines that exist..
-#1138 passed:    authorID-2 remove cruft
-#1137 passed:    authorID-2 attempting to get right client authorid sent with changeset
-#1136 passed:    develop Localisation updates from http://translatewiki.net.
-#1135 errored:   develop (PR #1715) rewrite author to actual author on changes
-#1134 passed:    force-author-to-session rewrite author to actual author on changes
-#1133 passed:    develop Localisation updates from http://translatewiki.net.
-#1132 passed:    master Merge branch 'release/1.2.91'
-#1131 passed:    develop version bump
-#1130 passed:    develop Merge pull request #1712 from goldquest/dev_imp-browser-detect-fix
-#1129 errored:   develop (PR #1712) browser detection was dropped in jquery 1.9, so we have to add the browser detection js file
-#1128 passed:    develop Merge pull request #1711 from ether/fix/two-part-locales
-#1127 errored:   develop (PR #1711) html10n.js: Finally fix two-part locale specs
-#1126 passed:    fix/two-part-locales html10n.js: Finally fix two-part locale specs
-#1125 passed:    develop Merge pull request #1710 from ether/remove-chat-trans
-#1124 errored:   develop (PR #1710) no need for the language string on that div
-#1123 passed:    remove-chat-trans no need for the language string on that div
-#1122 errored:   develop (PR #1709) begin by adding some template css
-#1121 passed:    keep-list-order-on-paste begin by adding some template css
-#1120 errored:   develop (PR #1708) Some comments but it still spams the database with a SET for each request
-#1119 passed:    session-spam-database Some comments but it still spams the database with a SET for each request
-#1118 passed:    develop Merge pull request #1704 from ether/readme2
-#1117 passed:    develop Merge pull request #1705 from ether/ctrl-s-top
-#1116 errored:   develop (PR #1704) Linux clarity
-#1115 passed:    readme2 Linux clarity
-#1114 errored:   develop (PR #1693) added full comments to the new API functions.
-#1113 passed:    readme2 hrm, maybe this makes sense to a wider audience
-#1112 errored:   develop (PR #1704) hrm, maybe this makes sense to a wider audience
-#1111 errored:   develop (PR #1705) dont use top, use the scheduler
-#1110 passed:    ctrl-s-top dont use top, use the scheduler
-#1109 errored:   develop (PR #1704) animated image prolly wont work
-#1108 passed:    readme2 animated image prolly wont work
-#1107 passed:    readme line breaks
-#1106 passed:    readme new readme
-#1105 passed:    develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
-#1104 passed:    develop Merge pull request #1703 from mluto/kick-users-with-invalid-session-2
-#1103 errored:   develop (PR #1703) Kick the user if has already successfully authenticated but his session became invalid later
-#1102 passed:    session-on-timeslider so it turns out the timeslider socket cant access anything
-#1101 passed:    develop Merge pull request #1699 from ether/fix-custom
-#1100 errored:   develop (PR #1699) weird styling
-#1099 errored:   fix-custom weird styling
-#1098 passed:    fix-custom whoops, comments hurt
-#1097 passed:    fix-custom whoops padid should be in payload..
-#1096 passed:    develop Merge pull request #1697 from ether/longer-timeout
-#1095 errored:   develop (PR #1697) longer timeout on reconnection
-#1094 passed:    longer-timeout longer timeout on reconnection
-#1093 errored:   develop (PR #1693) Added getAttributePool, getRevisionOfHead and getRevisionChangeset methods to API v1.2.8
-#1092 passed:    develop Merge pull request #1692 from ether/fix/drop-0.6-support
-#1091 errored:   develop (PR #1692) Drop support for node v0.6, officially
-#1090 passed:    fix/drop-0.6-support Drop support for node v0.6, officially
-#1089 passed:    develop Merge branch 'feature/support-node-0.10' into develop
-#1088 passed:    feature/support-node-0.10 Update ueberDB to add support for node 0.10.x
-#1087 passed:    develop Merge pull request #1691 from mluto/socketio-decode-cookie-session
-#1086 passed:    develop Merge pull request #1689 from mluto/fix-checkAccess-omitted-cb
-#1085 errored:   develop (PR #1691) Decode the sessionID before sending it to the server since our separator ',' gets encoded
-#1084 errored:   develop (PR #1690) Decode session-cookies in SecurityManager.checkAccess since our separator ',' gets encoded which messes up our split()
-#1083 errored:   develop (PR #1689) Log when a sessionID in checkAccess is not found
-#1082 errored:   develop (PR #1689) When there is just one session and this one is invalid SecurityManager.checkAccess would cause the request to hang forever because the callback is omitted for each invalid session, this fixes this issue.
-#1081 passed:    develop Merge pull request #1687 from mluto/checkAccess-debug-output
-#1080 errored:   develop (PR #1687) log things the log4js-way; put all the brackets on a new line
-#1079 errored:   develop (PR #1687) Added debug-output to SecurityManager.checkAccess to indicate *why* an auth-try failed.
-#1078 passed:    develop Merge pull request #1640 from ether/caret-refactor
-#1077 errored:   develop (PR #1623) fix "util.pump() is deprecated. Use readableStream.pipe()"
-#1076 passed:    feature/support-node-0.10 fix "util.pump() is deprecated. Use readableStream.pipe()"
-#1075 errored:   develop (PR #1682) Fix #1519: don't error in listSessionsOfGroup when there are non-existing sessions (by eldiddio)
-#1074 passed:    develop Merge pull request #1677 from ether/ctrl-s-fade
-#1073 errored:   develop (PR #1677) remove messy bits
-#1072 passed:    ctrl-s-fade remove messy bits
-#1071 passed:    develop Merge pull request #1681 from ether/loading_block
-#1070 errored:   develop (PR #1681) Loading blocks
-#1069 passed:    loading_block Loading blocks
-#1068 passed:    ctrl-s-fade Make revision button glow on ctrl-s and increase duration
-#1067 errored:   develop (PR #1677) Make revision button glow on ctrl-s and increase duration
-#1066 passed:    pr/1677 Make the Saverevision button glow on ctrl+S and increase the duration
-#1065 errored:   develop (PR #1677) more settimeout to top window
-#1064 passed:    ctrl-s-fade more settimeout to top window
-#1063 errored:   develop (PR #1677) show light yellow for .5 secs on save revision keypress
-#1062 passed:    ctrl-s-fade show light yellow for .5 secs on save revision keypress
-#1061 passed:    develop Merge pull request #1675 from ether/fix/process-uncaughtException-event-handler-leak
-#1060 passed:    develop Merge pull request #1672 from ether/feature/admin-plugins-revamp
-#1059 passed:    develop Merge pull request #1607 from ether/custom-obj-msg
-#1058 passed:    develop Update en.json
-#1057 errored:   develop (PR #1672) /admin/plugins: Display a tooltip when hovering the plugin details link
-#1056 passed:    feature/admin-plugins-revamp /admin/plugins: Display a tooltip when hovering the plugin details link
-#1055 errored:   develop (PR #1672) /admin/plugins: Add a loading indicator to some messages
-#1054 passed:    feature/admin-plugins-revamp /admin/plugins: Add a loading indicator to some messages
-#1053 errored:   develop (PR #1672) /admin/plugins: Fix update check
-#1052 passed:    feature/admin-plugins-revamp /admin/plugins: Fix update check
-#1051 errored:   develop (PR #1675) Don't leak event listeners for process:uncaughtException
-#1050 passed:    fix/process-uncaughtException-event-handler-leak Don't leak event listeners for process:uncaughtException
-#1049 passed:    fix/process-uncaughtException-event-handler-leak Don't leak event listeners for process:uncaughtException
-#1048 passed:    develop Merge pull request #1664 from ether/sticky-chat
-#1047 errored:   develop (PR #1672) /admin/plugins: Dry up displaying of info messages
-#1046 passed:    feature/admin-plugins-revamp /admin/plugins: Dry up displaying of info messages
-#1045 errored:   develop (PR #1672) /admin/plugins: If a user installs sth scroll up to the loading indicator
-#1044 passed:    feature/admin-plugins-revamp /admin/plugins: If a user installs sth scroll up to the loading indicator
-#1043 errored:   develop (PR #1672) /admin/plugins: Fix infinite scroll for larger screens
-#1042 passed:    feature/admin-plugins-revamp /admin/plugins: Fix infinite scroll for larger screens
-#1041 errored:   develop (PR #1672) Remove plugin prefix in pluin lists and make links to plugins more clear
-#1040 passed:    feature/admin-plugins-revamp Remove plugin prefix in pluin lists and make links to plugins more clear
-#1039 passed:    develop Merge pull request #1673 from neurolit/api-doc-errors
-#1038 errored:   develop (PR #1673) API documentation: listAllPads() returns {padIDs: [...]} instead of [...]
-#1037 errored:   develop (PR #1672) /admin/plugins: Show some text if nothing is display otherwise
-#1036 passed:    feature/admin-plugins-revamp /admin/plugins: Show some text if nothing is display otherwise
-#1035 errored:   develop (PR #1672) Install and uninstall plugins with style
-#1034 passed:    feature/admin-plugins-revamp Install and uninstall plugins with style
-#1033 errored:   develop (PR #1672) pluginfw/installer.js fire callbacks only once
-#1032 passed:    feature/admin-plugins-revamp pluginfw/installer.js fire callbacks only once
-#1031 errored:   develop (PR #1672) /admin/plugins: Make it display the same amount of plugins after sorting
-#1030 passed:    feature/admin-plugins-revamp /admin/plugins: Make it display the same amount of plugins after sorting
-#1029 errored:   develop (PR #1672) Silence npm when using npm.commands.search
-#1028 failed:    feature/admin-plugins-revamp Silence npm when using npm.commands.search
-#1027 errored:   develop (PR #1672) Catch all errors in pluginfw/installer.js
-#1026 failed:    feature/admin-plugins-revamp Catch all errors in pluginfw/installer.js
-#1025 failed:    develop Merge pull request #1671 from ether/ace_document_expose
-#1024 errored:   develop (PR #1671) expose ace document, reqjired for various plugins
-#1023 failed:    ace_document_expose expose ace document, reqjired for various plugins
-#1022 errored:   develop (PR #1668) adds missing semicolons in src/static/js folder
-#1021 errored:   develop (PR #1667) adds missing semicolons in src/node folder
-#1020 errored:   develop (PR #1666) adds missing semicolons in src/node/eejs folder
-#1019 errored:   develop (PR #1665) adds missing semicolons in src/node/db
-#1018 errored:   develop (PR #1664) option to show sticky chat on screen, note i use a literal string, how am i supposed to add a l10n title?
-#1017 passed:    sticky-chat option to show sticky chat on screen, note i use a literal string, how am i supposed to add a l10n title?
-#1016 errored:   develop (PR #1663) adds missing semicolons in src/node/handler folder
-#1015 passed:    develop Merge pull request #1662 from disy-mk/jshint_semicol_utils
-#1014 errored:   develop (PR #1662) adds missing semicolons in src/node/utils folder
-#1013 errored:   develop (PR #1661) Use a node domain per message to stabilize the server
-#1012 passed:    feature/message-domains Use a node domain per message to stabilize the server
-#1011 errored:   develop (PR #1623) expires was never defined
-#1010 passed:    feature/support-node-0.10 expires was never defined
-#1009 errored:   develop (PR #1623) pump isdeprecated
-#1008 passed:    feature/support-node-0.10 pump isdeprecated
-#1007 errored:   develop (PR #1657) missed this one..
-#1006 passed:    changelog missed this one..
-#1005 errored:   develop (PR #1657) changelog
-#1004 passed:    changelog changelog
-#1003 passed:    develop Localisation updates from http://translatewiki.net.
-#1002 passed:    develop Merge pull request #1656 from ether/cookies
-#1001 errored:   develop (PR #1656) fix cookies
-#1000 passed:    cookies fix cookies
-#999 passed:     re-enable-cookies this is why cookies weren't working in plugins
-#998 errored:    develop (PR #1623) fix typo
-#997 passed:     feature/support-node-0.10 fix typo
-#996 passed:     develop Merge pull request #1655 from simong/cassandra
-#995 errored:    develop (PR #1655) Bumped the ueberDB package version to 0.1.96 to add in Cassandra support.
-#994 errored:    develop (PR #1607) more clean up
-#993 passed:     custom-obj-msg more clean up
-#992 passed:     develop Merge pull request #1649 from sahilamoli/FirefoxFixForLineBreaks
-#991 errored:    develop (PR #1649) Issue #1648 - Long lines without any spaces don't wrap on Firefox, the text ends up going off screen
-#990 passed:     develop Merge pull request #1633 from ether/mobile-msg-css
-#989 errored:    develop (PR #1633) mm k
-#988 passed:     mobile-msg-css mm k
-#987 passed:     mobile-msg-css merge develop
-#986 errored:    develop (PR #1633) merge develop
-#985 passed:     develop Merge pull request #1644 from ether/chatMsgHook
-#984 errored:    develop (PR #1644) Refactor chat notifications and the chatNewMessage hook
-#983 passed:     chatMsgHook Refactor chat notifications and the chatNewMessage hook
-#982 passed:     develop Merge pull request #1645 from ether/fix/import-without-files
-#981 errored:    develop (PR #1645) Don't break the whole server if an import failed because no files were uploaded
-#980 errored:    fix/import-without-files Don't break the whole server if an import failed because no files were uploaded
-#979 passed:     develop Merge pull request #1646 from ether/feature/log-http-on-debug-level
-#978 errored:    develop (PR #1646) Log http on debug log level
-#977 errored:    develop (PR #1645) Don't break the whole server if an import failed because no files were uploaded
-#976 passed:     fix/import-without-files Don't break the whole server if an import failed because no files were uploaded
-#975 passed:     feature/log-http-on-debug-level Log http on debug log level
-#974 passed:     custom-obj-msg make sure the sessionID target is right
-#974 errored:    develop (PR #1607) make sure the sessionID target is right
-#973 passed:     develop Merge pull request #1588 from disy-mk/patch-2
-#972 errored:    develop (PR #1640) add a test to show weird behavior
-#971 passed:     caret-refactor add a test to show weird behavior
-#970 errored:    develop (PR #1644) docs for hook
-#969 failed:     chatMsgHook docs for hook
-#968 errored:    develop (PR #1644) hook for chat msg
-#967 failed:     chatMsgHook hook for chat msg
-#966 errored:    develop (PR #1640) more tests but still fundamental flaw with arrow keys
-#965 failed:     caret-refactor more tests but still fundamental flaw with arrow keys
-#964 errored:    develop (PR #1640) most test pass but important ones failed
-#963 failed:     caret-refactor most test pass but important ones failed
-#962 failed:     develop Merge pull request #1643 from ether/fix/html10n-update
-#961 failed:     develop update ueber for pg
-#960 errored:    develop (PR #1643) Update html10n.js
-#959 failed:     fix/html10n-update Update html10n.js
-#958 failed:     develop Merge pull request #1642 from ether/fix/import
-#957 errored:    develop (PR #1642) Fix #1639 by removing bodyParser middleware introduced with swagger REST API
-#956 failed:     fix/import Fix #1639 by removing bodyParser middleware introduced with swagger REST API
-#955 errored:    develop (PR #1640) document the required tests
-#954 failed:     caret-refactor document the required tests
-#953 errored:    develop (PR #1640) stop start point going negative
-#952 failed:     caret-refactor stop start point going negative
-#951 errored:    develop (PR #1640) page up, down etc all working, still no shift page up/down for highlight but that never worked anyways
-#950 failed:     caret-refactor page up, down etc all working, still no shift page up/down for highlight but that never worked anyways
-#949 errored:    develop (PR #1638) small *optical* updates
-#948 passed:     develop Localisation updates from http://translatewiki.net.
-#947 errored:    develop (PR #1638) Update http_api.md
-#946 errored:    develop (PR #1638) Update http_api.md
-#945 errored:    develop (PR #1638) /API/versions endpoint
-#944 errored:    develop (PR #1638) collecting all available API versions to a list
-#943 failed:     caret-refactor working caret position function
-#942 errored:    develop (PR #1638) A nicer way to handle the API versions
-#941 failed:     caret-refactor beginning of FE tests for caret tracking which is easily broken when you add weird line heights to pads
-#940 failed:     develop Merge pull request #1636 from maixithn/patch-1
-#939 errored:    develop (PR #1636) Update README.md
-#938 errored:    develop (PR #1633) remove console log
-#937 failed:     mobile-msg-css remove console log
-#936 errored:    develop (PR #1633) better mobile support for gritter messages, before it was awful
-#935 failed:     mobile-msg-css better mobile support for gritter messages, before it was awful
-#934 failed:     develop Merge pull request #1632 from ether/enable-buttons-reconnect
-#933 errored:    develop (PR #1632) much cleaner way of showing / hiding overlay
-#932 failed:     enable-buttons-reconnect much cleaner way of showing / hiding overlay
-#931 failed:     develop Merge pull request #1629 from accolade/patch-1
-#930 errored:    develop (PR #1629) (( 2 typos
-#929 errored:    develop (PR #1629) (( 2 typos
-#928 errored:    develop (PR #1607) a safer approach I think but still be careful
-#927 failed:     custom-obj-msg a safer approach I think but still be careful
-#926 errored:    develop (PR #1623) Fix path.join in Settings.js
-#925 failed:     feature/support-node-0.10 Fix path.join in Settings.js
-#924 failed:     develop Merge branch 'release/1.2.9'
-#923 failed:     master Merge branch 'release/1.2.9'
-#922 failed:     develop Merge pull request #1622 from ether/fix/submitting-submitting-faked-changesets
-#921 errored:    develop (PR #1622) Fix clearing authorship colors which was broken by #1609
-#920 failed:     fix/submitting-submitting-faked-changesets Fix clearing authorship colors which was broken by #1609
-#919 errored:    develop (PR #1622) Fix clearing authorship colors which was broken by #1609
-#918 failed:     fix/submitting-submitting-faked-changesets Fix clearing authorship colors which was broken by #1609
-#917 errored:    develop (PR #1619) allow strict transport if ssl is on and stop x-frame-options, this might break embedded pads, please test
-#916 failed:     stricter-transport allow strict transport if ssl is on and stop x-frame-options, this might break embedded pads, please test
-#915 failed:     develop Merge pull request #1618 from ether/tidy-up
-#914 errored:    develop (PR #1618) return text instead of html
-#913 failed:     tidy-up return text instead of html
-#912 failed:     develop Merge pull request #1617 from ether/replace-html-with-text
-#911 failed:     replace-html-with-text escape .color
-#910 failed:     develop Merge pull request #1616 from ether/ff-key-tests
-#909 errored:    develop (PR #1616) fix undo test
-#908 failed:     ff-key-tests fix undo test
-#907 errored:    develop (PR #1616) this should pass more tests..
-#906 failed:     ff-key-tests this should pass more tests..
-#905 errored:    develop (PR #1616) missed an evt
-#904 failed:     ff-key-tests missed an evt
-#903 failed:     ff-key-tests fix tests in firefox as firefox fires on keypress not down
-#902 failed:     develop Merge pull request #1615 from ether/fix/admin-relative-links
-#901 errored:    develop (PR #1615) redirect /admin to /admin/ so that the relative links work
-#900 failed:     fix/admin-relative-links redirect /admin to /admin/ so that the relative links work
-#899 failed:     feature/test_ctrl_z Added test for ctrl+z
-#898 passed:     fix-import-error stop import from being able to nuke a pad
-#897 failed:     develop Merge pull request #1609 from ether/dont-crash-bad-author
-#896 errored:    develop (PR #1609) Validate all 'author' attribs of incoming changesets to be the same value as the current user's authorId
-#895 failed:     dont-crash-bad-author Validate all 'author' attribs of incoming changesets to be the same value as the current user's authorId
-#894 failed:     develop add authorId to chat and userlist, possibly privacy/security issue?
-#893 failed:     develop Merge pull request #1610 from ether/frontend-tests-refactor
-#892 errored:    develop (PR #1610) typo
-#891 failed:     frontend-tests-refactor typo
-#890 errored:    develop (PR #1610) not z, is b!
-#889 failed:     frontend-tests-refactor not z, is b!
-#888 errored:    develop (PR #1610) add keystroke tests for relevant buttonpresses and change naming schema to something more sane
-#887 failed:     frontend-tests-refactor add keystroke tests for relevant buttonpresses and change naming schema to something more sane
-#886 errored:    develop (PR #1609) dont crash if a load of bad author data is passed to the server, bug prolly exists in old etherpad too..
-#885 failed:     dont-crash-bad-author dont crash if a load of bad author data is passed to the server, bug prolly exists in old etherpad too..
-#884 errored:    develop (PR #1608) add authorId to chat and userlist, possibly privacy/security issue?
-#883 failed:     authorID-in-userlist add authorId to chat and userlist, possibly privacy/security issue?
-#882 errored:    develop (PR #1607) new function for handling custom messages, allows objects to be sent, before we only allowed strings
-#881 failed:     custom-obj-msg new function for handling custom messages, allows objects to be sent, before we only allowed strings
-#880 passed:     develop Localisation updates from http://translatewiki.net.
-#879 errored:    develop (PR #1579) Setting up the right toolbar.
-#878 passed:     develop Merge pull request #1602 from ether/chrome-linux-indent
-#877 errored:    develop (PR #1602) fix indent on chrome in linux
-#876 failed:     chrome-linux-indent fix indent on chrome in linux
-#875 failed:     webrtc-experiment experimenting with webrtc, obviously do not merge this, it's purely a pointless experiment I'm struggling to get working
-#874 failed:     develop Merge pull request #1527 from nelsonsilva/swagger
-#873 failed:     develop Merge pull request #1599 from jhollinger/develop
-#872 errored:    develop (PR #1599) Fix variable name typo in PadMessageHandler.padUsers
-#871 failed:     develop Merge pull request #1598 from cebe/feature/import-to-all-dbms
-#870 errored:    develop (PR #1598) typo
-#869 failed:     master Merge branch 'release/1.2.81'
-#868 failed:     develop bump v and changelog
-#867 failed:     develop Merge pull request #1596 from ether/rtl-ltr-tests
-#866 errored:    develop (PR #1596) ltr test and fix rtl test
-#865 failed:     rtl-ltr-tests ltr test and fix rtl test
-#864 failed:     develop Merge pull request #1595 from ether/safari-rtl-fix
-#863 errored:    develop (PR #1595) fix safari rtl dissapearing pad
-#862 failed:     safari-rtl-fix fix safari rtl dissapearing pad
-#861 failed:     fix/rtl-option Also change 'dir'ection of ace_outer
-#860 failed:     develop Merge pull request #1594 from ether/fix/rtl-option
-#859 errored:    develop (PR #1594) Fix ace rtlIsTrue property setter
-#858 failed:     fix/rtl-option Fix ace rtlIsTrue property setter
-#857 failed:     develop Merge pull request #1593 from marcelklehr/feature/rtl-pad-setting
-#856 failed:     develop Merge branch 'master' into develop
-#855 errored:    develop (PR #1593) Add a setting for RTL text direction (integrating the url paramter)
-#854 errored:    develop (PR #1527) Multiple REST endpoints (one per version)
-#853 errored:    develop (PR #1527) Multiple REST endpoints (one per version)
-#852 errored:    develop (PR #1588) Update settings.json.template
-#851 failed:     develop Merge pull request #1589 from ether/fix-ctrl-z
-#850 failed:     develop Merge pull request #1590 from ether/fix-tests-android
-#849 errored:    develop (PR #1590) fix chat simulation test to work in android
-#848 errored:    develop (PR #1589) allow chrome to do control z type functionality, not sure why this was never in..  broken when we last updated jQ anyway
-#847 failed:     fix-ctrl-z allow chrome to do control z type functionality, not sure why this was never in..  broken when we last updated jQ anyway
-#846 errored:    develop (PR #1588) Update settings.json.template
-#845 failed:     fix-tests-android fix chat simulation test to work in android
-#844 errored:    master Merge branch 'release/1.2.8'
-#843 failed:     develop Merge pull request #1585 from ether/changelog
-#842 errored:    develop (PR #1585) changelog
-#841 passed:     changelog changelog
-#840 failed:     develop Merge pull request #1584 from ether/update-ueber
-#839 errored:    develop (PR #1584) update ueberdb
-#838 failed:     update-ueber update ueberdb
-#837 errored:    update-ueber bump v and fixes for ff and ie
-#836 failed:     develop Merge pull request #1581 from victorhooi/develop
-#835 failed:     develop Localisation updates from http://translatewiki.net.
-#834 errored:    develop (PR #1579) basic toolbar setup
-#833 failed:     develop Merge pull request #1578 from yourcelf/patch-2
-#832 errored:    develop (PR #1578) Fix comma errors in settings.json.template
-#831 failed:     develop Merge pull request #1568 from ether/client-stability
-#830 failed:     develop Merge pull request #1569 from ether/doc/log4js-appenders
-#829 errored:    develop (PR #1569) [settings.json.template] Shrink things together a bit and consistently indent comments
-#828 failed:     doc/log4js-appenders [settings.json.template] Shrink things together a bit and consistently indent comments
-#827 passed:     develop Merge pull request #1575 from ether/fix-tests
-#826 failed:     develop Merge pull request #1576 from ether/remove-lite-ref
-#825 errored:    develop (PR #1575) more fixes
-#824 passed:     fix-tests more fixes
-#823 errored:    develop (PR #1575) fix monospace text
-#822 failed:     fix-tests fix monospace text
-#821 errored:    develop (PR #1576) remove more references to lite
-#820 failed:     remove-lite-ref remove more references to lite
-#819 errored:    develop (PR #1575) fix a test
-#818 failed:     fix-tests fix a test
-#817 failed:     develop Merge pull request #1571 from marcelklehr/fix/settings-object-prototype
-#816 errored:    develop (PR #1571) Fix settings object having constructors of another vm.context
-#815 errored:    develop (PR #1569) Document the endless possibilities of log4js
-#814 failed:     doc/log4js-appenders Document the endless possibilities of log4js
-#813 errored:    develop (PR #1568) stop the client disconnecting of the server sends out a bad revision #, this is very dangerous, the server really shouldn't be sending the same rev #, we could really do with some strong tests case that cover this.  Either way this commit 'resolves' #1510
-#812 errored:    client-stability stop the client disconnecting of the server sends out a bad revision #, this is very dangerous, the server really shouldn't be sending the same rev #, we could really do with some strong tests case that cover this.  Either way this commit 'resolves' #1510
-#811 failed:     develop Merge pull request #1565 from ether/dont-crash-on-mismatch
-#810 errored:    develop (PR #1565) patch documented here https://github.com/ether/etherpad-lite/issues/472 adds some stability but not a perfect solution
-#809 failed:     dont-crash-on-mismatch patch documented here https://github.com/ether/etherpad-lite/issues/472 adds some stability but not a perfect solution
-#808 failed:     develop Merge pull request #1564 from marcelklehr/fix/extract-pad
-#807 failed:     develop Merge pull request #1563 from ether/postTimesliderInit-docs
-#806 errored:    develop (PR #1564) Fix bin/extractPadData on windows
-#805 errored:    develop (PR #1563) timeslider init hook docs
-#804 failed:     postTimesliderInit-docs timeslider init hook docs
-#803 failed:     develop Merge pull request #1523 from ether/store-sessions-in-db
-#802 errored:    develop (PR #1523) remove pointless stuff
-#801 failed:     store-sessions-in-db remove pointless stuff
-#800 failed:     develop Merge pull request #1561 from ether/callback-for-delete-script
-#799 errored:    develop (PR #1561) remove console error
-#798 failed:     callback-for-delete-script remove console error
-#797 failed:     develop Merge pull request #1559 from ether/url-report
-#796 errored:    develop (PR #1559) post correct url, heh
-#795 failed:     url-report post correct url, heh
-#794 errored:    develop (PR #1559) post url with pad error msg
-#793 failed:     url-report post url with pad error msg
-#792 passed:     develop Merge pull request #1557 from ether/delete-pad-cli-script
-#791 errored:    develop (PR #1557) a cli tool for deleting pads
-#790 failed:     delete-pad-cli-script a cli tool for deleting pads
-#789 failed:     develop Merge pull request #1537 from ether/expose-socket-timeslider
-#788 failed:     expose-socket-timeslider merge develop
-#787 errored:    develop (PR #1537) merge develop
-#786 failed:     develop Merge pull request #1538 from ether/timeslider-init-hook
-#785 failed:     develop Localisation updates from http://translatewiki.net.
-#784 failed:     develop Merge pull request #1530 from ether/dont-lose-caret
-#783 failed:     err-on-bad-data more mess, again dont merge, just for me
-#782 errored:    develop (PR #1549) more mess, again dont merge, just for me
-#781 errored:    develop (PR #1549) throw and post err on bad pad data
-#780 failed:     err-on-bad-data throw and post err on bad pad data
-#779 failed:     throw-err-on-bad-pad-data bad way of posting an error to server on a bad pad
-#778 failed:     throw-err-on-bad-pad this is probably the wrong way to do this but for now this is how I do it, it helps resolves the broken test pad issue and makes broken pads send an error to the server
-#777 errored:    develop (PR #1530) resolve merge conflict
-#776 failed:     dont-lose-caret resolve merge conflict
-#775 failed:     develop Merge pull request #1547 from ulikoehler/develop
-#774 errored:    develop (PR #1547) Update link to dev guidelines
-#773 failed:     develop Merge pull request #1545 from ether/fix-clients-conn-count
-#772 errored:    develop (PR #1545) only show clients on this pad resolves issue #1544
-#771 failed:     fix-clients-conn-count only show clients on this pad resolves issue #1544
-#770 errored:    develop (PR #1523) dont reset head count, use the one we should :)
-#770 failed:     store-sessions-in-db dont reset head count, use the one we should :)
-#769 errored:    develop (PR #1538) timeslider init hook
-#768 failed:     timeslider-init-hook timeslider init hook
-#767 errored:    develop (PR #1537) a different approach
-#766 failed:     expose-socket-timeslider a different approach
-#765 failed:     develop Merge pull request #1535 from ether/fix-extractPadData
-#764 errored:    develop (PR #1535) fix path for windows
-#763 failed:     fix-extractPadData fix path for windows
-#762 errored:    develop (PR #1535) no need to parse already parsed json
-#761 failed:     fix-extractPadData no need to parse already parsed json
-#760 failed:     develop Merge pull request #1491 from ether/export-txt-with-indent
-#759 failed:     dont-lose-caret dont jump pages
-#758 failed:     dont-lose-caret dont jump pages
-#757 failed:     develop Merge pull request #1536 from ether/timeslider-scripts-block
-#756 failed:     develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
-#755 failed:     develop Merge pull request #1531 from ether/fix-for-long-strings
-#754 failed:     develop Merge pull request #1533 from ether/indenting-text
-#753 errored:    develop (PR #1537) dont exposrt sendSocketMs
-#752 errored:    expose-socket-timeslider dont exposrt sendSocketMs
-#751 failed:     expose-socket-timeslider expose socket timeslider with a bad hack
-#750 errored:    develop (PR #1536) timestlider script block
-#749 failed:     timeslider-scripts-block timestlider script block
-#748 errored:    develop (PR #1535) remove cruft
-#747 failed:     fix-extractPadData remove cruft
-#746 failed:     fix-extractPadData fix extract and checkPad
-#745 failed:     develop Update README.md
-#744 failed:     develop Update README.md
-#743 errored:    dont-die-on-bad-html (PR #1528) Address @marcelklehr comments and 'dry' things
-#742 errored:    develop (PR #1533) Try to add some sanity to indentation
-#741 failed:     indenting-text Try to add some sanity to indentation
-#740 errored:    develop (PR #1532) allow colon to indent line
-#739 failed:     indent-on-colon allow colon to indent line
-#738 errored:    develop (PR #1523) remove cruft
-#737 failed:     store-sessions-in-db remove cruft
-#736 errored:    develop (PR #1523) this is probably bad, please sanity check
-#735 failed:     store-sessions-in-db this is probably bad, please sanity check
-#734 errored:    develop (PR #1523) eureka
-#734 failed:     store-sessions-in-db eureka
-#733 errored:    develop (PR #1531) better support for other browsers
-#732 failed:     fix-for-long-strings better support for other browsers
-#731 errored:    develop (PR #1531) make the focus jump back to the left if it's required
-#730 failed:     fix-for-long-strings make the focus jump back to the left if it's required
-#729 errored:    develop (PR #1530) actually works
-#728 failed:     develop Merge pull request #1529 from marcelklehr/fix/i18n/two-part-locale-specs
-#727 errored:    develop (PR #1529) Fixes #1498: Two-part locale specs in lang cookie wouldn't be read correctly
-#726 failed:     dont-lose-caret actually works
-#725 failed:     develop Update src/static/css/iframe_editor.css
-#724 errored:    dont-die-on-bad-html (PR #1528) Moved semver logic to API.
-#723 errored:    dont-die-on-bad-html (PR #1528) Moved semver logic to API.
-#722 errored:    dont-die-on-bad-html (PR #1528) Added versioning to API functions
-#721 failed:     develop Localisation updates from http://translatewiki.net.
-#720 failed:     dont-lose-caret dont lose focus on key up, doesn't work yet
-#719 errored:    develop (PR #1515) Added getJSON and setJSON to the API
-#718 errored:    develop (PR #1515) Added JSON import
-#717 errored:    develop (PR #1514) when exporting HTML include html and body
-#716 failed:     dont-die-on-bad-html when exporting HTML include html and body
-#715 failed:     store-sessions-in-db apply overlay and remove overlay instantly
-#714 errored:    develop (PR #1523) apply overlay and remove overlay instantly
-#713 errored:    develop (PR #1523) no need for prefix and tidy double semi
-#712 failed:     store-sessions-in-db no need for prefix and tidy double semi
-#711 failed:     store-sessions-in-db session key in settings file OR generate temp key for instance
-#710 failed:     develop Update README.md
-#709 failed:     develop Bitcoin yo.
-#708 errored:    develop (PR #1491) nice chars n no cruft
-#707 failed:     export-txt-with-indent nice chars n no cruft
-#706 errored:    develop (PR #1491) allow non ascii chars in txt export
-#705 failed:     export-txt-with-indent allow non ascii chars in txt export
-#704 failed:     export-txt-with-indent fix various issues dont stop random *'s appearing
-#703 errored:    develop (PR #1491) fix various issues dont stop random *'s appearing
-#702 failed:     develop Merge pull request #1518 from eldiddio/fix-typo
-#701 errored:    develop (PR #1518) Fixed typo thats made server hang
-#700 failed:     develop Merge pull request #1512 from disy-mk/patch-3
-#699 errored:    develop (PR #1516) Added raw JSON export
-#698 errored:    develop (PR #1515) Added JSON export
-#697 failed:     develop Update Ueber DB to fix MySQL Bug!
-#696 failed:     store-sessions-in-db Begin supporting the database but still have a problem where it generates new key on restart...
-#695 errored:    develop (PR #1514) drunk comments
-#694 failed:     dont-die-on-bad-html drunk comments
-#693 errored:    develop (PR #1514) docs for setHTML
-#692 failed:     dont-die-on-bad-html docs for setHTML
-#691 errored:    develop (PR #1514) include the callback call, for sanity and stop the pad from being nuked so early in the function
-#690 failed:     dont-die-on-bad-html include the callback call, for sanity and stop the pad from being nuked so early in the function
-#689 errored:    develop (PR #1514) dont die on bad html but only warn to api logger but dont tell client that it failed cause html was bad
-#688 failed:     dont-die-on-bad-html dont die on bad html but only warn to api logger but dont tell client that it failed cause html was bad
-#687 errored:    develop (PR #1512) Update doc/api/http_api.md
-#686 errored:    develop (PR #1512) Update src/node/handler/APIHandler.js
-#685 errored:    develop (PR #1511) Update src/node/hooks/express/apicalls.js
-#684 errored:    develop (PR #1496) Update src/node/hooks/express/apicalls.js
-#683 errored:    develop (PR #1496) Update src/node/handler/APIHandler.js
-#682 errored:    develop (PR #1496) Update src/node/hooks/express/apicalls.js
-#681 errored:    develop (PR #1496) Update src/node/hooks/express/apicalls.js
-#680 errored:    develop (PR #1496) Update src/node/hooks/express/apicalls.js
-#679 errored:    develop (PR #1496) Update src/node/handler/APIHandler.js
-#678 errored:    develop (PR #1491) Correct license header
-#677 failed:     export-txt-with-indent Correct license header
-#676 errored:    develop (PR #1491) Move code from Html export to a Helper file
-#675 failed:     export-txt-with-indent Move code from Html export to a Helper file
-#674 failed:     fix-IE9-again see comment on #1505
-#673 failed:     develop Merge pull request #1505 from ether/fix-for-long-strings
-#672 errored:    develop Merge pull request #1507 from ether/ace2_inner-fix
-#671 errored:    develop (PR #1507) fix issue where opera was doing stupid things but still an issue w/ double tabs exists
-#670 failed:     ace2_inner-fix fix issue where opera was doing stupid things but still an issue w/ double tabs exists
-#669 failed:     develop Update bin/loadTesting/README
-#668 failed:     develop Bump to latest ueber to support sqlite
-#667 errored:    develop (PR #1505) a comment
-#666 failed:     fix-for-long-strings a comment
-#665 errored:    develop (PR #1505) very simple fix that might break other things but stops the caret focus being moved to the end of new lines when a long string without spaces is pasted into a pad
-#664 failed:     fix-for-long-strings very simple fix that might break other things but stops the caret focus being moved to the end of new lines when a long string without spaces is pasted into a pad
-#663 failed:     develop Merge pull request #1504 from ether/feature/bringJqueryBack
-#662 failed:     develop Merge pull request #1503 from ether/feature/ffFixes
-#661 failed:     feature/bringJqueryBack Checked JQuery back in. Temporary fix for #1499
-#660 errored:    develop (PR #1504) Checked JQuery back in. Temporary fix for #1499
-#659 errored:    develop (PR #1503) Brought scheduler back completly, fixes #1502
-#658 failed:     feature/ffFixes Brought scheduler back completly, fixes #1502
-#657 errored:    develop (PR #1497) Add API endpoint to return padID for a readOnlyID
-#656 errored:    develop (PR #1496) API: Query latest version
-#655 failed:     develop Merge pull request #1495 from disy-mk/patch-1
-#654 errored:    develop (PR #1495) Explicitly log creation of pad
-#653 failed:     export-txt-with-indent remove duplicate code to the best of my ability right now
-#652 errored:    develop (PR #1491) remove duplicate code to the best of my ability right now
-#651 failed:     develop Merge pull request #1487 from ether/dep-cleanup
-#650 failed:     develop Merge pull request #1494 from ether/feature/browserTests
-#649 errored:    develop (PR #1494) Windows and Mobile tests should be case insensitive
-#648 failed:     dep-cleanup Merge branch 'develop' of github.com:ether/etherpad-lite into dep-cleanup
-#647 errored:    develop (PR #1487) Merge branch 'develop' of github.com:ether/etherpad-lite into dep-cleanup
-#646 failed:     dep-cleanup Revert "no longer dep on npm as it's native"
-#645 errored:    develop (PR #1487) Revert "no longer dep on npm as it's native"
-#644 failed:     export-txt-with-indent remove console warn
-#643 errored:    develop (PR #1491) remove console warn
-#642 failed:     feature/browserTests Windows and Mobile tests should be case insensitive
-#641 failed:     develop Merge pull request #1493 from ether/feature/fixtests
-#640 errored:    develop (PR #1493) Make iframe selectors work with jquery 1.9
-#639 failed:     feature/fixtests Make iframe selectors work with jquery 1.9
-#638 failed:     develop Merge pull request #1492 from ether/feature/cleanup
-#637 errored:    develop (PR #1492) replaced opera regex check with jquery browser check
-#636 failed:     feature/cleanup replaced opera regex check with jquery browser check
-#635 failed:     develop bit of info about deps
-#634 errored:    develop (PR #1491) dont use HTML filter hooks on txt export
-#633 failed:     export-txt-with-indent dont use HTML filter hooks on txt export
-#632 errored:    develop (PR #1491) kinda brutal way of stopping plugins being able to pass *s instead of attributes
-#632 failed:     export-txt-with-indent kinda brutal way of stopping plugins being able to pass *s instead of attributes
-#631 errored:    develop (PR #1491) stop urls being encoded, not sure about other security implications here...
-#630 failed:     export-txt-with-indent stop urls being encoded, not sure about other security implications here...
-#629 failed:     develop Localisation updates from http://translatewiki.net.
-#628 errored:    develop (PR #1491) remove console warns
-#627 failed:     export-txt-with-indent remove console warns
-#626 errored:    admin-css-fix Merge pull request #1486 from ether/please-wait-msg
-#625 failed:     dep-cleanup a bit fairer
-#624 errored:    develop (PR #1487) a bit fairer
-#623 errored:    develop (PR #1490) remove console warns
-#622 errored:    export-txt-with-indent remove console warns
-#621 errored:    develop (PR #1490) begin support for better txt output
-#620 failed:     export-txt-with-indent begin support for better txt output
-#619 failed:     develop Merge pull request #1486 from ether/please-wait-msg
-#618 errored:    develop (PR #1486) change message
-#617 failed:     please-wait-msg change message
-#616 failed:     develop Reformat access log messages to improve readability
-#615 failed:     develop Merge pull request #1489 from marcelklehr/feature/log-client-ips
-#614 errored:    develop (PR #1489) Log the client ip on pad access with logger 'access'
-#613 failed:     develop Merge pull request #1485 from ether/readme-placeholder
-#612 failed:     develop Merge pull request #1477 from ether/fix-opera-double-enter
-#611 errored:    develop (PR #1487) no longer dep on npm as it's native
-#610 failed:     dep-cleanup no longer dep on npm as it's native
-#609 errored:    develop (PR #1486) please wait msg
-#608 failed:     dep-cleanup no need for jshint and update wd
-#607 failed:     please-wait-msg please wait msg
-#606 errored:    develop (PR #1485) remove one less warning during install by having a readme placeholder
-#605 failed:     readme-placeholder remove one less warning during install by having a readme placeholder
-#604 failed:     develop Merge pull request #1484 from disy-mk/develop
-#603 errored:    develop (PR #1484) update jquery 1.7.1 -> 1.9.1
-#602 failed:     develop Merge pull request #1483 from 0ip/ua
-#601 errored:    develop (PR #1483) Add missing export entry for the browser object
-#600 errored:    develop (PR #1483) Add UA functions
-#599 failed:     develop Merge pull request #1480 from 0ip/admin-ui
-#598 errored:    develop (PR #1480) Fix loader styling
-#597 errored:    develop (PR #1477) stop opera doing stupid things
-#596 failed:     fix-opera-double-enter stop opera doing stupid things
-#595 failed:     develop Merge pull request #1476 from ether/enable-timeslider-tests
-#594 errored:    develop (PR #1476) allow all timeslider tests to run
-#593 failed:     enable-timeslider-tests allow all timeslider tests to run
-#592 failed:     develop Merge pull request #1475 from ether/doc-fix-2
-#591 errored:    develop (PR #1475) doh, doc fix
-#590 failed:     doc-fix-2 doh, doc fix
-#589 errored:    develop (PR #1474) it's time to move on
-#588 errored:    develop (PR #1474) it's time to move on
-#588 failed:     drop-lite it's time to move on
-#587 failed:     drop-lite begin dropping Lite
-#586 errored:    develop (PR #1473) fix opera by recreating a scheduler object
-#585 failed:     fix-opera fix opera by recreating a scheduler object
-#584 failed:     develop Merge pull request #1472 from ether/plugin-test-dcs
-#583 errored:    develop (PR #1472) plugin test docs
-#582 failed:     plugin-test-dcs plugin test docs
-#581 failed:     develop Merge pull request #1465 from mluto/kill-ep-stuff
-#580 errored:    develop (PR #1465) Removed sidebar-code since the sidebar got removed in EPL, there is only the stickychat which is not affected by this.
-#579 errored:    master (PR #1470) Update LICENSE
-#578 failed:     develop Merge pull request #1468 from mluto/fix-timeslider-test
-#577 errored:    develop (PR #1468) Fixed "jumps to a revision given in the url" test
-#576 failed:     develop Merge pull request #1467 from ether/fix-timeslider-tests
-#575 errored:    develop (PR #1467) works in all 3 major browsers
-#574 failed:     fix-timeslider-tests works in all 3 major browsers
-#573 errored:    develop (PR #1467) fix timeslider tests
-#572 failed:     fix-timeslider-tests fix timeslider tests
-#571 failed:     develop Merge pull request #1466 from mluto/timeslider-remove-debugging
-#570 errored:    develop (PR #1466) Removed debug code, moved hash-setting after the param-checking
-#569 errored:    develop (PR #1465) Removed isProPad, since all pads are public except for group-pads
-#568 failed:     develop Merge pull request #1464 from mluto/old-chat-code
-#567 errored:    develop (PR #1464) Removed old chat-code
-#566 failed:     develop Merge pull request #1461 from ether/slider-nan
-#565 errored:    develop (PR #1461) stop slider showing NaN on tiny pads
-#564 failed:     develop Merge pull request #1460 from ether/timeslider-labels
-#563 failed:     develop Merge pull request #1446 from ether/allow-plugins-to-specify-specs
-#562 failed:     develop Merge pull request #1457 from ether/fix-IE8-error
-#561 errored:    develop (PR #1460) timeslider label tests
-#560 errored:    master Merge pull request #1459 from ether/timeslider-labels
-#559 errored:    master (PR #1458) stop slider showing NaN on tiny pads
-#558 failed:     slider-nan stop slider showing NaN on tiny pads
-#557 failed:     timeslider-labels timeslider label tests
-#556 errored:    develop (PR #1457) better fix for IE8 page up down
-#555 failed:     fix-IE8-error better fix for IE8 page up down
-#554 errored:    develop (PR #1457) fix IE8 styling y u no do this 0ip?
-#553 failed:     fix-IE8-error fix IE8 styling y u no do this 0ip?
-#552 errored:    develop (PR #1457) fixes IE8 error by only redifining if firefox
-#551 failed:     fix-IE8-error fixes IE8 error by only redifining if firefox
-#550 failed:     develop Merge pull request #1454 from dmitryuv/feature/socketio-rooms
-#549 errored:    develop (PR #1454) socket.io rooms instead of own session management
-#548 errored:    develop (PR #1448) allow for 404 files and be graceful if one doesnt exist
-#547 failed:     custom-404 allow for 404 files and be graceful if one doesnt exist
-#546 failed:     develop Merge pull request #1447 from jhollinger/develop
-#545 errored:    develop (PR #1447) Bugfixes to getChatHistory API method
-#544 errored:    develop (PR #1446) make plugin specs finally work
-#543 failed:     allow-plugins-to-specify-specs make plugin specs finally work
-#542 failed:     allow-plugins-to-specify-specs Make async and cleaner
-#541 failed:     develop Support Page Up and Page Down in ace
-#540 passed:     allow-plugins-to-specify-specs correct path
-#539 failed:     allow-plugins-to-specify-specs allow plugins to specify frontend test specs
-#538 errored:    develop (PR #1445) Update bin/installDeps.sh
-#537 failed:     develop Merge pull request #1444 from disy-mk/patch-1
-#536 errored:    develop (PR #1444) Update src/static/js/html10n.js
-#535 errored:    master (PR #1443) Update src/static/js/html10n.js
-#534 failed:     develop Merge pull request #1438 from mluto/plugin-search-case-senstive
-#533 errored:    develop (PR #1438) Made plugin search not casesensitive
-#532 errored:    develop Merge pull request #1434 from spcsser/admin-index-plugable
-#531 passed:     develop Merge pull request #1433 from ether/release/1.2.7
-#530 failed:     master Merge pull request #1433 from ether/release/1.2.7
-#529 errored:    master (PR #1433) changelog and package file
-#528 errored:    master (PR #1433) changelog and package file
-#528 passed:     master Merge branch 'release/1.2.7'
-#527 failed:     release/1.2.7 changelog and package file
-#526 errored:    master (PR #1433) Merge pull request #1432 from mluto/rename-save-revision
-#525 failed:     develop Merge pull request #1432 from mluto/rename-save-revision
-#524 errored:    develop (PR #1432) Renamed "Saved Revisions" to "Save Revision" since it saves a revision..
-#523 failed:     develop Merge pull request #1431 from mluto/fix-userinfo-crash
-#522 passed:     develop Merge pull request #1430 from mluto/notification-on-startup
-#521 errored:    develop (PR #1431) Check for missing payload on CLIENT_MESSAGE
-#520 errored:    develop (PR #1431) Check for missing userInfo
-#519 errored:    develop (PR #1415) Added test for ignoring global settings
-#518 errored:    develop (PR #1430) Don't show notifications when loading the chat-messages.
-#517 errored:    develop (PR #1415) Added a checkbox to ignore global settings
-#516 errored:    develop (PR #1415) Merge branch 'develop' of http://github.com/ether/etherpad-lite into global-settings
-#515 passed:     develop Merge pull request #1428 from ether/padUsers-authorID
-#514 errored:    develop (PR #1428) docs for api change
-#513 failed:     develop Merge pull request #1426 from ether/notifications
-#512 failed:     padUsers-authorID docs for api change
-#511 errored:    develop (PR #1426) remove message about requiring comments
-#510 failed:     notifications remove message about requiring comments
-#509 errored:    develop (PR #1426) make tinycon update on all chat messages not just ones that mention your name
-#508 passed:     notifications make tinycon update on all chat messages not just ones that mention your name
-#507 errored:    develop (PR #1426) spacing
-#506 failed:     notifications spacing
-#505 errored:    develop (PR #1426) gritter now implemented
-#504 passed:     notifications gritter now implemented
-#503 passed:     develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
-#502 failed:     develop Merge pull request #1418 from mluto/timeslider-jump-revisions
-#501 errored:    develop (PR #1418) Only set url if the revsion will actually be loaded
-#500 errored:    develop (PR #1418) Added a test to check the export-url
-#499 errored:    develop (PR #1418) Added tests for revision-jumping
-#498 passed:     develop Merge pull request #1413 from mluto/clean-getParams
-#497 errored:    develop (PR #1413) Renamed paramSettings to getParameters, to cause less confusion
-#496 errored:    develop (PR #1417) change to createDiffHTML
-#495 passed:     diff-view change to createDiffHTML
-#494 failed:     diff-view change to createDiffHTML
-#493 errored:    develop (PR #1417) change to createDiffHTML
-#492 errored:    develop (PR #1418) Jump to revision given in URL, add current revision to URL
-#491 errored:    develop (PR #1415) Added tests for author-colors (local+global), line-numbers (local+global), font (global)
-#490 errored:    develop (PR #1415) Made warning bold and gray, sync checkbox-states, fixed initial checkbox-states, fixed engrish
-#489 passed:     develop Localisation updates from http://translatewiki.net.
-#488 errored:    develop (PR #1417) resolve merge conflict
-#488 passed:     diff-view resolve merge conflict
-#487 failed:     diff-view docs
-#486 failed:     diff-view Fixed HTML export
-#485 passed:     develop Merge pull request #1412 from ether/fix-doc-build
-#484 errored:    develop (PR #1412) take two at fixin Mac issue
-#483 failed:     fix-doc-build take two at fixin Mac issue
-#482 errored:    develop (PR #1412) make makefile work for darwin(mac)
-#481 failed:     fix-doc-build make makefile work for darwin(mac)
-#480 failed:     diff-view Added colors to pad diff
-#479 errored:    develop (PR #1415) Added global settings for authorship-colors, line-numbers and font-type
-#478 errored:    develop (PR #1413) Rewrote getParams() to be more dynamic and shorter
-#477 errored:    develop (PR #1412) fix make file issue
-#476 passed:     fix-doc-build fix make file issue
-#475 passed:     develop Merge pull request #1411 from ether/feature/plugin-update-checker
-#474 errored:    develop (PR #1411) /admin/plugins: Display an update button for all plugins that are outdated
-#473 passed:     feature/plugin-update-checker /admin/plugins: Display an update button for all plugins that are outdated
-#472 passed:     develop Merge pull request #1410 from ether/admin-css-fix
-#471 errored:    develop (PR #1410) typo fix
-#470 failed:     admin-css-fix typo fix
-#469 failed:     admin-css-fix not a perfect css fix but stops the overflow when screen is less than 1000px
-#468 failed:     develop Merge pull request #1389 from ether/disconnect-eejs-block
-#467 errored:    develop Merge pull request #1390 from ether/html-head-block-eejs
-#466 passed:     develop Merge pull request #1407 from mluto/hardcoded-i18n
-#465 failed:     develop Merge pull request #1408 from mluto/chat-api
-#464 errored:    develop (PR #1408) Added getChatHistory and getChatHead (api+code+doc)
-#463 errored:    develop (PR #1407) Added a comment to clearify *why* this works
-#462 errored:    develop (PR #1407) Use 'html10n' instead of '_', i10nzed "unnamed author(s)"
-#461 passed:     develop Merge pull request #1406 from mluto/fix-en-json
-#460 errored:    develop (PR #1406) re-formated onelined en.json
-#459 passed:     develop Merge branch 'feature/real-time-plugin-search' into develop
-#458 failed:     feature/real-time-plugin-search [/admin/plugins] remove progress history
-#457 passed:     develop Update settings.json.template
-#456 failed:     develop Merge pull request #1404 from ether/feature/real-time-plugin-search
-#455 errored:    develop (PR #1404) pluginfw/installer.js: Don't freak out users with cryptic errors, just use the error message
-#454 passed:     feature/real-time-plugin-search pluginfw/installer.js: Don't freak out users with cryptic errors, just use the error message
-#453 passed:     develop Merge pull request #1403 from ether/index-wrapper-block
-#452 passed:     index-wrapper-block index wrapper block
-#451 errored:    develop (PR #1403) index wrapper block
-#450 errored:    develop (PR #1402) Unify admin page titles
-#449 passed:     develop Merge pull request #1401 from ether/slider-position
-#448 errored:    develop (PR #1401) silly little bug now resolved
-#447 passed:     slider-position silly little bug now resolved
-#446 passed:     develop Merge pull request #1379 from ether/more-plugin-details
-#445 errored:    develop (PR #1379) [admin] Make links prettier
-#444 failed:     more-plugin-details [admin] Make links prettier
-#443 failed:     develop Merge pull request #1398 from marcelklehr/fix/html10n-ie8-array.indexOf
-#442 errored:    develop (PR #1398) Fix Array.prototype.indexOf for IE8! <3
-#441 failed:     develop Merge pull request #1396 from goldquest/dev_importfix
-#440 errored:    develop (PR #1396) use the existing padimpexp object from the parent window
-#439 errored:    develop (PR #1390) add a html block eejs so you can add a cache manifest
-#438 failed:     html-head-block-eejs add a html block eejs so you can add a cache manifest
-#437 errored:    develop (PR #1389) add eejs block for disconnect
-#436 failed:     disconnect-eejs-block add eejs block for disconnect
-#435 failed:     diff-view and semi working
-#434 failed:     diff-view semi working
-#433 failed:     diff-view mheh
-#432 failed:     diff-view make it crash
-#431 failed:     diff-view bring in some padDiff stuff that doesnt suck
-#430 errored:    develop (PR #1379) fix issue where url was wrong for install
-#429 failed:     more-plugin-details fix issue where url was wrong for install
-#428 failed:     develop Merge pull request #1388 from ether/proper-fix-for-import-url
-#427 errored:    master (PR #1387) fix import without params
-#426 failed:     develop Merge pull request #1386 from ether/fix-import-on-params
-#425 errored:    develop (PR #1386) fix issue #1369 where params would break import
-#424 errored:    develop Merge pull request #1385 from goldquest/dev_import-reverseProxy
-#423 failed:     fix-import-on-params fix issue #1369 where params would break import
-#422 errored:    develop (PR #1385) script tag didn't link to right location
-#421 failed:     develop Localisation updates from http://translatewiki.net.
-#420 failed:     develop Merge pull request #1383 from disy-mk/patch-2
-#419 errored:    develop (PR #1383) Update bin/convert.js
-#418 failed:     more-plugin-details fix issue #1110
-#417 errored:    develop (PR #1379) fix issue #1110
-#416 errored:    develop (PR #1379) better urls
-#415 failed:     more-plugin-details better urls
-#414 errored:    develop (PR #1379) open in external window
-#413 failed:     more-plugin-details open in external window
-#412 errored:    develop (PR #1379) resolve #1349
-#411 failed:     more-plugin-details resolve #1349
-#410 errored:    master (PR #1378) Merge branch 'develop' of github.com:ether/etherpad-lite into release/releases-1.2.6
-#409 failed:     release/releases-1.2.6 Merge branch 'develop' of github.com:ether/etherpad-lite into release/releases-1.2.6
-#408 errored:    master (PR #1378) mheh
-#407 failed:     release/releases-1.2.6 mheh
-#406 errored:    develop Merge branch 'release/releases-1.2.6' into develop
-#405 failed:     master Merge branch 'release/releases-1.2.6'
-#405 errored:    master (PR #1378) mheh
-#404 errored:    release/releases-1.2.6 mheh
-#403 errored:    master (PR #1378) bump v and create CHANGELOG
-#402 failed:     release/releases-1.2.6 bump v and create CHANGELOG
-#401 failed:     develop Merge branch 'develop' of github.com:ether/etherpad-lite into develop
-#400 failed:     develop Merge pull request #1376 from t-8ch/patch-2
-#399 errored:    develop (PR #1376) listAllPads needs findKeys from ueberDB 0.1.9
-#398 failed:     develop Merge pull request #1377 from mluto/add-users-block
-#397 errored:    develop (PR #1377) Added a template block for #users
-#396 errored:    develop (PR #1376) listAllPads needs findKeys from ueberDB 0.1.9
-#395 failed:     backend-tests basic ideas
-#394 failed:     develop Merge pull request #1375 from jhollinger/develop
-#393 errored:    develop (PR #1375) listAllPads should return an object, not an arraay. issue #1374
-#392 failed:     releases-1.2.5 Merge branch 'release/releases-1.2.5'
-#391 failed:     master Merge pull request #1373 from ether/release/releases-1.2.5
-#390 errored:    master (PR #1373) prepare for release
-#389 failed:     develop prepare for release
-#388 failed:     develop Merge pull request #1366 from ether/master
-#387 failed:     develop Merge pull request #1371 from ether/fix/ie8-onload-html10n
-#386 failed:     develop Merge pull request #1372 from marcelklehr/fix/checkPad-async.series
-#385 errored:    develop (PR #1372) Fix #1367: async.series was lacking callback in checkPad.js
-#384 errored:    develop (PR #1371) [html10n] Fix onload event listener (must be attached to window!)
-#383 failed:     fix/ie8-onload-html10n [html10n] Fix onload event listener (must be attached to window!)
-#382 failed:     develop Merge pull request #1370 from mluto/fix-load-message-IE8
-#381 errored:    develop (PR #1370) IE8 does not have a string.trim()-function, so use regex..
-#380 failed:     develop (PR #1366) Merge branch 'master' of github.com:ether/etherpad-lite
-#379 failed:     develop Merge pull request #1365 from mluto/fix-load-message-tests
-#378 failed:     develop (PR #1365) Increased timeouts to make IE9 happy, made button-test more strict
-#377 failed:     develop Merge pull request #1364 from t-8ch/fix-readme-links
-#376 failed:     develop (PR #1364) fix module links in README.md
-#375 failed:     develop Merge pull request #1361 from mluto/fix-checkPad
-#374 failed:     develop (PR #1361) Load npm before everything else in checkPad.js
-#373 failed:     develop Merge pull request #1358 from mluto/clientvars-hook
-#372 failed:     develop Merge pull request #1355 from mluto/chat-no-empty-line
-#371 failed:     develop Merge pull request #1359 from mluto/package-json-ueberDB
-#370 failed:     develop (PR #1359) Require ueberDB 0.1.9, not 0.1.8; this is needed for findKeys
-#369 failed:     develop (PR #1358) Added hook for clientVars and hook-doc
-#368 failed:     develop (PR #1322) merged latest develop
-#367 failed:     develop (PR #1355) Added test for empty-message-block
-#366 failed:     develop (PR #1355) prevent empty chat-messages from being sent
-#365 failed:     develop Merge pull request #1328 from mluto/run-sh-root-argument
-#364 failed:     develop Merge pull request #1342 from spcsser/feature/padlisting
-#363 failed:     develop Merge pull request #1354 from ether/better-timeslider-blocks
-#362 failed:     develop (PR #1354) more sensible timeslider blocks..
-#361 failed:     better-timeslider-blocks more sensible timeslider blocks..
-#360 failed:     develop Merge pull request #1334 from mluto/load-more-chat-messages
-#359 failed:     develop Merge pull request #1353 from ether/feature/log4js-config-setting
-#358 failed:     develop Merge pull request #1352 from ether/timeslider-eejs
-#357 failed:     develop (PR #1352) better shindig
-#356 failed:     timeslider-eejs better shindig
-#355 failed:     develop Localisation updates from http://translatewiki.net.
-#354 failed:     develop (PR #1353) Add log4js config setting
-#353 failed:     feature/log4js-config-setting Add log4js config setting
-#352 failed:     develop (PR #1353) Add log4js config setting
-#351 failed:     feature/log4js-config-setting Add log4js config setting
-#350 failed:     feature/log4js-config-setting Add log4js config setting
-#349 failed:     feature/log4js-config-setting Add log4js config setting
-#348 failed:     develop (PR #1334) use always() instead of done() and call expect() in there, fixed whitespace
-#347 failed:     develop (PR #1334) Fixed test-names, use waitFor instead of setTimeout
-#346 failed:     develop (PR #1334) Added tests
-#345 failed:     develop (PR #1352) add a body eejs block to timeslider
-#344 failed:     timeslider-eejs add a body eejs block to timeslider
-#343 failed:     develop Fix broken relative paths
-#342 failed:     develop (PR #1342) Modified pad list manager to return an ordered list.
-#341 failed:     develop (PR #1342) Added listAllPads api docu
-#340 failed:     develop (PR #1342) Edited getPads function to be able to work without callback
-#339 failed:     develop Merge pull request #1348 from ether/drag-timeslider
-#338 failed:     develop (PR #1348) fix #1341 by adding css to stop highlighting
-#337 failed:     master (PR #1347) fix #1341 by adding css to stop highlighting
-#336 failed:     drag-timeslider fix #1341 by adding css to stop highlighting
-#335 failed:     develop Merge pull request #1346 from ether/fix-timeslider-date-not-changing
-#334 failed:     develop (PR #1346) fix egils fix of time delta resolves #1345
-#333 failed:     fix-timeslider-date-not-changing fix egils fix of time delta resolves #1345
-#332 failed:     develop (PR #1342) Added comments
-#331 failed:     master Merge branch 'master' of github.com:ether/etherpad-lite
-#330 failed:     master Merge pull request #1337 from ether/release/releases-1.2.4
-#329 failed:     master (PR #1337) changelog and package file
-#328 failed:     develop changelog and package file
-#327 failed:     develop Merge pull request #1317 from ether/enter-on-plugins
-#326 failed:     develop Merge pull request #1332 from ether/dont-run-timeslider-test
-#325 failed:     develop Merge pull request #1336 from poscar/ie_console_fix
-#324 failed:     develop (PR #1336) Moved console existence check before the variable is used.  This was causing a crash in Internet Explorer when the console was not enabled (console is off by default).
-#323 failed:     master (PR #1335) Moved console existence check before the variable is used.  This was causing a crash in Internet Explorer when the console was not enabled (console is off by default).
-#322 failed:     develop (PR #1334) converted load-more-link to button, added loading-gif, fixed typo
-#321 failed:     develop (PR #1334) only load 20 messages when pressing the load-link, fixed whitespace
-#320 failed:     develop Merge pull request #1333 from mluto/fix-readme-link
-#319 failed:     develop (PR #1333) fixed 'client implementations'-link in README.md
-#318 failed:     develop (PR #1332) dont run timeslider test for now
-#317 failed:     dont-run-timeslider-test dont run timeslider test for now
-#316 failed:     develop (PR #1317) use .val() instead of [0]
-#315 failed:     enter-on-plugins use .val() instead of [0]
-#314 failed:     develop Localisation updates from http://translatewiki.net.
-#313 failed:     develop Merge pull request #1331 from mluto/fix-locales
-#312 failed:     develop Merge pull request #1330 from mluto/fix-extractPadData
-#311 failed:     develop (PR #1330) Added error-handling for npm
-#310 failed:     develop (PR #1331) fixed broken placeholders in locales
-#309 failed:     develop (PR #1330) Fixed extractPadData.js, #1320
-#308 failed:     master (PR #1329) Fixed extractPadData.js, #1320
-#307 failed:     develop Merge pull request #1327 from mluto/order-styles-script
-#306 failed:     develop (PR #1328) Added --root argument to run.sh to bypass the root-check, fix for #1324
-#305 failed:     develop (PR #1327) Load CSS before JS, in timeslider
-#304 failed:     develop (PR #1322) Added day-seperator in chat
-#303 failed:     develop (PR #1322) i18nized date-format on chat messages
-#302 failed:     develop (PR #1322) Show current date when hovering the time of a chat-message
-#301 failed:     develop Merge pull request #1318 from stephan48/develop
-#300 failed:     develop (PR #1318) corrected a documentation glitch for checkToken - clarified which token is validated
-#299 failed:     develop (PR #1317) stop enter reloading new page on search result request
-#298 failed:     master (PR #1316) stop enter reloading new page on search result request
-#297 failed:     enter-on-plugins stop enter reloading new page on search result request
-#296 failed:     develop (PR #1314) +file ownership installation info
-#295 failed:     develop Merge branch 'master' into develop
-#294 failed:     fix/bold-button-test Fix bold button test
-#293 failed:     master Merge pull request #1311 from ether/release/releases-1.2.3
-#292 failed:     release/releases-1.2.3 release v1.2.3
-#291 failed:     master (PR #1311) release v1.2.3
-#290 failed:     master (PR #1311) release v1.2.3
-#289 failed:     develop (PR #1310) release v1.2.3
-#288 failed:     develop Fix #1309 : Fix support for node v0.6
-#287 failed:     release/releases-1.2.3 release v1.2.3
-#286 failed:     develop Merge pull request #1308 from marcelklehr/fix/console-log-html10n-chrome
-#285 failed:     develop Localisation updates from http://translatewiki.net.
-#284 failed:     develop (PR #1308) Fix #1307: Chrome needs console.log to be called on console obj
-#283 failed:     develop (PR #1308) Fix #1307: Chrome needs console.log to be called on console obj
-#282 failed:     develop (PR #1308) Fix #1307: Chrome needs console.log to be called on console obj
-#281 failed:     develop Fix docs: Correct API version for listAllGroups endpoint
-#280 failed:     develop (PR #1299) Make loading settings a bit more async to cope with loading settings.json from the command line
-#279 failed:     develop Merge pull request #1305 from ether/master
-#278 failed:     develop (PR #1305) Merge pull request #1304 from ether/release/releases-1.2.2
-#277 failed:     master Merge pull request #1304 from ether/release/releases-1.2.2
-#276 failed:     release/releases-1.2.2 Bump API version for checkToken endpoint
-#275 failed:     master (PR #1304) Bump API version for checkToken endpoint
-#274 failed:     master (PR #1304) Bump API version for checkToken endpoint
-#273 failed:     release/releases-1.2.2 Bump API version for checkToken endpoint
-#272 failed:     master (PR #1304) bump version # in package and update CHANGELOG
-#271 failed:     release/releases-1.2.2 bump version # in package and update CHANGELOG
-#270 failed:     develop Merge pull request #1297 from marcelklehr/migrate-to-html10n
-#269 failed:     develop Resolve #1301 startup pointing at old bitly URL
-#268 failed:     develop (PR #1297) Expand plugin system docs with l10n info
-#267 failed:     develop (PR #1297) Remove locale file converter (ini2json)
-#266 failed:     develop (PR #1297) [l10n] Convert all ini files to json
-#265 failed:     develop (PR #1297) Update docs
-#264 failed:     develop (PR #1297) Add rtl frontend test
-#263 failed:     develop (PR #1297) Add direction info
-#262 failed:     develop (PR #1297) Fix html attr translation
-#261 failed:     develop (PR #1297) Fix html attr translation
-#260 failed:     develop (PR #1297) Fix html attr translation
-#259 failed:     develop Merge pull request #1292 from ilyash/ffed5fdb6ab1b792fbafb1c6d78f97b19f9e8324
-#258 failed:     develop Localisation updates from http://translatewiki.net.
-#257 failed:     develop (PR #1299) Support "-" (stdin) as settings filename
-#256 failed:     develop (PR #1297) Add support for three-letter lang codes
-#255 failed:     develop (PR #1297) Fix html10n usage in code that wouldn't allow lang switching
-#254 failed:     develop (PR #1297) Don't break if a plugin hasn't got a locales dir
-#253 failed:     develop (PR #1297) Simplify server-side i18n code and make it a bit more understandable
-#252 failed:     develop (PR #1297) Simplify server-side i18n code and make it a bit more understandable
-#251 failed:     develop (PR #1297) Fix translations in timeslider template
-#250 failed:     develop (PR #1297) There's no utf8, but there's utf-8
-#249 failed:     develop (PR #1297) Allow html10n to handle import paths relative to the importing file
-#248 failed:     develop (PR #1297) fixed bug in parseIni
-#247 failed:     develop (PR #1297) use relativa path in import definitions of locales.json
-#246 failed:     develop (PR #1297) Don't tell IE it's utf8. Just send it. Otherwise it'll snuff it!
-#245 failed:     develop (PR #1297) Don't tell IE it's utf8. Just send it. Otherwise it'll snuff it!
-#244 failed:     develop (PR #1297) Fix lang picker, again
-#243 failed:     develop (PR #1297) Fix html10n cache and lang fallback
-#242 failed:     develop (PR #1297) Hacky solution for exploreDir error
-#241 failed:     develop (PR #1297) Fix html10n and the locale resource <link>s
-#240 failed:     master (PR #1296) Fix html10n and the locale resource <link>s
-#239 failed:     develop (PR #1294) Use "nodejs" binary when "node" is not available (Debian) -- fix
-#238 failed:     develop (PR #1294) Use "nodejs" binary when "node" is not available (Debian) -- fix
-#237 failed:     master (PR #1293) Use "nodejs" binary when "node" is not available (Debian)
-#236 failed:     develop (PR #1292) Updated project home page in package.json
-#235 failed:     develop Localisation updates from http://translatewiki.net.
-#234 failed:     develop Localisation updates from http://translatewiki.net.
-#233 failed:     migrate-to-html10n Replace webL10n with html10n.js
-#232 failed:     master (PR #1283) Typo fixing
-#231 failed:     develop Merge pull request #1282 from marcelklehr/docs/fix/translate-on-twn-pls
-#230 failed:     develop (PR #1282) [docs] Update localization.md and tell users to translate on twn
-#229 failed:     develop (PR #1279) rebuild merged locales on server restart
-#228 failed:     master (PR #1281) Update Vietnamese translation
-#227 failed:     develop (PR #1279) fixed characters coding again
-#226 failed:     master (PR #1280) Update src/static/js/pad_editor.js
-#225 failed:     develop Merge pull request #1244 from Wikinaut/add-socketio-transport-protocol-parameter
-#224 failed:     develop (PR #1244) moved to settings.json.template bottom; chg gitignore
-#223 failed:     develop (PR #1244) removed console.log of transport protocols
-#222 failed:     develop (PR #1244) Merge remote-tracking branch 'upstream/develop' into add-socketio-transport-protocol-parameter
-#221 failed:     develop Fix issue #725 which was caused by a race condition
-#220 failed:     develop (PR #1279) character coding fix
-#219 failed:     develop Merge pull request #1272 from stephan48/patch-1
-#218 failed:     develop Merge pull request #1274 from joker-x/jstranslate
-#217 failed:     develop (PR #1274) change key of message sucessfull on import
-#216 failed:     develop (PR #1274) Remove async load of l10n.js because Chrome fail to translate
-#215 failed:     develop (PR #1274) use properties notation
-#214 failed:     develop Localisation updates from http://translatewiki.net.
-#213 failed:     develop Merge pull request #1227 from ether/tests/add-timeslider-revisions-test
-#212 failed:     develop (PR #1227) Refine timeslider test
-#211 failed:     tests/add-timeslider-revisions-test Refine timeslider test
-#210 failed:     develop (PR #1227) Refine timeslider test
-#209 failed:     tests/add-timeslider-revisions-test Refine timeslider test
-#208 failed:     master (PR #1275) Grammar nazi catch
-#207 failed:     develop Merge branch 'master' into develop
-#206 failed:     develop (PR #1272) Update doc/api/http_api.md
-#205 failed:     develop Merge pull request #1249 from leblanc-simon/develop
-#204 failed:     develop (PR #1272) Update doc/api/http_api.md
-#203 failed:     develop (PR #1274) Added new strings to translate for js files
-#202 failed:     master (PR #1270) Update doc/api/http_api.md
-#201 passed:     develop Merge pull request #1268 from ether/fix/eejs-block-caching
-#200 failed:     fix/eejs-block-caching Fix #1247, #1201: Don't cache eejs blocks!
-#199 failed:     fix/eejs-block-caching Fix #1247, #1201: Don't cache eejs blocks!
-#198 passed:     develop Merge pull request #1267 from goldquest/fix-import-hanging
-#197 failed:     develop (PR #1267) use the parent window, not the top
-#196 passed:     develop Merge pull request #1265 from joker-x/develop
-#195 failed:     develop (PR #1265) reverse old change
-#194 passed:     develop Merge pull request #1264 from goldquest/develop
-#193 failed:     develop (PR #1264) fix for multiple cookies support (Also fix for, when session is not valid anymore)
-#192 failed:     master Update README.md
-#191 failed:     develop Merge pull request #1259 from GuillaumeAmat/fixes/import-file-input-size
-#190 failed:     develop (PR #1259) Reduces the width of the file input to prevent overflow in the import popup
-#189 failed:     develop (PR #1258) Reduces the width of the file input to prevent overflow
-#188 passed:     develop Fix #1226: Chrome would load async js
-#187 passed:     develop Merge pull request #1255 from 0ip/feature/show-pl-version
-#186 failed:     develop (PR #1257) Fix #1219: Make api work if requireAuth is enabled
-#185 failed:     develop Adjust select width
-#184 failed:     master (PR #1256) Reduces the width of the file input to prevent overflow
-#183 failed:     develop (PR #1255) Add comment to explain how the property containing the version is being read
-#182 failed:     develop (PR #1255) Display plugin versions
-#181 failed:     develop Merge pull request #1223 from joker-x/languages4translatewiki
-#180 failed:     develop (PR #1223) added direction language in English
-#179 failed:     develop (PR #1223) Update language4translatewiki 0.1.3
-#178 failed:     master Update CONTRIBUTING.md
-#177 failed:     master Update CONTRIBUTING.md
-#176 failed:     master Update CONTRIBUTING.md
-#175 failed:     develop (PR #1253) Made routing behave and disallow funky PadIDs.
-#174 failed:     master (PR #1252) Only uses files that actually end with ".ini" as locale settings.
-#173 failed:     master (PR #1250) Made routing behave and disallow funky PadIDs.
-#172 passed:     develop Merge pull request #1221 from ether/focus-on-password
-#171 failed:     develop (PR #1221) best I can do with this temporary fix for IE
-#170 failed:     focus-on-password best I can do with this temporary fix for IE
-#169 failed:     develop (PR #1221) stop password being clearly visible
-#168 failed:     focus-on-password stop password being clearly visible
-#167 failed:     develop (PR #1221) fix IE auth but only a temp fix
-#166 passed:     focus-on-password fix IE auth but only a temp fix
-#165 failed:     develop Merge pull request #1248 from ether/improved-search
-#164 failed:     develop (PR #1221) make it show password dialog on wrong password
-#163 failed:     focus-on-password make it show password dialog on wrong password
-#162 failed:     develop (PR #1221) last JS fix
-#161 failed:     focus-on-password last JS fix
-#160 failed:     develop (PR #1221) whoopsi
-#159 passed:     focus-on-password whoopsi
-#158 failed:     develop (PR #1221) Merge branch 'develop' of github.com:ether/etherpad-lite into focus-on-password
-#157 failed:     focus-on-password Merge branch 'develop' of github.com:ether/etherpad-lite into focus-on-password
-#156 failed:     develop (PR #1221) Update strings, add UK strings, fix JS
-#155 failed:     focus-on-password Update strings, add UK strings, fix JS
-#154 failed:     develop (PR #1243) revert 53d6d08 socket.io also for IE8
-#153 failed:     develop (PR #1249) Add same color in pad and chat for author
-#152 failed:     develop (PR #1248) improve search to use description too, bit more cpu heavy for thats okay
-#151 failed:     improved-search improve search to use description too, bit more cpu heavy for thats okay
-#150 passed:     develop Merge pull request #1205 from joker-x/master
-#149 failed:     develop (PR #1205) fixed git merge confict
-#148 passed:     develop remove ssl not enabled message
-#147 failed:     develop (PR #1246) use require for jquery, pretty ghetto but works better(ish)
-#146 failed:     fix-275-ie-import use require for jquery, pretty ghetto but works better(ish)
-#145 failed:     develop (PR #1244) console.debug socketTransportProtocols
-#144 failed:     develop (PR #1244) removed empty line in settings.json.template
-#143 failed:     develop (PR #1244) removed wrong comment in settings.json.template
-#142 failed:     develop (PR #1244) removed wrong comment in Settings.js
-#141 failed:     develop (PR #1244) add socketTransportProtocols parameter
-#140 failed:     develop (PR #1221) Merge branch 'focus-on-password' of github.com:ether/etherpad-lite into focus-on-password
-#139 failed:     focus-on-password Merge branch 'focus-on-password' of github.com:ether/etherpad-lite into focus-on-password
-#138 failed:     develop (PR #1243) revert 53d6d08 socket.io also for IE8
-#137 passed:     develop Localisation updates from http://translatewiki.net.
-#136 failed:     develop (PR #) replace async loading of l10n because chrome fail to load
-#135 failed:     develop Localisation updates from http://translatewiki.net.
-#134 failed:     develop (PR #1239) fix 1236 favicon url
-#133 failed:     develop (PR #1238) path correction
-#132 failed:     develop a test for adding any letter from alphabet can be extended to include foreign cahrs infact please DO THIS
-#131 failed:     develop fix the control S to save a revision
-#130 failed:     develop fix letter s...
-#129 failed:     develop fix path to favicon resolves #1236
-#128 failed:     develop (PR #1235) warning when SSL is disabled
-#127 failed:     develop Merge pull request #1229 from ether/control-s
-#126 failed:     develop Merge pull request #1233 from marcelklehr/fix/s.io-perf-with-modern-browsers
-#125 failed:     develop (PR #1233) Let socket.io decide which transport is best for the browser
-#124 failed:     develop (PR #1223) get languages availables through translatewiki API
-#123 failed:     develop (PR #1229) remove control S comment
-#122 passed:     control-s remove control S comment
-#121 failed:     develop (PR #1229) catch control S and send an event to save a revision
-#120 passed:     control-s catch control S and send an event to save a revision
-#119 failed:     develop (PR #1223) back to globalize... don't work :S
-#118 failed:     develop (PR #1221) Update src/static/css/pad.css
-#117 passed:     focus-on-password Update src/static/css/pad.css
-#116 failed:     develop (PR #1227) Add the basic structure of a timeslider test
-#115 failed:     develop Merge pull request #1218 from ether/remove-alert-on-wrap
-#114 passed:     develop Merge pull request #1225 from disy-mk/patch-1
-#113 failed:     develop (PR #1225) Update doc/api/http_api.md
-#112 failed:     master (PR #1224) Update doc/api/http_api.md
-#111 failed:     develop (PR #1223) added languages for translatewiki
-#110 failed:     develop (PR #1222) partial rerevert
-#109 failed:     develop (PR #1221) remember the styling for the pasword prompt
-#108 failed:     focus-on-password remember the styling for the pasword prompt
-#107 failed:     develop (PR #1221) proper fix for focus and some styling of the form and allows for pressing enter on form so generally a better fix
-#106 failed:     master (PR #1220) proper fix for focus and some styling of the form and allows for pressing enter on form so generally a better fix
-#105 failed:     focus-on-password proper fix for focus and some styling of the form and allows for pressing enter on form so generally a better fix
-#104 failed:     develop (PR #1218) Merge branch 'develop' of github.com:ether/etherpad-lite into remove-alert-on-wrap
-#103 passed:     remove-alert-on-wrap Merge branch 'develop' of github.com:ether/etherpad-lite into remove-alert-on-wrap
-#102 passed:     tests/add-timeslider-revisions-test Add the basic structure of a timeslider test
-#101 passed:     develop Merge pull request #1199 from leblanc-simon/develop
-#100 failed:     develop (PR #1216) Added support for all translatewiki languages
-#99 failed:      develop Merge pull request #1215 from Wikinaut/fix-rightstep-button
-#98 failed:      develop (PR #) fix timeslider rightstep button position
-#97 failed:      develop (PR #1205) Added message translatable about features importing without abiword
-#96 failed:      develop (PR #1214) partial rerevert
-#95 failed:      develop (PR #1213) reverted wrong patch in pad.html
-#94 failed:      develop Localisation updates from http://translatewiki.net.
-#93 passed:      develop Merge pull request #1202 from Wikinaut/fix-1148-add-native-node-https-support
-#92 failed:      develop Merge pull request #1208 from joker-x/fix1203
-#91 failed:      develop (PR #1208) Fixed installed plugins section in plugins/info
-#90 failed:      develop (PR #1208) Fix 1203: non-escaped html in plugins info
-#89 failed:      master (PR #1207) Fix 1203: non-escaped html in plugins info
-#88 failed:      develop (PR #1205) Merge remote branch 'ether/develop'
-#87 failed:      master (PR #1204) Merge remote branch 'ether/develop'
-#86 failed:      develop (PR #1202) chg server.key to epl-server.key
-#85 failed:      develop (PR #1199) improving the translation of the timeline
-#84 failed:      develop Merge pull request #1197 from hcartiaux/urlfix
-#83 failed:      develop (PR #1197) Fix urls, use github.com/ether
-#82 failed:      develop (PR #1196) fixing typos take #2
-#81 failed:      master (PR #1195) fixing typos take #2
-#80 passed:      develop Merge pull request #1193 from kingmook/patch-1
-#79 passed:      develop language test should pass int ravis now
-#78 failed:      master (PR #1195) fixing fr locale typos
-#77 failed:      develop make runner CSS more sane
-#76 failed:      develop Merge pull request #1194 from ether/release/releases-1.2.1
-#75 failed:      master Merge pull request #1194 from ether/release/releases-1.2.1
-#74 failed:      master (PR #1194) More stuff into changelog
-#73 failed:      release/releases-1.2.1 More stuff into changelog
-#72 failed:      master (PR #1194) Bump stuff to 1.2.1
-#71 failed:      develop (PR #1193) Update src/static/js/pad.js
-#70 failed:      release/releases-1.2.1 Bump stuff to 1.2.1
-#69 failed:      develop Actually fix the language tests...
-#68 failed:      develop Merge pull request #1188 from joker-x/master
-#67 failed:      develop Fix tests to run on IE8 etc.
-#66 failed:      develop Test for PR 1188
-#65 failed:      develop Merge pull request #1192 from marcelklehr/fix/l10n-ie-bug
-#64 failed:      develop (PR #1192) Fix #1186 Autodetection wouldn't work correctly in IE9
-#63 failed:      develop (PR #1192) Fix #1186 Autodetection wouldn't work correctly in IE9
-#62 failed:      master (PR #1189) backslash should be a forward slash
-#61 failed:      develop (PR #1188) Allow ! in urls autodetection
-#60 failed:      master (PR #1187) syntax correction (in French, the word version is female :-))
-#59 failed:      develop Merge pull request #1185 from Nikerabbit/develop
-#58 failed:      develop Use ; as comments indicator in i18n files
-#57 failed:      develop (PR #1185) Localisation updates from http://translatewiki.net.
-#56 failed:      develop Clarify English strings and rephrase some stupid-sounding messages.
-#55 failed:      develop Merge pull request #1184 from joker-x/master
-#54 failed:      develop (PR #1184) Replace Globalize with languages module
-#53 failed:      debug-travis removed myself from the notification email list
-#52 failed:      develop Only show errors/warnings on npm install [windows]
-#51 failed:      develop Show errors on npm install
-#50 failed:      develop encrypted the key again, please travis accept this
-#49 failed:      develop (PR #1182) Added Translator Assistant
-#48 failed:      develop Merge pull request #1181 from marcelklehr/fix/lang-test-dont-use-setimeout
-#47 failed:      debug-travis bump
-#46 failed:      develop (PR #1181) Fix lang frontend test to 'waitFor' the 'localized' event
-#45 failed:      debug-travis another try...
-#44 failed:      travis-debug mh, maybe this?
-#43 passed:      travis-debug encrypted the key again, please travis accept this
-#42 failed:      master Merge pull request #1160 from ether/release/releases-1.2
-#41 failed:      develop Merge pull request #1180 from tux-tn/patch-6
-#40 failed:      develop (PR #1180) Fix typo in pad.toolbar.clearAuthorship.title string in fr.ini
-#39 failed:      develop Merge pull request #1179 from marcelklehr/fix/improve-frontendtest-ux
-#38 failed:      develop (PR #1179) Always display the test overview panel
-#37 failed:      develop updated sauce_key env for new repo
-#36 failed:      develop Merge pull request #1177 from marcelklehr/fix/optimize-l10n-loading-times
-#35 failed:      develop Merge pull request #1178 from marcelklehr/fix/tests
-#34 failed:      develop (PR #1178) Make language frontend test pass
-#33 failed:      develop (PR #1177) Load l10n.js first but asynchronusly
-#32 failed:      develop Merge pull request #1176 from marcelklehr/fix/padaccess-cookie
-#31 failed:      develop (PR #1176) Fix #1115 correctly reference session cookie
-#30 failed:      develop Merge pull request #1174 from ether/fix-installdeps-line-error
-#29 failed:      develop (PR #1174) fix tiny error of missing space
-#28 failed:      fix-installdeps-line-error fix tiny error of missing space
-#27 failed:      develop Merge pull request #1172 from ether/fix-windows-package-extract
-#26 failed:      develop (PR #1172) dont forget to allow for cleanup
-#25 failed:      fix-windows-package-extract dont forget to allow for cleanup
-#24 failed:      fix-windows-package-extract mheh, better way of handling the buidl for windows script
-#23 failed:      fix-windows-package-extract Resolve #1171 by not including tests in windows build
-#22 failed:      develop Merge pull request #1170 from tux-tn/patch-4
-#21 failed:      develop (PR #1170) Fix examples url in settings.html to use ether/
-#20 failed:      develop Merge pull request #1168 from tux-tn/patch-3
-#19 failed:      develop (PR #1168) Fix the path of run.sh on README.md
-#18 failed:      develop (PR #1161) Merge branch 'develop' of git://github.com/ether/etherpad-lite
-#17 failed:      develop Merge pull request #1162 from ether/windows-build-script-exclusions
-#16 failed:      windows-build-script-exclusions Dont include git history in the windows .zip
-#15 failed:      develop Merge pull request #1167 from joker-x/master
-#14 failed:      develop (PR #1167) fixed label languague
-#13 failed:      master (PR #1164) Fix Examples url to use ether/
-#12 failed:      master (PR #1163) Traducción al castellano/Spanish translation
-#11 failed:      develop Merge pull request #1160 from ether/release/releases-1.2
-#10 failed:      master Merge pull request #1160 from ether/release/releases-1.2
-#9 failed:       master (PR #1160) Fix version number in changelog and package.json
-#8 failed:       release/releases-1.2 Fix version number in changelog and package.json
-#7 failed:       develop (PR #1162) Dont include .git in the windows .zip
-#6 failed:       windows-build-script-exclusions Dont include .git in the windows .zip
-#5 failed:       release/releases-1.2 Revert "added solaris compatibility" because it's causing trouble
-#4 failed:       master (PR #1160) Fix version # in package.json
-#3 failed:       release/releases-1.2 Fix version # in package.json
-#2 failed:       release/releases-1.2 Fix version number in changelog
-#1 failed:       master Merge pull request #1104 from Pita/release/releases-1.1.5
